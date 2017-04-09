@@ -833,7 +833,7 @@ tags = 'Brosencephalon Cardiovascular::Pharmacology::hypertension-treatment'
 model = 'Cloze-Brosencephalon'
 note-id = 1384121002529
 text = """
-What is the major MOA used by beta-blockers at the kidneys to treat HTN?<div><br></div><div>{{c1::Inhibition of Renin \
+What is the major MOA used by β-blockers at the kidneys to treat HTN?<div><br></div><div>{{c1::Inhibition of Renin \
 release via b1 blocking}}</div>"""
 extra = ""
 tags = 'Brosencephalon Cardiovascular::Pharmacology::hypertension-treatment'
@@ -1301,7 +1301,7 @@ tags = 'Brosencephalon Cardiovascular::Pharmacology::calcium-channel-blockers'
 model = 'Cloze-Brosencephalon'
 note-id = 1384126216360
 text = """
-What is the effect of beta-blockers on the diastolic period?<div><br /></div><div>{{c1::Lengthens it; thereby increased \
+What is the effect of β-blockers on the diastolic period?<div><br /></div><div>{{c1::Lengthens it; thereby increased \
 myocardial perfusion}}</div>"""
 extra = ""
 tags = 'Brosencephalon Cardiovascular::Pharmacology::antianginal-therapy'
@@ -1310,7 +1310,7 @@ tags = 'Brosencephalon Cardiovascular::Pharmacology::antianginal-therapy'
 model = 'Cloze-Brosencephalon'
 note-id = 1384126344136
 text = """
-What is the main MOA of beta-blockers in the Tx of Angina?<div><br /></div><div>{{c1::Reduction of cardiac O2 demand by \
+What is the main MOA of β-blockers in the Tx of Angina?<div><br /></div><div>{{c1::Reduction of cardiac O2 demand by \
 reduction in HR, contractility and BP}}</div>"""
 extra = ""
 tags = 'Brosencephalon Cardiovascular::Pharmacology::antianginal-therapy'
@@ -1318,7 +1318,7 @@ tags = 'Brosencephalon Cardiovascular::Pharmacology::antianginal-therapy'
 [[notes]]
 model = 'Cloze-Brosencephalon'
 note-id = 1384126408141
-text = 'Beta-blockers are contraindicated in patients that have a PR interval longer than&nbsp;{{c1::0.24}} seconds.'
+text = 'β-blockers are contraindicated in patients that have a PR interval longer than&nbsp;{{c1::0.24}} seconds.'
 extra = ""
 tags = 'Brosencephalon Cardiovascular::Pharmacology::antianginal-therapy'
 
@@ -2156,7 +2156,7 @@ tags = 'Brosencephalon Cardiovascular::Pharmacology::antiarrhythmics'
 [[notes]]
 model = 'Cloze-Brosencephalon'
 note-id = 1384713650100
-text = 'Class&nbsp;{{c1::II}}&nbsp;anti-arrhythmics are beta-blockers.'
+text = 'Class&nbsp;{{c1::II}}&nbsp;anti-arrhythmics are β-blockers.'
 extra = ""
 tags = 'Brosencephalon Cardiovascular::Pharmacology::antiarrhythmics'
 
@@ -2401,7 +2401,7 @@ tags = 'Brosencephalon Cardiovascular::Pharmacology::antiarrhythmics'
 [[notes]]
 model = 'Cloze-Brosencephalon'
 note-id = 1384720288565
-text = 'How do beta-blockers change the PR interval?<div><br />{{c1::Elongation}}</div>'
+text = 'How do β-blockers change the PR interval?<div><br />{{c1::Elongation}}</div>'
 extra = ""
 tags = 'Brosencephalon Cardiovascular::Pharmacology::antiarrhythmics'
 
@@ -2423,7 +2423,7 @@ tags = 'Brosencephalon Cardiovascular::Pharmacology::antiarrhythmics'
 model = 'Cloze-Brosencephalon'
 note-id = 1384720938467
 text = """
-Class&nbsp;{{c2::II}}&nbsp;anti-arrhythmics act as prophylactics for V-fib in patients with MI through beta-adrenergic \
+Class&nbsp;{{c2::II}}&nbsp;anti-arrhythmics act as prophylactics for V-fib in patients with MI through β-adrenergic \
 antagonism."""
 extra = ""
 tags = 'Brosencephalon Cardiovascular::Pharmacology::antiarrhythmics'
@@ -2507,7 +2507,7 @@ tags = 'Brosencephalon Cardiovascular::Pharmacology::antiarrhythmics'
 [[notes]]
 model = 'Cloze-Brosencephalon'
 note-id = 1384722261922
-text = '{{c1::Sotalol}} is a Class III&nbsp;anti-arrhythmic that is also a nonselective beta-blocker'
+text = '{{c1::Sotalol}} is a Class III&nbsp;anti-arrhythmic that is also a nonselective β-blocker'
 extra = ""
 tags = 'Brosencephalon Cardiovascular::Pharmacology::antiarrhythmics'
 
@@ -2757,7 +2757,7 @@ tags = 'Brosencephalon Cardiovascular::Pharmacology::hypertension-treatment'
 [[notes]]
 model = 'Cloze-Brosencephalon'
 note-id = 1384744735413
-text = 'Beta-blockers are recommended in all stages of&nbsp;{{c1::chronic}} heart failure.'
+text = 'β-blockers are recommended in all stages of&nbsp;{{c1::chronic}} heart failure.'
 extra = ""
 tags = 'Brosencephalon Cardiovascular::Pharmacology::hypertension-treatment'
 
@@ -2765,7 +2765,7 @@ tags = 'Brosencephalon Cardiovascular::Pharmacology::hypertension-treatment'
 model = 'Cloze-Brosencephalon'
 note-id = 1384744767717
 text = """
-What specific types of heart failure can be treated with beta-blockers?<div><br /></div><div>{{c1::Diastolic HF; Chronic \
+What specific types of heart failure can be treated with β-blockers?<div><br /></div><div>{{c1::Diastolic HF; Chronic \
 Systolic HF; Chronic HF}}</div>"""
 extra = ""
 tags = 'Brosencephalon Cardiovascular::Pharmacology::hypertension-treatment'
@@ -2773,7 +2773,7 @@ tags = 'Brosencephalon Cardiovascular::Pharmacology::hypertension-treatment'
 [[notes]]
 model = 'Cloze-Brosencephalon'
 note-id = 1384744805634
-text = 'Which 2 beta-blockers are the ones recommended in HF?<div><br /></div><div>{{c1::Metoprolol and Carvedilol}}</div>'
+text = 'Which 2 β-blockers are the ones recommended in HF?<div><br /></div><div>{{c1::Metoprolol and Carvedilol}}</div>'
 extra = ""
 tags = 'Brosencephalon Cardiovascular::Pharmacology::hypertension-treatment'
 
@@ -3958,8 +3958,8 @@ tags = 'Brosencephalon Cardiovascular::Pharmacology::lipid-lowering-agents'
 model = 'Cloze-Brosencephalon'
 note-id = 1385929155739
 text = """
-{{c1::Beta-blocker}} are contraindicated with simultaneous&nbsp;{{c2::cardiac Ca-channel blockers}} due to the \
-occurrence of adverse cardiovascular effects."""
+{{c1::β-blocker}} are contraindicated with simultaneous&nbsp;{{c2::cardiac Ca-channel blockers}} due to the occurrence \
+of adverse cardiovascular effects."""
 extra = ""
 tags = 'Brosencephalon::angina Cardiovascular::Pharmacology::unsorted'
 
@@ -8781,7 +8781,7 @@ model = 'Cloze-Brosencephalon'
 note-id = 1397699182726
 text = """
 Which <b>type</b>&nbsp;of drug is commonly co-administered with Hydralazine to prevent reflex tachycardia?<div><br \
-/></div><div>{{c1::Beta-blocker}}</div>"""
+/></div><div>{{c1::β-blocker}}</div>"""
 extra = ""
 tags = 'Brosencephalon::antihypertensives Cardiovascular::Pharmacology::unsorted'
 
@@ -8964,8 +8964,8 @@ tags = 'Cardiovascular::Pharmacology::unsorted'
 model = 'Cloze-Brosencephalon'
 note-id = 1397701835727
 text = """
-What is the treatment for Reflex Tachycardia caused by Nitroglycerin or Isosorbide Dinitrate?<div><br /></div><div>{{c1\
-::Beta-blockers}}</div>"""
+What is the treatment for Reflex Tachycardia caused by Nitroglycerin or Isosorbide Dinitrate?<div><br \
+/></div><div>{{c1::β-blockers}}</div>"""
 extra = ""
 tags = 'Cardiovascular::Pharmacology::unsorted'
 
@@ -9059,16 +9059,16 @@ tags = 'Cardiovascular::Pharmacology::unsorted'
 [[notes]]
 model = 'Cloze-Brosencephalon'
 note-id = 1397702571667
-text = 'How does the administration of Beta-blockers change EDV?<div><br /></div><div>{{c1::Increase}}</div>'
+text = 'How does the administration of β-blockers change EDV?<div><br /></div><div>{{c1::Increase}}</div>'
 extra = """
-<br /><div><i>Beta-blockade = vasoconstriction = increased venous return = <b>increased EDV</b></i></div><div><i><b><img \
+<br /><div><i>β-blockade = vasoconstriction = increased venous return = <b>increased EDV</b></i></div><div><i><b><img \
 src="paste-34531537060192.jpg" /></b></i></div>"""
 tags = 'Cardiovascular::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
 note-id = 1397702638343
-text = 'How does the administration of Beta-blockers change Blood Pressure?<div><br /></div><div>{{c1::Decrease}}</div>'
+text = 'How does the administration of β-blockers change Blood Pressure?<div><br /></div><div>{{c1::Decrease}}</div>'
 extra = """
 <br /><div><i>Beta blockade = decreased HR = decreased CO (that greatly overcomes the increase in TPR) = <b>decreased \
 BP</b></i></div><div><i><b><img src="paste-34531537060192.jpg" /></b></i></div>"""
@@ -9077,7 +9077,7 @@ tags = 'Cardiovascular::Pharmacology::unsorted'
 [[notes]]
 model = 'Cloze-Brosencephalon'
 note-id = 1397702690801
-text = 'How does the administration of Beta-blockers change cardiac contractility?<div><br /></div><div>{{c1::Decrease}}</div>'
+text = 'How does the administration of β-blockers change cardiac contractility?<div><br /></div><div>{{c1::Decrease}}</div>'
 extra = """
 <br /><div><i>Beta-agonists would increase contractility.</i></div><div><i><img src="paste-34531537060192.jpg" \
 /></i></div>"""
@@ -9086,24 +9086,24 @@ tags = 'Cardiovascular::Pharmacology::unsorted'
 [[notes]]
 model = 'Cloze-Brosencephalon'
 note-id = 1397702709414
-text = 'How does the administration of Beta-blockers change HR?<div><br /></div><div>{{c1::Decrease}}</div>'
+text = 'How does the administration of β-blockers change HR?<div><br /></div><div>{{c1::Decrease}}</div>'
 extra = '<br /><div><i>Beta-agonists would increase HR</i></div><div><i><img src="paste-34531537060192.jpg" /></i></div>'
 tags = 'Cardiovascular::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
 note-id = 1397702725527
-text = 'How does the administration of Beta-blockers change Ejection Time?<div><br /></div><div>{{c1::Increase}}</div>'
+text = 'How does the administration of β-blockers change Ejection Time?<div><br /></div><div>{{c1::Increase}}</div>'
 extra = """
-<br /><div><i>Beta-blockade = vasoconstriction = increased TPR = increased venous return = increased EDV = increased SV \
-= <b>increased Ejection Time</b></i></div><div><i><b><img src="paste-34531537060192.jpg" /></b></i></div>"""
+<br /><div><i>β-blockade = vasoconstriction = increased TPR = increased venous return = increased EDV = increased SV = \
+<b>increased Ejection Time</b></i></div><div><i><b><img src="paste-34531537060192.jpg" /></b></i></div>"""
 tags = 'Cardiovascular::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
 note-id = 1397702770933
 text = """
-How does the administration of Beta-blockers change Myocardial O<sub>2</sub>&nbsp;consumption (MVO<sub>2</sub>)?<div><br \
+How does the administration of β-blockers change Myocardial O<sub>2</sub>&nbsp;consumption (MVO<sub>2</sub>)?<div><br \
 /></div><div>{{c1::Decrease}}&nbsp;</div>"""
 extra = '<br /><div><img src="paste-34531537060192.jpg" /></div>'
 tags = 'Cardiovascular::Pharmacology::unsorted'
@@ -9119,7 +9119,7 @@ tags = 'Brosencephalon::antihypertensives Cardiovascular::Pharmacology::unsorted
 model = 'Cloze-Brosencephalon'
 note-id = 1397702853787
 text = """
-Which non-dihydropyridine Ca channel blocker is similar to beta-blockers in effect?<div><br \
+Which non-dihydropyridine Ca channel blocker is similar to β-blockers in effect?<div><br \
 /></div><div>{{c1::Verapamil}}</div>"""
 extra = ""
 tags = 'Brosencephalon::antihypertensives Cardiovascular::Pharmacology::unsorted'
@@ -9827,7 +9827,7 @@ tags = 'Brosencephalon::antiarrhythmics Cardiovascular::Pharmacology::unsorted'
 [[notes]]
 model = 'Cloze-Brosencephalon'
 note-id = 1397760871955
-text = 'What class of antiarrhythmics are beta-blockers?<div><br /></div><div>{{c1::Class II}}</div>'
+text = 'What class of antiarrhythmics are β-blockers?<div><br /></div><div>{{c1::Class II}}</div>'
 extra = ""
 tags = 'Brosencephalon::antiarrhythmics Cardiovascular::Pharmacology::unsorted'
 
@@ -10313,7 +10313,7 @@ tags = 'Brosencephalon::antiarrhythmics Cardiovascular::Pharmacology::unsorted'
 model = 'Cloze-Brosencephalon'
 note-id = 1397768151812
 text = """
-What is the MOA of Class II antiarrhythmics?<div><br />{{c1::Beta-blockade; Decreased SA and AV nodal activity be \
+What is the MOA of Class II antiarrhythmics?<div><br />{{c1::β-blockade; Decreased SA and AV nodal activity be \
 decreasing cAMP and Ca currents; Decreases slope 4 of the AP}}</div>"""
 extra = '<br /><div><img src="paste-22303765168426.jpg" /></div>'
 tags = 'Brosencephalon::antiarrhythmics Cardiovascular::Pharmacology::unsorted'
@@ -10385,10 +10385,10 @@ model = 'Cloze-Brosencephalon'
 note-id = 1397769098605
 text = """
 Which <b>class</b>&nbsp;of antiarrhythmics are <b>contraindicated in cocaine users</b>?<div><br /></div><div>{{c1::Class \
-II; Beta-blockers}}</div>"""
+II; β-blockers}}</div>"""
 extra = """
 <br /><div><i>There is a risk of unopposed alpha-adrenergic receptor agonist activity (due to the cocaine action) if \
-there is beta-blockade present.</i></div>"""
+there is β-blockade present.</i></div>"""
 tags = 'Brosencephalon::antiarrhythmics Cardiovascular::Pharmacology::unsorted'
 
 [[notes]]
@@ -10505,8 +10505,8 @@ tags = 'Brosencephalon::antiarrhythmics Cardiovascular::Pharmacology::unsorted'
 model = 'Cloze-Brosencephalon'
 note-id = 1397769927363
 text = """
-Which Class III antiarrhythmic is associated with <b>torsade de pointes</b>&nbsp;<u>and</u> <b>excessive beta-\
-blockade</b>&nbsp;as adverse effects?<div><br /></div><div>{{c1::Sotalol}}</div>"""
+Which Class III antiarrhythmic is associated with <b>torsade de pointes</b>&nbsp;<u>and</u> <b>excessive \
+β-blockade</b>&nbsp;as adverse effects?<div><br /></div><div>{{c1::Sotalol}}</div>"""
 extra = ""
 tags = 'Brosencephalon::antiarrhythmics Cardiovascular::Pharmacology::unsorted'
 
@@ -10515,7 +10515,7 @@ model = 'Cloze-Brosencephalon'
 note-id = 1397769970973
 text = """
 {{c1::Sotalol}} is a class III antiarrhythmic that is associated with <b>torsade de pointes</b>&nbsp;<u>and</u> \
-<b>excessive beta-blockade</b>&nbsp;as adverse effects."""
+<b>excessive β-blockade</b>&nbsp;as adverse effects."""
 extra = ""
 tags = 'Brosencephalon::antiarrhythmics Cardiovascular::Pharmacology::unsorted'
 
@@ -10888,7 +10888,7 @@ tags = 'Brosencephalon Cardiovascular::Physiology::starling-curve'
 [[notes]]
 model = 'Cloze-Brosencephalon'
 note-id = 1404925528061
-text = 'How do beta-blockers change cardiac contractility?<div><br /></div><div>{{c1::Decrease}}</div>'
+text = 'How do β-blockers change cardiac contractility?<div><br /></div><div>{{c1::Decrease}}</div>'
 extra = '<img src="7739.png" />'
 tags = 'Brosencephalon Cardiovascular::Physiology::starling-curve'
 
@@ -11893,7 +11893,7 @@ depolarization waves</b>&nbsp;that appear as <b>"sawtooth"</b>&nbsp;waves.<div><
 src="paste-22501333663916.jpg" /></div>"""
 extra = """
 <div><i>Pharmacological conversion to sinus rhythm via <b>Class IA, IC or III antiarrhythmics</b>.</i></div><div><i>Rate \
-control via <b>beta-blockade, Ca-channel blockade.</b></i></div><div><i>Definitive treatment via <b>catheter \
+control via <b>β-blockade, Ca-channel blockade.</b></i></div><div><i>Definitive treatment via <b>catheter \
 ablation</b>.</i></div>"""
 tags = 'Brosencephalon Cardiovascular::Physiology::ecg-tracings'
 
