@@ -2966,70 +2966,70 @@ model = 'Cloze-Brosencephalon'
 note-id = 1394419096491
 text = 'The&nbsp;{{c1::testes}} are homologous to the&nbsp;{{c2::ovaries}}'
 extra = ""
-tags = 'Reproductive::Embryology::male-female-genital-homologs'
+tags = 'Brosencephalon Reproductive::Embryology::male-female-genital-homologs'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
 note-id = 1394419736396
 text = 'The&nbsp;{{c1::penis}} is homologous to the&nbsp;{{c2::clitoris}} in women.'
 extra = ""
-tags = 'Reproductive::Embryology::male-female-genital-homologs'
+tags = 'Brosencephalon Reproductive::Embryology::male-female-genital-homologs'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
 note-id = 1394419769514
 text = 'The&nbsp;{{c1::spongy urethra}} is homologous to the&nbsp;{{c2::labia minora}} in women.'
 extra = ""
-tags = 'Reproductive::Embryology::male-female-genital-homologs'
+tags = 'Brosencephalon Reproductive::Embryology::male-female-genital-homologs'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
 note-id = 1394419787965
 text = 'The&nbsp;{{c1::scrotum}} is homologous to the&nbsp;{{c2::labia majora}} in women.'
 extra = ""
-tags = 'Reproductive::Embryology::male-female-genital-homologs'
+tags = 'Brosencephalon Reproductive::Embryology::male-female-genital-homologs'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
 note-id = 1394419799750
 text = 'The&nbsp;{{c1::prostate gland}} is homologous to the&nbsp;{{c2::paraurethral glands/female prostate (G spot)}} in women.'
 extra = ""
-tags = 'Reproductive::Embryology::male-female-genital-homologs'
+tags = 'Brosencephalon Reproductive::Embryology::male-female-genital-homologs'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
 note-id = 1394419822656
 text = 'The&nbsp;{{c1::Bulbourethral glands}} are homologous to the&nbsp;{{c2::greater vestibular glands}} in women.'
 extra = ""
-tags = 'Reproductive::Embryology::male-female-genital-homologs'
+tags = 'Brosencephalon Reproductive::Embryology::male-female-genital-homologs'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
 note-id = 1394419841938
 text = 'The&nbsp;{{c1::gubernaculum}} is homologous to the&nbsp;{{c2::round ligament}} in women.'
 extra = ""
-tags = 'Reproductive::Embryology::male-female-genital-homologs'
+tags = 'Brosencephalon Reproductive::Embryology::male-female-genital-homologs'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
 note-id = 1394419859737
 text = '{{c1::Sertoli Cells}} are homologous to&nbsp;{{c2::granulosa cells}} in women.'
 extra = ""
-tags = 'Reproductive::Embryology::male-female-genital-homologs'
+tags = 'Brosencephalon Reproductive::Embryology::male-female-genital-homologs'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
 note-id = 1394419874792
 text = '{{c1::Leydig cells}} are homologous to&nbsp;{{c2::thecal cells}} in women.'
 extra = ""
-tags = 'Reproductive::Embryology::male-female-genital-homologs'
+tags = 'Brosencephalon Reproductive::Embryology::male-female-genital-homologs'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
 note-id = 1394419889599
 text = 'The&nbsp;{{c1::uterosacral}} and&nbsp;{{c2::cardinal}} ligaments provide <b>vertical</b>&nbsp;support for the uterus.'
 extra = ""
-tags = 'Reproductive::Embryology::male-female-genital-homologs'
+tags = 'Brosencephalon Reproductive::Embryology::male-female-genital-homologs'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
@@ -3038,7 +3038,7 @@ text = """
 The&nbsp;{{c1::pubocervical}} and&nbsp;{{c2::rectovaginal}} fascia provide <b>horizontal</b>&nbsp;support for the \
 internal female genitalia."""
 extra = ""
-tags = 'Reproductive::Embryology::male-female-genital-homologs'
+tags = 'Brosencephalon Reproductive::Embryology::male-female-genital-homologs'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
@@ -3100,7 +3100,7 @@ text = """
 A&nbsp;{{c1::septate uterus}} is a pathological form of the uterus that involves a large septum down the center of the \
 uterus and a <b>unified uterine fundus</b>.<div><br /></div><div><img src="paste-17300128268402.jpg" /></div>"""
 extra = ""
-tags = 'Reproductive::Embryology::uterine-anomalies'
+tags = 'Brosencephalon Reproductive::Embryology::uterine-anomalies'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
@@ -3109,7 +3109,7 @@ text = """
 A&nbsp;{{c1::Bicornuate uterus}} is a pathological form of the uterus that involves a large septum, <b>separate uterine \
 fundi</b>&nbsp;and commonly&nbsp;<b>one cervix</b>.<div><br /></div><div><img src="paste-17351667875957.jpg" /></div>"""
 extra = ""
-tags = 'Reproductive::Embryology::uterine-anomalies'
+tags = 'Brosencephalon Reproductive::Embryology::uterine-anomalies'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
@@ -3119,7 +3119,7 @@ text = """
 vaginal canals may or may not be present.<div><br /></div><div><img src="paste-17394617548897.jpg" /><img \
 src="paste-17407502450960.jpg" /><img src="paste-17420387352782.jpg" /></div>"""
 extra = ""
-tags = 'Reproductive::Embryology::uterine-anomalies'
+tags = 'Brosencephalon Reproductive::Embryology::uterine-anomalies'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
@@ -9097,7 +9097,7 @@ text = """
 Which K-sparing diuretic is able to inhibit testosterone release or its action at the androgen receptor?<div><br \
 /></div><div>{{c1::Spironolactone}}</div>"""
 extra = ""
-tags = 'Reproductive::Pharmacology::unsorted'
+tags = 'Brosencephalon Reproductive::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
@@ -9106,7 +9106,7 @@ text = """
 What is the MOA of Mestranol in the treatment of ovarian failure (or hypogonadism in females)?<div><br \
 /></div><div>{{c1::Agonism at estrogen receptors}}</div>"""
 extra = ""
-tags = 'Reproductive::Pharmacology::unsorted'
+tags = 'Brosencephalon Reproductive::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
@@ -9115,14 +9115,14 @@ text = """
 {{c1::Ethinyl estradiol}},&nbsp;{{c2::diethylstilbestrol}} and&nbsp;{{c3::Mestranol}} are 3 estrogen analogs that are \
 used to treat <b>hypogonadism, ovarian failure</b>&nbsp;or <b>menstrual abnormalities</b>."""
 extra = ""
-tags = 'Reproductive::Pharmacology::unsorted'
+tags = 'Brosencephalon Reproductive::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
 note-id = 1405391290190
 text = 'How does the risk of endometrial cancer change with estrogen analogs?<div><br /></div><div>{{c1::Increase}}</div>'
 extra = ""
-tags = 'Reproductive::Pharmacology::unsorted'
+tags = 'Brosencephalon Reproductive::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
@@ -9131,14 +9131,14 @@ text = """
 Which cancer seen in young females is associated with exposure to Diethylstilbestrol (DES) in utero?<div><br \
 /></div><div>{{c1::Clear cell adenocarcinoma of the vagina}}</div>"""
 extra = ""
-tags = 'Reproductive::Pharmacology::unsorted'
+tags = 'Brosencephalon Reproductive::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
 note-id = 1405391367911
 text = 'How does the risk of thrombi change with estrogen analogs?<div><br /></div><div>{{c1::Increase}}</div>'
 extra = ""
-tags = 'Reproductive::Pharmacology::unsorted'
+tags = 'Brosencephalon Reproductive::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
@@ -9147,14 +9147,14 @@ text = """
 What is the MOA of Tamoxifen in the treatment and prevention of breast cancer?<div><br /></div><div>{{c1::Antagonism of \
 Estrogen receptors at breast tissue}}</div>"""
 extra = ""
-tags = 'Reproductive::Pharmacology::unsorted'
+tags = 'Brosencephalon Reproductive::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
 note-id = 1405391649365
 text = 'At which tissue is Tamofixen an estrogen receptor <b>agonist</b>?<div><br /></div><div>{{c1::Bone; Uterus}}</div>'
 extra = '<br /><div><i>Hence it is associated with endometrial carcinoma and thromboembolic events.</i></div>'
-tags = 'Reproductive::Pharmacology::unsorted'
+tags = 'Brosencephalon Reproductive::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
@@ -9163,21 +9163,21 @@ text = """
 What is the MOA of Raloxifene?<div><br /></div><div>{{c1::Agonist at estrogen receptors <u>at bone</u>; Antagonist at \
 estrogen receptors <u>at the uterus</u>}}</div>"""
 extra = ""
-tags = 'Reproductive::Pharmacology::unsorted'
+tags = 'Brosencephalon Reproductive::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
 note-id = 1405391725556
 text = 'At which tissue is Raloxifene an estrogen receptor agonist?<div><br /></div><div>{{c1::Bone}}</div>'
 extra = ""
-tags = 'Reproductive::Pharmacology::unsorted'
+tags = 'Brosencephalon Reproductive::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
 note-id = 1405391738038
 text = 'At which tissue is Raloxifene an estrogen receptor antagonist?<div><br /></div><div>{{c1::Uterus}}</div>'
 extra = ""
-tags = 'Reproductive::Pharmacology::unsorted'
+tags = 'Brosencephalon Reproductive::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
@@ -9186,7 +9186,7 @@ text = """
 {{c1::Raloxifene}} is a selective estrogen receptor modulator (SERM) that is used to treat osteoporosis by <b>decreasing \
 &nbsp;bone resorption</b>&nbsp;via <b>estrogen receptor agonism </b>at bone."""
 extra = '<br /><div><i>Remember, it is an antagonist at the uterus.</i></div>'
-tags = 'Reproductive::Pharmacology::unsorted'
+tags = 'Brosencephalon Reproductive::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
@@ -9195,7 +9195,7 @@ text = """
 What is the MOA of Exemestane and Formestane in the treatment of breast cancer?<div><br /></div><div>{{c1::Irreversible \
 inhibition of Aromatase}}</div>"""
 extra = ""
-tags = 'Reproductive::Pharmacology::unsorted'
+tags = 'Brosencephalon Reproductive::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
@@ -9204,7 +9204,7 @@ text = """
 {{c1::Progestins}} are a hormone treatment drug that functions to&nbsp;<b>decrease the growth</b>&nbsp;and <b>increase \
 the vascularization</b>&nbsp;of the endometrium by binding to progesterone receptors."""
 extra = '<br /><div><i>Used in OCPs and in the Tx of endometrial cancer</i></div>'
-tags = 'Reproductive::Pharmacology::unsorted'
+tags = 'Brosencephalon Reproductive::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
@@ -9213,7 +9213,7 @@ text = """
 Which prostaglandin analog is administered with Mifepristone?<div><br /></div><div>{{c1::Misoprostol \
 (PGE<sub>1</sub>)}}</div>"""
 extra = ""
-tags = 'Reproductive::Pharmacology::unsorted'
+tags = 'Brosencephalon Reproductive::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
@@ -9222,7 +9222,7 @@ text = """
 {{c1::Estrogen}} and&nbsp;{{c2::progestins}} are components of OCPs that function to inhibit LH/FSH and prevent an \
 estrogen surge."""
 extra = '<br /><div><i>No estrogen surge = no LH surge = no ovulation.</i></div>'
-tags = 'Reproductive::Pharmacology::unsorted'
+tags = 'Brosencephalon Reproductive::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
@@ -9231,7 +9231,7 @@ text = """
 {{c1::Progestins}} are a component of OCPs that function to <b>thicken the cervical mucus</b>, thereby limiting access \
 of sperm to the uterus."""
 extra = '<br /><div><i>Progestins also inhibit endometrial proliferation, making it less suitable for implantation.</i></div>'
-tags = 'Reproductive::Pharmacology::unsorted'
+tags = 'Brosencephalon Reproductive::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
@@ -9240,14 +9240,14 @@ text = """
 What is the MOA of Danazol in the treatment of Endometriosis and Hereditary Angioedema?<div><br \
 /></div><div>{{c1::Partial agonism at androgen receptors}}</div>"""
 extra = ""
-tags = 'Reproductive::Pharmacology::unsorted'
+tags = 'Brosencephalon Reproductive::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
 note-id = 1405392919592
 text = 'How do HDL levels change following Danazol administration?<div><br /></div><div>{{c1::Decrease}}</div>'
 extra = ""
-tags = 'Reproductive::Pharmacology::unsorted'
+tags = 'Brosencephalon Reproductive::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
@@ -9256,21 +9256,21 @@ text = """
 How do <b>intratesticular</b>&nbsp;levels of testosterone change following exogenous testosterone/methyltestosterone \
 administration?<div><br /></div><div>{{c1::Decrease}}</div>"""
 extra = '<br /><div><i>Due to inhibition of LH release via negative feedback and subsequent gonadal atrophy.</i></div>'
-tags = 'Reproductive::Pharmacology::unsorted'
+tags = 'Brosencephalon Reproductive::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
 note-id = 1405393070264
 text = 'How does testosterone change HDL levels?<div><br /></div><div>{{c1::Decrease}}</div>'
 extra = ""
-tags = 'Reproductive::Pharmacology::unsorted'
+tags = 'Brosencephalon Reproductive::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
 note-id = 1405393082240
 text = 'How does testosterone change LDL levels?<div><br /></div><div>{{c1::Increase}}</div>'
 extra = ""
-tags = 'Reproductive::Pharmacology::unsorted'
+tags = 'Brosencephalon Reproductive::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
@@ -9279,21 +9279,21 @@ text = """
 {{c1::Finasteride}} is an antiandrogen agent used to treat BPH and male pattern baldness by <b>inhibiting 5-alpha-\
 reductase</b>."""
 extra = ""
-tags = 'Reproductive::Pharmacology::unsorted'
+tags = 'Brosencephalon Reproductive::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
 note-id = 1405393165265
 text = 'What is the MOA of Finasteride??<div><br /></div><div>{{c1::Inhibition of 5-alpha-reductase}}</div>'
 extra = ""
-tags = 'Reproductive::Pharmacology::unsorted'
+tags = 'Brosencephalon Reproductive::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
 note-id = 1405393190630
 text = 'What is the MOA of Flutamide?<div><br /></div><div>{{c1::Antagonism at androgen receptors}}</div>'
 extra = ""
-tags = 'Reproductive::Pharmacology::unsorted'
+tags = 'Brosencephalon Reproductive::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
@@ -9302,7 +9302,7 @@ text = """
 {{c1::Ketoconazole}} is an antifungal agent sed to treat hirsutism in PCOD by inhibiting <b>17,20-desmolase</b>, an \
 enzyme involved in steroid synthesis."""
 extra = ""
-tags = 'Reproductive::Pharmacology::unsorted'
+tags = 'Brosencephalon Reproductive::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
@@ -9311,7 +9311,7 @@ text = """
 What is the MOA of Ketoconazole in the prevention of hirsutism in PCOD?<div><br /></div><div>{{c1::Inhibition of \
 17,20-desmolase, an enzyme involved with steroid synthesis}}</div>"""
 extra = ""
-tags = 'Reproductive::Pharmacology::unsorted'
+tags = 'Brosencephalon Reproductive::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
@@ -9320,7 +9320,7 @@ text = """
 {{c1::Spironolactone}} is a K-sparing diuretic used to prevent the hirsutism in PCOD by inhibiting <b>17-alpha-\
 hydroxylase</b>&nbsp;and <b>17,20-desmolase</b>, two enzymes involved with steroid synthesis."""
 extra = ""
-tags = 'Reproductive::Pharmacology::unsorted'
+tags = 'Brosencephalon Reproductive::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
@@ -9329,7 +9329,7 @@ text = """
 What is the MOA of Spironolactone in the prevention of hirsutism in PCOD?<div><br /></div><div>{{c1::Inhibition of \
 steroid binding; Inhibition of 17-alpha-hydroxylase and 17,20-desmolase}}</div>"""
 extra = ""
-tags = 'Reproductive::Pharmacology::unsorted'
+tags = 'Brosencephalon Reproductive::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
@@ -9338,7 +9338,7 @@ text = """
 Which 2 side effects are associated with Ketoconazole and Spironolactone in the prevention of hirsutism in PCOD?<div><br \
 /></div><div>{{c1::Gynecomastia; Amenorrhea}}</div>"""
 extra = ""
-tags = 'Reproductive::Pharmacology::unsorted'
+tags = 'Brosencephalon Reproductive::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
@@ -9347,7 +9347,7 @@ text = """
 {{c1::Tamsulosin}} is an alpha-1 adrenergic antagonist used to treat BPH by inhibiting smooth muscle contraction as it \
 is <b>selective for the alpha<sub>1A,D</sub>&nbsp;adrenergic receptors found on the prostate</b>."""
 extra = '<br /><div><i>Versus the alpha<sub>1B</sub>&nbsp;receptor found on vasculature.</i></div>'
-tags = 'Reproductive::Pharmacology::unsorted'
+tags = 'Brosencephalon Reproductive::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
@@ -9356,7 +9356,7 @@ text = """
 Which specific type of alpha-1 adrenergic receptor is Tamsulosin selective for at the prostate?<div><br \
 /></div><div>{{c1::alpha<sub>1A,D</sub>}}</div>"""
 extra = '<br /><div><i>Versus the alpha<sub>1B</sub>&nbsp;receptor on vasculature.</i></div>'
-tags = 'Reproductive::Pharmacology::unsorted'
+tags = 'Brosencephalon Reproductive::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
@@ -9367,7 +9367,7 @@ What is the MOA of Sildenafil and Vardenafil in the treatment of erectile dysfun
 extra = """
 <br /><div><i>Thereby causing an increase in cGMP levels and subsequent smooth muscle relaxation in the corpus \
 cavernosum, increased blood flow and penile erection.</i></div>"""
-tags = 'Reproductive::Pharmacology::unsorted'
+tags = 'Brosencephalon Reproductive::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
@@ -9376,5 +9376,5 @@ text = """
 {{c1::Sildenafil}} and&nbsp;{{c2::Vardenafil}} are PDE5 inhibitors that are associated with <b>headache, flushing, \
 dyspepsia</b>&nbsp;and <b>impaired blue-green colour vision</b>."""
 extra = '<br /><div><i>There is also a risk of life-threatening hypotension in patients that are also taking nitrates.</i></div>'
-tags = 'Reproductive::Pharmacology::unsorted'
+tags = 'Brosencephalon Reproductive::Pharmacology::unsorted'
 

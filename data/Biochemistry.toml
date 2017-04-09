@@ -10058,7 +10058,7 @@ extra = """
 <div><i>Hence, adipose tissue requires increased glucose uptake via the GLUT4 transporter in order for there to be spare \
 DHAP available for making and storing triglycerides. This is part of why excess sugar intake becomes \
 fat.</i></div><div><i>Also this is why&nbsp;</i><b><i>diabetics will have hyperlipidemia</i>.</b></div>"""
-tags = 'Biochemistry::Nutrition::ethanol-metabolism'
+tags = 'Biochemistry::Nutrition::ethanol-metabolism Brosencephalon'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'

@@ -2234,7 +2234,7 @@ text = """
 renal atrophy from urinary obstruction</u>.<div><br /></div><div><img src="paste-2546915606904.jpg" /><img \
 src="paste-7172595384597.jpg" /><br /><div><br /></div><div><br /></div></div>"""
 extra = ""
-tags = 'Renal::Embryology::horseshoe-kidney'
+tags = 'Brosencephalon Renal::Embryology::horseshoe-kidney'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
@@ -2244,7 +2244,7 @@ text = """
 to trapped filtrate. Continued obstruction leads to decreased renal blood flow and decreased GFR.<div><br \
 /></div><div><img src="paste-7168300417301.jpg" /><img src="paste-7211250090399.jpg" /></div>"""
 extra = ""
-tags = 'Renal::Embryology::horseshoe-kidney'
+tags = 'Brosencephalon Renal::Embryology::horseshoe-kidney'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
@@ -2411,14 +2411,14 @@ text = """
 {{c1::Horseshoe Kidney}} is a congenital renal disorder that involves conjoined kidneys, typically connected at the \
 lower pole."""
 extra = '<img src="paste-8448200671540.jpg" />'
-tags = 'Renal::Embryology::horseshoe-kidney'
+tags = 'Brosencephalon Renal::Embryology::horseshoe-kidney'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
 note-id = 1393470569378
 text = 'What is the most common congenital renal disorder?<div><br /></div><div>{{c1::Horseshoe kidney}}</div>'
 extra = '<img src="paste-8443905704244.jpg" />'
-tags = 'Renal::Embryology::horseshoe-kidney'
+tags = 'Brosencephalon Renal::Embryology::horseshoe-kidney'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
@@ -2427,7 +2427,7 @@ text = """
 Why is a horseshoe kidney located abnormally low in the abdomen?<div><br /></div><div>{{c1::It gets caught on the IMA \
 root during its ascent from the pelvis}}</div>"""
 extra = ""
-tags = 'Renal::Embryology::horseshoe-kidney'
+tags = 'Brosencephalon Renal::Embryology::horseshoe-kidney'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
@@ -2436,14 +2436,14 @@ text = """
 {{c1::Unilateral Renal Agenesis}} is a form of renal agenesis that leads to hypertrophy of the existing kidney and \
 subsequent hyperfiltration."""
 extra = '<div><i>Hyperfiltration presents with a risk of renal failure in later life.</i></div>'
-tags = 'Renal::Embryology::renal-agenesis'
+tags = 'Brosencephalon Renal::Embryology::renal-agenesis'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
 note-id = 1393471012623
 text = '''{{c1::Bilateral Renal Agenesis}} is a type of renal agenesis that leads to oligohydramnios in the mother's womb.'''
 extra = ""
-tags = 'Renal::Embryology::renal-agenesis'
+tags = 'Brosencephalon Renal::Embryology::renal-agenesis'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
@@ -2452,7 +2452,7 @@ text = """
 {{c1::Lung Hypoplasia}} is a complication of oligohydramnios in Bilateral Renal Agenesis as the lungs require an \
 adequate amount of amniotic fluid to grow (via stretching)."""
 extra = ""
-tags = 'Renal::Embryology::renal-agenesis'
+tags = 'Brosencephalon Renal::Embryology::renal-agenesis'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
@@ -2461,7 +2461,7 @@ text = """
 {{c1::Flat face/low set ears/limb defects}} are a complication of the oligohydramnios seen in Bilateral Renal Agenesis \
 as the face, head and limbs are pushed up against the mother."""
 extra = ""
-tags = 'Renal::Embryology::potter-sequence'
+tags = 'Brosencephalon Renal::Embryology::potter-sequence'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
@@ -2470,7 +2470,7 @@ text = """
 {{c1::Potter Sequence}} is a feature of Bilateral Renal Agenesis that involves defects such as lung hypoplasia, flat \
 face, low set ears and limb defects."""
 extra = ""
-tags = 'Renal::Embryology::potter-sequence'
+tags = 'Brosencephalon Renal::Embryology::potter-sequence'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
@@ -2480,7 +2480,7 @@ text = """
 tissue. It is <b>not inherited </b>and is <b>not precancerous</b>.<div><br /></div><div><img \
 src="paste-8800387989720.jpg" /></div>"""
 extra = ""
-tags = 'Renal::Embryology::dysplastic-kidney'
+tags = 'Brosencephalon Renal::Embryology::dysplastic-kidney'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
@@ -2489,14 +2489,14 @@ text = """
 {{c1::Polycystic Kidney Disease (PCKD)}} is an inherited renal disorder that results in bilaterally enlarged kidneys \
 with cysts in the renal cortex and medulla."""
 extra = ""
-tags = 'Renal::Embryology::polycystic-kidney-disease'
+tags = 'Brosencephalon Renal::Embryology::polycystic-kidney-disease'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
 note-id = 1393471516196
 text = 'Which form of Polycystic Kidney Disease (PCKD) affects infants?<div><br /></div><div>{{c1::Autosomal recessive}}</div>'
 extra = '<img src="paste-9655086481817.jpg" />'
-tags = 'Renal::Embryology::polycystic-kidney-disease'
+tags = 'Brosencephalon Renal::Embryology::polycystic-kidney-disease'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
@@ -2505,7 +2505,7 @@ text = """
 The&nbsp;{{c1::autosomal recessive}} form of&nbsp;Polycystic Kidney Disease (PCKD) may involve Potter's Sequence due to \
 a progressive renal failure resulting from bilateral involvement of the kidneys."""
 extra = ""
-tags = 'Renal::Embryology::polycystic-kidney-disease'
+tags = 'Brosencephalon Renal::Embryology::polycystic-kidney-disease'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
@@ -2514,7 +2514,7 @@ text = """
 The&nbsp;{{c1::autosomal recessive}} form of&nbsp;Polycystic Kidney Disease (PCKD) is associated with <b>congenital \
 hepatic fibrosis which can lead to portal HTN</b>."""
 extra = ""
-tags = 'Renal::Embryology::polycystic-kidney-disease'
+tags = 'Brosencephalon Renal::Embryology::polycystic-kidney-disease'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
@@ -2523,7 +2523,7 @@ text = """
 Which form of&nbsp;Polycystic Kidney Disease (PCKD) affects adults?<div><br /></div><div>{{c1::Autosomal \
 Dominant}}</div><div><br /></div><div><img src="paste-16071767622050.jpg" /></div>"""
 extra = '<img src="paste-16166256902423.jpg" />'
-tags = 'Renal::Embryology::polycystic-kidney-disease'
+tags = 'Brosencephalon Renal::Embryology::polycystic-kidney-disease'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
@@ -2534,7 +2534,7 @@ Which genes are mutated in the autosomal dominant form of&nbsp;Polycystic Kidney
 extra = """
 <div><i>Presents with <b>hematuria, flank pain, HTN, urinary infection</b>&nbsp;and <b>progressive renal \
 failure.</b></i></div>"""
-tags = 'Renal::Embryology::polycystic-kidney-disease'
+tags = 'Brosencephalon Renal::Embryology::polycystic-kidney-disease'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
@@ -2543,7 +2543,7 @@ text = """
 What is responsible for the HTN seen in the autosomal dominant form of&nbsp;Polycystic Kidney Disease (PCKD)?<div><br \
 /></div><div>{{c1::Increased Renin release}}</div>"""
 extra = '<div><i>HTN and renal failure are the common causes of death.</i></div>'
-tags = 'Renal::Embryology::polycystic-kidney-disease'
+tags = 'Brosencephalon Renal::Embryology::polycystic-kidney-disease'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
@@ -2552,7 +2552,7 @@ text = """
 {{c1::Berry Aneurysm}} is a vascular defect associated with the autosomal dominant form of&nbsp;Polycystic Kidney \
 Disease (PCKD) and is typically found at the Circle of Willis at the CNS."""
 extra = '<div><i>Motherfucka you better screen a PCKD patient for Berry Aneurysm.</i></div>'
-tags = 'Renal::Embryology::polycystic-kidney-disease'
+tags = 'Brosencephalon Renal::Embryology::polycystic-kidney-disease'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
@@ -2561,7 +2561,7 @@ text = """
 {{c1::Mitral Valve Prolapse}} is a cardiac defect associated with the autosomal dominant form of&nbsp;Polycystic Kidney \
 Disease (PCKD)."""
 extra = ""
-tags = 'Renal::Embryology::polycystic-kidney-disease'
+tags = 'Brosencephalon Renal::Embryology::polycystic-kidney-disease'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
@@ -2570,7 +2570,7 @@ text = """
 {{c1::Medullary Cystic Kidney Disease}} is an inherited renal disorder characterized by cysts in the <b>medullary \
 collecting duct</b>.<div><br /></div><div><img src="paste-16973710754071.jpg" /></div>"""
 extra = ""
-tags = 'Renal::Embryology::medullary-cystic-kidney-disease'
+tags = 'Brosencephalon Renal::Embryology::medullary-cystic-kidney-disease'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
@@ -2579,7 +2579,7 @@ text = """
 What is the genetic inheritence of&nbsp;Medullary Cystic Kidney Disease?<div><br /></div><div>{{c1::Autosomal \
 Dominant}}</div>"""
 extra = '<div><i>Poor prognosis.</i></div>'
-tags = 'Renal::Embryology::medullary-cystic-kidney-disease'
+tags = 'Brosencephalon Renal::Embryology::medullary-cystic-kidney-disease'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
@@ -2589,7 +2589,7 @@ text = """
 <b>parenchymal/tubulointerstitial fibrosis</b> and eventually <b>shrunken kidneys</b> with worsening renal \
 failure.<div><br /></div><div><img src="paste-16969415786775.jpg" /></div>"""
 extra = ""
-tags = 'Renal::Embryology::medullary-cystic-kidney-disease'
+tags = 'Brosencephalon Renal::Embryology::medullary-cystic-kidney-disease'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
@@ -2598,21 +2598,21 @@ text = """
 What is the most common location for an ectopic kidney?<div><br /></div><div><img src="paste-8263517077886.jpg" \
 /></div><div><br /></div><div>{{c1::In or just above the pelvis}}</div>"""
 extra = ""
-tags = 'Renal::Embryology::dysplastic-kidney'
+tags = 'Brosencephalon Renal::Embryology::dysplastic-kidney'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
 note-id = 1393472740409
 text = 'What is the most common cystic disease in children?<div><br /></div><div>{{c1::Renal Dysplasia}}</div>'
 extra = ""
-tags = 'Renal::Embryology::dysplastic-kidney'
+tags = 'Brosencephalon Renal::Embryology::dysplastic-kidney'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
 note-id = 1393472771355
 text = 'What is the most common cause of abdominal mass in newborns?<div><br /></div><div>{{c1::Renal Dysplasia}}</div>'
 extra = ""
-tags = 'Renal::Embryology::dysplastic-kidney'
+tags = 'Brosencephalon Renal::Embryology::dysplastic-kidney'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
@@ -2621,7 +2621,7 @@ text = """
 What proteins are expressed by <i>APKD1</i>&nbsp;and <i>APKD2</i>?<div><br /></div><div>{{c1::Polycystin 1 and \
 Polycystin 2}}</div>"""
 extra = ""
-tags = 'Renal::Embryology::polycystic-kidney-disease'
+tags = 'Brosencephalon Renal::Embryology::polycystic-kidney-disease'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
@@ -2630,7 +2630,7 @@ text = """
 What is the most common gene mutation in Autosomal Dominant Polycystic Kidney Disease?<div><br \
 /></div><div>{{c1::<i>APKD1</i>&nbsp;on chromosome 16 (85% of cases)}}</div>"""
 extra = ""
-tags = 'Renal::Embryology::polycystic-kidney-disease'
+tags = 'Brosencephalon Renal::Embryology::polycystic-kidney-disease'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
@@ -2639,7 +2639,7 @@ text = """
 Where are the Berry Aneurysms associated with autosomal dominant Polycystic Kidney Disease found?<div><br \
 /></div><div>{{c1::Circle of Willis}}</div>"""
 extra = ""
-tags = 'Renal::Embryology::polycystic-kidney-disease'
+tags = 'Brosencephalon Renal::Embryology::polycystic-kidney-disease'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
@@ -2648,7 +2648,7 @@ text = """
 What gene is mutated in autosomal recessive Polycystic Kidney Disease?<div><br />{{c1::<i>PKHD1</i>; codes for \
 Fibrocystin}}</div>"""
 extra = ""
-tags = 'Renal::Embryology::polycystic-kidney-disease'
+tags = 'Brosencephalon Renal::Embryology::polycystic-kidney-disease'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
@@ -2657,7 +2657,7 @@ text = """
 What protein is expressed by <i>PKHD1</i>, the gene implicated in autosomal recessive Polycystic Kidney disease?<div><br \
 /></div><div>{{c1::Fibrocystin}}</div>"""
 extra = ""
-tags = 'Renal::Embryology::polycystic-kidney-disease'
+tags = 'Brosencephalon Renal::Embryology::polycystic-kidney-disease'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
@@ -5739,28 +5739,28 @@ model = 'Cloze-Brosencephalon'
 note-id = 1405547743319
 text = 'Where along the nephron does Acetazolamide act?<div><br /></div><div>{{c1::Proximal tubules}}</div>'
 extra = '<br /><div><img src="paste-20096151978782.jpg" /></div>'
-tags = 'Renal::Pharmacology::unsorted'
+tags = 'Brosencephalon Renal::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
 note-id = 1405549359779
 text = 'Where along the nephron do loop diuretics act?<div><br /></div><div>{{c1::Loop of Henle}}</div>'
 extra = '<br /><div><i>lol</i></div><div><i><img src="paste-20091857011486.jpg" /></i></div>'
-tags = 'Renal::Pharmacology::unsorted'
+tags = 'Brosencephalon Renal::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
 note-id = 1405549511121
 text = 'Where along the nephron do Thiazide diuretics act?<div><br /></div><div>{{c1::Distal tubule}}</div>'
 extra = '<br /><div><img src="paste-20091857011486.jpg" /></div>'
-tags = 'Renal::Pharmacology::unsorted'
+tags = 'Brosencephalon Renal::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
 note-id = 1405549529226
 text = 'Where along the nephron do Potassium-sparing Diuretics act?<div><br /></div><div>{{c1::Collecting duct}}</div>'
 extra = '<br /><div><img src="paste-20091857011486.jpg" /></div>'
-tags = 'Renal::Pharmacology::unsorted'
+tags = 'Brosencephalon Renal::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
@@ -5769,28 +5769,28 @@ text = """
 {{c1::Mannitol}} is an osmotic diuretic that functions by <b>increasing renal tubuluar fluid osmolarity</b>, thereby \
 <b>increasing urine flow.</b>"""
 extra = ""
-tags = 'Renal::Pharmacology::unsorted'
+tags = 'Brosencephalon Renal::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
 note-id = 1405549705913
 text = 'What is the clinical use of Mannitol?<div><br /></div><div>{{c1::Tx of ICP/IOP; Drug overdose}}</div>'
 extra = ""
-tags = 'Renal::Pharmacology::unsorted'
+tags = 'Brosencephalon Renal::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
 note-id = 1405549734485
 text = '{{c1::Mannitol}} is an osmotic diuretic that is contraindicated in anuria or CHF.'
 extra = ""
-tags = 'Renal::Pharmacology::unsorted'
+tags = 'Brosencephalon Renal::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
 note-id = 1405549755924
 text = '{{c1::Pulmonary edema}} is a possible pulmonary complication of Mannitol administration.'
 extra = '<br /><div><i>Dehydration as well, due to the increase in urinary flow.</i></div>'
-tags = 'Renal::Pharmacology::unsorted'
+tags = 'Brosencephalon Renal::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
@@ -5799,7 +5799,7 @@ text = 'What is the MOA of Acetazolamide?<div><br /></div><div>{{c1::Inhibition 
 extra = """
 <br /><div><i>Thereby causes <b>self-limited NaHCO<sub>3</sub>&nbsp;diuresis</b>&nbsp;and a <b>decrease in total body \
 HCO<sub>3</sub>&nbsp;stores</b>.</i></div>"""
-tags = 'Renal::Pharmacology::unsorted'
+tags = 'Brosencephalon Renal::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
@@ -5808,7 +5808,7 @@ text = """
 {{c1::Acetazolamide}} is a diuretic used to <b>alkalinize the urine</b>&nbsp;or <b>treat metabolic alkalosis</b>&nbsp;as \
 it&nbsp;<b>inhibits Carbonic Anhydrase</b>."""
 extra = ""
-tags = 'Renal::Pharmacology::unsorted'
+tags = 'Brosencephalon Renal::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
@@ -5817,7 +5817,7 @@ text = """
 {{c1::Acetazolamide}} is a diuretic that inhibits carbonic anhydrase and is used to <b>treat altitude \
 sickness</b>&nbsp;and <b>pseudotumour cerebri</b>."""
 extra = ""
-tags = 'Renal::Pharmacology::unsorted'
+tags = 'Brosencephalon Renal::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
@@ -5828,28 +5828,28 @@ Acidosis}}</div>"""
 extra = """
 <br /><div><i>Remember, Acetazolamide causes <b>NaHCO<sub>3</sub>&nbsp;diuresis</b>&nbsp;and lowers \
 <b>HCO<sub>3</sub>&nbsp;levels</b>.</i></div>"""
-tags = 'Renal::Pharmacology::unsorted'
+tags = 'Brosencephalon Renal::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
 note-id = 1405550123826
 text = 'Which diuretic is associated with <b>NH<sub>3</sub>&nbsp;toxicity</b>?<div><br /></div><div>{{c1::Acetazolamide}}</div>'
 extra = ""
-tags = 'Renal::Pharmacology::unsorted'
+tags = 'Brosencephalon Renal::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
 note-id = 1405550162841
 text = 'What type of diuretic is Furosemide?<div><br /></div><div>{{c1::Loop diuretic}}</div>'
 extra = ""
-tags = 'Renal::Pharmacology::unsorted'
+tags = 'Brosencephalon Renal::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
 note-id = 1405550538839
 text = 'What type of diuretic is Ethacrynic Acid?<div><br /></div><div>{{c1::Loop diuretic}}</div>'
 extra = ""
-tags = 'Renal::Pharmacology::unsorted'
+tags = 'Brosencephalon Renal::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
@@ -5861,14 +5861,14 @@ extra = """
 <br /><div><i>In doing so, it <b>abolishes the hypertonicity of the medulla</b>&nbsp;and <b>inhibits concentration of \
 the urine</b>&nbsp;as it ascends out of the loop of Henle.</i></div><div><i>It also stimulates release of PGE (which has \
 vasodilatory effects on the afferent arteriole).</i></div>"""
-tags = 'Renal::Pharmacology::unsorted'
+tags = 'Brosencephalon Renal::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
 note-id = 1405550671296
 text = 'How do NSAIDs influence Furosemide action?<div><br /></div><div>{{c1::Inhibition}}</div>'
 extra = ""
-tags = 'Renal::Pharmacology::unsorted'
+tags = 'Brosencephalon Renal::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
@@ -5879,42 +5879,42 @@ the thick ascending limb of loop of Henle."""
 extra = """
 <br /><div><i>In doing so, it <b>abolishes the hypertonicity of the medulla</b>&nbsp;and <b>prevents concentration of \
 the urine</b>&nbsp;as it ascends out of the loop of Henle.</i></div>"""
-tags = 'Renal::Pharmacology::unsorted'
+tags = 'Brosencephalon Renal::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
 note-id = 1405550753024
 text = 'How does Furosemide influence Ca excretion?<div><br /></div><div>{{c1::Increase}}</div>'
 extra = ""
-tags = 'Renal::Pharmacology::unsorted'
+tags = 'Brosencephalon Renal::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
 note-id = 1405550761741
 text = 'What is the clinical use of Furosemide?<div><br /></div><div>{{c1::Edematous states; Hypercalcemia; HTN}}</div>'
 extra = '<br /><div><i>Edematous states include: CHF, cirrhosis, nephrotic syndrome, pulmonary edema</i></div>'
-tags = 'Renal::Pharmacology::unsorted'
+tags = 'Brosencephalon Renal::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
 note-id = 1405550840721
 text = '{{c1::Ototoxicity}} is a CNS complication of loop diuretics.'
 extra = '<img src="paste-21466246545469.jpg" />'
-tags = 'Renal::Pharmacology::unsorted'
+tags = 'Brosencephalon Renal::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
 note-id = 1405550879762
 text = 'How do loop diuretics change K levels?<div><br /></div><div>{{c1::Hypokalemia}}</div>'
 extra = '<br /><div><img src="paste-21461951578173.jpg" /></div>'
-tags = 'Renal::Pharmacology::unsorted'
+tags = 'Brosencephalon Renal::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
 note-id = 1405550890766
 text = 'Which loop diuretic is known to cause sulfa-drug allergy?<div><br /></div><div>{{c1::Furosemide}}</div>'
 extra = ""
-tags = 'Renal::Pharmacology::unsorted'
+tags = 'Brosencephalon Renal::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
@@ -5923,7 +5923,7 @@ text = """
 Which loop diuretic is used for diuresis <b>in patients allergic to sulfa drugs</b>?<div><br \
 /></div><div>{{c1::Ethacrynic Acid}}</div>"""
 extra = ""
-tags = 'Renal::Pharmacology::unsorted'
+tags = 'Brosencephalon Renal::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
@@ -5935,14 +5935,14 @@ extra = """
 <br /><div><i>i.e. same as Furosemide (loop diuretic)</i></div><div><i><div></div></i><i>In doing so, \
 it&nbsp;<b>abolishes the hypertonicity of the medulla</b>&nbsp;and&nbsp;<b>inhibits concentration of the \
 urine</b>&nbsp;as it ascends out of the loop of Henle.</i></div>"""
-tags = 'Renal::Pharmacology::unsorted'
+tags = 'Brosencephalon Renal::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
 note-id = 1405551018326
 text = 'Which loop diuretic is <b>never</b>&nbsp;used to treat Gout?<div><br /></div><div>{{c1::Ethacrynic Acid}}</div>'
 extra = ""
-tags = 'Renal::Pharmacology::unsorted'
+tags = 'Brosencephalon Renal::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
@@ -5951,14 +5951,14 @@ text = """
 What is the MOA of thiazide diuretics?<div><br /></div><div>{{c1::Inhibition of NaCl reabsorption at the early distal \
 tubule}}</div>"""
 extra = ""
-tags = 'Renal::Pharmacology::unsorted'
+tags = 'Brosencephalon Renal::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
 note-id = 1405551293918
 text = 'How do thiazide diuretics influence Ca levels?<div><br /></div><div>{{c1::Increase}}</div>'
 extra = '<br /><div><i>They <b>decrease Ca excretion.</b></i></div>'
-tags = 'Renal::Pharmacology::unsorted'
+tags = 'Brosencephalon Renal::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
@@ -5967,14 +5967,14 @@ text = """
 Which thiazide diuretic is used to treat Nephrogenic Diabetes Insipidus?<div><br \
 /></div><div>{{c1::Hydrochlorothiazide}}</div>"""
 extra = ""
-tags = 'Renal::Pharmacology::unsorted'
+tags = 'Brosencephalon Renal::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
 note-id = 1405551348698
 text = 'Which thiazide diuretic is used to treat Osteoporosis?<div><br /></div><div>{{c1::Hydrochlorothiazide}}</div>'
 extra = ""
-tags = 'Renal::Pharmacology::unsorted'
+tags = 'Brosencephalon Renal::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
@@ -5983,70 +5983,70 @@ text = """
 What acid-base imbalance is seen following Hydrochlorothiazide use?<div><br /></div><div>{{c1::Hypokalemic metabolic \
 alkalosis}}</div>"""
 extra = ""
-tags = 'Renal::Pharmacology::unsorted'
+tags = 'Brosencephalon Renal::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
 note-id = 1405551403709
 text = 'How does Hydrochlorothiazide change Na levels?<div><br /></div><div>{{c1::Hyponatremia}}</div>'
 extra = ""
-tags = 'Renal::Pharmacology::unsorted'
+tags = 'Brosencephalon Renal::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
 note-id = 1405551421622
 text = 'How does Hydrochlorothiazide change glucose levels?<div><br /></div><div>{{c1::Hyperglycemia}}</div>'
 extra = ""
-tags = 'Renal::Pharmacology::unsorted'
+tags = 'Brosencephalon Renal::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
 note-id = 1405551430974
 text = 'How does Hydrochlorothiazide change lipid levels?<div><br /></div><div>{{c1::Hyperlipidemia}}</div>'
 extra = ""
-tags = 'Renal::Pharmacology::unsorted'
+tags = 'Brosencephalon Renal::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
 note-id = 1405551439343
 text = 'How does Hydrochlorothiazide change uric acid levels?<div><br /></div><div>{{c1::Hyperuricemia}}</div>'
 extra = ""
-tags = 'Renal::Pharmacology::unsorted'
+tags = 'Brosencephalon Renal::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
 note-id = 1405551445167
 text = 'How does Hydrochlorothiazide change Ca levels?<div><br /></div><div>{{c1::Hypercalcemia}}</div>'
 extra = ""
-tags = 'Renal::Pharmacology::unsorted'
+tags = 'Brosencephalon Renal::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
 note-id = 1405551453656
 text = 'What type of diuretic is Spironolactone?<div><br /></div><div>{{c1::K-sparing}}</div>'
 extra = '<br /><div><img src="paste-22900765622335.jpg" /></div>'
-tags = 'Renal::Pharmacology::unsorted'
+tags = 'Brosencephalon Renal::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
 note-id = 1405551467819
 text = 'What type of diuretic is Eplerenone?<div><br /></div><div>{{c1::K-sparing}}</div>'
 extra = '<br /><div><img src="paste-22896470655039.jpg" /></div>'
-tags = 'Renal::Pharmacology::unsorted'
+tags = 'Brosencephalon Renal::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
 note-id = 1405551474260
 text = 'What type of diuretic is Amiloride?<div><br /></div><div>{{c1::K-sparing}}</div>'
 extra = '<br /><div><img src="paste-22896470655039.jpg" /></div>'
-tags = 'Renal::Pharmacology::unsorted'
+tags = 'Brosencephalon Renal::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
 note-id = 1405551480953
 text = 'What type of diuretic is Triamterene?<div><br /></div><div>{{c1::K-sparing}}</div>'
 extra = '<br /><div><img src="paste-22896470655039.jpg" /></div>'
-tags = 'Renal::Pharmacology::unsorted'
+tags = 'Brosencephalon Renal::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
@@ -6055,7 +6055,7 @@ text = """
 What is the MOA of Spironolactone and Eplerenone?<div><br /></div><div>{{c1::Competitive antagonism at Aldosterone \
 receptors in the collecting duct}}</div>"""
 extra = ""
-tags = 'Renal::Pharmacology::unsorted'
+tags = 'Brosencephalon Renal::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
@@ -6064,7 +6064,7 @@ text = """
 {{c1::Spironolactone}} and&nbsp;{{c2::Eplerenone}} are 2 K-sparing diuretics that act as <b>aldosterone receptor \
 antagonists</b>&nbsp;at the collecting duct."""
 extra = ""
-tags = 'Renal::Pharmacology::unsorted'
+tags = 'Brosencephalon Renal::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
@@ -6073,7 +6073,7 @@ text = """
 What is the MOA of Triamterene and Amiloride?<div><br /></div><div>{{c1::Blockade of Na channels in the collecting \
 duct}}</div>"""
 extra = ""
-tags = 'Renal::Pharmacology::unsorted'
+tags = 'Brosencephalon Renal::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
@@ -6082,14 +6082,14 @@ text = """
 {{c1::Triamterene}} and&nbsp;{{c2::Amiloride}} are 2 K-sparing diuretics that act by <b>blocking Na channels in the \
 collecting duct</b>."""
 extra = ""
-tags = 'Renal::Pharmacology::unsorted'
+tags = 'Brosencephalon Renal::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
 note-id = 1405551647285
 text = 'What diuretic is used to treat <b>hyperaldosteronism</b>?<div><br /></div><div>{{c1::K-sparing diuretics}}</div>'
 extra = '<br /><div><img src="paste-22896470655039.jpg" /></div>'
-tags = 'Renal::Pharmacology::unsorted'
+tags = 'Brosencephalon Renal::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
@@ -6098,7 +6098,7 @@ text = """
 {{c1::Hyperkalemia}} is a serum electrolyte imbalance that results following K-sparing diuretic use which can lead to \
 arrhythmia."""
 extra = ""
-tags = 'Renal::Pharmacology::unsorted'
+tags = 'Brosencephalon Renal::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
@@ -6107,7 +6107,7 @@ text = """
 Which K-sparing diuretic is associated with <b>endocrine effects</b>&nbsp;such as <b>gynecomastia</b>&nbsp;and \
 <b>antiandrogen</b>&nbsp;effects?<div><br /></div><div>{{c1::Spironolactone}}</div>"""
 extra = ""
-tags = 'Renal::Pharmacology::unsorted'
+tags = 'Brosencephalon Renal::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
@@ -6116,21 +6116,21 @@ text = """
 What is the <b>only</b>&nbsp;diuretic that <b>does not increase urinary NaCl</b>?<div><br \
 /></div><div>{{c1::Acetazolamide}}</div>"""
 extra = ""
-tags = 'Renal::Pharmacology::unsorted'
+tags = 'Brosencephalon Renal::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
 note-id = 1405552398547
 text = 'How do loop diuretics change <b>urinary K levels</b>?<div><br /></div><div>{{c1::Increase}}</div>'
 extra = '<br /><div><i>Hypokalemia can result.</i></div>'
-tags = 'Renal::Pharmacology::unsorted'
+tags = 'Brosencephalon Renal::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
 note-id = 1405552424192
 text = 'How do thiazide diuretics change <b>urinary K</b>&nbsp;levels?<div><br /></div><div>{{c1::Increase}}</div>'
 extra = '<br /><div><i>Hypokalemia may result.</i></div>'
-tags = 'Renal::Pharmacology::unsorted'
+tags = 'Brosencephalon Renal::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
@@ -6139,7 +6139,7 @@ text = """
 {{c1::Acetazolamide}} is a carbonic anhydrase inhibiting diuretic that causes acidosis as it causes <b>decreased \
 HCO<sub>3 </sub>reabsorption</b>."""
 extra = ""
-tags = 'Renal::Pharmacology::unsorted'
+tags = 'Brosencephalon Renal::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
@@ -6150,7 +6150,7 @@ aldosterone</b>&nbsp;which prevents K and H secretion."""
 extra = """
 <br /><div><i>The resultant hyperkalemia drives H/K exchange, resulting in H movement <b>out of</b>&nbsp;the \
 cell.</i></div>"""
-tags = 'Renal::Pharmacology::unsorted'
+tags = 'Brosencephalon Renal::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
@@ -6161,7 +6161,7 @@ to <b>volume contraction</b>&nbsp;as a result of increased Angiotensin II levels
 extra = """
 <br /><div><i>ATII increases Na/H exchange in the PCT thereby leading to <b>increased \
 HCO<sub>3</sub>&nbsp;reabsorption.</b></i></div>"""
-tags = 'Renal::Pharmacology::unsorted'
+tags = 'Brosencephalon Renal::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
@@ -6170,14 +6170,14 @@ text = """
 {{c1::Loop diuretics}} and&nbsp;{{c2::thiazide diuretics}} are 2 types of diuretics that \
 cause&nbsp;<b>alkalosis</b>&nbsp;due to <b>K excretion causing K movement <u>into</u>&nbsp;cells in exchange for H.</b>"""
 extra = '<i><div></div></i><i><br /></i>Also, in low K states, H is exchanged for Na in the collecting duct instead of K.'
-tags = 'Renal::Pharmacology::unsorted'
+tags = 'Brosencephalon Renal::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
 note-id = 1405552904368
 text = 'Which 2 types of diuretics cause <b>alkalosis</b>?<div><br /></div><div>{{c1::Loop; Thiazide}}</div>'
 extra = ""
-tags = 'Renal::Pharmacology::unsorted'
+tags = 'Brosencephalon Renal::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
@@ -6186,7 +6186,7 @@ text = """
 Which 2 types of diuretics cause <b>acidosis</b>?<div><br /></div><div>{{c1::Carbonic Anhydrase inhibitors; K-sparing \
 diuretics}}</div>"""
 extra = ""
-tags = 'Renal::Pharmacology::unsorted'
+tags = 'Brosencephalon Renal::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
@@ -6195,35 +6195,35 @@ text = 'How do loop diuretics change <b>urinary Ca</b>&nbsp;levels?<div><br /></
 extra = """
 <br /><div><i>Loops diuretics <b>decrease paracellular Ca reabsorption</b>&nbsp;thereby causing \
 <b>hypocalcemia</b>.</i></div>"""
-tags = 'Renal::Pharmacology::unsorted'
+tags = 'Brosencephalon Renal::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
 note-id = 1405553197834
 text = 'How do thiazide diuretics change <b>urinary Ca</b>&nbsp;levels?<div><br /></div><div>{{c1::Decrease}}</div>'
 extra = '<br /><div><i>Thiazides <b>enhance paracellular Ca reabsorption in the distal tubule</b>.</i></div>'
-tags = 'Renal::Pharmacology::unsorted'
+tags = 'Brosencephalon Renal::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
 note-id = 1405553233604
 text = 'What is the MOA of Captopril?<div><br /></div><div>{{c1::ACE inhibition}}</div>'
 extra = ""
-tags = 'Renal::Pharmacology::unsorted'
+tags = 'Brosencephalon Renal::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
 note-id = 1405555071261
 text = 'What is the MOA of Enalapril?<div><br /></div><div>{{c1::ACE inhibition}}</div>'
 extra = ""
-tags = 'Renal::Pharmacology::unsorted'
+tags = 'Brosencephalon Renal::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
 note-id = 1405555078795
 text = 'What is the MOA of Lisinopril?<div><br /></div><div>{{c1::ACE Inhibition}}</div>'
 extra = ""
-tags = 'Renal::Pharmacology::unsorted'
+tags = 'Brosencephalon Renal::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
@@ -6232,14 +6232,14 @@ text = """
 {{c1::Captopril}},&nbsp;{{c2::Enalapril}} and&nbsp;{{c3::Lisinopril}} are ACE inhibitors that <b>decrease angiotensin II \
 levels</b>&nbsp;and subsequently <b>decrease GFR</b>&nbsp;by preventing the constriction of efferent arterioles."""
 extra = ""
-tags = 'Renal::Pharmacology::unsorted'
+tags = 'Brosencephalon Renal::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
 note-id = 1405555136363
 text = 'How do ACE Inhibitors change renin levels?<div><br /></div><div>{{c1::Increase}}</div>'
 extra = '<br /><div><i>Due to a loss of negative feedback from Angiotensin II.</i></div>'
-tags = 'Renal::Pharmacology::unsorted'
+tags = 'Brosencephalon Renal::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
@@ -6248,7 +6248,7 @@ text = 'How do bradykinin levels change following ACE Inhibitor administration?<
 extra = """
 <br /><div><i>Remember, Angiotensin II also breaks down bradykinin.</i></div><div><i>This is why patients on ACE \
 Inhibitors will cough a alot (i.e. ACE Inhibitor Cough).</i></div>"""
-tags = 'Renal::Pharmacology::unsorted'
+tags = 'Brosencephalon Renal::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
@@ -6257,14 +6257,14 @@ text = 'How do Angiotensin II antagonists change bradykinin levels?<div><br /></
 extra = """
 <br /><div><i>Hence there is no risk of cough or angioedema.</i></div><div><i>Angiotensin II antagonists at \
 -sartans.</i></div>"""
-tags = 'Renal::Pharmacology::unsorted'
+tags = 'Brosencephalon Renal::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
 note-id = 1405555266501
 text = '{{c1::Fetal Renal Malformations}} are a teratogenic complication of ACE inhibitors.'
 extra = '<br /><div><img src="paste-24721831755969.jpg" /></div>'
-tags = 'Renal::Pharmacology::unsorted'
+tags = 'Brosencephalon Renal::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
@@ -6273,14 +6273,14 @@ text = 'How do ACE Inhibitors change creatinine levels?<div><br /></div><div>{{c
 extra = """
 <br /><div><i>ACE Inhibitors decrease GFR hence increase creatinine levels.</i></div><div><i><img \
 src="paste-24717536788673.jpg" /></i></div>"""
-tags = 'Renal::Pharmacology::unsorted'
+tags = 'Brosencephalon Renal::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
 note-id = 1405555356990
 text = 'How do ACE Inhibitors change K levels?<div><br /></div><div>{{c1::Hyperkalemia}}</div>'
 extra = '<br /><div><img src="paste-24717536788673.jpg" /></div>'
-tags = 'Renal::Pharmacology::unsorted'
+tags = 'Brosencephalon Renal::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'

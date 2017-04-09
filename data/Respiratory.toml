@@ -694,7 +694,7 @@ text = """
 What is the main MOA of Beta-2 agonists in the treatment of COPD?<div><br />{{c1::b2 pre-synaptic receptor agonism, \
 thereby&nbsp;inhibiting ACh release}}</div>"""
 extra = ""
-tags = 'Respiratory::Pharmacology::unsorted'
+tags = 'Brosencephalon Respiratory::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
@@ -708,7 +708,7 @@ model = 'Cloze-Brosencephalon'
 note-id = 1385776194322
 text = 'What is the pregnancy category of beta2-agonists?<div><br /></div><div>{{c1::C}}</div>'
 extra = ""
-tags = 'Respiratory::Pharmacology::unsorted'
+tags = 'Brosencephalon Respiratory::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
@@ -787,7 +787,7 @@ model = 'Cloze-Brosencephalon'
 note-id = 1385777425018
 text = 'What is the Corticosteroid of choice for parenteral administration?<div><br /></div><div>{{c1::Hydrocortisone}}</div>'
 extra = ""
-tags = 'Respiratory::Pharmacology::unsorted'
+tags = 'Brosencephalon Respiratory::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
@@ -796,7 +796,7 @@ text = """
 What are the 2 Corticosteroids of choice for Oral administration?<div><br /></div><div>{{c1::Prednisone and \
 Prednisolone}}</div>"""
 extra = ""
-tags = 'Respiratory::Pharmacology::unsorted'
+tags = 'Brosencephalon Respiratory::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
@@ -832,7 +832,7 @@ text = """
 What are the ligands that bind to Cysteinyl Leukotriene Receptor 1?<div><br /></div><div>{{c1::LTC4, LTD4 and \
 LTE4}}</div>"""
 extra = '''<br /><div><i>ab<u style="font-weight: bold; ">CDE</u>'s of LT's</i></div>'''
-tags = 'Respiratory::Pharmacology::unsorted'
+tags = 'Brosencephalon Respiratory::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
@@ -875,7 +875,7 @@ text = """
 {{c1::Ambrisentan}} is an anti-pulmonary hypertensive that competitively inhibits Endothelin-1 at \
 ET<sub>A</sub>&nbsp;receptors only."""
 extra = ""
-tags = 'Respiratory::Pharmacology::unsorted'
+tags = 'Brosencephalon Respiratory::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
@@ -884,7 +884,7 @@ text = """
 What is the MOA of Ambrisentan?<div><br /></div><div>{{c1::Competitive inhibition of Endothelin-1 at \
 ET<sub>A</sub>&nbsp;receptors only}}</div>"""
 extra = ""
-tags = 'Respiratory::Pharmacology::unsorted'
+tags = 'Brosencephalon Respiratory::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
@@ -893,7 +893,7 @@ text = """
 {{c1::Endothelin-1}} is a potent pulmonary vasocontrictor produced in increased amounts in pulmonary hypertension. It \
 also induces the proliferation of pulmonary vascular smooth muscle."""
 extra = ""
-tags = 'Respiratory::Pharmacology::unsorted'
+tags = 'Brosencephalon Respiratory::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
@@ -918,7 +918,7 @@ model = 'Cloze-Brosencephalon'
 note-id = 1385779418751
 text = '{{c1::Ambrisentan}} is an Endothelin-1 antagonist used to treat pHTN with WHO Class II or III symptoms.'
 extra = ""
-tags = 'Respiratory::Pharmacology::unsorted'
+tags = 'Brosencephalon Respiratory::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
@@ -932,7 +932,7 @@ model = 'Cloze-Brosencephalon'
 note-id = 1385779493892
 text = 'What is the pregnancy rating of Endothelin-1 antagonists?<div><br /></div><div>{{c1::X}}</div>'
 extra = ""
-tags = 'Respiratory::Pharmacology::unsorted'
+tags = 'Brosencephalon Respiratory::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
@@ -3177,42 +3177,42 @@ model = 'Cloze-Brosencephalon'
 note-id = 1397930781235
 text = 'What is the MOA of Dimenhydrinate?<div><br /></div><div>{{c1::Reversible inhibition of H1 histamine receptors}}</div>'
 extra = ""
-tags = 'Respiratory::Pharmacology::unsorted'
+tags = 'Brosencephalon Respiratory::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
 note-id = 1397930798668
 text = 'What is the MOA of Chlorpheniramine?<div><br /></div><div>{{c1::Reversible inhibition of H1 histamine receptors}}</div>'
 extra = ""
-tags = 'Respiratory::Pharmacology::unsorted'
+tags = 'Brosencephalon Respiratory::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
 note-id = 1397930810749
 text = 'What generation H1 blocker is Diphenhydramine?<div><br /></div><div>{{c1::1st}}</div>'
 extra = '<br /><div><i>1st gen has "-en/-ine" or "-en/-ate"</i></div>'
-tags = 'Respiratory::Pharmacology::unsorted'
+tags = 'Brosencephalon Respiratory::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
 note-id = 1397930858929
 text = 'What generation H1 blocker is Dimenhydrinate?<div><br /></div><div>{{c1::1st}}</div>'
 extra = '<br /><div><span style="font-style: italic">1st gen has "-en/-ine" or "-en/-ate"</span></div>'
-tags = 'Respiratory::Pharmacology::unsorted'
+tags = 'Brosencephalon Respiratory::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
 note-id = 1397930879277
 text = 'What generation H1 blocker is Chlorpheniramine?<div><br /></div><div>{{c1::1st}}</div>'
 extra = '<br /><div><span style="font-style: italic">1st gen has "-en/-ine" or "-en/-ate"</span></div>'
-tags = 'Respiratory::Pharmacology::unsorted'
+tags = 'Brosencephalon Respiratory::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
 note-id = 1397931000207
 text = 'Which generation of H1 blockers is associated with <b>sedation</b>?<div><br /></div><div>{{c1::1st generation}}</div>'
 extra = ""
-tags = 'Respiratory::Pharmacology::unsorted'
+tags = 'Brosencephalon Respiratory::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
@@ -3221,7 +3221,7 @@ text = """
 Which generation of H1 blockers is assocaited with <b>antimuscarinic</b>&nbsp;activity?<div><br /></div><div>{{c1::1st \
 generation}}</div>"""
 extra = ""
-tags = 'Respiratory::Pharmacology::unsorted'
+tags = 'Brosencephalon Respiratory::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
@@ -3230,7 +3230,7 @@ text = """
 Which generation of H1 blockers is associated with <b>anti-alpha-adrenergic</b>&nbsp;activity?<div><br \
 /></div><div>{{c1::1st generation}}</div>"""
 extra = ""
-tags = 'Respiratory::Pharmacology::unsorted'
+tags = 'Brosencephalon Respiratory::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
@@ -3239,42 +3239,42 @@ text = """
 Which generation of H1 blockers is used to treat&nbsp;<b>allergy, motion sickness </b>or as a<b> sleep aid</b>?<div><br \
 /></div><div>{{c1::1st gen}}</div>"""
 extra = ""
-tags = 'Respiratory::Pharmacology::unsorted'
+tags = 'Brosencephalon Respiratory::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
 note-id = 1397931322136
 text = 'What generation of H1 blocker is Loratadine?<div><br /></div><div>{{c1::2nd gen}}</div>'
 extra = '<br /><div><i>2nd gen ends in -adine</i></div>'
-tags = 'Respiratory::Pharmacology::unsorted'
+tags = 'Brosencephalon Respiratory::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
 note-id = 1397931438770
 text = 'What generation of H1 blocker is Fexofenadine?<div><br /></div><div>{{c1::2nd gen}}</div>'
 extra = '<br /><div><i>2nd gen ends in -adine</i></div>'
-tags = 'Respiratory::Pharmacology::unsorted'
+tags = 'Brosencephalon Respiratory::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
 note-id = 1397931463250
 text = 'What generation of H1 blocker is Desloratadine?<div><br /></div><div>{{c1::2nd gen}}</div>'
 extra = '<br /><div><i>2nd gen is -adine</i></div>'
-tags = 'Respiratory::Pharmacology::unsorted'
+tags = 'Brosencephalon Respiratory::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
 note-id = 1397931480280
 text = 'What generation of H1 blocker is Cetirizine<div><br /></div><div>{{c1::2nd gen}}</div>'
 extra = ""
-tags = 'Respiratory::Pharmacology::unsorted'
+tags = 'Brosencephalon Respiratory::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
 note-id = 1397931494515
 text = 'Which generation of H1 blockers is used to treat <b>allergy only</b>?<div><br /></div><div>{{c1::2nd generation}}</div>'
 extra = ""
-tags = 'Respiratory::Pharmacology::unsorted'
+tags = 'Brosencephalon Respiratory::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
@@ -3283,21 +3283,21 @@ text = """
 Which generation of H1 blockers involves <b>far less sedation</b>&nbsp;due to <b>decreased entry into the \
 CNS</b>?<div><br /></div><div>{{c1::2nd gen}}</div>"""
 extra = ""
-tags = 'Respiratory::Pharmacology::unsorted'
+tags = 'Brosencephalon Respiratory::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
 note-id = 1397931536885
 text = '{{c1::Guaifenesin}} is an expectorant that functions by <b>thinning respiratory secretions</b>.'
 extra = '<br /><div><i>It does not suppress the cough reflex.</i></div>'
-tags = 'Respiratory::Pharmacology::unsorted'
+tags = 'Brosencephalon Respiratory::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
 note-id = 1397944060396
 text = 'What is the MOA of Guaifenesin?<div><br /></div><div>{{c1::Thins respiratory secretions}}</div>'
 extra = '<br /><div><i>Does <b>not</b>&nbsp;supress the cough reflex.</i></div>'
-tags = 'Respiratory::Pharmacology::unsorted'
+tags = 'Brosencephalon Respiratory::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
@@ -3306,28 +3306,28 @@ text = """
 {{c1::Expectorants}} are a <b>type</b>&nbsp;of respiratory drugs that that aid in the clearance of mucous from the \
 airways."""
 extra = ""
-tags = 'Respiratory::Pharmacology::unsorted'
+tags = 'Brosencephalon Respiratory::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
 note-id = 1397944214189
 text = 'What type of respiratory drug is Guaifenesin?<div><br /></div><div>{{c1::Expectorant}}</div>'
 extra = ""
-tags = 'Respiratory::Pharmacology::unsorted'
+tags = 'Brosencephalon Respiratory::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
 note-id = 1397944231519
 text = 'What type of respiratory drug is N-Acetylcysteine?<div><br /></div><div>{{c1::Expectorant; Mucolytic}}</div>'
 extra = ""
-tags = 'Respiratory::Pharmacology::unsorted'
+tags = 'Brosencephalon Respiratory::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
 note-id = 1397944251158
 text = '{{c1::N-Acetylcysteine}} is an expectorant and mucolytic that can loosen mucous plugs in Cystic Fibrosis patients.'
 extra = ""
-tags = 'Respiratory::Pharmacology::unsorted'
+tags = 'Brosencephalon Respiratory::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
@@ -3336,7 +3336,7 @@ text = """
 What is the <b>pulmonary</b> clinical use of N-Acetylcysteine?<div><br /></div><div>{{c1::Loosens mucous plugs in Cystic \
 Fibrosis patients; it can also be used as an antidote for acetaminophen overdose}}</div>"""
 extra = ""
-tags = 'Respiratory::Pharmacology::unsorted'
+tags = 'Brosencephalon Respiratory::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
@@ -3345,7 +3345,7 @@ text = """
 Which expectorant is used to loosen mucous plugs in Cystic Fibrosis patients?<div><br \
 /></div><div>{{c1::N-acetylcysteine (as a mucolytic)}}</div>"""
 extra = ""
-tags = 'Respiratory::Pharmacology::unsorted'
+tags = 'Brosencephalon Respiratory::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
@@ -3354,35 +3354,35 @@ text = """
 Which expectorant is also used as an antidote for acetaminophen overdose?<div><br \
 /></div><div>{{c1::N-acetylcysteine}}</div>"""
 extra = ""
-tags = 'Respiratory::Pharmacology::unsorted'
+tags = 'Brosencephalon Respiratory::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
 note-id = 1397944390900
 text = '{{c1::N-acetylcysteine}} is an expectorant and mucolytic that is used as an antidote for acetaminophen overdose.'
 extra = ""
-tags = 'Respiratory::Pharmacology::unsorted'
+tags = 'Brosencephalon Respiratory::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
 note-id = 1397944427059
 text = '{{c1::Dextromethorphan}} is an antitussive agent that acts by <b>NMDA receptor antagonism</b>.'
 extra = '<br /><div><i>It also has mild opioid effect in high doses.</i></div>'
-tags = 'Respiratory::Pharmacology::unsorted'
+tags = 'Brosencephalon Respiratory::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
 note-id = 1397945493799
 text = 'What type of respiratory drug is Dextromethorphan?<div><br /></div><div>{{c1::Antitussive}}</div>'
 extra = ""
-tags = 'Respiratory::Pharmacology::unsorted'
+tags = 'Brosencephalon Respiratory::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
 note-id = 1397945508096
 text = 'What is the MOA of Dextromethorphan as an antitussive agent?<div><br />{{c1::NMDA receptor antagonism}}</div>'
 extra = '<br /><div><i>Opioid agonist activity at high doses</i></div>'
-tags = 'Respiratory::Pharmacology::unsorted'
+tags = 'Brosencephalon Respiratory::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
@@ -3391,35 +3391,35 @@ text = """
 Which antitussive agent is a synthetic codeine analog and has mild abuse potential?<div><br \
 />{{c1::Dextromethorphan}}</div>"""
 extra = ""
-tags = 'Respiratory::Pharmacology::unsorted'
+tags = 'Brosencephalon Respiratory::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
 note-id = 1397945616281
 text = 'What is the treatment for Dextromethorphan overdose?<div><br /></div><div>{{c1::Naloxone}}</div>'
 extra = ""
-tags = 'Respiratory::Pharmacology::unsorted'
+tags = 'Brosencephalon Respiratory::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
 note-id = 1397945633826
 text = '{{c1::Naloxone}} is an opioid antagonist that is used to treat Dextromethorphan overdose.'
 extra = ""
-tags = 'Respiratory::Pharmacology::unsorted'
+tags = 'Brosencephalon Respiratory::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
 note-id = 1397945770457
 text = 'What is the MOA of Pseudoephedrine?<div><br /></div><div>{{c1::Sympathomimetic <b>alpha-agonism</b>}}</div>'
 extra = ""
-tags = 'Respiratory::Pharmacology::unsorted'
+tags = 'Brosencephalon Respiratory::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
 note-id = 1397946122811
 text = 'What is the MOA of Phenylephrine?<div><br /></div><div>{{c1::Sympathomimetic&nbsp;<b>alpha-agonism</b>}}</div>'
 extra = ""
-tags = 'Respiratory::Pharmacology::unsorted'
+tags = 'Brosencephalon Respiratory::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
@@ -3428,7 +3428,7 @@ text = """
 {{c1::Pseudoephedrine}} and&nbsp;{{c2::Phenylephrine}} are alpha-agonists used to reduce hyperemia, edema and nasal \
 congestion."""
 extra = ""
-tags = 'Respiratory::Pharmacology::unsorted'
+tags = 'Brosencephalon Respiratory::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
@@ -3437,7 +3437,7 @@ text = """
 Which alpha-agonists are used to reduce hyperemia, edema and nasal congestion?<div><br \
 /></div><div>{{c1::Pseudoephedrine; Phenylephrine}}</div>"""
 extra = ""
-tags = 'Respiratory::Pharmacology::unsorted'
+tags = 'Brosencephalon Respiratory::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
@@ -3446,7 +3446,7 @@ text = """
 Which alpha-agonists are used to <b>open obstructed eustachian tubes</b>?<div><br /></div><div>{{c1::Pseudoephedrine; \
 Phenylephrine}}</div>"""
 extra = ""
-tags = 'Respiratory::Pharmacology::unsorted'
+tags = 'Brosencephalon Respiratory::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
@@ -3455,7 +3455,7 @@ text = """
 Which respiratory alpha-agonist can be used illicit to make Methamphetamine?<div><br \
 /></div><div>{{c1::Pseudoephedrine}}</div>"""
 extra = ""
-tags = 'Respiratory::Pharmacology::unsorted'
+tags = 'Brosencephalon Respiratory::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
@@ -3464,7 +3464,7 @@ text = """
 What is the toxicity of the respiratory alpha-agonists Pseudoephedrine and Phenylephrine?<div><br \
 /></div><div>{{c1::Hypertension}}</div>"""
 extra = ""
-tags = 'Respiratory::Pharmacology::unsorted'
+tags = 'Brosencephalon Respiratory::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
@@ -3473,7 +3473,7 @@ text = """
 Which respiratory alpha-agonist is associated with CNS stimulation and anxiety as an adverse effect?<div><br \
 /></div><div>{{c1::Pseudoephedrine}}</div>"""
 extra = ""
-tags = 'Respiratory::Pharmacology::unsorted'
+tags = 'Brosencephalon Respiratory::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
@@ -3482,7 +3482,7 @@ text = """
 {{c1::Albuterol}} is an asthma drug that causes bronchodilation through beta2-agonism and is preferred in <b>acute \
 exacerbation</b>."""
 extra = '<br /><div><img src="paste-24567212933894.jpg" /></div>'
-tags = 'Respiratory::Pharmacology::unsorted'
+tags = 'Brosencephalon Respiratory::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
@@ -3491,7 +3491,7 @@ text = """
 {{c1::Salmeterol}} and&nbsp;{{c2::Formoterol}} are beta-2 agonists used as <b>long acting agents</b>&nbsp;in the \
 prophylaxis of asthma."""
 extra = '<br /><div><img src="paste-29957396889959.jpg" /></div>'
-tags = 'Respiratory::Pharmacology::unsorted'
+tags = 'Brosencephalon Respiratory::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
@@ -3500,7 +3500,7 @@ text = """
 What is the MOA of Albuterol?<div><br /></div><div>{{c1::Beta-2 agonism, thereby causing bronchial smooth muscle \
 relaxation}}</div>"""
 extra = '<br /><div><img src="paste-24567212933894.jpg" /></div>'
-tags = 'Respiratory::Pharmacology::unsorted'
+tags = 'Brosencephalon Respiratory::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
@@ -3509,7 +3509,7 @@ text = """
 What is the MOA of Salmeterol?<div><br /></div><div>{{c1::Beta-2 agonism, thereby causing bronchial smooth muscle \
 relaxation}}</div>"""
 extra = '<br /><div><img src="paste-24567212933894.jpg" /></div>'
-tags = 'Respiratory::Pharmacology::unsorted'
+tags = 'Brosencephalon Respiratory::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
@@ -3518,21 +3518,21 @@ text = """
 What is the MOA of Formoterol?<div><br /></div><div>{{c1::Beta-2 agonism, thereby causing bronchial smooth muscle \
 relaxation}}</div>"""
 extra = ""
-tags = 'Respiratory::Pharmacology::unsorted'
+tags = 'Brosencephalon Respiratory::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
 note-id = 1397947963908
 text = 'What is the DOC <b>acute asthma attack/exacerbation</b>?<div><br /></div><div>{{c1::Albuterol}}</div>'
 extra = ""
-tags = 'Respiratory::Pharmacology::unsorted'
+tags = 'Brosencephalon Respiratory::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
 note-id = 1397947995234
 text = 'Which beta-2 agonists are used for <b>acute asthma exacerbation/attack</b>?<div><br /></div><div>{{c1::Albuterol}}</div>'
 extra = '<br /><div><img src="paste-29961691857255.jpg" /></div>'
-tags = 'Respiratory::Pharmacology::unsorted'
+tags = 'Brosencephalon Respiratory::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
@@ -3541,7 +3541,7 @@ text = """
 Which beta-2 agonists are used for <b>long acting prophylaxis</b>&nbsp;of asthma?<div><br /></div><div>{{c1::Salmeterol; \
 Formoterol}}</div>"""
 extra = '<br /><div><img src="paste-29957396889959.jpg" /></div>'
-tags = 'Respiratory::Pharmacology::unsorted'
+tags = 'Brosencephalon Respiratory::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
@@ -3550,14 +3550,14 @@ text = """
 Which beta-2 agonists are used in the treatment of asthma are associated with <b>tremor</b>&nbsp;and \
 <b>arrhythmia</b>&nbsp;as adverse effects?<div><br /></div><div>{{c1::Salmeterol; Formoterol}}</div>"""
 extra = '<br /><div><img src="paste-29957396889959.jpg" /></div>'
-tags = 'Respiratory::Pharmacology::unsorted'
+tags = 'Brosencephalon Respiratory::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
 note-id = 1397948416845
 text = 'What type of asthma drug is Theophylline?<div><br /></div><div>{{c1::Methylxanthine}}</div>'
 extra = ""
-tags = 'Respiratory::Pharmacology::unsorted'
+tags = 'Brosencephalon Respiratory::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
@@ -3566,7 +3566,7 @@ text = """
 {{c1::Theophylline}} is a Methylxanthine used to treat asthma by <b>inhibiting phosphodiesterase</b>, thereby causing \
 bronchodilation by increasing cAMP levels (due to decreased cAMP hydrolysis)."""
 extra = '<br /><div><img src="paste-24567212933894.jpg" /></div>'
-tags = 'Respiratory::Pharmacology::unsorted'
+tags = 'Brosencephalon Respiratory::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
@@ -3575,7 +3575,7 @@ text = """
 What is the MOA of Theophylline?<div><br /></div><div>{{c1::Inhibition of phosphodiesterase, thereby increasing cAMP \
 levels by decreasing cAMP hydrolysis resulting in bronchodilation}}</div>"""
 extra = '<br /><div><img src="paste-29957396889959.jpg" /></div>'
-tags = 'Respiratory::Pharmacology::unsorted'
+tags = 'Brosencephalon Respiratory::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
@@ -3584,21 +3584,21 @@ text = """
 {{c1::Theophylline}} is a methylxanthine drug used to treat asthma that has a narrow therapeutic index and causes \
 cardiotoxicity and neurotoxicity."""
 extra = ""
-tags = 'Respiratory::Pharmacology::unsorted'
+tags = 'Brosencephalon Respiratory::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
 note-id = 1397948813922
 text = '{{c1::Theophylline}} is a methylxanthine drug used to treat asthma that is metabolized by cytochrome p450.'
 extra = ""
-tags = 'Respiratory::Pharmacology::unsorted'
+tags = 'Brosencephalon Respiratory::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
 note-id = 1397948831691
 text = '{{c1::Theophylline}} is a methylxanthine drug used to treat asthma that can block the action of <b>adenosine</b>.'
 extra = '<br /><div><img src="paste-29957396889959.jpg" /></div>'
-tags = 'Respiratory::Pharmacology::unsorted'
+tags = 'Brosencephalon Respiratory::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
@@ -3607,7 +3607,7 @@ text = """
 Which methylxanthine used to treat asthma can block the action of Adenosine?<div><br \
 /></div><div>{{c1::Theophylline}}</div>"""
 extra = '<br /><div><img src="paste-29957396889959.jpg" /></div>'
-tags = 'Respiratory::Pharmacology::unsorted'
+tags = 'Brosencephalon Respiratory::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
@@ -3616,35 +3616,35 @@ text = """
 {{c1::Ipratropium}} is a muscarinic antagonist that is used to treat asthma by blocking muscarinic receptors, thereby \
 <b>preventing bronchoconstriction</b>."""
 extra = '<br /><div><img src="paste-24567212933894.jpg" /></div>'
-tags = 'Respiratory::Pharmacology::unsorted'
+tags = 'Brosencephalon Respiratory::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
 note-id = 1397948907833
 text = 'What is the MOA of Ipratropium?<div><br /></div><div>{{c1::Antagonism at muscarinic receptors (M1, M2, M3)}}</div>'
 extra = '<br /><div><img src="paste-24567212933894.jpg" /></div>'
-tags = 'Respiratory::Pharmacology::unsorted'
+tags = 'Brosencephalon Respiratory::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
 note-id = 1397948941963
 text = '{{c1::Ipratropium}} and&nbsp;{{c2::Tiotropium}} are anti-muscarinic agents used for Asthma and COPD.'
 extra = '<br /><div><img src="paste-29957396889959.jpg" /></div>'
-tags = 'Respiratory::Pharmacology::unsorted'
+tags = 'Brosencephalon Respiratory::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
 note-id = 1397948971876
 text = 'Which anti-muscarinic used to treat COPD is <b>long-acting</b>?<div><br /></div><div>{{c1::Tiotropium}}</div>'
 extra = '<br /><div><img src="paste-29957396889959.jpg" /></div>'
-tags = 'Respiratory::Pharmacology::unsorted'
+tags = 'Brosencephalon Respiratory::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
 note-id = 1397948995159
 text = 'What is the duration of action of Tiotropium?<div><br /></div><div>{{c1::Long-acting}}</div>'
 extra = ""
-tags = 'Respiratory::Pharmacology::unsorted'
+tags = 'Brosencephalon Respiratory::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
@@ -3655,7 +3655,7 @@ synthesis</b>&nbsp;and <b>inactiating NF-kB</b>, resulting in anti-inflammatory 
 extra = """
 <br /><div><i>Inactivation of NF-kB results in decreased production of TNF-alpha and other pro-inflammatory \
 agents</i></div><div><i><img src="paste-24567212933894.jpg" /></i></div>"""
-tags = 'Respiratory::Pharmacology::unsorted'
+tags = 'Brosencephalon Respiratory::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
@@ -3664,7 +3664,7 @@ text = """
 How does TNF-alpha expression change in response to corticosteroids?<div><br /></div><div>{{c1::Decreased \
 expression}}</div>"""
 extra = ""
-tags = 'Respiratory::Pharmacology::unsorted'
+tags = 'Brosencephalon Respiratory::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
@@ -3673,7 +3673,7 @@ text = """
 {{c1::NF-kB}} is a transcription factor that induces the production of TNF-alpha. It is inactivated following \
 corticosteroid administration."""
 extra = ""
-tags = 'Respiratory::Pharmacology::unsorted'
+tags = 'Brosencephalon Respiratory::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
@@ -3682,7 +3682,7 @@ text = """
 What is the 1st-line therapy for <b>Chronic</b>&nbsp;Asthma?<div><br />{{c1::Corticosteroids (Beclomethasone; \
 Fluticasone)}}</div>"""
 extra = '<br /><div><img src="paste-24567212933894.jpg" /></div>'
-tags = 'Respiratory::Pharmacology::unsorted'
+tags = 'Brosencephalon Respiratory::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
@@ -3691,28 +3691,28 @@ text = """
 {{c1::Montelukast}} and&nbsp;{{c2::Zafirlukast}} are antileukotrienes used to treat asthma by <b>blocking leukotriene \
 receptors</b>&nbsp;(CysLTR1)."""
 extra = '<br /><div><img src="paste-24567212933894.jpg" /></div>'
-tags = 'Respiratory::Pharmacology::unsorted'
+tags = 'Brosencephalon Respiratory::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
 note-id = 1397949791937
 text = 'What type of respiratory drug is Ipratropdium and Tiotriopium?<div><br /></div><div>{{c1::Muscarinic antagonist}}</div>'
 extra = ""
-tags = 'Respiratory::Pharmacology::unsorted'
+tags = 'Brosencephalon Respiratory::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
 note-id = 1397949810898
 text = 'What type of respiratory drug is Montelukast and Zafirlukast?<div><br /></div><div>{{c1::Antileukotrienes}}</div>'
 extra = ""
-tags = 'Respiratory::Pharmacology::unsorted'
+tags = 'Brosencephalon Respiratory::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
 note-id = 1397949830394
 text = 'What type of respiratory drug is Zileuton?<div><br /></div><div>{{c1::Antileukotriene}}</div>'
 extra = ""
-tags = 'Respiratory::Pharmacology::unsorted'
+tags = 'Brosencephalon Respiratory::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
@@ -3721,7 +3721,7 @@ text = """
 What is the MOA of Montelukast?<div><br /></div><div>{{c1::Blocks leukotriene receptors (CysLTR1; specifically LTC4, \
 LTD4, LTE4)}}</div>"""
 extra = '<br /><div><img src="paste-24567212933894.jpg" /></div>'
-tags = 'Respiratory::Pharmacology::unsorted'
+tags = 'Brosencephalon Respiratory::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
@@ -3730,7 +3730,7 @@ text = """
 What is the MOA of Zafirlukast?<div><br /></div><div>{{c1::Blocks leukotriene receptors (CysLTR1; especially LTC4, LTD4 \
 and LTE4)}}</div>"""
 extra = ""
-tags = 'Respiratory::Pharmacology::unsorted'
+tags = 'Brosencephalon Respiratory::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
@@ -3739,7 +3739,7 @@ text = """
 Which antileukotrienes are especially useful in treating <b>Aspirin-induced asthma</b>?<div><br \
 /></div><div>{{c1::Montelukast; Zafirlukast}}</div>"""
 extra = ""
-tags = 'Respiratory::Pharmacology::unsorted'
+tags = 'Brosencephalon Respiratory::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
@@ -3748,7 +3748,7 @@ text = """
 {{c1::Zileuton}} is an antileukotriene used to treat asthma by <b>inhibiting 5-Lipoxygenase</b>&nbsp;(5-LOX), thereby \
 blocking the conversion of arachidonica cid to leukotrienes."""
 extra = '<br /><div><img src="paste-24567212933894.jpg" /></div>'
-tags = 'Respiratory::Pharmacology::unsorted'
+tags = 'Brosencephalon Respiratory::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
@@ -3757,7 +3757,7 @@ text = """
 What is the MOA of Zileuton?<div><br /></div><div>{{c1::Inhibition of 5-Lipoxygenase (5LOX), thereby blocking the \
 conversion of arachidonic acid to leukotrienes}}</div>"""
 extra = ""
-tags = 'Respiratory::Pharmacology::unsorted'
+tags = 'Brosencephalon Respiratory::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
@@ -3766,7 +3766,7 @@ text = """
 {{c1::Omalizumab}} is a monoclonal antibody used to treat asthma by <b>binding to unbound serum IgE</b>, thereby \
 blocking binding to F<sub>c</sub>εRI receptors on mast cells."""
 extra = '<br /><div><img src="paste-24567212933894.jpg" /></div>'
-tags = 'Respiratory::Pharmacology::unsorted'
+tags = 'Brosencephalon Respiratory::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
@@ -3775,7 +3775,7 @@ text = """
 What is the MOA of Omalizumab?<div><br /></div><div>{{c1::Binds to unbound IgE, thereby blocking the binding \
 to&nbsp;F<sub>c</sub>εRI receptors on mast cells}}</div>"""
 extra = ""
-tags = 'Respiratory::Pharmacology::unsorted'
+tags = 'Brosencephalon Respiratory::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
@@ -3784,7 +3784,7 @@ text = """
 What is the clinical use of Omalizumab?<div><br /></div><div>{{c1::Allergic asthma that is resistant to inhaled steroids \
 and long-acting beta-2 agonists}}</div>"""
 extra = ""
-tags = 'Respiratory::Pharmacology::unsorted'
+tags = 'Brosencephalon Respiratory::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
@@ -3793,7 +3793,7 @@ text = """
 {{c1::Omalizumab}} is a monoclonal antibody used to treat <b>allergic asthma</b>&nbsp;that is <u>resistant to inhaled \
 steroids and long-acting beta-2 agonists</u>."""
 extra = ""
-tags = 'Respiratory::Pharmacology::unsorted'
+tags = 'Brosencephalon Respiratory::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
@@ -3803,28 +3803,28 @@ extra = """
 <br /><div><i>Binds to unbound IgE, thereby preventing binding to&nbsp;F<sub>c</sub>εRI receptors on mast \
 cells.</i></div><div><i>Typically used in allergic asthma resistant to inhaled steroids and long acting beta-2 \
 agonists.</i></div>"""
-tags = 'Respiratory::Pharmacology::unsorted'
+tags = 'Brosencephalon Respiratory::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
 note-id = 1397950490124
 text = 'What is the MOA of Tiotropium?<div><br /></div><div>{{c1::Antagonism at muscarinic receptors (M1, M3)}}</div>'
 extra = '<br /><div><img src="paste-29957396889959.jpg" /></div>'
-tags = 'Respiratory::Pharmacology::unsorted'
+tags = 'Brosencephalon Respiratory::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
 note-id = 1397950519034
 text = '{{c1::Methacholine}} is a muscarinic agonist that is used in bronchial provocation challenges to diagnose asthma.'
 extra = ""
-tags = 'Respiratory::Pharmacology::unsorted'
+tags = 'Brosencephalon Respiratory::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
 note-id = 1397950561994
 text = 'What is the MOA of Methacholine?<div><br /></div><div>{{c1::Agonism at muscarinic receptors}}</div>'
 extra = ""
-tags = 'Respiratory::Pharmacology::unsorted'
+tags = 'Brosencephalon Respiratory::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
@@ -3833,7 +3833,7 @@ text = """
 Which muscarinic agonist is used in bronchial provocation challenges to <b>diagnose asthma</b>?<div><br \
 /></div><div>{{c1::Methacholine}}</div>"""
 extra = ""
-tags = 'Respiratory::Pharmacology::unsorted'
+tags = 'Brosencephalon Respiratory::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
@@ -3845,7 +3845,7 @@ resistance."""
 extra = """
 <br /><div><div><i>Bosentan = ET<sub>A</sub>&nbsp;and ET<sub>B</sub></i></div><div><i>Ambrisentan = \
 ET<sub>A</sub>&nbsp;only</i></div></div>"""
-tags = 'Respiratory::Pharmacology::unsorted'
+tags = 'Brosencephalon Respiratory::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
@@ -3854,14 +3854,14 @@ text = """
 What is the MOA of Bosentan?<div><br /></div><div>{{c1::Competitive antagonism of Endothelin-1 at \
 ET<sub>A</sub>&nbsp;and ET<sub>B</sub>&nbsp;receptors}}</div>"""
 extra = ""
-tags = 'Respiratory::Pharmacology::unsorted'
+tags = 'Brosencephalon Respiratory::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
 note-id = 1397950724798
 text = 'What is the clinical use of Bosentan?<div><br /></div><div>{{c1::Pulmonary HTN}}</div>'
 extra = ""
-tags = 'Respiratory::Pharmacology::unsorted'
+tags = 'Brosencephalon Respiratory::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
@@ -5173,7 +5173,7 @@ model = 'Cloze-Brosencephalon'
 note-id = 1481049865689
 text = 'The {{c1::medullary respiratory center}} is the part of the brain that sets the basic rhythm for breathing.'
 extra = ""
-tags = 'Respiratory::Physiology::breathing-basics'
+tags = 'Brosencephalon Respiratory::Physiology::breathing-basics'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
@@ -5182,7 +5182,7 @@ text = """
 The {{c1::apneustic center}} prolongs inspiration by stimulating inspiratory centers in the medullary respiratory \
 center."""
 extra = ""
-tags = 'Respiratory::Physiology::breathing-basics'
+tags = 'Brosencephalon Respiratory::Physiology::breathing-basics'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
@@ -5191,12 +5191,12 @@ text = """
 The {{c1::pneumotaxic center}} is the part of the brain that turns off inspiration to limit tidal volume and regulate \
 breathing rate."""
 extra = ""
-tags = 'Respiratory::Physiology::breathing-basics'
+tags = 'Brosencephalon Respiratory::Physiology::breathing-basics'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
 note-id = 1481049920321
 text = '{{c1::Medulla}} and {{c1::pons}} are the parts of the brainstem that act to control breathing.'
 extra = ""
-tags = 'Respiratory::Physiology::breathing-basics'
+tags = 'Brosencephalon Respiratory::Physiology::breathing-basics'
 

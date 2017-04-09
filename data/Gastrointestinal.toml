@@ -3283,14 +3283,14 @@ What is the MOA of H2 receptor antagonists (-idines) in the treatment of Acid-Pe
 /></div><div>{{c1::Competitive inhibition of H2 receptors at parietal cells, thereby leading to a decrease in gastric \
 acid production and release}}</div>"""
 extra = '<br /><div><img src="paste-26207890440880.jpg" /></div>'
-tags = 'Gastrointestinal::Pharmacology::unsorted'
+tags = 'Brosencephalon Gastrointestinal::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
 note-id = 1392949457335
 text = 'What kind of GI drug is Cimetidine, Famotidine and Ranitidine?<div><br /></div><div>{{c1::H2-Receptor Antagonist}}</div>'
 extra = '<br /><div><i>Used in acid-peptic diseases.</i></div>'
-tags = 'Gastrointestinal::Pharmacology::unsorted'
+tags = 'Brosencephalon Gastrointestinal::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
@@ -3301,7 +3301,7 @@ at Androgen receptors."""
 extra = """
 <br /><div><i>Hence they can cause <b>prolactin release, gynecomastia, impotence</b>&nbsp;and <b>decreased libido in \
 males</b>.</i></div>"""
-tags = 'Gastrointestinal::Pharmacology::unsorted'
+tags = 'Brosencephalon Gastrointestinal::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
@@ -3312,21 +3312,21 @@ thereby inhibiting H+ secretion into the gastric lumen}}</div>"""
 extra = """
 <br /><div><i>via disulfide bond formation with the enzyme.</i></div><div><i><img src="paste-26203595473584.jpg" \
 /></i></div>"""
-tags = 'Gastrointestinal::Pharmacology::unsorted'
+tags = 'Brosencephalon Gastrointestinal::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
 note-id = 1392949609014
 text = 'Hyperplasia of&nbsp;{{c1::G-cells/Fundic Glands}} is a complication of prolonged Proton Pump Inhibitor use.'
 extra = ""
-tags = 'Gastrointestinal::Pharmacology::unsorted'
+tags = 'Brosencephalon Gastrointestinal::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
 note-id = 1392949662350
 text = 'What type of GI drugs are Esomeprazole and Omeprazole?<div><br />{{c1::Proton Pump Inhibitor}}</div>'
 extra = ""
-tags = 'Gastrointestinal::Pharmacology::unsorted'
+tags = 'Brosencephalon Gastrointestinal::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
@@ -3501,7 +3501,7 @@ model = 'Cloze-Brosencephalon'
 note-id = 1392951152676
 text = '{{c1::Mesalamine}} and&nbsp;{{c2::Sulfasalazine}} are aminosalicylates that act as powerful anti-inflammatories.'
 extra = ""
-tags = 'Gastrointestinal::Pharmacology::unsorted'
+tags = 'Brosencephalon Gastrointestinal::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
@@ -3510,7 +3510,7 @@ text = """
 Which 2 aminosalicylates are the 1st line therapy in <b>mild to moderate</b>&nbsp;Ulcerative Colitis and Crohn's \
 Disease?<div><br /></div><div>{{c1::Mesalamine and Sulfasalazine}}</div>"""
 extra = ""
-tags = 'Gastrointestinal::Pharmacology::unsorted'
+tags = 'Brosencephalon Gastrointestinal::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
@@ -3521,7 +3521,7 @@ Arthritis."""
 extra = """
 <br /><div><i>Is a combination of Sulfapyradine (antibacterial) and 5-ASA (anti-inflammatory).</i></div><div><i>Actvated \
 by colonic bacteria.</i></div>"""
-tags = 'Gastrointestinal::Pharmacology::unsorted'
+tags = 'Brosencephalon Gastrointestinal::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
@@ -3791,7 +3791,7 @@ text = """
 {{c1::Ursodiol}} is an exogenous bile acid that decreases cholesterol content of bile by reducing hepatic cholesterol \
 secretion."""
 extra = ""
-tags = 'Gastrointestinal::Pharmacology::unsorted'
+tags = 'Brosencephalon Gastrointestinal::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
@@ -3800,7 +3800,7 @@ text = """
 {{c1::Lithocolic Acid}} is a hepatotoxic metabolite of Ursodiol that is made by colonic flora if Ursodiol is unabsorbed \
 and unconjugated."""
 extra = ""
-tags = 'Gastrointestinal::Pharmacology::unsorted'
+tags = 'Brosencephalon Gastrointestinal::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
@@ -7678,7 +7678,7 @@ text = """
 Which enteric bacterial infection has an increased risk of occurring in proton pump inhibitor use?<div><br \
 /></div><div>{{c1::<i>Clostridium difficile</i>}}</div>"""
 extra = ""
-tags = 'Gastrointestinal::Pharmacology::unsorted'
+tags = 'Brosencephalon Gastrointestinal::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
@@ -7688,7 +7688,7 @@ text = """
 physical protection, thereby allowing HCO<sub>3</sub>&nbsp;secretion to re-establish the pH gradient in the mucous \
 layer."""
 extra = ""
-tags = 'Gastrointestinal::Pharmacology::unsorted'
+tags = 'Brosencephalon Gastrointestinal::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
@@ -7698,7 +7698,7 @@ What is the MOA of Bismuth and Sucralfate?<div><br /></div><div>{{c1::Binding to
 physical protection and allowing HCO<sub>3</sub>&nbsp;secretion to re-establish the pH gradient in the mucous \
 layer}}</div>"""
 extra = '<br /><div><img src="paste-26203595473584.jpg" /></div>'
-tags = 'Gastrointestinal::Pharmacology::unsorted'
+tags = 'Brosencephalon Gastrointestinal::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
@@ -7707,7 +7707,7 @@ text = """
 What is the clinical use of Bismuth and Sucralfate?<div><br /></div><div>{{c1::Increased ulcer healing; Traveler's \
 Diarrhea}}</div>"""
 extra = ""
-tags = 'Gastrointestinal::Pharmacology::unsorted'
+tags = 'Brosencephalon Gastrointestinal::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
@@ -7716,7 +7716,7 @@ text = """
 What is the MOA of Misoprostol?<div><br /></div><div>{{c1::Agonism at PGE<sub>1</sub>&nbsp;receptors, thereby increasing \
 production and secretion of the gastric mucosal barrier; Decreases gastric acid release}}</div>"""
 extra = '<br /><div><img src="paste-26203595473584.jpg" /></div>'
-tags = 'Gastrointestinal::Pharmacology::unsorted'
+tags = 'Brosencephalon Gastrointestinal::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
@@ -7725,28 +7725,28 @@ text = """
 {{c1::Misoprostol}} is a PGE<sub>1</sub>&nbsp;analog that functions to increase production/secretion of the gastric \
 mucous barrier and decreases acid production."""
 extra = '<br /><div><img src="paste-26203595473584.jpg" /></div>'
-tags = 'Gastrointestinal::Pharmacology::unsorted'
+tags = 'Brosencephalon Gastrointestinal::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
 note-id = 1405722561493
 text = '{{c1::Misoprostol}} is a PGE<sub>1</sub>&nbsp;analog that can be used to maintain a patent ductus arteriosus.'
 extra = ""
-tags = 'Gastrointestinal::Pharmacology::unsorted'
+tags = 'Brosencephalon Gastrointestinal::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
 note-id = 1405722599888
 text = 'Which somatostatin analog can be used to treat acute variceal bleeding?<div><br /></div><div>{{c1::Octreotide}}</div>'
 extra = ""
-tags = 'Gastrointestinal::Pharmacology::unsorted'
+tags = 'Brosencephalon Gastrointestinal::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
 note-id = 1405722644042
 text = 'Which acid-base imbalance can be caused by all antacids?<div><br /></div><div>{{c1::Hypokalemia}}</div>'
 extra = ""
-tags = 'Gastrointestinal::Pharmacology::unsorted'
+tags = 'Brosencephalon Gastrointestinal::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
@@ -7755,7 +7755,7 @@ text = """
 Which antacid is associated with <b>hypophosphatemia</b>&nbsp;in overuse?<div><br /></div><div>{{c1::Aluminum \
 hydroxide}}</div>"""
 extra = '<br /><div><i>Also involves proximal muscle weakness, osteodystrophy and seizures.</i></div>'
-tags = 'Gastrointestinal::Pharmacology::unsorted'
+tags = 'Brosencephalon Gastrointestinal::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
@@ -7764,7 +7764,7 @@ text = """
 Which antacid is associated with <b>hypercalcemia</b>&nbsp;and <b>rebound increases in acid</b>&nbsp;if \
 overused?<div><br /></div><div>{{c1::Calcium carbonate}}</div>"""
 extra = ""
-tags = 'Gastrointestinal::Pharmacology::unsorted'
+tags = 'Brosencephalon Gastrointestinal::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
@@ -7773,7 +7773,7 @@ text = """
 Which antacid is associated with <b>hyporeflexia, hypotension</b>&nbsp;and <b>cardiac arrest</b>&nbsp;if \
 overused?<div><br /></div><div>{{c1::Magnesium hydroxide}}</div>"""
 extra = ""
-tags = 'Gastrointestinal::Pharmacology::unsorted'
+tags = 'Brosencephalon Gastrointestinal::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
@@ -7784,14 +7784,14 @@ Which antacid can possibly <b>chelate</b>&nbsp;other drugs, thereby reducing the
 extra = """
 <br /><div><i>All antacids affect absorption, bioavailability or urinary excretion of other drugs as they alter gastric \
 and urinary pH and delay gastric emptying.</i></div>"""
-tags = 'Gastrointestinal::Pharmacology::unsorted'
+tags = 'Brosencephalon Gastrointestinal::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
 note-id = 1405723056250
 text = 'To which serotonin receptor does Ondansetron bind to inhibit nausea?<div><br /></div><div>{{c1::5-HT<sub>3</sub>}}</div>'
 extra = ""
-tags = 'Gastrointestinal::Pharmacology::unsorted'
+tags = 'Brosencephalon Gastrointestinal::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
@@ -7801,7 +7801,7 @@ What is the MOA of Metoclopramide in the treatment of diabetic/post-surgery gast
 /></div><div>{{c1::Antagonism at dopamine D<sub>2</sub>&nbsp;receptors; Increases the resting tone, contractility, LES \
 tone and motility of the GI tract}}</div>"""
 extra = '<br /><div><i>Obviously contraindicated in patients with small bowel obstruction or Parkinson Disease.</i></div>'
-tags = 'Gastrointestinal::Pharmacology::unsorted'
+tags = 'Brosencephalon Gastrointestinal::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
@@ -7810,7 +7810,7 @@ text = """
 {{c1::Metoclopramide}} is a Dopamine D<sub>2</sub>&nbsp;antagonist that is used to treat diabetic/post-surgery \
 gastroparesis and emesis."""
 extra = ""
-tags = 'Gastrointestinal::Pharmacology::unsorted'
+tags = 'Brosencephalon Gastrointestinal::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'

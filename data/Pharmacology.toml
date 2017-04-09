@@ -761,26 +761,26 @@ model = 'Cloze-Brosencephalon'
 note-id = 1404582660811
 text = 'What is the hematological toxicity of Cimetidine?<div><br /></div><div>{{c1::Thrombocytopenia}}</div>'
 extra = ""
-tags = 'Pharmacology::Toxicities-and-Side-Effects'
+tags = 'Brosencephalon Pharmacology::Toxicities-and-Side-Effects'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
 note-id = 1404584414970
 text = 'Which is the oral complication of Nifedipine?<div><br /></div><div>{{c1::Gingival hyperplasia}}</div>'
 extra = ""
-tags = 'Pharmacology::Toxicities-and-Side-Effects'
+tags = 'Brosencephalon Pharmacology::Toxicities-and-Side-Effects'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
 note-id = 1404595915141
 text = 'How does Modafinil influence cytochrome p450 activity?<div><br /></div><div>{{c1::Increase}}</div>'
 extra = '<div><img src="paste-12416750453390.jpg" /></div>'
-tags = 'Pharmacology::Toxicities-and-Side-Effects'
+tags = 'Brosencephalon Pharmacology::Toxicities-and-Side-Effects'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
 note-id = 1404596172193
 text = 'How does Gemfibrozil influence cytochrome p450 activity?<div><br /></div><div>{{c1::Decrease}}</div>'
 extra = '<div><img src="paste-13069585482402.jpg" /></div>'
-tags = 'Pharmacology::Toxicities-and-Side-Effects'
+tags = 'Brosencephalon Pharmacology::Toxicities-and-Side-Effects'
 

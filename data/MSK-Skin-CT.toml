@@ -7071,14 +7071,14 @@ text = 'Which enzyme acting on Arachidonic Acid yields Leukotrienes?<div><br /><
 extra = """
 <div><br /></div><i><b>L</b>ipoxygenase yields <b>L</b>eukotrienes.</i><br /><div><img src="paste-34325378630254.jpg" \
 /></div>"""
-tags = 'MSK-Skin-CT::Pharmacology::unsorted'
+tags = 'Brosencephalon MSK-Skin-CT::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
 note-id = 1397486919055
 text = 'Which Leukotriene is chemotactic for Neutrophils?<div><br /></div><div>{{c1::LTB<sub>4</sub>}}</div>'
 extra = '<br /><div><i><b>Neutrophils</b>&nbsp;arrive <b>B4</b>&nbsp;others.</i></div>'
-tags = 'MSK-Skin-CT::Pharmacology::unsorted'
+tags = 'Brosencephalon MSK-Skin-CT::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
@@ -7087,7 +7087,7 @@ text = 'Which leukocyte is attracted by LTB<sub>4</sub>?<div><br /></div><div>{{
 extra = """
 <br /><div><b><i>Neutrophils</i>&nbsp;</b><i>arrive <b>B4</b>&nbsp;everyone else.</i></div><div><i><!--anki--><img \
 src="paste-34325378630254.jpg" /></i></div>"""
-tags = 'MSK-Skin-CT::Pharmacology::unsorted'
+tags = 'Brosencephalon MSK-Skin-CT::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
@@ -7096,7 +7096,7 @@ text = """
 Which Prostacyclin inhibits platelet aggregation and promotes vasodilation?<div><br \
 /></div><div>{{c1::PGI<sub>2</sub>}}</div>"""
 extra = '<br /><div><!--anki--><img src="paste-34325378630254.jpg" /></div>'
-tags = 'MSK-Skin-CT::Pharmacology::unsorted'
+tags = 'Brosencephalon MSK-Skin-CT::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
@@ -7105,7 +7105,7 @@ text = """
 Which enzyme acting on Arachidonic Acid yields Prostaglandins, Prostacyclins and Thomboxane?<div><br \
 /></div><div>{{c1::Cycloooxygenase}}</div>"""
 extra = '<br /><div><!--anki--><img src="paste-34325378630254.jpg" /></div>'
-tags = 'MSK-Skin-CT::Pharmacology::unsorted'
+tags = 'Brosencephalon MSK-Skin-CT::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
@@ -7114,7 +7114,7 @@ text = """
 {{c1::LTC4}}, {{c2::LTD4}}, and&nbsp;{{c3::LTE4}} are Leukotrienes that function in bronchoconstriction, \
 vasoconstriction, smooth muscle contraction and increasing vascular permeability."""
 extra = '<br /><div><img src="paste-34325378630254.jpg" /></div>'
-tags = 'MSK-Skin-CT::Pharmacology::unsorted'
+tags = 'Brosencephalon MSK-Skin-CT::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
@@ -7125,7 +7125,7 @@ covalent acetylation}}</div>"""
 extra = """
 <br /><div><i>Thereby decreases Thromboxane, Prostaglandin and Prostacyclin synthesis.</i></div><div><i><br \
 /></i></div><div><i>"Why shouldn't you bring NSAIDs on a date? Because they're COX blockers!"</i></div>"""
-tags = 'MSK-Skin-CT::Pharmacology::unsorted'
+tags = 'Brosencephalon MSK-Skin-CT::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
@@ -7134,7 +7134,7 @@ text = """
 How does Bleeding Time (BT) change following Aspirin administration?<div><br /></div><div>{{c1::Increase; until new \
 platelets are made in ~7 days time}}</div>"""
 extra = ""
-tags = 'MSK-Skin-CT::Pharmacology::unsorted'
+tags = 'Brosencephalon MSK-Skin-CT::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
@@ -7143,7 +7143,7 @@ text = """
 How does PT change following Aspirin use?<div><br /></div><div>{{c1::No change; remember Aspirin <b>only affects \
 platelet aggregation</b>}}</div>"""
 extra = ""
-tags = 'MSK-Skin-CT::Pharmacology::unsorted'
+tags = 'Brosencephalon MSK-Skin-CT::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
@@ -7152,7 +7152,7 @@ text = """
 How does PTT change following Aspirin use?<div><br /></div><div>{{c1::No change; remember Aspirin <b>only affects \
 platelet aggregation</b>}}</div>"""
 extra = ""
-tags = 'MSK-Skin-CT::Pharmacology::unsorted'
+tags = 'Brosencephalon MSK-Skin-CT::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
@@ -7161,14 +7161,14 @@ text = """
 What dose of Aspirin is used to inhibit platelet aggregation?<div><br /></div><div>{{c1::Low Dose (&lt; 300 \
 mg/day)}}</div>"""
 extra = ""
-tags = 'MSK-Skin-CT::Pharmacology::unsorted'
+tags = 'Brosencephalon MSK-Skin-CT::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
 note-id = 1397488622642
 text = 'What phase of platelet plug formation is inhibited by Aspirin?<div><br /></div><div>{{c1::Platelet Aggregation}}</div>'
 extra = ""
-tags = 'MSK-Skin-CT::Pharmacology::unsorted'
+tags = 'Brosencephalon MSK-Skin-CT::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
@@ -7177,7 +7177,7 @@ text = """
 What dose of Aspirin is used to achieve antipyretic action and analgesia?<div><br /></div><div>{{c1::Intermediate \
 (300-2400 mg/day)}}</div>"""
 extra = ""
-tags = 'MSK-Skin-CT::Pharmacology::unsorted'
+tags = 'Brosencephalon MSK-Skin-CT::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
@@ -7186,7 +7186,7 @@ text = """
 What does of Aspirin is used to achieve anti-inflammatory action?<div><br /></div><div>{{c1::High (2400-4000 \
 mg/day)}}</div>"""
 extra = ""
-tags = 'MSK-Skin-CT::Pharmacology::unsorted'
+tags = 'Brosencephalon MSK-Skin-CT::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
@@ -7195,7 +7195,7 @@ text = """
 What GI complication is associated with Aspirin use?<div><br /></div><div>{{c1::Gastric ulceration; upper GI bleed with \
 chronic use}}</div>"""
 extra = ""
-tags = 'MSK-Skin-CT::Pharmacology::unsorted'
+tags = 'Brosencephalon MSK-Skin-CT::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
@@ -7204,7 +7204,7 @@ text = """
 What neurological complication is associated with Aspirin use?<div><br /></div><div>{{c1::Tinnitus (CN VIII \
 activation)}}</div>"""
 extra = ""
-tags = 'MSK-Skin-CT::Pharmacology::unsorted'
+tags = 'Brosencephalon MSK-Skin-CT::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
@@ -7213,7 +7213,7 @@ text = """
 Which renal complications are associated with chronic Aspirin use?<div><br /></div><div>{{c1::Acute Renal Failure; \
 Interstitial Nephritis}}</div>"""
 extra = ""
-tags = 'MSK-Skin-CT::Pharmacology::unsorted'
+tags = 'Brosencephalon MSK-Skin-CT::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
@@ -7222,7 +7222,7 @@ text = """
 {{c1::Reye Syndrome}} is a severe complication of Aspirin use commonly seen in children that are being treated with \
 Aspirin for a viral infection."""
 extra = '<br /><div><i>Acetaminophen is the DOC for analgesia/antipyresis in children with viral infections.</i></div>'
-tags = 'MSK-Skin-CT::Pharmacology::unsorted'
+tags = 'Brosencephalon MSK-Skin-CT::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
@@ -7231,7 +7231,7 @@ text = """
 {{c1::Hyperventilation}} is a respiratory complication that arises in Aspirin use due to stimulation of the respiratory \
 center."""
 extra = ""
-tags = 'MSK-Skin-CT::Pharmacology::unsorted'
+tags = 'Brosencephalon MSK-Skin-CT::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
@@ -7240,42 +7240,42 @@ text = """
 {{c1::Respiratory Alkalosis}} is an <b>acid-base imbalance</b>&nbsp;that is seen in Aspirin use due to stimulation of \
 the respiratory center and hyperventilation."""
 extra = ""
-tags = 'MSK-Skin-CT::Pharmacology::unsorted'
+tags = 'Brosencephalon MSK-Skin-CT::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
 note-id = 1397489014307
 text = 'What type of anti-inflammatory is Ibuprofen?<div><br /></div><div>{{c1::NSAID}}</div>'
 extra = ""
-tags = 'MSK-Skin-CT::Pharmacology::unsorted'
+tags = 'Brosencephalon MSK-Skin-CT::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
 note-id = 1397489055455
 text = 'What type of anti-inflammatory is&nbsp;Naproxen?<div><br /></div><div>{{c1::NSAID}}</div>'
 extra = ""
-tags = 'MSK-Skin-CT::Pharmacology::unsorted'
+tags = 'Brosencephalon MSK-Skin-CT::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
 note-id = 1397489060238
 text = 'What type of anti-inflammatory is&nbsp;Indomethacin?<div><br /></div><div>{{c1::NSAID}}</div>'
 extra = ""
-tags = 'MSK-Skin-CT::Pharmacology::unsorted'
+tags = 'Brosencephalon MSK-Skin-CT::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
 note-id = 1397489065579
 text = 'What type of anti-inflammatory is&nbsp;Ketorolac?<div><br /></div><div>{{c1::NSAID}}</div>'
 extra = ""
-tags = 'MSK-Skin-CT::Pharmacology::unsorted'
+tags = 'Brosencephalon MSK-Skin-CT::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
 note-id = 1397489072311
 text = 'What type of anti-inflammatory is&nbsp;Diclofenac?<div><br /></div><div>{{c1::NSAID}}</div>'
 extra = ""
-tags = 'MSK-Skin-CT::Pharmacology::unsorted'
+tags = 'Brosencephalon MSK-Skin-CT::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
@@ -7284,7 +7284,7 @@ text = """
 What is the MOA of NSAIDs?<div><br /></div><div>{{c1::<b>Reversible</b>&nbsp;inhibition of Cyclooxygenase (both COX1 and \
 COX2), thereby blocking prostaglandin synthesis}}</div>"""
 extra = ""
-tags = 'MSK-Skin-CT::Pharmacology::unsorted'
+tags = 'Brosencephalon MSK-Skin-CT::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
@@ -7293,14 +7293,14 @@ text = """
 Which NSAID is used to&nbsp;<b>close</b>&nbsp;a Patent Ductus Arteriosus?<div><br \
 /></div><div>{{c1::Indomethacin}}</div>"""
 extra = ""
-tags = 'MSK-Skin-CT::Pharmacology::unsorted'
+tags = 'Brosencephalon MSK-Skin-CT::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
 note-id = 1397489151325
 text = '{{c1::Gastric Ulcer}} is a GI complication of NSAID use due to the inhibition of prostaglandin synthesis at the stomach.'
 extra = ""
-tags = 'MSK-Skin-CT::Pharmacology::unsorted'
+tags = 'Brosencephalon MSK-Skin-CT::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
@@ -7309,7 +7309,7 @@ text = """
 {{c1::Renal Ischemia}} is a renal complication of NSAID use due to a lack of Prostaglandin synthesis and hence \
 vasocontriction of the afferent arteriole."""
 extra = '<br /><div><i>Prostaglandins <b>vasodilate</b>&nbsp;the afferent arteriole. This is blocked by NSAIDs.</i></div>'
-tags = 'MSK-Skin-CT::Pharmacology::unsorted'
+tags = 'Brosencephalon MSK-Skin-CT::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
@@ -7318,7 +7318,7 @@ text = """
 {{c1::Celecoxib}} is an NSAID that <b>selectively inhibits Cyclooxygenase 2 (COX2)</b>, which is found in inflammatory \
 cells and vascular endothelium (mediating pain and inflammation)."""
 extra = ""
-tags = 'MSK-Skin-CT::Pharmacology::unsorted'
+tags = 'Brosencephalon MSK-Skin-CT::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
@@ -7327,7 +7327,7 @@ text = """
 What is the MOA of Celecoxib?<div><br /></div><div>{{c1::Selective reversible inhibition of <b>Cyclooxygenase 2 \
 (COX2)</b>&nbsp;which is found in inflammatory cells and vascular endothelium}}</div>"""
 extra = ""
-tags = 'MSK-Skin-CT::Pharmacology::unsorted'
+tags = 'Brosencephalon MSK-Skin-CT::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
@@ -7336,21 +7336,21 @@ text = """
 Which isoform of Cyclooxygenase is found in inflammatory cells and vascular endothelium?<div><br \
 /></div><div>{{c1::COX2}}</div>"""
 extra = ""
-tags = 'MSK-Skin-CT::Pharmacology::unsorted'
+tags = 'Brosencephalon MSK-Skin-CT::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
 note-id = 1397489369222
 text = 'Which isoform of Cyclooxygenase is found at the gastric mucosa?<div><br /></div><div>{{c1::COX1}}</div>'
 extra = ""
-tags = 'MSK-Skin-CT::Pharmacology::unsorted'
+tags = 'Brosencephalon MSK-Skin-CT::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
 note-id = 1397489387909
 text = 'Which isoform of Cyclooxygenase produces Thromboxane A<sub>2</sub>?<div><br /></div><div>{{c1::COX1}}</div>'
 extra = ""
-tags = 'MSK-Skin-CT::Pharmacology::unsorted'
+tags = 'Brosencephalon MSK-Skin-CT::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
@@ -7359,7 +7359,7 @@ text = """
 {{c1::Celecoxib}} is an NSAID that selectively inhibits COX2, thereby sparing COX1 at the gastric mucosa and not causing \
 gastric ulceration."""
 extra = ""
-tags = 'MSK-Skin-CT::Pharmacology::unsorted'
+tags = 'Brosencephalon MSK-Skin-CT::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
@@ -7368,14 +7368,14 @@ text = """
 {{c1::Celecoxib}} is an NSAID that selectively inhibits COX2, thereby sparing platelet function as Thromboxane \
 A<sub>2</sub>&nbsp;production is dependent on COX1."""
 extra = ""
-tags = 'MSK-Skin-CT::Pharmacology::unsorted'
+tags = 'Brosencephalon MSK-Skin-CT::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
 note-id = 1397489511847
 text = 'Which type of anti-inflammatory is Celecoxib?<div><br /></div><div>{{c1::NSAID; Selective for COX2}}</div>'
 extra = ""
-tags = 'MSK-Skin-CT::Pharmacology::unsorted'
+tags = 'Brosencephalon MSK-Skin-CT::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
@@ -7384,14 +7384,14 @@ text = """
 {{c1::Celecoxib}} is an NSAID that is safe to use in patients with Gastritis or Gastric Ulcers as it does not affect \
 COX1 action at the stomach."""
 extra = ""
-tags = 'MSK-Skin-CT::Pharmacology::unsorted'
+tags = 'Brosencephalon MSK-Skin-CT::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
 note-id = 1397489757797
 text = '{{c1::Celecoxib}} is an NSAID selective for COX2 that is used to treat Rheumatoid Arthritis and Osteoarthritis.'
 extra = ""
-tags = 'MSK-Skin-CT::Pharmacology::unsorted'
+tags = 'Brosencephalon MSK-Skin-CT::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
@@ -7400,7 +7400,7 @@ text = """
 {{c1::Thrombosis}} is a hematological complication that has an increased risk of manifesting in Celecoxib use as it \
 spares platelet function as it is selective for COX2."""
 extra = ""
-tags = 'MSK-Skin-CT::Pharmacology::unsorted'
+tags = 'Brosencephalon MSK-Skin-CT::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
@@ -7409,7 +7409,7 @@ text = """
 {{c1::Acetaminophen}} is an antipyretic/analgesic that reversibly inhibits cyclooxygenase <b>in the CNS </b>as it is \
 typically inactivated peripherally."""
 extra = ""
-tags = 'MSK-Skin-CT::Pharmacology::unsorted'
+tags = 'Brosencephalon MSK-Skin-CT::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
@@ -7418,7 +7418,7 @@ text = """
 What is the MOA of Acetaminophen?<div><br /></div><div>{{c1::Reversible inhibition of Cyclooxygenase, <b>mostly in the \
 CNS</b>}}</div>"""
 extra = '<br /><div><i>It is inactivated peripherally.</i></div>'
-tags = 'MSK-Skin-CT::Pharmacology::unsorted'
+tags = 'Brosencephalon MSK-Skin-CT::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
@@ -7427,14 +7427,14 @@ text = """
 Which analgesic/antipyretic is used instead of Aspirin in children with viral infections to avoid Reye Syndrome?<div><br \
 /></div><div>{{c1::Acetaminophen}}</div>"""
 extra = '<br /><div><i>Acetaminophen is the DOC for analgesia/antipyresis in children with viral infections.</i></div>'
-tags = 'MSK-Skin-CT::Pharmacology::unsorted'
+tags = 'Brosencephalon MSK-Skin-CT::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
 note-id = 1397490150618
 text = '{{c1::Hepatic Necrosis}} is a classical complication of Acetaminophen overdose due to NAPQI toxicity.'
 extra = ""
-tags = 'MSK-Skin-CT::Pharmacology::unsorted'
+tags = 'Brosencephalon MSK-Skin-CT::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
@@ -7443,7 +7443,7 @@ text = """
 {{c1::NAPQI}} is a toxic metabolite of acetaminophen that depletes glutathione and forms toxic tissue adducts in the \
 liver, thereby causing Hepatic Necrosis and potentially liver failure."""
 extra = ""
-tags = 'MSK-Skin-CT::Pharmacology::unsorted'
+tags = 'Brosencephalon MSK-Skin-CT::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
@@ -7452,7 +7452,7 @@ text = """
 Which toxic metabolite of Acetaminophen depletes glutathione and forms toxic tissue adducts in the liver?<div><br \
 /></div><div>{{c1::NAPQI}}</div>"""
 extra = ""
-tags = 'MSK-Skin-CT::Pharmacology::unsorted'
+tags = 'Brosencephalon MSK-Skin-CT::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
@@ -7461,21 +7461,21 @@ text = """
 What is the antidote for Acetaminophen overdose?<div><br /></div><div>{{c1::N-Acetylcysteine; regenerates \
 glutathione}}</div>"""
 extra = ""
-tags = 'MSK-Skin-CT::Pharmacology::unsorted'
+tags = 'Brosencephalon MSK-Skin-CT::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
 note-id = 1397490307172
 text = '{{c1::N-acetylcysteine}} is the antidote for Acetaminophen overdose as it regenerates glutathione.'
 extra = ""
-tags = 'MSK-Skin-CT::Pharmacology::unsorted'
+tags = 'Brosencephalon MSK-Skin-CT::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
 note-id = 1397490340890
 text = '{{c1::Alendronate}} is a Bisphosphonate that binds to hydroxyapatite in bone, thereby inhibiting osteoclast activity.'
 extra = '<br /><div><i>-dronates are all Bisphosphonates.</i></div>'
-tags = 'MSK-Skin-CT::Pharmacology::unsorted'
+tags = 'Brosencephalon MSK-Skin-CT::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
@@ -7484,7 +7484,7 @@ text = """
 What is the MOA of Bisphosphonates (Alendronate; -dronate)?<div><br /></div><div>{{c1::Binds to hydroxyapatite in bone, \
 thereby inhibiting osteoclast activity}}</div>"""
 extra = ""
-tags = 'MSK-Skin-CT::Pharmacology::unsorted'
+tags = 'Brosencephalon MSK-Skin-CT::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
@@ -7493,7 +7493,7 @@ text = """
 {{c1::Bisphosphonates}} are a <b>type</b>&nbsp;of drug that are used in Osteoporosis, Hypercalcemia and Paget Disease of \
 Bone as they bind hydroxyapatite in bone to inhibit osteoclast activity."""
 extra = ""
-tags = 'MSK-Skin-CT::Pharmacology::unsorted'
+tags = 'Brosencephalon MSK-Skin-CT::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
@@ -7502,7 +7502,7 @@ text = """
 {{c1::Corrosive Esophagitis}} is a GI complication of Bisphosphonates that arises if patients do not take the drug with \
 water and remain upright for 30 minutes."""
 extra = ""
-tags = 'MSK-Skin-CT::Pharmacology::unsorted'
+tags = 'Brosencephalon MSK-Skin-CT::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
@@ -7511,7 +7511,7 @@ text = """
 Osteonecrosis is a complication of Bisphosphonate administration. Where does it commonly occur?<div><br \
 /></div><div>{{c1::The jaw}}</div>"""
 extra = ""
-tags = 'MSK-Skin-CT::Pharmacology::unsorted'
+tags = 'Brosencephalon MSK-Skin-CT::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
@@ -7520,7 +7520,7 @@ text = """
 What is the MOA of Allopurinol?<div><br /></div><div>{{c1::Inhibition of Xanthine Oxidase, thereby decreasing the \
 converstion of xanthine to uric acid}}</div>"""
 extra = '<br /><div><img src="paste-41652592837187.jpg" /></div>'
-tags = 'MSK-Skin-CT::Pharmacology::unsorted'
+tags = 'Brosencephalon MSK-Skin-CT::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
@@ -7529,7 +7529,7 @@ text = """
 {{c1::Allopurinol}} is a chronic gout drug that is also used in Lymphoma and Leukemia to prevent tumour lysis-associated \
 urate nephropathy."""
 extra = ""
-tags = 'MSK-Skin-CT::Pharmacology::unsorted'
+tags = 'Brosencephalon MSK-Skin-CT::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
@@ -7538,7 +7538,7 @@ text = """
 Which chronic gout drug is also used in Lymphoma and Leukemia to prevent tumour lysis-associated urate \
 nephropathy?<div><br /></div><div>{{c1::Allopurinol}}</div>"""
 extra = ""
-tags = 'MSK-Skin-CT::Pharmacology::unsorted'
+tags = 'Brosencephalon MSK-Skin-CT::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
@@ -7547,7 +7547,7 @@ text = """
 How does Allopurinol affect the concentrations of Azathioprine and 6-Mercaptopurine?<div><br \
 /></div><div>{{c1::Increases both, as both are normally metabolized by Xanthine Oxidase}}</div>"""
 extra = ""
-tags = 'MSK-Skin-CT::Pharmacology::unsorted'
+tags = 'Brosencephalon MSK-Skin-CT::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
@@ -7556,7 +7556,7 @@ text = """
 {{c1::Allopurinol}} is a chronic gout drug that <b>increases</b>&nbsp;the concentrations of Azathioprine and \
 6-Mercaptopurine, as they are both metabolized by Xanthine Oxidase."""
 extra = ""
-tags = 'MSK-Skin-CT::Pharmacology::unsorted'
+tags = 'Brosencephalon MSK-Skin-CT::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
@@ -7567,7 +7567,7 @@ uric acid clearance."""
 extra = """
 <br /><div><i>Even high doses (5-6 g/day) have <b>minor</b>&nbsp;uricosuric activity.</i></div><div><i><br \
 /></i></div><div><i><img src="paste-43001212568126.jpg" /></i></div>"""
-tags = 'MSK-Skin-CT::Pharmacology::unsorted'
+tags = 'Brosencephalon MSK-Skin-CT::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
@@ -7576,28 +7576,28 @@ text = """
 What <b>type of chemical/drug</b>&nbsp;is contraindicated in Allopurinol therapy as they depress Uric Acid \
 clearance?<div><br /></div><div>{{c1::Salicylates}}</div>"""
 extra = '<br /><div><img src="paste-43001212568126.jpg" /></div>'
-tags = 'MSK-Skin-CT::Pharmacology::unsorted'
+tags = 'Brosencephalon MSK-Skin-CT::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
 note-id = 1397491240715
 text = 'What is the MOA of Febuxostat?<div><br /></div><div>{{c1::Inhibition of Xanthine Oxidase}}</div>'
 extra = '<br /><div><img src="paste-43005507535422.jpg" /></div>'
-tags = 'MSK-Skin-CT::Pharmacology::unsorted'
+tags = 'Brosencephalon MSK-Skin-CT::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
 note-id = 1397491261524
 text = 'What is the clinical use of Febuxostat?<div><br /></div><div>{{c1::Chronic Gout (or prevention)}}</div>'
 extra = ""
-tags = 'MSK-Skin-CT::Pharmacology::unsorted'
+tags = 'Brosencephalon MSK-Skin-CT::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
 note-id = 1397491276340
 text = 'What is the primary clinical use of Allopurinol?<div><br /></div><div>{{c1::Chronic Gout (or prevention)}}</div>'
 extra = ""
-tags = 'MSK-Skin-CT::Pharmacology::unsorted'
+tags = 'Brosencephalon MSK-Skin-CT::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
@@ -7608,7 +7608,7 @@ Proximal Convoluted Tubule (PCT)}}</div>"""
 extra = """
 <br /><div><i>It also inhibits the <b>secretion</b>&nbsp;of Penicillin and can be used to maintain penicillin \
 levels.</i></div><div><i><br /></i></div><div><i><img src="paste-43001212568126.jpg" /></i></div>"""
-tags = 'MSK-Skin-CT::Pharmacology::unsorted'
+tags = 'Brosencephalon MSK-Skin-CT::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
@@ -7617,14 +7617,14 @@ text = """
 {{c1::Probenecid}} is a chronic gout drug that is functions by inhibiting the <b>rebsorption </b>of Uric Acid in the \
 PCT."""
 extra = '<br /><div><img src="paste-43001212568126.jpg" /></div>'
-tags = 'MSK-Skin-CT::Pharmacology::unsorted'
+tags = 'Brosencephalon MSK-Skin-CT::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
 note-id = 1397491448302
 text = '{{c1::Probenecid}} is a chronic gout drug that also inhibits the <b>secretion</b>&nbsp;of Penicillin into the urine.'
 extra = '<br /><div><img src="paste-43001212568126.jpg" /></div>'
-tags = 'MSK-Skin-CT::Pharmacology::unsorted'
+tags = 'Brosencephalon MSK-Skin-CT::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
@@ -7633,14 +7633,14 @@ text = """
 Which chronic gout drug inhibits the <b>reabsorption</b>&nbsp;of Uric Acid at the Proximal Convoluted Tubule \
 (PCT)?<div><br /></div><div>{{c1::Probenecid}}</div>"""
 extra = '<br /><div><img src="paste-43001212568126.jpg" /></div>'
-tags = 'MSK-Skin-CT::Pharmacology::unsorted'
+tags = 'Brosencephalon MSK-Skin-CT::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
 note-id = 1397491540243
 text = 'Which NSAIDs are used to treat acute gout?<div><br /></div><div>{{c1::Naproxen; Indomethacin}}</div>'
 extra = ""
-tags = 'MSK-Skin-CT::Pharmacology::unsorted'
+tags = 'Brosencephalon MSK-Skin-CT::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
@@ -7649,7 +7649,7 @@ text = """
 What is the ROA of Glucocorticoids being used to treat Acute Gout?<div><br /></div><div>{{c1::Oral; \
 Intraarticular}}</div>"""
 extra = ""
-tags = 'MSK-Skin-CT::Pharmacology::unsorted'
+tags = 'Brosencephalon MSK-Skin-CT::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
@@ -7658,14 +7658,14 @@ text = """
 What is the MOA of Colchicine?<div><br /></div><div>{{c1::Binds to and stabilizes Tubulin, thereby inhibiting \
 microtubule polymerization and impairing leukocyte chemotaxis/degranulation}}</div>"""
 extra = ""
-tags = 'MSK-Skin-CT::Pharmacology::unsorted'
+tags = 'Brosencephalon MSK-Skin-CT::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
 note-id = 1397491643020
 text = 'What is the primary clinical use of Colchicine?<div><br /></div><div>{{c1::Acute Gout}}</div>'
 extra = ""
-tags = 'MSK-Skin-CT::Pharmacology::unsorted'
+tags = 'Brosencephalon MSK-Skin-CT::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
@@ -7674,14 +7674,14 @@ text = """
 {{c1::Colchicine}} is an acute gout drug that binds to an stabilizes Tubulin to inhibit microtubule polymerization, \
 thereby imparing Leukocyte chemotaxis and degranulation."""
 extra = ""
-tags = 'MSK-Skin-CT::Pharmacology::unsorted'
+tags = 'Brosencephalon MSK-Skin-CT::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
 note-id = 1397491690485
 text = 'What side effect are associated with Colchicine?<div><br /></div><div>{{c1::GI}}</div>'
 extra = ""
-tags = 'MSK-Skin-CT::Pharmacology::unsorted'
+tags = 'Brosencephalon MSK-Skin-CT::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
@@ -7690,28 +7690,28 @@ text = """
 What is the MOA of Etanercept?<div><br /></div><div>{{c1::Recombinant fusion protein that acts as a TNF decoy receptor, \
 thereby preventing TNF from binding to actual receptors and inhibiting the proinflammatory response}}</div>"""
 extra = ""
-tags = 'MSK-Skin-CT::Pharmacology::unsorted'
+tags = 'Brosencephalon MSK-Skin-CT::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
 note-id = 1397491876545
 text = '{{c1::Etanercept}} is an anti-inflammatory that acts as a TNF decory receptor.'
 extra = ""
-tags = 'MSK-Skin-CT::Pharmacology::unsorted'
+tags = 'Brosencephalon MSK-Skin-CT::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
 note-id = 1397491909556
 text = 'What is the MOA of Infliximab?<div><br /></div><div>{{c1::Monoclonal Ab; Binds to and inhibits TNF-alpha}}</div>'
 extra = ""
-tags = 'MSK-Skin-CT::Pharmacology::unsorted'
+tags = 'Brosencephalon MSK-Skin-CT::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
 note-id = 1397491943001
 text = 'What is the MOA of Adalimumab?<div><br /></div><div>{{c1::Monoclonal Ab; Binds to an inhibits TNF-alpha}}</div>'
 extra = ""
-tags = 'MSK-Skin-CT::Pharmacology::unsorted'
+tags = 'Brosencephalon MSK-Skin-CT::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
@@ -7720,7 +7720,7 @@ text = """
 How do TNF-alpha inhibitors influence infection risk?<div><br /></div><div>{{c1::Increased risk, especially with TB as \
 TNF is needed to activate macrophages and induce phagocytic destruction of microbes}}</div>"""
 extra = ""
-tags = 'MSK-Skin-CT::Pharmacology::unsorted'
+tags = 'Brosencephalon MSK-Skin-CT::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
@@ -7729,7 +7729,7 @@ text = """
 Which joint disorder is treated with TNF-alpha inhibitors (Etanercept; Infliximab, Adalimumab)?<div><br \
 /></div><div>{{c1::Rheumatoid Arthritis}}</div>"""
 extra = ""
-tags = 'MSK-Skin-CT::Pharmacology::unsorted'
+tags = 'Brosencephalon MSK-Skin-CT::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
@@ -7738,7 +7738,7 @@ text = """
 Which Seronegative Spondyloarthropathy can be treated with&nbsp;TNF-alpha inhibitors (Etanercept; Infliximab, \
 Adalimumab)?<div><br /></div><div>{{c1::Ankylosing Spondylitis}}</div>"""
 extra = ""
-tags = 'MSK-Skin-CT::Pharmacology::unsorted'
+tags = 'Brosencephalon MSK-Skin-CT::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
@@ -7747,7 +7747,7 @@ text = """
 Which skin disorder can be treated with&nbsp;TNF-alpha inhibitors (Etanercept; Infliximab, Adalimumab)?<div><br \
 /></div><div>{{c1::Psoriasis}}</div>"""
 extra = ""
-tags = 'MSK-Skin-CT::Pharmacology::unsorted'
+tags = 'Brosencephalon MSK-Skin-CT::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
@@ -7756,7 +7756,7 @@ text = """
 Which GI disorder can be treated with Infliximab and Adalimumab?<div><br /></div><div>{{c1::Inflammatory Bowel Disease \
 (Crohn Disease and Ulcerative Colitis)}}</div>"""
 extra = ""
-tags = 'MSK-Skin-CT::Pharmacology::unsorted'
+tags = 'Brosencephalon MSK-Skin-CT::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'

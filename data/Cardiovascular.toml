@@ -8819,14 +8819,14 @@ text = """
 What is the MOA of Nitroprusside?<div><br /></div><div>{{c1::Increases cGMP in smooth muscle via direct release of \
 NO}}</div>"""
 extra = ""
-tags = 'Cardiovascular::Pharmacology::unsorted'
+tags = 'Brosencephalon Cardiovascular::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
 note-id = 1397699460935
 text = 'What is the duration of action of Nitroprusside?<div><br /></div><div>{{c1::Short}}</div>'
 extra = ""
-tags = 'Cardiovascular::Pharmacology::unsorted'
+tags = 'Brosencephalon Cardiovascular::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
@@ -8842,7 +8842,7 @@ model = 'Cloze-Brosencephalon'
 note-id = 1397699489450
 text = 'What toxicity is associated with Nitroprusside?<div><br /></div><div>{{c1::Cyanide toxicity}}</div>'
 extra = ""
-tags = 'Cardiovascular::Pharmacology::unsorted'
+tags = 'Brosencephalon Cardiovascular::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
@@ -8881,14 +8881,14 @@ model = 'Cloze-Brosencephalon'
 note-id = 1397699973563
 text = 'What is the clinical use of Nitroprusside?<div><br /></div><div>{{c1::Hypertensive Emergency}}</div>'
 extra = ""
-tags = 'Cardiovascular::Pharmacology::unsorted'
+tags = 'Brosencephalon Cardiovascular::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
 note-id = 1397699986594
 text = 'What is the clinical use of Fenoldopam?<div><br /></div><div>{{c1::Hypertensive Emergency}}</div>'
 extra = ""
-tags = 'Cardiovascular::Pharmacology::unsorted'
+tags = 'Brosencephalon Cardiovascular::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
@@ -8915,7 +8915,7 @@ text = """
 Which Dopamine D1 agonist is commonly used to treat Hypertensive Emergency?<div><br \
 /></div><div>{{c1::Fenoldopam}}</div>"""
 extra = ""
-tags = 'Cardiovascular::Pharmacology::unsorted'
+tags = 'Brosencephalon Cardiovascular::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
@@ -8924,7 +8924,7 @@ text = """
 What is the MOA of Nitroglycerin?<div><br /></div><div>{{c1::Increases NO in vascular smooth muscle, thereby causing an \
 increase in cGMP and smooth muscle relaxation}}</div>"""
 extra = ""
-tags = 'Cardiovascular::Pharmacology::unsorted'
+tags = 'Brosencephalon Cardiovascular::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
@@ -8933,7 +8933,7 @@ text = """
 What is the MOA of Isosorbide Dinitrate?<div><br /></div><div>{{c1::Increases NO in vascular smooth muscle, thereby \
 causing an increase in cGMP and smooth muscle relaxation}}</div>"""
 extra = ""
-tags = 'Cardiovascular::Pharmacology::unsorted'
+tags = 'Brosencephalon Cardiovascular::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
@@ -8942,7 +8942,7 @@ text = """
 Which <b>type</b>&nbsp;of blood vessels are preferentially dilated by Nitroglycerin and Isosorbide Dinitrate?<div><br \
 /></div><div>{{c1::<b>Veins</b>&nbsp;&gt;&gt; arteries}}</div>"""
 extra = ""
-tags = 'Cardiovascular::Pharmacology::unsorted'
+tags = 'Brosencephalon Cardiovascular::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
@@ -8958,7 +8958,7 @@ model = 'Cloze-Brosencephalon'
 note-id = 1397701638414
 text = 'How do Nitroglycerin and Isosorbide Dinitrate change preload?<div><br /></div><div>{{c1::Decrease}}</div>'
 extra = ""
-tags = 'Cardiovascular::Pharmacology::unsorted'
+tags = 'Brosencephalon Cardiovascular::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
@@ -8967,7 +8967,7 @@ text = """
 What is the treatment for Reflex Tachycardia caused by Nitroglycerin or Isosorbide Dinitrate?<div><br \
 /></div><div>{{c1::β-blockers}}</div>"""
 extra = ""
-tags = 'Cardiovascular::Pharmacology::unsorted'
+tags = 'Brosencephalon Cardiovascular::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
@@ -8979,7 +8979,7 @@ extra = """
 <br /><div><i>Involves the development of tolerance to the drug during the work week (via industrial exposure) and a \
 loss of tolerance over the weekend.&nbsp;</i><i>Hence when the person returns to work on Monday there is tachycardia, \
 dizziness and headache when they are re-exposed.</i></div>"""
-tags = 'Cardiovascular::Pharmacology::unsorted'
+tags = 'Brosencephalon Cardiovascular::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
@@ -8991,7 +8991,7 @@ extra = """
 <br /><div><i>Involves the development of tolerance to the drug during the work week (via industrial exposure) and a \
 loss of tolerance over the weekend.&nbsp;</i><i>Hence when the person returns to work on Monday there is tachycardia, \
 dizziness and headache when they are re-exposed.</i></div>"""
-tags = 'Cardiovascular::Pharmacology::unsorted'
+tags = 'Brosencephalon Cardiovascular::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
@@ -9002,7 +9002,7 @@ tolerance to the drug during the work week (via industrial exposure) and a loss 
 extra = """
 <br /><div><i>Hence when the person returns to work on Monday there is tachycardia, dizziness and headache when they are \
 re-exposed.</i></div>"""
-tags = 'Cardiovascular::Pharmacology::unsorted'
+tags = 'Brosencephalon Cardiovascular::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
@@ -9029,14 +9029,14 @@ text = """
 How does the administration of Nitrates change cardiac contractility?<div><br /></div><div>{{c1::Increased <b>via reflex \
 response</b>}}</div>"""
 extra = '<br /><div><img src="paste-34531537060192.jpg" /></div>'
-tags = 'Cardiovascular::Pharmacology::unsorted'
+tags = 'Brosencephalon Cardiovascular::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
 note-id = 1397702486208
 text = 'How does the administration of Nitrates change HR?<div><br />{{c1::Increase <b>via reflex response</b>}}</div>'
 extra = '<br /><div><img src="paste-34531537060192.jpg" /></div>'
-tags = 'Cardiovascular::Pharmacology::unsorted'
+tags = 'Brosencephalon Cardiovascular::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
@@ -9054,7 +9054,7 @@ text = """
 How does the administration of Nitrates change Myocardial O<sub>2</sub>&nbsp;consumptions (MVO<sub>2</sub>)?<div><br \
 /></div><div>{{c1::Decrease}}</div>"""
 extra = '<br /><div><img src="paste-34535832027488.jpg" /></div>'
-tags = 'Cardiovascular::Pharmacology::unsorted'
+tags = 'Brosencephalon Cardiovascular::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
@@ -9063,7 +9063,7 @@ text = 'How does the administration of β-blockers change EDV?<div><br /></div><
 extra = """
 <br /><div><i>β-blockade = vasoconstriction = increased venous return = <b>increased EDV</b></i></div><div><i><b><img \
 src="paste-34531537060192.jpg" /></b></i></div>"""
-tags = 'Cardiovascular::Pharmacology::unsorted'
+tags = 'Brosencephalon Cardiovascular::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
@@ -9072,7 +9072,7 @@ text = 'How does the administration of β-blockers change Blood Pressure?<div><b
 extra = """
 <br /><div><i>Beta blockade = decreased HR = decreased CO (that greatly overcomes the increase in TPR) = <b>decreased \
 BP</b></i></div><div><i><b><img src="paste-34531537060192.jpg" /></b></i></div>"""
-tags = 'Cardiovascular::Pharmacology::unsorted'
+tags = 'Brosencephalon Cardiovascular::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
@@ -9081,14 +9081,14 @@ text = 'How does the administration of β-blockers change cardiac contractility?
 extra = """
 <br /><div><i>Beta-agonists would increase contractility.</i></div><div><i><img src="paste-34531537060192.jpg" \
 /></i></div>"""
-tags = 'Cardiovascular::Pharmacology::unsorted'
+tags = 'Brosencephalon Cardiovascular::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
 note-id = 1397702709414
 text = 'How does the administration of β-blockers change HR?<div><br /></div><div>{{c1::Decrease}}</div>'
 extra = '<br /><div><i>Beta-agonists would increase HR</i></div><div><i><img src="paste-34531537060192.jpg" /></i></div>'
-tags = 'Cardiovascular::Pharmacology::unsorted'
+tags = 'Brosencephalon Cardiovascular::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
@@ -9097,7 +9097,7 @@ text = 'How does the administration of β-blockers change Ejection Time?<div><br
 extra = """
 <br /><div><i>β-blockade = vasoconstriction = increased TPR = increased venous return = increased EDV = increased SV = \
 <b>increased Ejection Time</b></i></div><div><i><b><img src="paste-34531537060192.jpg" /></b></i></div>"""
-tags = 'Cardiovascular::Pharmacology::unsorted'
+tags = 'Brosencephalon Cardiovascular::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
@@ -9106,7 +9106,7 @@ text = """
 How does the administration of β-blockers change Myocardial O<sub>2</sub>&nbsp;consumption (MVO<sub>2</sub>)?<div><br \
 /></div><div>{{c1::Decrease}}&nbsp;</div>"""
 extra = '<br /><div><img src="paste-34531537060192.jpg" /></div>'
-tags = 'Cardiovascular::Pharmacology::unsorted'
+tags = 'Brosencephalon Cardiovascular::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
@@ -9129,7 +9129,7 @@ model = 'Cloze-Brosencephalon'
 note-id = 1397702874185
 text = '{{c1::Pindolol}} and&nbsp;{{c2::Acebutolol}} are partial beta-agonists that are contraindicated in angina.'
 extra = ""
-tags = 'Cardiovascular::Pharmacology::unsorted'
+tags = 'Brosencephalon Cardiovascular::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'

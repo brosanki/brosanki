@@ -8869,42 +8869,42 @@ model = 'Cloze-Brosencephalon'
 note-id = 1397226484821
 text = '{{c1::Heparin}} is an anticoagulant that functions by acting as a cofactor for the activation of Antithrombin.'
 extra = '<br /><div><i>Thereby decreasing Thrombin (IIa) and Factor Xa levels.</i></div>'
-tags = 'Hematology-Oncology::Pharmacology::unsorted'
+tags = 'Brosencephalon Hematology-Oncology::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
 note-id = 1397226584007
 text = 'What is the MOA of Heparin?<div><br /></div><div>{{c1::Cofactor for the activation of Antithrombin}}</div>'
 extra = '<br /><div><i>Thereby decreasing Thrombin (Factor IIa) and Factor Xa levels.</i></div>'
-tags = 'Hematology-Oncology::Pharmacology::unsorted'
+tags = 'Brosencephalon Hematology-Oncology::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
 note-id = 1397226612776
 text = 'What is the half-life of Heparin?<div><br /></div><div>{{c1::Short}}</div>'
 extra = ""
-tags = 'Hematology-Oncology::Pharmacology::unsorted'
+tags = 'Brosencephalon Hematology-Oncology::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
 note-id = 1397226622835
 text = 'Which coagulation test is used to gauge the action of Heparin?<div><br /></div><div>{{c1::PTT}}</div>'
 extra = '<br /><div><i>3 letters = Hep = PTT</i></div>'
-tags = 'Hematology-Oncology::Pharmacology::unsorted'
+tags = 'Brosencephalon Hematology-Oncology::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
 note-id = 1397226704783
 text = 'What is the toxicity of Heparin at bone?<div><br /></div><div>{{c1::Osteoporosis}}</div>'
 extra = ""
-tags = 'Hematology-Oncology::Pharmacology::unsorted'
+tags = 'Brosencephalon Hematology-Oncology::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
 note-id = 1397226740584
 text = 'What is the most common adverse effect of Heparin?<div><br /></div><div>{{c1::Bleeding}}</div>'
 extra = ""
-tags = 'Hematology-Oncology::Pharmacology::unsorted'
+tags = 'Brosencephalon Hematology-Oncology::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
@@ -8913,14 +8913,14 @@ text = """
 {{c1::Protamine Sulfate}} is a positively charged molecule that is used as an antidote to Heparin as it binds to the \
 negatively charged Heparin molecules."""
 extra = ""
-tags = 'Hematology-Oncology::Pharmacology::unsorted'
+tags = 'Brosencephalon Hematology-Oncology::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
 note-id = 1397226792260
 text = 'What is the antidote to Heparin?<div><br /></div><div>{{c1::Protamine Sulfate}}</div>'
 extra = '<br /><div><i>A positively charged moc that binds to negatively charged Heparin.</i></div>'
-tags = 'Hematology-Oncology::Pharmacology::unsorted'
+tags = 'Brosencephalon Hematology-Oncology::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
@@ -8931,7 +8931,7 @@ development of <b>IgG antibodies against Heparin bound to Platelet Factor 4 (PF4
 extra = """
 <br /><div><i>The antibody-heparin-PF4 complex activates platelets and causes thrombosis and subsequent \
 thrombocytopenia.</i></div>"""
-tags = 'Hematology-Oncology::Pharmacology::unsorted'
+tags = 'Brosencephalon Hematology-Oncology::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
@@ -8940,7 +8940,7 @@ text = """
 What do the IgG antibodies in Heparin-induced Thrombocytopenia (HIT) target?<div><br /></div><div>{{c1::Heparin bound to \
 platelet factor 4 (PF4)}}</div>"""
 extra = '<br /><div><i>Then, the antibody-heparin-pf4 complex activated platelets and thrombosis occurs.</i></div>'
-tags = 'Hematology-Oncology::Pharmacology::unsorted'
+tags = 'Brosencephalon Hematology-Oncology::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
@@ -8951,7 +8951,7 @@ similarly to normal Heparin (HMWH), however they act more on Factor Xa."""
 extra = """
 <br /><div><i>They also have better bioavailability and 2-4x longer half-life.</i></div><div><i>ROA is \
 SC.</i></div><div><i>No laboratory monitoring is required.</i></div>"""
-tags = 'Hematology-Oncology::Pharmacology::unsorted'
+tags = 'Brosencephalon Hematology-Oncology::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
@@ -8960,7 +8960,7 @@ text = """
 Which coagulation factor is primarily targeted by Heparin (HWMH)?<div><br /></div><div>{{c1::Thrombin (Factor IIa) and \
 Factor Xa}}</div>"""
 extra = ""
-tags = 'Hematology-Oncology::Pharmacology::unsorted'
+tags = 'Brosencephalon Hematology-Oncology::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
@@ -8969,28 +8969,28 @@ text = """
 Which coagulation factor is primarily targeted by Enoxaparin and Dalteparin (LMWH)?<div><br /></div><div>{{c1::Factor \
 Xa}}</div>"""
 extra = ""
-tags = 'Hematology-Oncology::Pharmacology::unsorted'
+tags = 'Brosencephalon Hematology-Oncology::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
 note-id = 1397227244177
 text = 'Which type of Heparin has better bioavailability and 2-4x longer half-life?<div><br /></div><div>{{c1::LMWH}}</div>'
 extra = ""
-tags = 'Hematology-Oncology::Pharmacology::unsorted'
+tags = 'Brosencephalon Hematology-Oncology::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
 note-id = 1397227302325
 text = 'What is the ROA of Low Molecular Weight Heparin (LMWH)?<div><br /></div><div>{{c1::SC}}</div>'
 extra = ""
-tags = 'Hematology-Oncology::Pharmacology::unsorted'
+tags = 'Brosencephalon Hematology-Oncology::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
 note-id = 1397227315703
 text = 'Which form of Heparin <b>does not</b>&nbsp;require laboratory monitoring?<div><br /></div><div>{{c1::LMWH}}</div>'
 extra = ""
-tags = 'Hematology-Oncology::Pharmacology::unsorted'
+tags = 'Brosencephalon Hematology-Oncology::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
@@ -8999,7 +8999,7 @@ text = """
 {{c1::Argatroban}} and&nbsp;{{c2::Bivalirudin}} are hirudin anticoagulants that are derived from the anticoagulant used \
 by leeches."""
 extra = ""
-tags = 'Hematology-Oncology::Pharmacology::unsorted'
+tags = 'Brosencephalon Hematology-Oncology::Pharmacology::direct-thrombin-inhibitors'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
@@ -9008,7 +9008,7 @@ text = """
 What is the MOA of Argatroban and Bivalirudin (hirudin anticoagulants)?<div><br /></div><div>{{c1::Direct inhibition of \
 Thrombin (Factor IIa)}}</div>"""
 extra = ""
-tags = 'Hematology-Oncology::Pharmacology::unsorted'
+tags = 'Brosencephalon Hematology-Oncology::Pharmacology::direct-thrombin-inhibitors'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
@@ -9017,7 +9017,7 @@ text = """
 {{c1::Argatroban}} and&nbsp;{{c2::Bivalirudin}} are hirudin anticoagulants used instead of Heparin in patients that have \
 Heparin-induced Thrombocytopenia that function by directly inhibiting Thrombin."""
 extra = '<br /><div><i>Lepirudin is also another example not in FA2014.</i></div>'
-tags = 'Hematology-Oncology::Pharmacology::unsorted'
+tags = 'Brosencephalon Hematology-Oncology::Pharmacology::direct-thrombin-inhibitors'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
@@ -9028,28 +9028,28 @@ and&nbsp;γ-carboxylation of Vitamin-K dependent clotting factors (II, VII, IX, 
 extra = """
 <div><br /></div><i>By acting as a Vitamin K antagonist.</i><br /><div><i>People always forget about Protein C and S. \
 Don't be that guy.</i></div>"""
-tags = 'Hematology-Oncology::Pharmacology::unsorted'
+tags = 'Brosencephalon Hematology-Oncology::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
 note-id = 1397229858709
 text = '{{c1::Warfarin}} is an <b>oral</b>&nbsp;anticoagulant that is metabolized by the cytochrome P450 pathway.'
 extra = ""
-tags = 'Hematology-Oncology::Pharmacology::unsorted'
+tags = 'Brosencephalon Hematology-Oncology::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
 note-id = 1397229900324
 text = 'Which coagulation test is used to gauge the action of Warfarin?<div><br /></div><div>{{c1::PT (and INR)}}</div>'
 extra = '<br /><div><i>Warfarin has a greater effect on the extrinsic pathway (Factor VII)</i></div>'
-tags = 'Hematology-Oncology::Pharmacology::unsorted'
+tags = 'Brosencephalon Hematology-Oncology::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
 note-id = 1397230173819
 text = 'What is the half-life of Warfarin?<div><br /></div><div>{{c1::Long}}</div>'
 extra = ""
-tags = 'Hematology-Oncology::Pharmacology::unsorted'
+tags = 'Brosencephalon Hematology-Oncology::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
@@ -9058,14 +9058,14 @@ text = """
 What is the MOA of Warfarin?<div><br />{{c1::Inhibition of normal synthesis and γ-carboxylation of Vitamin K-dependent \
 clotting factors by acting at a Vitamin K antagonist}}</div>"""
 extra = '<br /><div><i>Factors II, VII, IX and X as well as Protein C and S.</i></div>'
-tags = 'Hematology-Oncology::Pharmacology::unsorted'
+tags = 'Brosencephalon Hematology-Oncology::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
 note-id = 1397230252842
 text = 'Which anticoagulant is used for <b>chronic</b>&nbsp;anticoagulation?<div><br /></div><div>{{c1::Warfarin}}</div>'
 extra = ""
-tags = 'Hematology-Oncology::Pharmacology::unsorted'
+tags = 'Brosencephalon Hematology-Oncology::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
@@ -9074,7 +9074,7 @@ text = """
 What is the anticoagulant of choice for the prevention of stroke in atrial fibrillation patients?<div><br \
 /></div><div>{{c1::Warfarin}}</div>"""
 extra = ""
-tags = 'Hematology-Oncology::Pharmacology::unsorted'
+tags = 'Brosencephalon Hematology-Oncology::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
@@ -9083,14 +9083,14 @@ text = """
 What is the anticoagulant of choice to achieve <b>immediate</b>&nbsp;anticoagulation?<div><br \
 /></div><div>{{c1::Heparin}}</div>"""
 extra = ""
-tags = 'Hematology-Oncology::Pharmacology::unsorted'
+tags = 'Brosencephalon Hematology-Oncology::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
 note-id = 1397230448209
 text = 'What is the pregnancy category of Warfarin?<div><br /></div><div>{{c1::X (contraindicated)}}</div>'
 extra = '<br /><div><i>Can freely cross the placenta and is teratogenic</i></div>'
-tags = 'Hematology-Oncology::Pharmacology::unsorted'
+tags = 'Brosencephalon Hematology-Oncology::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
@@ -9099,14 +9099,14 @@ text = """
 {{c1::Skin/Tissue Necrosis}} is a possible complication of Warfarin administration that involves necrosis of skin or \
 other soft tissue.<div><br /></div><div><img src="paste-3620657430743.jpg" /></div>"""
 extra = ""
-tags = 'Hematology-Oncology::Pharmacology::unsorted'
+tags = 'Brosencephalon Hematology-Oncology::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
 note-id = 1397230674625
 text = 'What is the most common adverse effect with Warfarin use?<div><br /></div><div>{{c1::Bleeding}}</div>'
 extra = ""
-tags = 'Hematology-Oncology::Pharmacology::unsorted'
+tags = 'Brosencephalon Hematology-Oncology::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
@@ -9115,7 +9115,7 @@ text = """
 {{c1::Apixaban}} and&nbsp;{{c2::Rivaroxaban}} are anticoagulants that function by binding to and directly inhibiting the \
 activity of Factor Xa."""
 extra = '<br /><div><i>Api<b><u>Xa</u></b>ban and Rivaro<b><u>Xa</u></b>ban target Factor <b><u>Xa</u></b>.</i></div>'
-tags = 'Hematology-Oncology::Pharmacology::unsorted'
+tags = 'Brosencephalon Hematology-Oncology::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
@@ -9124,7 +9124,7 @@ text = """
 {{c1::Apixaban}} and&nbsp;{{c2::Rivaroxaban}} are anticoagulants used to treat and prevent DVT and stroke in A-fib \
 patients by <u>binding to and directly inhibiting the activity of Factor Xa.</u>"""
 extra = '<br /><div><i>Api<b><u>Xa</u></b>ban and Rivaro<b><u>Xa</u></b>ban target Factor&nbsp;<b><u>Xa</u></b>.</i></div>'
-tags = 'Hematology-Oncology::Pharmacology::unsorted'
+tags = 'Brosencephalon Hematology-Oncology::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
@@ -9133,7 +9133,7 @@ text = """
 {{c1::Rivaroxaban}} is an anticoagulant that is used to treat and prevent PE by <u>directly binding to and inhibiting \
 the activity of Factor Xa.</u>"""
 extra = '<br /><div><i>Api<b><u>Xa</u></b>ban and Rivaro<b><u>Xa</u></b>ban target Factor&nbsp;<b><u>Xa</u></b>.</i></div>'
-tags = 'Hematology-Oncology::Pharmacology::unsorted'
+tags = 'Brosencephalon Hematology-Oncology::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
@@ -9142,42 +9142,42 @@ text = """
 What is the most common adverse effect of Apixaban and Rivaroxaban (Factor Xa inhibitors)?<div><br \
 /></div><div>{{c1::Bleeding; there is no specific antidote}}</div>"""
 extra = ""
-tags = 'Hematology-Oncology::Pharmacology::unsorted'
+tags = 'Brosencephalon Hematology-Oncology::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
 note-id = 1397230976085
 text = '{{c1::Vitamin K}} is a drug that can be given to reverse Warfarin overdose.'
 extra = ""
-tags = 'Hematology-Oncology::Pharmacology::unsorted'
+tags = 'Brosencephalon Hematology-Oncology::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
 note-id = 1397230997343
 text = 'What is the treatment for <b>severe</b>&nbsp;Warfarin overdose?<div><br /></div><div>{{c1::Fresh Frozen Plasma}}</div>'
 extra = '<br /><div><i>Followed by Vitamin K</i></div>'
-tags = 'Hematology-Oncology::Pharmacology::unsorted'
+tags = 'Brosencephalon Hematology-Oncology::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
 note-id = 1397231024355
 text = 'What is the ROA of Heparin?<div><br /></div><div>{{c1::Parenteral (IV; SC)}}</div>'
 extra = ""
-tags = 'Hematology-Oncology::Pharmacology::unsorted'
+tags = 'Brosencephalon Hematology-Oncology::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
 note-id = 1397231442011
 text = 'What is the ROA of Warfarin?<div><br /></div><div>{{c1::Oral}}</div>'
 extra = ""
-tags = 'Hematology-Oncology::Pharmacology::unsorted'
+tags = 'Brosencephalon Hematology-Oncology::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
 note-id = 1397231448970
 text = 'Where in the body does Heparin act?<div><br /></div><div>{{c1::The blood (via Antithrombin)}}</div>'
 extra = ""
-tags = 'Hematology-Oncology::Pharmacology::unsorted'
+tags = 'Brosencephalon Hematology-Oncology::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
@@ -9186,14 +9186,14 @@ text = """
 Where in the body does Warfarin act?<div><br /></div><div>{{c1::Liver (at the level of coagulation factor \
 synthesis)}}</div>"""
 extra = '<br /><div><i>And Protein C and S!</i></div>'
-tags = 'Hematology-Oncology::Pharmacology::unsorted'
+tags = 'Brosencephalon Hematology-Oncology::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
 note-id = 1397231493931
 text = 'What is the onset of action of Heparin?<div><br /></div><div>{{c1::Rapid; within seconds}}</div>'
 extra = ""
-tags = 'Hematology-Oncology::Pharmacology::unsorted'
+tags = 'Brosencephalon Hematology-Oncology::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
@@ -9202,28 +9202,28 @@ text = 'What is the onset of action of Warfarin?<div><br /></div><div>{{c1::Slow
 extra = """
 <br /><div><i>Warfarin is able to stop synthesis right away, but it's effect is limited by the half-lives of normal \
 clotting factors that were made before Warfarin administration.</i></div>"""
-tags = 'Hematology-Oncology::Pharmacology::unsorted'
+tags = 'Brosencephalon Hematology-Oncology::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
 note-id = 1397231681637
 text = 'What is the duration of action of Heparin?<div><br /></div><div>{{c1::Acute (only lasts for a few hours)}}</div>'
 extra = ""
-tags = 'Hematology-Oncology::Pharmacology::unsorted'
+tags = 'Brosencephalon Hematology-Oncology::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
 note-id = 1397231892711
 text = 'What is the duration of action of Warfarin?<div><br /></div><div>{{c1::Chronic (days)}}</div>'
 extra = ""
-tags = 'Hematology-Oncology::Pharmacology::unsorted'
+tags = 'Brosencephalon Hematology-Oncology::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
 note-id = 1397231908825
 text = 'What is the treatment for Heparin overdose?<div><br /></div><div>{{c1::Protamine sulfate}}</div>'
 extra = ""
-tags = 'Hematology-Oncology::Pharmacology::unsorted'
+tags = 'Brosencephalon Hematology-Oncology::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
@@ -9232,7 +9232,7 @@ text = """
 What <b>type </b>of anticoagulant is Alteplase (tPA)?<div><br /></div><div>{{c1::Thrombolytic; tissue plasminogen \
 activator}}</div>"""
 extra = ""
-tags = 'Hematology-Oncology::Pharmacology::unsorted'
+tags = 'Brosencephalon Hematology-Oncology::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
@@ -9241,7 +9241,7 @@ text = """
 What <b>type</b>&nbsp;of anticoagulant is Reteplase (rPA)?<div><br /></div><div>{{c1::Thrombolytic; tissue plasminogen \
 activator}}</div>"""
 extra = ""
-tags = 'Hematology-Oncology::Pharmacology::unsorted'
+tags = 'Brosencephalon Hematology-Oncology::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
@@ -9250,7 +9250,7 @@ text = """
 What <b>type</b>&nbsp;of anticoagulant is tenecteplase (TNK-tPA)?<div><br /></div><div>{{c1::Thrombolytic; tissue \
 plasminogen activator}}</div>"""
 extra = ""
-tags = 'Hematology-Oncology::Pharmacology::unsorted'
+tags = 'Brosencephalon Hematology-Oncology::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
@@ -9259,7 +9259,7 @@ text = """
 What is the MOA of Alteplase?<div><br /></div><div>{{c1::Activation/conversion of Plasminogen to Plasmin, which then \
 cleaves thrombin and fibrin clots}}</div>"""
 extra = ""
-tags = 'Hematology-Oncology::Pharmacology::unsorted'
+tags = 'Brosencephalon Hematology-Oncology::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
@@ -9268,7 +9268,7 @@ text = """
 What is the MOA of Reteplase (rPA)?<div><br /></div><div>{{c1::Activation/conversion of Plasminogen to Plasmin, which \
 then cleaves thrombin and fibrin clots}}</div>"""
 extra = ""
-tags = 'Hematology-Oncology::Pharmacology::unsorted'
+tags = 'Brosencephalon Hematology-Oncology::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
@@ -9277,21 +9277,21 @@ text = """
 What is the MOA of Tenecteplase (TNK-tPA)?<div><br /></div><div>{{c1::Activation/conversion of Plasminogen to Plasmin, \
 which then cleaves thrombin and fibrin clots}}</div>"""
 extra = ""
-tags = 'Hematology-Oncology::Pharmacology::unsorted'
+tags = 'Brosencephalon Hematology-Oncology::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
 note-id = 1397232290909
 text = 'How does PT change following the administration of Thrombolytics?<div><br /></div><div>{{c1::Increase}}</div>'
 extra = ""
-tags = 'Hematology-Oncology::Pharmacology::unsorted'
+tags = 'Brosencephalon Hematology-Oncology::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
 note-id = 1397232306668
 text = 'How does PTT change following the administration of Thrombolytics?<div><br /></div><div>{{c1::Increase}}</div>'
 extra = ""
-tags = 'Hematology-Oncology::Pharmacology::unsorted'
+tags = 'Brosencephalon Hematology-Oncology::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
@@ -9300,7 +9300,7 @@ text = 'How does platelet count change after the administration of Thrombolytics
 extra = """
 <br /><div><i>It's logical to think (at least for me) that if you're breaking down more clots that then more platelets \
 would be used, but don't fall into that trap.</i></div>"""
-tags = 'Hematology-Oncology::Pharmacology::unsorted'
+tags = 'Brosencephalon Hematology-Oncology::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
@@ -9309,21 +9309,21 @@ text = """
 Which type of anticoagulants are used in <b>early </b>MI and <b>early </b><u>ischemic</u>&nbsp;stroke?<div><br \
 /></div><div>{{c1::Thrombolytics}}</div>"""
 extra = '<br /><div><i>Also used in the direct thrombolysis of severe PE.</i></div>'
-tags = 'Hematology-Oncology::Pharmacology::unsorted'
+tags = 'Brosencephalon Hematology-Oncology::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
 note-id = 1397232451948
 text = 'What is the major adverse effect of Thrombolytics?<div><br /></div><div>{{c1::Bleeding}}</div>'
 extra = ""
-tags = 'Hematology-Oncology::Pharmacology::unsorted'
+tags = 'Brosencephalon Hematology-Oncology::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
 note-id = 1397232477560
 text = 'What is the treatment for Thrombolytic toxicity?<div><br /></div><div>{{c1::Aminocaproic Acid}}</div>'
 extra = ""
-tags = 'Hematology-Oncology::Pharmacology::unsorted'
+tags = 'Brosencephalon Hematology-Oncology::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
@@ -9332,7 +9332,7 @@ text = """
 {{c1::Aminocaproic Acid}} is a procoagulant that can be used to treat Thrombolytic toxicity by inhibiting fibrinolysis \
 by inhibiting plasminogen activation."""
 extra = ""
-tags = 'Hematology-Oncology::Pharmacology::unsorted'
+tags = 'Brosencephalon Hematology-Oncology::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
@@ -9341,7 +9341,7 @@ text = """
 What is the MOA of Aminocaproic Acid?<div><br /></div><div>{{c1::Inhibition of plasminogen activation and hence \
 inhibition of Fibrinolysis}}</div>"""
 extra = ""
-tags = 'Hematology-Oncology::Pharmacology::unsorted'
+tags = 'Brosencephalon Hematology-Oncology::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
@@ -9352,7 +9352,7 @@ text = """
 extra = """
 <br /><div><i>Platelets do not re-synthesize new enzyme, hence the effect will last until new platelets are \
 made.</i></div>"""
-tags = 'Hematology-Oncology::Pharmacology::unsorted'
+tags = 'Brosencephalon Hematology-Oncology::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
@@ -9361,56 +9361,56 @@ text = """
 What is the MOA of Aspirin?<div><br /></div><div>{{c1::Irreversible inhibition of cyclooxygenase (both COX1 and COX2) \
 via covalent acetylation}}</div>"""
 extra = ""
-tags = 'Hematology-Oncology::Pharmacology::unsorted'
+tags = 'Brosencephalon Hematology-Oncology::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
 note-id = 1397238275210
 text = '{{c1::Thromboxane A2}} is a pro-coagulant compound made by Cyclooxygenase that stimulates platelet aggregation.'
 extra = '<br /><div><i>Aspirin <b>decreases</b>&nbsp;TXA<sub>2</sub>&nbsp;levels.</i></div>'
-tags = 'Hematology-Oncology::Pharmacology::unsorted'
+tags = 'Brosencephalon Hematology-Oncology::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
 note-id = 1397238400351
 text = 'How does PT change in after Aspirin administration?<div><br /></div><div>{{c1::No change}}</div>'
 extra = '<br /><div><i>Aspirin inhibits <b>platelet aggregation</b>. PT measures coagulation!!</i></div>'
-tags = 'Hematology-Oncology::Pharmacology::unsorted'
+tags = 'Brosencephalon Hematology-Oncology::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
 note-id = 1397238439222
 text = 'How does PTT change after Aspirin administration?<div><br /></div><div>{{c1::No change}}</div>'
 extra = '<br /><div><i>Aspirin inhibits&nbsp;<b>platelet aggregation</b>. PTT measures coagulation!!</i></div>'
-tags = 'Hematology-Oncology::Pharmacology::unsorted'
+tags = 'Brosencephalon Hematology-Oncology::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
 note-id = 1397238459456
 text = 'How does Bleeding Time (BT) change after Aspirin administration?<div><br /></div><div>{{c1::Increase}}</div>'
 extra = '<br /><div><i>Aspirin inhibits&nbsp;<b>platelet aggregation</b>.&nbsp;</i></div>'
-tags = 'Hematology-Oncology::Pharmacology::unsorted'
+tags = 'Brosencephalon Hematology-Oncology::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
 note-id = 1397238478477
 text = '{{c1::Aspirin}} is an anti-platelet drug that is also used as an anti-pyretic, analgesic and anti-inflammatory.'
 extra = ""
-tags = 'Hematology-Oncology::Pharmacology::unsorted'
+tags = 'Brosencephalon Hematology-Oncology::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
 note-id = 1397238516497
 text = '{{c1::Gastric Ulceration}} is a GI complication of Aspirin administration due to COX inhibition at the stomach.'
 extra = ""
-tags = 'Hematology-Oncology::Pharmacology::unsorted'
+tags = 'Brosencephalon Hematology-Oncology::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
 note-id = 1397238739240
 text = '{{c1::Tinnitus}} is a neurological complication of Aspirin due to activation of CN VIII.'
 extra = '<br /><div><i>Salicylate induces tinnitus through activation of cochlear NMDA receptors.</i></div>'
-tags = 'Hematology-Oncology::Pharmacology::unsorted'
+tags = 'Brosencephalon Hematology-Oncology::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
@@ -9419,14 +9419,14 @@ text = """
 {{c1::Acute Renal Failure}} and&nbsp;{{c2::Interstitial Nephritis}} are possible renal complications of chronic Aspirin \
 use."""
 extra = ""
-tags = 'Hematology-Oncology::Pharmacology::unsorted'
+tags = 'Brosencephalon Hematology-Oncology::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
 note-id = 1397238922792
 text = '{{c1::Reye Syndrome}} is a potential, serious complication of Aspirin use in children with viral infections.'
 extra = ""
-tags = 'Hematology-Oncology::Pharmacology::unsorted'
+tags = 'Brosencephalon Hematology-Oncology::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
@@ -9435,35 +9435,35 @@ text = """
 How does Aspirin affect acid-base balance?<div><br /></div><div>{{c1::Initially causes Respiratory Alkalosis; Metabolic \
 Acidosis superimposes on top after}}</div>"""
 extra = '<br /><div><i>RAlk --&gt; MAc</i></div>'
-tags = 'Hematology-Oncology::Pharmacology::unsorted'
+tags = 'Brosencephalon Hematology-Oncology::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
 note-id = 1397239133781
 text = 'What type of antiplatelet/anticoagulant is Clopidogrel?<div><br /></div><div>{{c1::ADP receptor inhibitor}}</div>'
 extra = ""
-tags = 'Hematology-Oncology::Pharmacology::unsorted'
+tags = 'Brosencephalon Hematology-Oncology::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
 note-id = 1397239166107
 text = 'What type of antiplatelet/anticoagulant is Ticlopidine?<div><br /></div><div>{{c1::ADP Receptor inhibitor}}</div>'
 extra = ""
-tags = 'Hematology-Oncology::Pharmacology::unsorted'
+tags = 'Brosencephalon Hematology-Oncology::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
 note-id = 1397239193191
 text = 'What type of antiplatelet/anticoagulant is Prasugrel?<div><br /></div><div>{{c1::ADP receptor inhibitor}}</div>'
 extra = ""
-tags = 'Hematology-Oncology::Pharmacology::unsorted'
+tags = 'Brosencephalon Hematology-Oncology::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
 note-id = 1397239207570
 text = 'What type of antiplatelet/anticoagulant is Ticagrelor?<div><br /></div><div>{{c1::ADP Receptor inhibitor}}</div>'
 extra = ""
-tags = 'Hematology-Oncology::Pharmacology::unsorted'
+tags = 'Brosencephalon Hematology-Oncology::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
@@ -9472,7 +9472,7 @@ text = """
 What is the MOA of Clopidogrel?<div><br></div><div>{{c1::Inhibition of platelet aggregation by irreversible blocking ADP \
 receptors on platelets; Inhibits fibrinogen binding by bloking GpIIb/IIIa expression }}</div>"""
 extra = '<br><div><img src="paste-8083128451642.jpg" /></div>'
-tags = 'Hematology-Oncology::Pharmacology::unsorted'
+tags = 'Brosencephalon Hematology-Oncology::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
@@ -9481,14 +9481,14 @@ text = """
 What is the MOA of Ticlopidine?<div><br /></div><div>{{c1::Inhibition of platelet aggregation by irreversibly blocking \
 ADP receptors; Inhibits fibrinogen binding by preventing GpIIb/IIIa from binding to fibrinogen}}</div>"""
 extra = '<br /><div><img src="paste-8078833484346.jpg" /></div>'
-tags = 'Hematology-Oncology::Pharmacology::unsorted'
+tags = 'Brosencephalon Hematology-Oncology::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
 note-id = 1397239584439
 text = 'What stage of platelet plug formation is inhibited by Aspirin?<div><br /></div><div>{{c1::Platelet aggregation}}</div>'
 extra = ""
-tags = 'Hematology-Oncology::Pharmacology::unsorted'
+tags = 'Brosencephalon Hematology-Oncology::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
@@ -9497,7 +9497,7 @@ text = """
 What stage of platelet plug formation is inhibited by ADP Receptor Inhibitors (Clopidogrel; Ticlopidine)?<div><br \
 /></div><div>{{c1::Platelet aggregation}}</div>"""
 extra = ""
-tags = 'Hematology-Oncology::Pharmacology::unsorted'
+tags = 'Brosencephalon Hematology-Oncology::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
@@ -9507,7 +9507,7 @@ What is the MOA of Platelet ADP Receptor Inhibitors (Clopidogrel; Ticlopidine; P
 /></div><div>{{c1::Inhibition of platelet aggregation by irrevesible blocking of ADP receptors; Inhibitiong of \
 Fibrinogen binding by preventing GpIIb/IIIa from binding to fibrinogen}}</div>"""
 extra = '<br /><div><img src="paste-8078833484346.jpg" /></div>'
-tags = 'Hematology-Oncology::Pharmacology::unsorted'
+tags = 'Brosencephalon Hematology-Oncology::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
@@ -9516,7 +9516,7 @@ text = """
 Which type of anticoagulants are preferred to be used in Acute Coronary SYndrome and Coronary Stenting?<div><br \
 /></div><div>{{c1::ADP Receptor Inhibitors such as Clopidogrel and Ticlopidine}}</div>"""
 extra = ""
-tags = 'Hematology-Oncology::Pharmacology::unsorted'
+tags = 'Brosencephalon Hematology-Oncology::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
@@ -9525,7 +9525,7 @@ text = """
 What is a serious adverse effect associated with Ticlopidine (Platelet ADP Receptor Inhibitor)?<div><br \
 /></div><div>{{c1::Neutropenia}}</div>"""
 extra = ""
-tags = 'Hematology-Oncology::Pharmacology::unsorted'
+tags = 'Brosencephalon Hematology-Oncology::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
@@ -9534,7 +9534,7 @@ text = """
 Which platelet disorder may be seen with ADP Receptor Inhibitor administration?<div><br \
 /></div><div>{{c1::TTP/HUS}}</div>"""
 extra = ""
-tags = 'Hematology-Oncology::Pharmacology::unsorted'
+tags = 'Brosencephalon Hematology-Oncology::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
@@ -9543,7 +9543,7 @@ text = """
 {{c1::Cilostazol}} and&nbsp;{{c2::Dipyridamole}} are anti-platelet drugs that act at anticoagulants by inhibiting \
 phopshodiesterase III, thereby increasing [cAMP] in platelets and preventing platelet aggregation."""
 extra = ""
-tags = 'Hematology-Oncology::Pharmacology::unsorted'
+tags = 'Brosencephalon Hematology-Oncology::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
@@ -9552,7 +9552,7 @@ text = """
 What is the MOA of the anti-platelet Cilostazol?<div><br /></div><div>{{c1::Inhibition of phosphodiesterase III, thereby \
 increasing [cAMP] in platelets and inhibiting platelet aggregation}}</div>"""
 extra = ""
-tags = 'Hematology-Oncology::Pharmacology::unsorted'
+tags = 'Brosencephalon Hematology-Oncology::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
@@ -9561,7 +9561,7 @@ text = """
 What is the MOA of the anti-platelet Dipyridamole?<div><br /></div><div>{{c1::Inhibition of phosphodiesterase III, \
 thereby increasing [cAMP] in platelets and inhibiting platelet aggregation}}</div>"""
 extra = ""
-tags = 'Hematology-Oncology::Pharmacology::unsorted'
+tags = 'Brosencephalon Hematology-Oncology::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
@@ -9570,7 +9570,7 @@ text = """
 {{c1::Cilostazol}} and&nbsp;{{c2::Dipyridamole}} are anti-platelet drugs that also function as vasodilators, as they \
 inhibit Phosphodiesterase III."""
 extra = ""
-tags = 'Hematology-Oncology::Pharmacology::unsorted'
+tags = 'Brosencephalon Hematology-Oncology::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
@@ -9579,7 +9579,7 @@ text = """
 {{c1::Cilostazol}} and&nbsp;{{c2::Dipyridamole}} are anti-platelet drugs that can cause nausea, headache, facial \
 flushing, hypotension and abdominal pain, all due to their ability to cause vasodilation."""
 extra = ""
-tags = 'Hematology-Oncology::Pharmacology::unsorted'
+tags = 'Brosencephalon Hematology-Oncology::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
@@ -9588,7 +9588,7 @@ text = """
 What is the MOA of Abciximab?<div><br /></div><div>{{c1::Binding to GpIIb/IIIa on activated platelets, thereby \
 preventing platelet aggregation}}</div>"""
 extra = '<br /><div><img src="paste-10977936409230.jpg" /></div>'
-tags = 'Hematology-Oncology::Pharmacology::unsorted'
+tags = 'Brosencephalon Hematology-Oncology::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
@@ -9597,7 +9597,7 @@ text = """
 {{c1::Abciximab}} is a monoclonal antibody that function as an anticoagulant as it binds to and blocks GpIIb/IIIa on \
 activated platelets."""
 extra = ""
-tags = 'Hematology-Oncology::Pharmacology::unsorted'
+tags = 'Brosencephalon Hematology-Oncology::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
@@ -9606,28 +9606,28 @@ text = """
 What stage of platelet plug formation do Cilostazol and Dipyridamole inhibit?<div><br /></div><div>{{c1::Platelet \
 aggregation}}</div>"""
 extra = '<br /><div><i>All antiplatelet drugs inhibits platelet aggregation</i></div>'
-tags = 'Hematology-Oncology::Pharmacology::unsorted'
+tags = 'Brosencephalon Hematology-Oncology::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
 note-id = 1397247923785
 text = 'What type of anticoagulant is Abciximab?<div><br /></div><div>{{c1::Antiplatelet; GpIIb/IIIa inhibitor}}</div>'
 extra = ""
-tags = 'Hematology-Oncology::Pharmacology::unsorted'
+tags = 'Brosencephalon Hematology-Oncology::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
 note-id = 1397247949221
 text = 'What type of anticoagulant is Eptifibatide?<div><br /></div><div>{{c1::Antiplatelet; GpIIb/IIIa inhibitor}}</div>'
 extra = ""
-tags = 'Hematology-Oncology::Pharmacology::unsorted'
+tags = 'Brosencephalon Hematology-Oncology::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
 note-id = 1397247973114
 text = 'What type of anticoagulant is Tirofiban?<div><br /></div><div>{{c1::Antiplatelet; GpIIb/IIIa inhibitor}}</div>'
 extra = ""
-tags = 'Hematology-Oncology::Pharmacology::unsorted'
+tags = 'Brosencephalon Hematology-Oncology::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
@@ -9636,7 +9636,7 @@ text = """
 Which type of antiplatelet drugs are used in Percutaneous Transluminal Coronary Angioplasty?<div><br \
 /></div><div>{{c1::GpIIb/IIIa inhibitors}}</div>"""
 extra = ""
-tags = 'Hematology-Oncology::Pharmacology::unsorted'
+tags = 'Brosencephalon Hematology-Oncology::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
@@ -9645,7 +9645,7 @@ text = """
 What stage of platelet plug formation is inhibited by GpIIb/IIIa inhibitors?<div><br /></div><div>{{c1::Platelet \
 aggregation}}</div>"""
 extra = '<br /><div><img src="paste-10977936409230.jpg" /></div>'
-tags = 'Hematology-Oncology::Pharmacology::unsorted'
+tags = 'Brosencephalon Hematology-Oncology::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
@@ -10291,7 +10291,7 @@ model = 'Cloze-Brosencephalon'
 note-id = 1397262796369
 text = 'What is the only <b>reversible</b>&nbsp;Platlet ADP receptor inhibitor?<div><br /></div><div>{{c1::Ticagrelor}}</div>'
 extra = ""
-tags = 'Hematology-Oncology::Pharmacology::unsorted'
+tags = 'Brosencephalon Hematology-Oncology::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
