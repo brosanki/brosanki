@@ -1,0 +1,4506 @@
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1381617255451
+text = 'What are the 2 complement components that function as anaphylatoxins?<div><br /></div><div>{{c1::C5a and C3a}}</div>'
+extra = ""
+tags = 'Brosencephalon Immunology::Immune-Responses::complement'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1381618976724
+text = '{{c1::Mellitin}} is a toxin present in bee venom that is able to trigger Type I Hypersensitivity reactions.'
+extra = ""
+tags = 'Brosencephalon Immunology::Immune-Responses::hypersensitivity-types'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1381619007700
+text = """
+{{c1::Pemphigus Vulgaris}} is a Type II Hypersensitivity disorder where the epithelium unzips and antibodies target \
+the&nbsp;{{c2::desmoglein}} protein in desmosomes, thereby forming blisters."""
+extra = ""
+tags = 'Brosencephalon Immunology::Immune-Responses::hypersensitivity-types'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1381621091627
+text = """
+ANCA Associated Vasculitis involves the activation of&nbsp;{{c1::neutrophils}} by auto-antibodies leading to \
+inflammation of the blood vessel wall."""
+extra = ""
+tags = 'Brosencephalon Immunology::Immune-Responses::hypersensitivity-types'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1381622003980
+text = """
+{{c1::Myasthenia Gravis}} is a Type II hypersensitivity disorder where auto-antibodies target ACh Receptors, thereby \
+blocking them or triggering their destruction."""
+extra = ""
+tags = 'Brosencephalon Immunology::Immune-Responses::hypersensitivity-types'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1381622160841
+text = """
+{{c1::Type I}} Hypersensitivity involves IgE and mast cell-mediated liberation of Histamine causing local and systemic \
+anaphylaxis."""
+extra = '<div><i>Type I = A for Allergy, Anaphylaxis and Asthma</i></div>'
+tags = 'Brosencephalon Immunology::Immune-Responses::hypersensitivity-types'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1381623711483
+text = """
+{{c1::Type II}} Hypersensitivity involves the binding of antibodies to cell surface antigens causing damage through \
+classical complement activation or cell cytotoxicity."""
+extra = ""
+tags = 'Brosencephalon Immunology::Immune-Responses::hypersensitivity-types'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1381623765341
+text = """
+{{c1::Type II}} Hypersensitivity involves the binding of antibodies to cell surface surface receptors causing \
+stimulation, blockage or destruction of that receptor."""
+extra = ""
+tags = 'Brosencephalon Immunology::Immune-Responses::hypersensitivity-types'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1381623824714
+text = """
+{{c1::Type III}} Hypersensitivity involves local or circulating antibody-antigen complexes that cause damage by getting \
+trapped in tissues and activating complement proteins."""
+extra = ""
+tags = 'Brosencephalon Immunology::Immune-Responses::hypersensitivity-types'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1381623870032
+text = """
+{{c1::Type IV}} Hypersensitivity involves the activation of T cells resulting in CD4+ mediated macrophage recruitment or \
+CD8+ mediated cytotoxicity."""
+extra = ""
+tags = 'Brosencephalon Immunology::Immune-Responses::hypersensitivity-types'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1382304846016
+text = """
+{{c1::Azathioprine}} is an immunosuppressant that is biotransformed to Mercaptopurine which then inhibits PRPP \
+Synthetase and PRPP Deaminase."""
+extra = ""
+tags = 'Brosencephalon Immunology::Immunosuppressants::unsorted'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1382305005592
+text = 'What is the MOA of Azathioprine?<div><br /></div><div>{{c1::Inhibition of PRPP Synthetase and PRPP Deaminase}}</div>'
+extra = ""
+tags = 'Brosencephalon Immunology::Immunosuppressants::unsorted'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1382305074833
+text = """
+What is the MOA of Antithymocyte and Antilymphocyte Immunoglobulins?<div><br /></div><div>{{c1::Binding to and \
+destruction of T cells via complement activation}}</div>"""
+extra = ""
+tags = 'Brosencephalon Immunology::Immunosuppressants::unsorted'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1382305117683
+text = '{{c1::Muromonab-CD3}} is a monoclonal antibody against the CD3 component of the T-cell receptor.'
+extra = ""
+tags = 'Brosencephalon Immunology::Immunosuppressants::unsorted'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1382305193990
+text = """
+What is the MOA of Muromonab-CD3?<div><br /></div><div>{{c1::Initiation of T-cell apoptosis via ADCC by binding to \
+CD3}}</div>"""
+extra = ""
+tags = 'Brosencephalon Immunology::Immunosuppressants::unsorted'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1382305228465
+text = 'What drug is used to prevent Erythroblastosis Fetalis?<div><br />{{c1::Rho (D) Immunoglobulin}}</div>'
+extra = ""
+tags = 'Brosencephalon Immunology::Immunosuppressants::unsorted'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1382305279281
+text = 'What is the MOA of Cyclosporine?<div><br /></div><div>{{c1::Inhibition of Calcineurin}}</div>'
+extra = ""
+tags = 'Brosencephalon Immunology::Immunosuppressants::unsorted'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1382305456715
+text = 'What protein does Cyclosporine bind to before inactivating Calcineurin?<div><br /></div><div>{{c1::Cyclophilin-A}}</div>'
+extra = ""
+tags = 'Brosencephalon Immunology::Immunosuppressants::unsorted'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1382305489089
+text = 'What is a significant adverse effect of Cyclosporine?<div><br /></div><div>{{c1::Nephrotoxicity}}</div>'
+extra = ""
+tags = 'Brosencephalon Immunology::Immunosuppressants::unsorted'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1382305507536
+text = """
+{{c1::Cyclosporine}} and {{c2::Tacrolimus}} are immunosuppressants that are the drugs of choice in organ transplants, \
+GVHD and autoimmune disorders."""
+extra = ""
+tags = 'Brosencephalon Immunology::Immunosuppressants::unsorted'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1382305575645
+text = 'What is the MOA of Tacrolimus?<div><br /></div><div>{{c1::Inhibition of Calcineurin}}</div>'
+extra = ""
+tags = 'Brosencephalon Immunology::Immunosuppressants::unsorted'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1382305591831
+text = """
+What protein does Tacrolimus bind to before inhibiting Calcineurin?<div><br /></div><div>{{c1::FK Binding Protein \
+(FKBP12)}}</div>"""
+extra = ""
+tags = 'Brosencephalon Immunology::Immunosuppressants::unsorted'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1382305629330
+text = 'What is the MOA of Sirolimus (Rapamycin)?<div><br /></div><div>{{c1::Inhibition of mTOR}}</div>'
+extra = ""
+tags = 'Brosencephalon Immunology::Immunosuppressants::unsorted'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1382306690625
+text = """
+What protein does Sirolimus (Rapamycin) bind to before inhibiting mTOR?<div><br /></div><div>{{c1::FK Binding Protein \
+(FKBP12)}}</div>"""
+extra = ""
+tags = 'Brosencephalon Immunology::Immunosuppressants::unsorted'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1382306720854
+text = """
+{{c1::Mycophenolate mofetil}} is an immunosuppressant that is transformed into mycophenolic acid and inhibits \
+{{c2::Inosine Monophosphate Dehydrogenase}}."""
+extra = '<div><i>Thereby, specifically inhibiting B and T cell proliferation.</i></div>'
+tags = 'Brosencephalon Immunology::Immunosuppressants::unsorted'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1382306815712
+text = '{{c1::Daclizumab}} is a monoclonal antibody that targets CD25 on activated T cells and blocks IL-2 receptors.'
+extra = ""
+tags = 'Brosencephalon Immunology::Immunosuppressants::unsorted'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1382307218851
+text = '{{c1::Infliximab}} is a monoclonal antibody that targets TNF-alpha, thereby preventing the inflammatory response.'
+extra = ""
+tags = 'Brosencephalon Immunology::Immunosuppressants::unsorted'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1382307260328
+text = """
+{{c1::Infliximab}} is a monoclonal antibody used to to treat Rheumatoid Arthritis and Crohn's Disease by binding to \
+TNFa."""
+extra = ""
+tags = 'Brosencephalon Immunology::Immunosuppressants::unsorted'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1382307284273
+text = """
+{{c1::Etanercept}} is an immunosuppressant that functions as a soluble TNF-a Receptor, thereby inhibiting the \
+proinflammatory response."""
+extra = ""
+tags = 'Brosencephalon Immunology::Immunosuppressants::unsorted'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1382307442922
+text = '{{c1::Interferon-alpha}} is an immunostimulant that activates MHC Class I molecules.'
+extra = ""
+tags = 'Brosencephalon Immunology::Immunosuppressants::unsorted'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1382307485835
+text = '{{c1::Interferon-alpha}} is an immunostimulant used to treat viral infections, especially HBV and HCV.'
+extra = ""
+tags = 'Brosencephalon Immunology::Immunosuppressants::unsorted'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1382307534965
+text = '{{c1::Interferon-beta}} is an immunostimulant used to treat Multiple Sclerosis.'
+extra = ""
+tags = 'Brosencephalon Immunology::Immunosuppressants::unsorted'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1382307551633
+text = '{{c1::Interferon-gamma}} is an immunostimulant that promotes the cytotoxic T-cell response.'
+extra = ""
+tags = 'Brosencephalon Immunology::Immunosuppressants::unsorted'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1382307575045
+text = '{{c1::Interferon-gamma}} is an immunostimulant used to treat Chronic Granulomatous Disease.'
+extra = ""
+tags = 'Brosencephalon Immunology::Immunosuppressants::unsorted'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1382307596996
+text = '{{c1::Filgrastim}} is an immunostimulant that stimulates the production of Neutrophils.'
+extra = '<br><div><i>It is a Granulocyte-CSF.</i></div>'
+tags = 'Brosencephalon Immunology::Immunosuppressants::unsorted'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1382307681148
+text = '{{c1::Sargramostim}} is an immunostimulant that stimulates the production of granulocytes and macrophages.'
+extra = '<div><i>It is a GM-CSF.</i></div>'
+tags = 'Brosencephalon Immunology::Immunosuppressants::unsorted'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1382307711627
+text = '{{c1::Thrombopoietin}} is an immunostimulant that stimulates the production of megakaryocytes.'
+extra = ""
+tags = 'Brosencephalon Immunology::Immunosuppressants::unsorted'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1382307781736
+text = '{{c1::Imiquimod}} is an immunostimulant given topically to treat HPV genital warts.'
+extra = ""
+tags = 'Brosencephalon Immunology::Immunosuppressants::unsorted'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1382646157579
+text = """
+{{c1::Aldesleukin}} is an immunostimulant that is recombinant IL-2. It promotes lymphoid differentiation into cytotoxic \
+cells and activates NK cells."""
+extra = ""
+tags = 'Brosencephalon Immunology::Immunosuppressants::unsorted'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1382650427627
+text = """
+What is the MOA of Aldesleukin?<div><br />{{c1::Promotes differentiation of lymphoid cells into cytotoxic cells; \
+Activation of NK cells}}</div>"""
+extra = '<div><i>It is recombinant IL-2</i></div>'
+tags = 'Brosencephalon Immunology::Immunosuppressants::unsorted'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1386368459290
+text = 'What is the most common side effect of Sirolimus?<div><br /></div><div>{{c1::Hyperlipidemia}}</div>'
+extra = '<div><i>Hypertriglyeridemia and hypercholesterolemia.</i></div>'
+tags = 'Brosencephalon Immunology::Immunosuppressants::unsorted'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1386378054856
+text = """
+{{c1::Sirolimus}} is an immunosuppresant that binds to mTOR and exhibits <b>minimal nephrotoxicity and \
+neurotoxicity</b>."""
+extra = ""
+tags = 'Brosencephalon Immunology::Immunosuppressants::unsorted'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1393473783770
+text = """
+{{c1::Hyperacute Graft Rejection}} is a type of graft rejection that occurs minutes to hours after transplant and \
+involves antibody mediated thrombosis and necrosis.<div><br /></div><div><img src="paste-11038065951138.jpg" /></div>"""
+extra = ""
+tags = 'Brosencephalon Immunology::Immune-Responses::transplant-rejection'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1393474134519
+text = """
+{{c1::Acute Rejection}} is a type of graft rejection that occurs days to years after transplant and involves either a \
+cellular or humoral rejection."""
+extra = ""
+tags = 'Brosencephalon Immunology::Immune-Responses::transplant-rejection'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1393474173398
+text = 'Which complement breakdown product deposits in Acute Humoral Graft Rejection?<div><br /></div><div>{{c1::C4d}}</div>'
+extra = ""
+tags = 'Brosencephalon Immunology::Immune-Responses::transplant-rejection'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1393474219801
+text = """
+{{c1::Acute Graft Rejection}} is a type of renal graft rejection that involves tubulitis and/or vasculitis.<div><br \
+/></div><div><img src="paste-11123965296970.jpg" /></div>"""
+extra = ""
+tags = 'Brosencephalon Immunology::Immune-Responses::transplant-rejection'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1393474268794
+text = """
+{{c1::Chronic Rejection}} is a type of renal graft rejection that involves interstitial &nbsp;and intimal fibrosis as \
+well as chronic inflammation.<div><br /></div><div><img src="paste-11252814315996.jpg" /></div>"""
+extra = ""
+tags = 'Brosencephalon Immunology::Immune-Responses::transplant-rejection'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1401596476373
+text = '{{c1::Myeloperoxidase}} is an enzyme involved in the respiratory burst that gives sputum its blue-green colour.'
+extra = '<div><img src="paste-29918742184491.jpg" /></div>'
+tags = 'Brosencephalon Immunology::Immune-Responses::respiratory-burst'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1401597532687
+text = """
+Which enzyme in the respiratory burst forms superoxide radicals from O2?<div><br /></div><div>{{c1::NAPDH \
+Oxidase}}</div>"""
+extra = '<div><img src="paste-29914447217195.jpg" /></div>'
+tags = 'Brosencephalon Immunology::Immune-Responses::respiratory-burst'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1401597575169
+text = """
+Which enzyme in the respiratory burst forms H2O2 from superoxide radicals?<div><br /></div><div>{{c1::Superoxide \
+dismutase}}</div>"""
+extra = '<div><img src="paste-29914447217195.jpg" /></div>'
+tags = 'Brosencephalon Immunology::Immune-Responses::respiratory-burst'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1401597595981
+text = """
+Which enzyme in the respiratory burst forms Hypochlorite (HOCl) from H2O2?<div><br \
+/></div><div>{{c1::Myeloperoxidase}}</div>"""
+extra = '<div><img src="paste-29914447217195.jpg" /></div>'
+tags = 'Brosencephalon Immunology::Immune-Responses::respiratory-burst'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1401597622507
+text = '{{c1::Chronic Granulomatous Disease}} is a metabolic disorder that involves deficiency of NADPH Oxidase.'
+extra = ""
+tags = 'Brosencephalon Immunology::Immune-Responses::respiratory-burst'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1401597727422
+text = """
+{{c1::Chronic Granulomatous Disease}} is an immune disorder caused by NADPH Oxidase deficiency that involves an \
+increased risk for recurrent infections and granuloma formation by <b>catalase-positive organisms</b>."""
+extra = """
+<div><i>Catalase positive organisms are capable of neutralizing their own H2O2, thereby leaving phagocytes without any \
+ROS to fight the infection. Catalase negative organisms on the other hand essentially provide H2O2 to \
+phagocytes.</i></div>"""
+tags = 'Brosencephalon Immunology::Immune-Responses::respiratory-burst'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1401597935365
+text = """
+{{c1::Lactoferrin}} is a protein found in secretory fluids and neutrophils that functions to inhibits microbial growth \
+via iron chelation."""
+extra = ""
+tags = 'Brosencephalon Immunology::Immune-Responses::respiratory-burst'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1401597960554
+text = """
+{{c1::Pyocyanin}} is a protein found in <i>Pseudomonas aeruginosa</i>&nbsp;that functions to generate ROS that kill \
+competing microbes."""
+extra = ""
+tags = 'Brosencephalon Immunology::Immune-Responses::respiratory-burst'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1403716405340
+text = """
+{{c1::Lymph nodes}} are secondary lymphoid structures that are <b>encapsulated</b>&nbsp;and function to filter passing \
+content, store lymphocyte and mediat eimmune response."""
+extra = '<div><img src="paste-545460847004.jpg" /></div>'
+tags = 'Brosencephalon Immunology::Lymphoid-Structures::lymph-node'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1403716839425
+text = """
+In which area of the lymph node does <b>B-cell localization and proliferation</b>&nbsp;occur?<div><br \
+/></div><div>{{c1::Follicle; found in the outer cortex}}</div>"""
+extra = """
+<div></div><i>Primary follicles are dense and dormant.</i><div><i>Secondary follicles have pale central germinal centers \
+and are active.</i><div><img src="paste-541165879708.jpg" /></div></div>"""
+tags = 'Brosencephalon Immunology::Lymphoid-Structures::lymph-node'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1403716964276
+text = """
+{{c1::Medullary Cords}} are structures found in the medulla of lymph nodes that consist of closely packed lymphocytes \
+and plasma cells."""
+extra = '<div><img src="paste-541165879708.jpg" /></div>'
+tags = 'Brosencephalon Immunology::Lymphoid-Structures::lymph-node'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1403717222093
+text = """
+{{c1::Medullary sinuses}} are structures found in the medulla of lymph nodes that contain <b>reticular \
+cells</b>&nbsp;and <b>macrophages</b>."""
+extra = """
+<div><i>These medullary sinuses communicate with efferent lymphatics.</i></div><div><i><img src="paste-541165879708.jpg" \
+/></i></div>"""
+tags = 'Brosencephalon Immunology::Lymphoid-Structures::lymph-node'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1403717278166
+text = """
+In which area of the lymph node are T cells found?<div><br /></div><div>{{c1::Paracortex; the region of the lymph node \
+between follicles and the medulla}}</div>"""
+extra = """
+<div></div><i>The paracortex contains many venules through which T and B cells enter from the blood.</i><div><img \
+src="paste-541165879708.jpg" /></div>"""
+tags = 'Brosencephalon Immunology::Lymphoid-Structures::lymph-node'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1403717392705
+text = """
+Which area of the lymph nodes are not well developed in patients with DiGeorge Syndrome?<div><br \
+/></div><div>{{c1::Paracortex}}</div>"""
+extra = """
+<div></div><i>Remember, the paracortex houses T cells. DiGeorge syndrome involves a defect in T-cell \
+maturation.</i><div><img src="paste-541165879708.jpg" /></div>"""
+tags = 'Brosencephalon Immunology::Lymphoid-Structures::lymph-node'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1403717453496
+text = """
+Which area of the lymph node enlarges in extreme cellular immune responses (e.g. viral infection)?<div><br \
+/></div><div>{{c1::Paracortex}}</div>"""
+extra = '<div><i>Paracortex = T cells.</i></div><div><i><img src="paste-541165879708.jpg" /></i></div>'
+tags = 'Brosencephalon Immunology::Lymphoid-Structures::lymph-node'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1403717495660
+text = 'Which lymph node cluster drains the <b>head and neck</b>?<div><br /></div><div>{{c1::Cervical}}</div>'
+extra = ""
+tags = 'Brosencephalon Immunology::Lymphoid-Structures::lymph-drainage'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1403718149923
+text = 'Which lymph node cluster drains the <b>lungs</b>?<div><br /></div><div>{{c1::Hilar}}</div>'
+extra = ""
+tags = 'Brosencephalon Immunology::Lymphoid-Structures::lymph-drainage'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1403718158106
+text = 'Which lymph node cluster drains the <b>trachea and esophagus</b>?<div><br /></div><div>{{c1::Mediastinal}}</div>'
+extra = ""
+tags = 'Brosencephalon Immunology::Lymphoid-Structures::lymph-drainage'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1403718169671
+text = 'Which lymph node cluster drains the <b>upper limbs</b>?<div><br /></div><div>{{c1::Axillary}}</div>'
+extra = ""
+tags = 'Brosencephalon Immunology::Lymphoid-Structures::lymph-drainage'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1403718183586
+text = 'Which lymph node cluster drains the <b>breasts</b>?<div><br /></div><div>{{c1::Axillary}}</div>'
+extra = ""
+tags = 'Brosencephalon Immunology::Lymphoid-Structures::lymph-drainage'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1403718189320
+text = 'Which lymph node cluster drains the <b>skin above the umbilicus</b>?<div><br /></div><div>{{c1::Axillary}}</div>'
+extra = ""
+tags = 'Brosencephalon Immunology::Lymphoid-Structures::lymph-drainage'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1403718201041
+text = 'Which lymph node cluster drains the <b>upper duodenum</b>?<div><br /></div><div>{{c1::Celiac}}</div>'
+extra = ""
+tags = 'Brosencephalon Immunology::Lymphoid-Structures::lymph-drainage'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1403718227881
+text = 'Which lymph node cluster drains the <b>liver</b>?<div><br /></div><div>{{c1::Celiac}}</div>'
+extra = ""
+tags = 'Brosencephalon Immunology::Lymphoid-Structures::lymph-drainage'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1403718231841
+text = 'Which lymph node cluster drains the <b>stomach</b>?<div><br /></div><div>{{c1::Celiac}}</div>'
+extra = ""
+tags = 'Brosencephalon Immunology::Lymphoid-Structures::lymph-drainage'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1403718237913
+text = 'Which lymph node cluster drains the <b>spleen</b>?<div><br /></div><div>{{c1::Celiac}}</div>'
+extra = ""
+tags = 'Brosencephalon Immunology::Lymphoid-Structures::lymph-drainage'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1403718252658
+text = 'Which lymph node cluster drains the <b>pancreas</b>?<div><br /></div><div>{{c1::Celiac}}</div>'
+extra = ""
+tags = 'Brosencephalon Immunology::Lymphoid-Structures::lymph-drainage'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1403719276413
+text = 'Which lymph node cluster drains the&nbsp;<b>lower duodenum</b>?<div><br /></div><div>{{c1::Superior Mesenteric}}</div>'
+extra = ""
+tags = 'Brosencephalon Immunology::Lymphoid-Structures::lymph-drainage'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1403719293404
+text = """
+Which lymph node cluster drains the&nbsp;<b>jejunum</b>&nbsp;and <b>ileum</b>?<div><br /></div><div>{{c1::Superior \
+mesenteric}}</div>"""
+extra = ""
+tags = 'Brosencephalon Immunology::Lymphoid-Structures::lymph-drainage'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1403719308692
+text = """
+Which lymph node cluster drains the&nbsp;<b>colon to the splenic flexure</b>?<div><br /></div><div>{{c1::Superior \
+mesenteric}}</div>"""
+extra = ""
+tags = 'Brosencephalon Immunology::Lymphoid-Structures::lymph-drainage'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1403719330371
+text = """
+Which lymph node cluster drains the&nbsp;<b>colon from the splenic flexure to the upper rectum</b>?<div><br \
+/></div><div>{{c1::Inferior Mesenteric}}</div>"""
+extra = ""
+tags = 'Brosencephalon Immunology::Lymphoid-Structures::lymph-drainage'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1403719349605
+text = """
+Which lymph node cluster drains the&nbsp;<b>lower rectum to the anal canal</b>&nbsp;(above the pectinate line)?<div><br \
+/></div><div>{{c1::Internal Iliac}}</div>"""
+extra = ""
+tags = 'Brosencephalon Immunology::Lymphoid-Structures::lymph-drainage'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1403719373994
+text = 'Which lymph node cluster drains the&nbsp;<b>bladder</b>?<div><br /></div><div>{{c1::Internal Iliac}}</div>'
+extra = ""
+tags = 'Brosencephalon Immunology::Lymphoid-Structures::lymph-drainage'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1403719380734
+text = """
+Which lymph node cluster drains the&nbsp;<b>middle third of the vagina</b>?<div><br /></div><div>{{c1::Internal \
+Iliac}}</div>"""
+extra = ""
+tags = 'Brosencephalon Immunology::Lymphoid-Structures::lymph-drainage'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1403719390032
+text = 'Which lymph node cluster drains the&nbsp;<b>prostate</b>?<div><br /></div><div>{{c1::Internal Iliac}}</div>'
+extra = ""
+tags = 'Brosencephalon Immunology::Lymphoid-Structures::lymph-drainage'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1403719404052
+text = 'Which lymph node cluster drains the&nbsp;<b>testes</b>?<div><br /></div><div>{{c1::Para-aortic}}</div>'
+extra = ""
+tags = 'Brosencephalon Immunology::Lymphoid-Structures::lymph-drainage'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1403719414491
+text = 'Which lymph node cluster drains the&nbsp;<b>ovaries</b>?<div><br /></div><div>{{c1::Para-aortic}}</div>'
+extra = ""
+tags = 'Brosencephalon Immunology::Lymphoid-Structures::lymph-drainage'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1403719421221
+text = 'Which lymph node cluster drains the&nbsp;<b>kidneys</b>?<div><br /></div><div>{{c1::Para-aortic}}</div>'
+extra = ""
+tags = 'Brosencephalon Immunology::Lymphoid-Structures::lymph-drainage'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1403719432141
+text = 'Which lymph node cluster drains the&nbsp;<b>uterus</b>?<div><br /></div><div>{{c1::Para-aortic}}</div>'
+extra = ""
+tags = 'Brosencephalon Immunology::Lymphoid-Structures::lymph-drainage'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1403719442503
+text = """
+Which lymph node cluster drains the&nbsp;<b>anal canal below the pectinate line</b>?<div><br \
+/></div><div>{{c1::Superficial inguinal}}</div>"""
+extra = ""
+tags = 'Brosencephalon Immunology::Lymphoid-Structures::lymph-drainage'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1403719468681
+text = """
+Which lymph node cluster drains the&nbsp;<b>skin below the umbilicus</b>&nbsp;(except the popliteal territory)?<div><br \
+/>{{c1::Superficial inguinal}}</div>"""
+extra = ""
+tags = 'Brosencephalon Immunology::Lymphoid-Structures::lymph-drainage'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1403719501088
+text = """
+Which lymph node cluster drains the&nbsp;<b>dorsolateral foot</b>&nbsp;and <b>posterior calf</b>?<div><br \
+/>{{c1::Popliteal}}</div>"""
+extra = ""
+tags = 'Brosencephalon Immunology::Lymphoid-Structures::lymph-drainage'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1403719528605
+text = """
+The&nbsp;{{c1::right lymphatic duct}} is a major lymphatic vessel that drains the right side of the body above the \
+diaphragm."""
+extra = ""
+tags = 'Brosencephalon Immunology::Lymphoid-Structures::lymph-drainage'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1403720044323
+text = """
+The&nbsp;{{c1::thoracic duct}} is a major lymphatic vessel that drains 3/4 of the body into the junction of the left \
+subclavian and internal jugular veins."""
+extra = """
+<div><i>The Right Lymphatic Duct is what drains the remaining 1/4 (right side of the body above the \
+diaphragm).</i></div>"""
+tags = 'Brosencephalon Immunology::Lymphoid-Structures::lymph-drainage'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1403720136149
+text = 'In which area of the spleen are T cells found?<div><br />{{c1::Periarterial lymphatic sheath of the white pulp}}</div>'
+extra = '<div><img src="paste-4088808866383.jpg" /></div>'
+tags = 'Brosencephalon Immunology::Lymphoid-Structures::sinusoids-of-spleen'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1403724143119
+text = 'In which area of the spleen are B cells found?<div><br /></div><div>{{c1::Follicles within the white pulp}}</div>'
+extra = '<div><img src="paste-4088808866383.jpg" /></div>'
+tags = 'Brosencephalon Immunology::Lymphoid-Structures::sinusoids-of-spleen'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1403724163251
+text = """
+In which area of the spleen are <b>APCs</b>&nbsp;and <b>specialized B cells </b>found?<div><br />{{c1::Marginal Zone \
+(between the red and white pulp)}}</div>"""
+extra = """
+<div><i>This is the area where APCs present blood borne antigens.</i></div><div><i><img src="paste-4088808866383.jpg" \
+/></i></div>"""
+tags = 'Brosencephalon Immunology::Lymphoid-Structures::sinusoids-of-spleen'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1403724312462
+text = """
+How does splenic dysfunction, asplenia or splenectomy influence the susceptibility to infection by encapsulated \
+organisms?<div><br /></div><div>{{c1::Increase}}</div>"""
+extra = """
+<div></div><i>Splenic dysfunction = decreased IgM = decreased complement activation = decreased C3b opsonization = \
+increased susceptibility to encapsulated organisms</i><div><img src="paste-4393751544047.jpg" /></div>"""
+tags = 'Brosencephalon Immunology::Lymphoid-Structures::sinusoids-of-spleen'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1403724935353
+text = """
+{{c1::Howell-Jolly Bodies}} are intracellular inclusions of <b>nuclear remnants&nbsp;</b>seen in RBCs following \
+splenectomy."""
+extra = ""
+tags = 'Brosencephalon Immunology::Lymphoid-Structures::sinusoids-of-spleen'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1403724963660
+text = """
+How do Thrombocyte levels change post-splenectomy?<div><br /></div><div>{{c1::Increase; there is often \
+Thrombocytosis}}</div>"""
+extra = ""
+tags = 'Brosencephalon Immunology::Lymphoid-Structures::sinusoids-of-spleen'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1403724990252
+text = 'Which lymphoid organ is the site of T cell maturation and differentiation?<div><br /></div><div>{{c1::Thymus}}</div>'
+extra = '<div><i><b>T</b>&nbsp;cells = <b>T</b>hymus</i></div><div><i><b>B</b>&nbsp;cells = <b>B</b>one marrow</i></div>'
+tags = 'Brosencephalon Immunology::Lymphoid-Structures::thymus'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1403725033195
+text = """
+Which embryological pharyngeal pouch gives rise to the Thymus?<div><br /></div><div>{{c1::Epithelium of the \
+<u>3rd</u>&nbsp;pharyngeal pouch}}</div>"""
+extra = ""
+tags = 'Brosencephalon Immunology::Lymphoid-Structures::thymus'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1403725083050
+text = 'The&nbsp;{{c1::cortex}} is the area of the Thymus that is <b>dense</b>&nbsp;and full of <b>immature T cells.</b>'
+extra = ""
+tags = 'Brosencephalon Immunology::Lymphoid-Structures::thymus'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1403725113436
+text = """
+The&nbsp;{{c1::medulla}} is the area of the Thymus that is <b>pale</b>&nbsp;and full of <b>mature T cells</b>&nbsp;and \
+<b>Hassall corpuscles</b>&nbsp;containing epithelial reticular cells."""
+extra = ""
+tags = 'Brosencephalon Immunology::Lymphoid-Structures::thymus'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1403728974095
+text = """
+{{c1::Toll-like Receptors (TLRs)}} are pattern recognition receptors involved in <b>innate immunity</b>&nbsp;that \
+recognize <b>pathogen-associated molecular patterns (PAMPs)</b>."""
+extra = '<div><i>PAMPs include LPS, Flagellin, ssRNA, etc.</i></div>'
+tags = 'Brosencephalon Immunology::Lymphocytes::innate-vs-adaptive-immunity'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1403729873078
+text = '{{c1::HLA-A}},&nbsp;{{c2::HLA-B}} and&nbsp;{{c3::HLA-C}} are the HLA loci associated with MHC I.'
+extra = ""
+tags = 'Brosencephalon Immunology::Lymphocytes::mhc-i-and-ii'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1403730052424
+text = '{{c1::HLA-DR}},&nbsp;{{c2::HLA-DP}} and&nbsp;{{c3::HLA-DQ}} are the HLA loci that are associated with MHC II.'
+extra = ""
+tags = 'Brosencephalon Immunology::Lymphocytes::mhc-i-and-ii'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1403730083192
+text = 'Which type of T cell does MHC I bind to?<div><br /></div><div>{{c1::CD8+ T cells}}</div>'
+extra = ""
+tags = 'Brosencephalon Immunology::Lymphocytes::mhc-i-and-ii'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1403730116755
+text = 'Which type of T cell does MHC II bind to?<div><br /></div><div>{{c1::CD4+ T cells}}</div>'
+extra = ""
+tags = 'Brosencephalon Immunology::Lymphocytes::mhc-i-and-ii'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1403730128805
+text = """
+Which MHC receptor is <b>expressed on all nucleated cells</b>&nbsp;except for RBCs?<div><br /></div><div>{{c1::MHC \
+I}}</div>"""
+extra = ""
+tags = 'Brosencephalon Immunology::Lymphocytes::mhc-i-and-ii'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1403730276225
+text = 'Which MHC receptor is <b>only expressed on APCs</b>?<div><br /></div><div>{{c1::MHC II}}</div>'
+extra = ""
+tags = 'Brosencephalon Immunology::Lymphocytes::mhc-i-and-ii'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1403730291961
+text = """
+Which MHC receptor presents <b>endogenously</b>&nbsp;synthesized <b>antigens</b>&nbsp;(e.g. viral)?<div><br \
+/></div><div>{{c1::MHC I}}</div>"""
+extra = '<div><i>Presented to CD8+ T cells</i></div>'
+tags = 'Brosencephalon Immunology::Lymphocytes::mhc-i-and-ii'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1403730381281
+text = """
+Which MHC receptor presents <b>exogenously </b>synthesized <b>proteins</b>&nbsp;(e.g. bacterial proteins; viral capsid \
+antigens)?<div><br /></div><div>{{c1::MHC II}}</div>"""
+extra = '<div><i>Presents it to CD4+ T cells.</i></div>'
+tags = 'Brosencephalon Immunology::Lymphocytes::mhc-i-and-ii'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1403730425846
+text = """
+{{c1::TAP}} is a peptide transporter found in the RER that functions to deliver peptide antigens for loading into MHC I \
+before it is secreted."""
+extra = ""
+tags = 'Brosencephalon Immunology::Lymphocytes::mhc-i-and-ii'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1403731093160
+text = '{{c1::beta2-microglobulin}} is a protein that transports MHC I molecules to the cell surface.'
+extra = '<div><img src="paste-7756710936791.jpg" /></div>'
+tags = 'Brosencephalon Immunology::Lymphocytes::mhc-i-and-ii'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1403731126065
+text = 'Which HLA subtype is associated with Hemochromatosis?<div><br /></div><div>{{c1::HLA-A3}}</div>'
+extra = ""
+tags = 'Brosencephalon Immunology::Lymphocytes::hla-subtypes-and-associated-with-diseases'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1403735608138
+text = 'Which HLA subtype is associated with Psoriatic Arthritis?<div><br /></div><div>{{c1::HLA-B27}}</div>'
+extra = '<div><img src="paste-8138963026013.jpg" /></div>'
+tags = 'Brosencephalon Immunology::Lymphocytes::hla-subtypes-and-associated-with-diseases'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1403735640890
+text = 'Which HLA subtype is associated with Ankylosing Spondylitis?<div><br /></div><div>{{c1::HLA-B27}}</div>'
+extra = '<div><img src="paste-8134668058717.jpg" /></div>'
+tags = 'Brosencephalon Immunology::Lymphocytes::hla-subtypes-and-associated-with-diseases'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1403735662015
+text = """
+Which HLA subtype is associated with the arthritis of Inflammatory Bowel Disease?<div><br \
+/></div><div>{{c1::HLA-B27}}</div>"""
+extra = '<div><img src="paste-8134668058717.jpg" /></div>'
+tags = 'Brosencephalon Immunology::Lymphocytes::hla-subtypes-and-associated-with-diseases'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1403735685532
+text = 'Which HLA subtype is associated with Reactive Arthritis (Reiter Syndrome)?<div><br /></div><div>{{c1::HLA-B27}}</div>'
+extra = '<div><img src="paste-8134668058717.jpg" /></div>'
+tags = 'Brosencephalon Immunology::Lymphocytes::hla-subtypes-and-associated-with-diseases'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1403735706703
+text = 'Which HLA subtype is associated with the seronegative arthropathies?<div><br /></div><div>{{c1::HLA-B27}}</div>'
+extra = '<div><img src="paste-8134668058717.jpg" /></div>'
+tags = 'Brosencephalon Immunology::Lymphocytes::hla-subtypes-and-associated-with-diseases'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1403736071374
+text = 'Which HLA subtype is associated with Celiac Disease?<div><br /></div><div>{{c1::HLA-DQ2/DQ8}}</div>'
+extra = ""
+tags = 'Brosencephalon Immunology::Lymphocytes::hla-subtypes-and-associated-with-diseases'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1403736094921
+text = 'Which HLA subtype is associated with Multiple Sclerosis?<div><br /></div><div>{{c1::HLA-DR2}}</div>'
+extra = ""
+tags = 'Brosencephalon Immunology::Lymphocytes::hla-subtypes-and-associated-with-diseases'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1403736117231
+text = 'Which HLA subtype is associated with hay fever?<div><br /></div><div>{{c1::HLA-DR2}}</div>'
+extra = ""
+tags = 'Brosencephalon Immunology::Lymphocytes::hla-subtypes-and-associated-with-diseases'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1403736126754
+text = 'Which HLA subtype is associated with SLE?<div><br /></div><div>{{c1::HLA-DR2; HLA-DR3}}</div>'
+extra = ""
+tags = 'Brosencephalon Immunology::Lymphocytes::hla-subtypes-and-associated-with-diseases'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1403736132132
+text = 'Which HLA subtype is associated with Goodpasture Syndrome?<div><br /></div><div>{{c1::HLA-DR2}}</div>'
+extra = ""
+tags = 'Brosencephalon Immunology::Lymphocytes::hla-subtypes-and-associated-with-diseases'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1403736141703
+text = 'Which HLA subtype is associated with T1DM?<div><br /></div><div>{{c1::HLA-DR3; HLA-DR4}}</div>'
+extra = ""
+tags = 'Brosencephalon Immunology::Lymphocytes::hla-subtypes-and-associated-with-diseases'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1403736148376
+text = 'Which HLA subtype is associated with Graves Disease?<div><br /></div><div>{{c1::HLS-DR3}}</div>'
+extra = ""
+tags = 'Brosencephalon Immunology::Lymphocytes::hla-subtypes-and-associated-with-diseases'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1403736170707
+text = 'Which HLA subtype is associated with Rheumatoid Arthritis??<div><br /></div><div>{{c1::HLA-DR4}}</div>'
+extra = '<div><i>There are <b>4</b>&nbsp;walls in the <b>"rheum</b>".</i></div>'
+tags = 'Brosencephalon Immunology::Lymphocytes::hla-subtypes-and-associated-with-diseases'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1403736233761
+text = 'Which HLA subtype is associated with Pernicious Anemia?<div><br /></div><div>{{c1::HLA-DR5}}</div>'
+extra = '<div><i>Remember, Pernicious Anemia can cause Vit B12 deficiency.</i></div>'
+tags = 'Brosencephalon Immunology::Lymphocytes::hla-subtypes-and-associated-with-diseases'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1403736262399
+text = 'Which HLA subtype is associated with Hashimoto Thyroiditis?<div><br /></div><div>{{c1::HLA-DR5}}</div>'
+extra = ""
+tags = 'Brosencephalon Immunology::Lymphocytes::hla-subtypes-and-associated-with-diseases'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1403736277187
+text = """
+{{c1::Perforin}} and&nbsp;{{c2::Granzyme}} are enzymes used by Natural Killer cells to induce apoptosis in virally \
+infected cells and tumor cells."""
+extra = '<div><i>Perforin "perforates" the membrane.</i></div><div><i>Granzyme enters and induces apoptosis.</i></div>'
+tags = 'Brosencephalon Immunology::Lymphocytes::natural-killer-cells'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1403738680003
+text = """
+Which lymphocyte is the only lymphocyte that functions in the innate immune system?<div><br /></div><div>{{c1::Natural \
+Killer cells}}</div>"""
+extra = ""
+tags = 'Brosencephalon Immunology::Lymphocytes::natural-killer-cells'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1403738714689
+text = 'How does IL-2 influence NK cell activity?<div><br /></div><div>{{c1::Increase}}</div>'
+extra = ""
+tags = 'Brosencephalon Immunology::Lymphocytes::natural-killer-cells'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1403738736156
+text = 'How does IL-12 influence NK cell activity?<div><br /></div><div>{{c1::Increase}}</div>'
+extra = ""
+tags = 'Brosencephalon Immunology::Lymphocytes::natural-killer-cells'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1403738743555
+text = 'How does IFN-beta influence NK cell activity?<div><br /></div><div>{{c1::Increase}}</div>'
+extra = ""
+tags = 'Brosencephalon Immunology::Lymphocytes::natural-killer-cells'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1403738753600
+text = 'How does IFN-alpha influence NK cell activity?<div><br /></div><div>{{c1::Increase}}</div>'
+extra = ""
+tags = 'Brosencephalon Immunology::Lymphocytes::natural-killer-cells'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1403738764683
+text = """
+{{c1::Natural Killer cells}} are cells that function in the innate immune system by killing cells when exposed to an<b> \
+activation signal</b>&nbsp;or an <b>absence of MHC I</b>&nbsp;on the target cell."""
+extra = ""
+tags = 'Brosencephalon Immunology::Lymphocytes::natural-killer-cells'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1403738896410
+text = """
+{{c1::Antibody-dependent cell-mediated cytotoxicity (ADCC)}} is an immunological killing method performed by NK cells \
+that involves the binding of <b>CD16</b>&nbsp;to the <b>F<sub>c</sub>&nbsp;portion of bound immunoglobulins</b>."""
+extra = '<div><i>This then activates the NK cell.</i></div>'
+tags = 'Brosencephalon Immunology::Lymphocytes::natural-killer-cells'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1403739099878
+text = 'Which type of T cell functions to help B cells make antibodies?<div><br /></div><div>{{c1::CD4+ T cells}}</div>'
+extra = ""
+tags = 'Brosencephalon Immunology::Lymphocytes::major-functions-of-b-and-t-cells'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1403739221373
+text = """
+Which type of T cells function to produce cytokines that activate other cells of the immune system?<div><br \
+/></div><div>{{c1::CD4+ T cells}}</div>"""
+extra = ""
+tags = 'Brosencephalon Immunology::Lymphocytes::major-functions-of-b-and-t-cells'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1403739243025
+text = 'Which type of T cells function to kill virus-infected cells directly?<div><br /></div><div>{{c1::CD8+ T cells}}</div>'
+extra = ""
+tags = 'Brosencephalon Immunology::Lymphocytes::major-functions-of-b-and-t-cells'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1403739263853
+text = 'Which type of lymphocyte is associated with Type IV Hypersensitivity?<div><br /></div><div>{{c1::T cells}}</div>'
+extra = ""
+tags = 'Brosencephalon Immunology::Lymphocytes::major-functions-of-b-and-t-cells'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1403739342247
+text = """
+Which type of lymphocyte is associated with acute and chronic organ rejection?<div><br /></div><div>{{c1::T \
+cells}}</div>"""
+extra = ""
+tags = 'Brosencephalon Immunology::Lymphocytes::major-functions-of-b-and-t-cells'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1403739360890
+text = """
+In which area of the Thymus does <b>positive selection</b>&nbsp;of T cells occur?<div><br \
+/></div><div>{{c1::Cortex}}</div>"""
+extra = '<div><img src="paste-10771777979063.jpg" /></div>'
+tags = 'Brosencephalon Immunology::Lymphocytes::differentiation-of-t-cells'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1403739873226
+text = """
+In which area of the Thymus does <b>negative selection</b>&nbsp;of T cells occur?<div><br \
+/></div><div>{{c1::Medulla}}</div>"""
+extra = '<div><img src="paste-10767483011767.jpg" /></div>'
+tags = 'Brosencephalon Immunology::Lymphocytes::differentiation-of-t-cells'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1403739903771
+text = """
+{{c1::Positive selection}} is a type of selection undergone by T cells that involves the survival of T cells expressing \
+TCRs that are <b>capable</b>&nbsp;of binding surface self MHC molecules."""
+extra = '<div><img src="paste-10767483011767.jpg" /></div>'
+tags = 'Brosencephalon Immunology::Lymphocytes::differentiation-of-t-cells'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1403740110832
+text = """
+{{c1::Negative selection}} is a type of selection undergone by T cells that involves the <b>apoptosis</b>&nbsp;of T \
+cells expressing TCRs with high affinity for self antigens."""
+extra = '<div><img src="paste-10767483011767.jpg" /></div>'
+tags = 'Brosencephalon Immunology::Lymphocytes::differentiation-of-t-cells'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1403740212080
+text = 'Which cytokine induces the differentiation of Helper T cells into Th1 cells?<div><br /></div><div>{{c1::IL-12}}</div>'
+extra = '<div><img src="paste-10767483011767.jpg" /></div>'
+tags = 'Brosencephalon Immunology::Lymphocytes::helper-t-cells'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1403740242484
+text = 'Which cytokine induces the differentiation of Helper T cells into Th2 cells?<div><br /></div><div>{{c1::IL-4}}</div>'
+extra = '<div><img src="paste-10767483011767.jpg" /></div>'
+tags = 'Brosencephalon Immunology::Lymphocytes::helper-t-cells'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1403740268332
+text = """
+Which cytokine induces the differentiation of Helper T cells into Th17 cells?<div><br /></div><div>{{c1::TGF-beta + \
+IL-6}}</div>"""
+extra = '<div><img src="paste-10767483011767.jpg" /></div>'
+tags = 'Brosencephalon Immunology::Lymphocytes::helper-t-cells'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1403740302633
+text = """
+Which cytokine induces the differentiation of Helper T cells into Regulatory T cells?<div><br /></div><div>{{c1::TGF-\
+beta}}</div>"""
+extra = '<div><img src="paste-10767483011767.jpg" /></div>'
+tags = 'Brosencephalon Immunology::Lymphocytes::helper-t-cells'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1403740351715
+text = """
+In the activation of T cells, what is the <b>primary signal </b>between the APC and T cell? &nbsp;<div><br \
+/></div><div>{{c1::Antigen via MHC II on APC to TCR on CD4+ T cell; Antigen via MHC I on APC to TCR on CD8+ T \
+cell}}</div>"""
+extra = """
+<div><i>MHC II &lt;--&gt; CD4+ T cell</i></div><div><i>MHC I &lt;--&gt; CD8+ T cell</i></div><div><i><img \
+src="paste-12532714570149.jpg" /></i></div><div><i><img src="paste-13735305412787.jpg" /></i></div>"""
+tags = 'Brosencephalon Immunology::Lymphocytes::t-and-b-cell-activation'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1403742157676
+text = """
+In the activation of T cells, what is the <b>secondary/co-stimulatory</b>&nbsp;signal between the APC and T \
+cell?<div><br /></div><div>{{c1::B7 on APC to CD28 on T cell}}</div>"""
+extra = '<div><img src="paste-12537009537445.jpg" /></div><div><img src="paste-13739600380083.jpg" /></div>'
+tags = 'Brosencephalon Immunology::Lymphocytes::t-and-b-cell-activation'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1403742217564
+text = """
+In B cell activation, what is the <b>primary </b>signal between the CD4+ T cell and B cell?<div><br \
+/></div><div>{{c1::Antigen via TCR on CD4+ T cell to MHC II on B cell}}</div>"""
+extra = '<div><img src="paste-13224204304801.jpg" /></div><div><img src="paste-13653701034168.jpg" /></div>'
+tags = 'Brosencephalon Immunology::Lymphocytes::t-and-b-cell-activation'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1403742535744
+text = """
+In B cell activation, what is the <b>secondary</b>&nbsp;signal between the CD4+ T cell and B cell?<div><br \
+/></div><div>{{c1::CD40L on CD4+ T cell to CD40 on B cell}}</div>"""
+extra = '<div><img src="paste-13219909337505.jpg" /></div><div><img src="paste-13657996001464.jpg" /></div>'
+tags = 'Brosencephalon Immunology::Lymphocytes::t-and-b-cell-activation'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1403803116185
+text = 'Which type of helper T cell secretes I<b>FN-gamma</b>?<div><br /></div><div>{{c1::Th1}}</div>'
+extra = ""
+tags = 'Brosencephalon Immunology::Lymphocytes::helper-t-cells'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1403803358364
+text = """
+Which type of helper T cell secrets <b>IL-4, IL-5, IL-6, IL-10</b>&nbsp;and <b>IL-13</b>?<div><br \
+/></div><div>{{c1::Th2}}</div>"""
+extra = ""
+tags = 'Brosencephalon Immunology::Lymphocytes::helper-t-cells'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1403803398290
+text = """
+Which type of helper T cells function to <b>activate macrophages and cytotoxic T cells</b>?<div><br \
+/></div><div>{{c1::Th1}}</div>"""
+extra = ""
+tags = 'Brosencephalon Immunology::Lymphocytes::helper-t-cells'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1403803451156
+text = """
+Which type of helper T cells function to <b>recruit eosinophils for parasite defense</b>?<div><br \
+/></div><div>{{c1::Th2}}</div>"""
+extra = ""
+tags = 'Brosencephalon Immunology::Lymphocytes::helper-t-cells'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1403804426864
+text = """
+Which type of helper T cells function to <b>promote IgE production by B cells</b>?<div><br \
+/></div><div>{{c1::Th2}}</div>"""
+extra = ""
+tags = 'Brosencephalon Immunology::Lymphocytes::helper-t-cells'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1403804476924
+text = """
+{{c2::IL-4}} and {{c1::IL-10}} are cytokines&nbsp;<b>secreted by Th2</b>&nbsp;cells that <b>inhibits Th1 cell \
+activity</b>."""
+extra = ""
+tags = 'Brosencephalon Immunology::Lymphocytes::helper-t-cells'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1403804505594
+text = '{{c1::IFN-gamma}} is a cytokine <b>secreted by Th1</b>&nbsp;cell that <b>inhibits Th2 cell action</b>.'
+extra = ""
+tags = 'Brosencephalon Immunology::Lymphocytes::helper-t-cells'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1403804722120
+text = """
+Which cytokine from macrophages functions to stimulate T cell differentiation into Th1 cells?<div><br \
+/></div><div>{{c1::IL-12}}</div>"""
+extra = """
+<div><i>- Macrophages release IL-12 --&gt; T cells differentiate into Th1 cells.</i></div><div><i>- Th1 cells secrete \
+IFN-gamma --&gt; Activation of macrophages</i></div>"""
+tags = 'Brosencephalon Immunology::Lymphocytes::helper-t-cells'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1403804814688
+text = 'Which cytokine from Th1 cells functions to activate macrophages?<div><br /></div><div>{{c1::IFN-gamma}}</div>'
+extra = """
+<div><div><i>- Macrophages release IL-12 --&gt; T cells differentiate into Th1 cells.</i></div><div><i>- Th1 cells \
+secrete IFN-gamma --&gt; Activation of macrophages</i></div></div>"""
+tags = 'Brosencephalon Immunology::Lymphocytes::helper-t-cells'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1403805012727
+text = """
+{{c1::Perforin}} is an enzyme found in the cytotoxic granules of CD8+ T cells that functions to deliver the content of \
+granules into target cells."""
+extra = ""
+tags = 'Brosencephalon Immunology::Lymphocytes::cytotoxic-t-cells'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1403805121291
+text = """
+{{c1::Granzyme B}} is a <b>serine protease</b>&nbsp;found in the cytotoxic granules of CD8+ T cells that functions to \
+activate apoptosis inside target cells."""
+extra = ""
+tags = 'Brosencephalon Immunology::Lymphocytes::cytotoxic-t-cells'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1403805171666
+text = """
+{{c1::Granulysin}} is an <b>antimicrobial</b>&nbsp;protein found in the cytotoxic granules of CD8+ T cells that \
+functions to induce apoptosis."""
+extra = ""
+tags = 'Brosencephalon Immunology::Lymphocytes::cytotoxic-t-cells'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1403805210685
+text = """
+Which type of T cell functions to <b>maintain specific immune tolerance</b>&nbsp;by <b>suppression CD4 and CD8 T \
+cell</b>&nbsp;effector function?<div><br /></div><div>{{c1::Regulatory T cells}}</div>"""
+extra = ""
+tags = 'Brosencephalon Immunology::Lymphocytes::regulatory-t-cells'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1403805941842
+text = """
+Which type of T cell is identified by the expression of cell surface markers <b>CD3, CD4 and CD25</b>?<div><br \
+/></div><div>{{c1::Regulatory T cells}}</div>"""
+extra = '<div><i>CD25 = alpha-chain of the IL-2 receptor</i></div>'
+tags = 'Brosencephalon Immunology::Lymphocytes::regulatory-t-cells'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1403806196523
+text = """
+Which type of T cell is identified by the expression of the <b>transcription factor FOXP3</b>?<div><br \
+/></div><div>{{c1::Regulatory T cells}}</div>"""
+extra = ""
+tags = 'Brosencephalon Immunology::Lymphocytes::regulatory-t-cells'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1403806222535
+text = 'Which anti-inflammatory cytokines are produced by regulatory T cells?<div><br /></div><div>{{c1::IL-10; TGF-beta}}</div>'
+extra = ""
+tags = 'Brosencephalon Immunology::Lymphocytes::regulatory-t-cells'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1403806247938
+text = 'Which fragment in antibodies contains the <b>heavy chain only</b>?<div><br /></div><div>{{c1::Fc}}</div>'
+extra = '<div><img src="paste-3513283248542.jpg" /></div>'
+tags = 'Brosencephalon Immunology::Lymphocytes::antibody-structure-and-function'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1403806922331
+text = """
+Which fragment in antibodies contains <b>both</b>&nbsp;the heavy and light chains?<div><br \
+/></div><div>{{c1::Fab}}</div>"""
+extra = '<div><img src="paste-3508988281246.jpg" /></div>'
+tags = 'Brosencephalon Immunology::Lymphocytes::antibody-structure-and-function'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1403806927526
+text = 'Which fragment in antibodies functions to <b>bind antigen</b>?<div><br /></div><div>{{c1::Fab}}</div>'
+extra = '<div></div><img src="paste-3508988281246.jpg" />'
+tags = 'Brosencephalon Immunology::Lymphocytes::antibody-structure-and-function'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1403806951120
+text = 'Which fragment in antibodies <b>determines the idiotype</b>?<div><br /></div><div>{{c1::Fab}}</div>'
+extra = """
+<div><i>There is a unique antigen-binding pocket as </i><u style="font-style: italic; ">only 1 antigenic specificity is \
+expressed per B cell</u>.</div><div><img src="paste-3508988281246.jpg" /></div>"""
+tags = 'Brosencephalon Immunology::Lymphocytes::antibody-structure-and-function'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1403807109173
+text = 'Which fragment in antibodies is involved with <b>complement binding</b>?<div><br /></div><div>{{c1::Fc}}</div>'
+extra = '<div><img src="paste-3508988281246.jpg" /><img src="paste-4509715660977.jpg" /></div>'
+tags = 'Brosencephalon Immunology::Lymphocytes::antibody-structure-and-function'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1403807142461
+text = 'Which fragment of antibodies determines the isotype (IgM, IgD, etc.)?<div><br /></div><div>{{c1::Fc}}</div>'
+extra = '<div><img src="paste-3508988281246.jpg" /><img src="paste-4505420693681.jpg" /></div>'
+tags = 'Brosencephalon Immunology::Lymphocytes::antibody-structure-and-function'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1403807216749
+text = '{{c1::Opsonization}} is an immunological phenomenon performed by antibodies that involves the promotion of phagocytosis.'
+extra = '<div><img src="paste-4707284156818.jpg" /></div>'
+tags = 'Brosencephalon Immunology::Lymphocytes::antibody-structure-and-function'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1403807983588
+text = """
+{{c1::Neutralization}} is an immunological phenomenon performed by antibodies that involves the prevention of bacterial \
+adherence to target cells/tissue."""
+extra = '<div><img src="paste-4702989189522.jpg" /></div>'
+tags = 'Brosencephalon Immunology::Lymphocytes::antibody-structure-and-function'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1403808019293
+text = """
+Which immunoglobulin isotypes are expressed on the surface of mature, naive B cells?<div><br /></div><div>{{c1::IgM; \
+IgD}}</div>"""
+extra = """
+<div><i>"We <b>B</b>&nbsp;<b>naive</b>&nbsp;<b>MD</b>'s"</i></div><div><i></i></div><div><i>They may differentiate in \
+germinal centers of lymph nodes by isotype switching into plasma cells that secrete IgA, IgE and IgG.</i></div>"""
+tags = 'Brosencephalon Immunology::Lymphocytes::immunoglobulin-isotypes'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1403821717530
+text = """
+Which immunoglobulin isotype is the main antibody involved in the&nbsp;<b>secondary/delayed</b>&nbsp;response to an \
+antigen?<div><br /></div><div>{{c1::IgG}}</div>"""
+extra = ""
+tags = 'Brosencephalon Immunology::Lymphocytes::immunoglobulin-isotypes'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1403822705268
+text = 'What is the most abundant immunoglobulin isotype in serum?<div><br /></div><div>{{c1::IgG}}</div>'
+extra = ""
+tags = 'Brosencephalon Immunology::Lymphocytes::immunoglobulin-isotypes'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1403823724749
+text = """
+Which&nbsp;immunoglobulin isotype fixes complement <u style="font-weight: bold; ">and</u>&nbsp;is able to cross the \
+placenta?<div><br /></div><div>{{c1::IgG}}</div>"""
+extra = '<div><i>Crossing of the plcenta provides infants with passive immunity.</i></div>'
+tags = 'Brosencephalon Immunology::Lymphocytes::immunoglobulin-isotypes'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1403823804312
+text = 'Which&nbsp;immunoglobulin isotype function to <b>opsonize bacteria</b>?<div><br /></div><div>{{c1::IgG}}</div>'
+extra = ""
+tags = 'Brosencephalon Immunology::Lymphocytes::immunoglobulin-isotypes'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1403823814812
+text = """
+Which&nbsp;immunoglobulin isotype functions to <b>neutralize bacterial toxins and viruses</b>?<div><br \
+/></div><div>{{c1::IgG}}</div>"""
+extra = ""
+tags = 'Brosencephalon Immunology::Lymphocytes::immunoglobulin-isotypes'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1403823830486
+text = """
+Which&nbsp;immunoglobulin isotype <b>prevents the attachment of bacteria and viruses to </b><u style="font-weight: bold; \
+">mucous membranes</u>?<div><br /></div><div>{{c1::IgA}}</div>"""
+extra = ""
+tags = 'Brosencephalon Immunology::Lymphocytes::immunoglobulin-isotypes'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1403823874672
+text = """
+{{c1::IgA}} is an&nbsp;immunoglobulin isotype that is found as a <b>monomer</b>&nbsp;in circulation but a \
+<b>dimer</b>&nbsp;in secretions."""
+extra = ""
+tags = 'Brosencephalon Immunology::Lymphocytes::immunoglobulin-isotypes'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1403823936207
+text = 'Which&nbsp;immunoglobulin isotype crosses epithelial cells by transcytosis?<div><br /></div><div>{{c1::IgA}}</div>'
+extra = ""
+tags = 'Brosencephalon Immunology::Lymphocytes::immunoglobulin-isotypes'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1403823977131
+text = 'Which&nbsp;immunoglobulin isotype is the <b>most produced antibody overall</b>?<div><br /></div><div>{{c1::IgA}}</div>'
+extra = """
+<div><i>It is released into secretions (tears, saliva, mucous) and early breast milk \
+(colostrum).</i></div><div><i>Before it is released from epithelial cells, it picks up a secretory component (i.e. \
+becoming Secretory-IgA).</i></div>"""
+tags = 'Brosencephalon Immunology::Lymphocytes::immunoglobulin-isotypes'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1403825652154
+text = """
+Which&nbsp;immunoglobulin isotype is produced in the <b>primary/immediate</b>&nbsp;response to an antigen?<div><br \
+/></div><div>{{c1::IgM}}</div>"""
+extra = ""
+tags = 'Brosencephalon Immunology::Lymphocytes::immunoglobulin-isotypes'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1403825751831
+text = """
+Which&nbsp;immunoglobulin isotype functions to fix complement <b>but does not cross the placenta</b>?<div><br \
+/></div><div>{{c1::IgM}}</div>"""
+extra = ""
+tags = 'Brosencephalon Immunology::Lymphocytes::immunoglobulin-isotypes'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1403825784725
+text = """
+Which&nbsp;immunoglobulin isotype exists as a <b>monomer</b>&nbsp;on B cells or a <b>pentamer</b>&nbsp;when \
+secreted?<div><br /></div><div>{{c1::IgM}}</div>"""
+extra = """
+<div><i>The shape of the IgM pentamer allows it to efficiently trap free antigens out of tissue while the humoural \
+response evolves.</i></div>"""
+tags = 'Brosencephalon Immunology::Lymphocytes::immunoglobulin-isotypes'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1403826232035
+text = """
+Which&nbsp;immunoglobulin isotype binds <b>mast cells</b>&nbsp;and <b>basophils</b>?<div><br \
+/></div><div>{{c1::IgE}}</div>"""
+extra = """
+<div><i>It cross-links when exposed to the allergen, thereby causing mast cell degranulation.</i></div><div><i>Major \
+part of <b>type I hypersensitivity</b>.</i></div><div><i>Mediates immunity to worms by activating eosinophils.</i></div>"""
+tags = 'Brosencephalon Immunology::Lymphocytes::immunoglobulin-isotypes'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1403826487731
+text = 'Which&nbsp;immunoglobulin isotype has the lowest concentration in serum?<div><br /></div><div>{{c1::IgE}}</div>'
+extra = ""
+tags = 'Brosencephalon Immunology::Lymphocytes::immunoglobulin-isotypes'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1403826499478
+text = """
+{{c1::Thymus-independent antigens}} are a type of antigen that <b>lacks</b>&nbsp;a peptide component and hence cannot be \
+presented by MHC to T cells."""
+extra = '<div><i>Weakly immunogenic or nonimmunogenic.</i></div><div><i>Vaccines often require boosters.</i></div>'
+tags = 'Brosencephalon Immunology::Lymphocytes::antigen-type-and-memory'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1403827703983
+text = '{{c1::Thymus-dependent antigens}} are a type of antigen that <b>contain protein components</b>.'
+extra = """
+<div><i>Immunologic memory occurs as a result of direct contact of B cells with Th cells (via CD40 and CD40L \
+interaction).</i></div>"""
+tags = 'Brosencephalon Immunology::Lymphocytes::antigen-type-and-memory'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1403883361607
+text = """
+{{c1::Acute-phase Reactants}} are proteins/factors whose serum concentrations change significantly in response to \
+inflammation."""
+extra = ""
+tags = 'Brosencephalon Immunology::Immune-Responses::acute-phase-reactants'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1403883505004
+text = 'Where are acute-phase reactants made?<div><br /></div><div>{{c1::Liver}}</div>'
+extra = '<div><i>In both acute and chronic inflammatory states.</i></div>'
+tags = 'Brosencephalon Immunology::Immune-Responses::acute-phase-reactants'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1403883525128
+text = '{{c1::Serum Amyloid A}} is a positive acute phase reactant whose prolonged elevation can lead to Amyloidosis.'
+extra = ""
+tags = 'Brosencephalon Immunology::Immune-Responses::acute-phase-reactants'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1403883964474
+text = """
+{{c1::C-reactive protein}} is a <b>positive</b>&nbsp;acute phase reactant that functions as an <b>opsonin</b>&nbsp;and \
+<b>fixes complement</b>."""
+extra = '<div><i>It is measured clinically as a sign of ongoing inflammation.</i></div>'
+tags = 'Brosencephalon Immunology::Immune-Responses::acute-phase-reactants'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1403884008600
+text = """
+{{c1::Ferritin}} is a <b>positive</b>&nbsp;acute phase reactant that binds to and sequesters iron to inhibit microbial \
+iron scavenging."""
+extra = ""
+tags = 'Brosencephalon Immunology::Immune-Responses::acute-phase-reactants'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1403884040048
+text = """
+{{c1::Fibrinogen}} is a <b>positive</b>&nbsp;acute phase reactant that functions as a <b>coagulation factor</b>&nbsp;and \
+<b>promotes endothelial repair</b>."""
+extra = '<div><i>It correlates with ESR.</i></div>'
+tags = 'Brosencephalon Immunology::Immune-Responses::acute-phase-reactants'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1403884093041
+text = '{{c1::Hepcidin}} is a <b>positive</b>&nbsp;acute phase reactant that prevents the release of iron bound by Ferritin.'
+extra = ""
+tags = 'Brosencephalon Immunology::Immune-Responses::acute-phase-reactants'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1403884115768
+text = """
+{{c1::Hepcidin}} is a <b>positive</b>&nbsp;acute phase reactant that can cause Anemia of Chronic Disease when elevated \
+for a prolonged period."""
+extra = ""
+tags = 'Brosencephalon Immunology::Immune-Responses::acute-phase-reactants'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1403884151465
+text = """
+{{c1::Albumin}} is a <b>negative</b>&nbsp;acute phase reactant whose production is reduced to conserve amino acids for \
+the positive reactants."""
+extra = ""
+tags = 'Brosencephalon Immunology::Immune-Responses::acute-phase-reactants'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1403884176332
+text = """
+{{c1::Transferrin}} is a <b>negative</b>&nbsp;acute phase reactant that is internalized by macrophages to sequester \
+iron."""
+extra = ""
+tags = 'Brosencephalon Immunology::Immune-Responses::acute-phase-reactants'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1403884205201
+text = """
+Which immunoglobulin isotypes mediate the <b>classical</b>&nbsp;complement pathway?<div><br /></div><div>{{c1::IgG; \
+IgM}}</div>"""
+extra = """
+<div><i>"<b>GM</b>&nbsp;makes <b>classic</b>&nbsp;cars."</i></div><div><i><img src="paste-15431817495065.jpg" \
+/></i></div>"""
+tags = 'Brosencephalon Immunology::Immune-Responses::complement'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1403885182126
+text = 'Which complement pathway is activated by IgG or IgM?<div><br /></div><div>{{c1::Classical}}</div>'
+extra = """
+<div><i>"<b>GM</b>&nbsp;makes <b>classic</b>&nbsp;cars."</i></div><div><i><img src="paste-15427522527769.jpg" \
+/></i></div>"""
+tags = 'Brosencephalon Immunology::Immune-Responses::complement'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1403885217365
+text = 'Which complement pathway is activated by surface molecules on microbes?<div><br /></div><div>{{c1::Alternative}}</div>'
+extra = '<div><img src="paste-15427522527769.jpg" /></div>'
+tags = 'Brosencephalon Immunology::Immune-Responses::complement'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1403885242304
+text = """
+Which complement pathway is activated by <b>mannose</b>&nbsp;or other sugars on the microbe surface?<div><br \
+/></div><div>{{c1::Lectin}}</div>"""
+extra = '<div><img src="paste-15427522527769.jpg" /></div>'
+tags = 'Brosencephalon Immunology::Immune-Responses::complement'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1403885267752
+text = 'What is the function of complement protein C3b?<div><br /></div><div>{{c1::Opsonization}}</div>'
+extra = '<div><i>C3b binds to bacteria.</i></div><div><i><img src="paste-15427522527769.jpg" /></i></div>'
+tags = 'Brosencephalon Immunology::Immune-Responses::complement'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1403885304656
+text = 'What is the function of the complement proteins C3a, C4a and C5a?<div><br /></div><div>{{c1::Anaphylaxis}}</div>'
+extra = '<div><img src="paste-15427522527769.jpg" /></div>'
+tags = 'Brosencephalon Immunology::Immune-Responses::complement'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1403885327291
+text = 'What is the function of the complement protein C5a?<div><br /></div><div>{{c1::Neutrophil chemotaxis}}</div>'
+extra = ""
+tags = 'Brosencephalon Immunology::Immune-Responses::complement'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1403885361880
+text = """
+What is the function of the complement proteins C5b, C6, C7, C8 and C9?<div><br /></div><div>{{c1::Formation of the MAC \
+and subsequent cytolysis}}</div>"""
+extra = '<div><img src="paste-15427522527769.jpg" /></div>'
+tags = 'Brosencephalon Immunology::Immune-Responses::complement'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1403885389569
+text = 'Which complement proteins are involved in anaphylaxis?<div><br /></div><div>{{c1::C3a, C4a, C5a}}</div>'
+extra = '<div><img src="paste-15427522527769.jpg" /></div>'
+tags = 'Brosencephalon Immunology::Immune-Responses::complement'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1403885490258
+text = """
+Which complement proteins are involved in the formation of the MAC?<div><br /></div><div>{{c1::C5b, C6, C7, C8, \
+C9}}</div>"""
+extra = '<div><img src="paste-15427522527769.jpg" /></div>'
+tags = 'Brosencephalon Immunology::Immune-Responses::complement'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1403885515265
+text = 'Which complement protein is involved with neutrophil chemotaxis?<div><br /></div><div>{{c1::C5a}}</div>'
+extra = ""
+tags = 'Brosencephalon Immunology::Immune-Responses::complement'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1403885542841
+text = 'Which complement protein is involved with opsonization?<div><br /></div><div>{{c1::C3b}}</div>'
+extra = ""
+tags = 'Brosencephalon Immunology::Immune-Responses::complement'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1403885554737
+text = """
+Which immunological isotype is one of the two primary opsonins in bacterial defense?<div><br \
+/></div><div>{{c1::IgG}}</div>"""
+extra = ""
+tags = 'Brosencephalon Immunology::Immune-Responses::complement'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1403885628026
+text = 'Which complement protein is one of the two primary opsonins in bacterial defense?<div><br /></div><div>{{c1::C3b}}</div>'
+extra = '<div><i>C3b also helps to clear immune complexes.</i></div>'
+tags = 'Brosencephalon Immunology::Immune-Responses::complement'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1403885651820
+text = """
+{{c1::Decay-accelerating factor (DAF; CD55)}} and&nbsp;{{c2::C1 Esterase Inhibitor}} are 2 proteins that function to \
+<b>prevent</b>&nbsp;complement activation on self cells (such as on RBCs)."""
+extra = ""
+tags = 'Brosencephalon Immunology::Immune-Responses::complement'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1403904944918
+text = """
+Which complement protein disorder causes Hereditary Angioedema?<div><br /></div><div>{{c1::C1 Esterase Inhibitor \
+Deficiency}}</div>"""
+extra = ""
+tags = 'Brosencephalon Immunology::Immune-Responses::complement-disorders'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1403906276037
+text = '{{c1::C1 Esterase Inhibitor Deficiency}} is a complement disorder that causes Hereditary Angioedema.'
+extra = '<div><i>ACE Inhibitors are contraindicated in C1 Esterase Inhibitor Deficiency.</i></div>'
+tags = 'Brosencephalon Immunology::Immune-Responses::complement-disorders'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1403906380806
+text = """
+Which complement disorder increases the susceptibility to Type III hypersensitivity reactions?<div><br \
+/></div><div>{{c1::C3 Deficiency}}</div>"""
+extra = '<div><i>C<b>3</b>&nbsp;deficiency = More Type&nbsp;<b>3</b>&nbsp;reactions</i></div>'
+tags = 'Brosencephalon Immunology::Immune-Responses::complement-disorders'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1403906633826
+text = '{{c1::C3 Deficiency}} is a complement disorder that increases the susceptibility to Type III Hypersensitivity reactions.'
+extra = '<div><i>C<b>3</b>&nbsp;deficiency = More Type <b>3</b>&nbsp;reactions</i></div>'
+tags = 'Brosencephalon Immunology::Immune-Responses::complement-disorders'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1403906701579
+text = """
+{{c1::C3 Deficiency}} is a complement disorder that presents with an increased risk of severem recurrent <b>pyogenic \
+sinus and respiratory tract infections</b>."""
+extra = ""
+tags = 'Brosencephalon Immunology::Immune-Responses::complement-disorders'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1403907450352
+text = """
+{{c1::C5-C9 Deficiencies}} are a group of complement protein deficiencies that involve increased susceptibility to \
+recurrent <i>Neisseria</i>&nbsp;bacteremia."""
+extra = ""
+tags = 'Brosencephalon Immunology::Immune-Responses::complement-disorders'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1403907493918
+text = """
+{{c1::Paroxysmal Nocturnal Hemoglobinuria}} is a hematological disorder that presents with <b>complement-mediated \
+lysis</b>&nbsp;of RBCs due to a <b>DAF</b>&nbsp;(CD55; GPI anchored enzyme) deficiency."""
+extra = '<div><i>Remember, DAF functions to inhibit complement mediated cell lysis on self-cells, especially RBCs.</i></div>'
+tags = 'Brosencephalon Immunology::Immune-Responses::complement-disorders'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1403907629544
+text = 'Which protein is deficient in Paroxysmal Nocturnal Hemoglobinuria?<div><br /></div><div>{{c1::DAF (CD55)}}</div>'
+extra = ""
+tags = 'Brosencephalon Immunology::Immune-Responses::complement-disorders'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1403907916822
+text = """
+Which cytokine released from macrophages functions as an endogenous pyrogen, causing fever and acute \
+inflammation?<div><br /></div><div>{{c1::IL-1}}</div>"""
+extra = '<div><img src="paste-20444044329218.jpg" /></div>'
+tags = 'Brosencephalon Immunology::Immune-Responses::important-cytokines'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1403908541187
+text = """
+Which cytokine released from macrophages is also called <b>osteoclast-activating factor</b>?<div><br \
+/></div><div>{{c1::IL-1}}</div>"""
+extra = '<div><img src="paste-20439749361922.jpg" /></div>'
+tags = 'Brosencephalon Immunology::Immune-Responses::important-cytokines'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1403908656668
+text = """
+Which cytokine released from macrophages functions to activate endothelium to express adhesion molecules?<div><br \
+/></div><div>{{c1::IL-1}}</div>"""
+extra = ""
+tags = 'Brosencephalon Immunology::Immune-Responses::important-cytokines'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1403908852818
+text = """
+Which cytokine released from macrophages functions to induce chemokine secretion to recruit leukocytes?<div><br \
+/></div><div>{{c1::IL-1}}</div>"""
+extra = ""
+tags = 'Brosencephalon Immunology::Immune-Responses::important-cytokines'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1403908874318
+text = """
+Which cytokine released from macrophages causes fever <u style="font-weight: bold; ">and</u>&nbsp;stimulates the \
+production of acute-phase proteins?<div><br /></div><div>{{c1::IL-6}}</div>"""
+extra = '<div></div><i>Also secreted by Th2 cells.</i><div><img src="paste-20439749361922.jpg" /></div>'
+tags = 'Brosencephalon Immunology::Immune-Responses::important-cytokines'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1403908946411
+text = """
+Which cytokine released from Macrophages is a major chemotactic factor for Neutrophils?<div><br \
+/></div><div>{{c1::IL-8}}</div>"""
+extra = '<div><i>"Clean up on <b>aisle 8</b>."</i></div>'
+tags = 'Brosencephalon Immunology::Immune-Responses::important-cytokines'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1403909369598
+text = """
+Which cytokine released from macrophages induces the differentiation of T cells to Th1 cells?<div><br \
+/></div><div>{{c1::IL-12}}</div>"""
+extra = '<div><i>Also secreted by B cells.</i></div>'
+tags = 'Brosencephalon Immunology::Immune-Responses::important-cytokines'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1403909387355
+text = 'Which cytokine released by macrophages activates NK cells?<div><br /></div><div>{{c1::IL-12}}</div>'
+extra = '<div><i>Also secreted by B cells.</i></div>'
+tags = 'Brosencephalon Immunology::Immune-Responses::important-cytokines'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1403909456381
+text = 'Which cytokine released by macrophages mediates septic shock?<div><br /></div><div>{{c1::TNF-alpha}}</div>'
+extra = '<div><i>It also activates endothelium, causes leukocyte recruitment and vascular leakage.</i></div>'
+tags = 'Brosencephalon Immunology::Immune-Responses::important-cytokines'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1403909692002
+text = 'Which cytokine secreted by all T cells stimulates the growth of all T cells?<div><br /></div><div>{{c1::IL-2}}</div>'
+extra = '<div><img src="paste-20439749361922.jpg" /></div>'
+tags = 'Brosencephalon Immunology::Immune-Responses::important-cytokines'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1403909694074
+text = """
+Which cytokine released from all T cells functions to support the growth and differentiation of bone marrow stem cells \
+(i.e. functions like GM-CSF)?<div><br /></div><div>{{c1::IL-3}}</div>"""
+extra = '<div><img src="paste-20439749361922.jpg" /></div>'
+tags = 'Brosencephalon Immunology::Immune-Responses::important-cytokines'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1403909721098
+text = """
+Which cytokine released from Th1 cells has antiviral and antitumor properties?<div><br /></div><div>{{c1::IFN-\
+gamma}}</div>"""
+extra = ""
+tags = 'Brosencephalon Immunology::Immune-Responses::important-cytokines'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1403909780321
+text = """
+Which cytokine released from Th1 cells functions to increase MHC expression and antigen presentation in all \
+cells?<div><br /></div><div>{{c1::IFN-gamma}}</div>"""
+extra = ""
+tags = 'Brosencephalon Immunology::Immune-Responses::important-cytokines'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1403910086930
+text = """
+Which cytokine released from Th2 cells functions to induce differentiation into Th2 cells?<div><br \
+/></div><div>{{c1::IL-4}}</div>"""
+extra = ""
+tags = 'Brosencephalon Immunology::Immune-Responses::important-cytokines'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1403910142484
+text = """
+Which cytokine released from Th2 cells functions to promote <b>B cell growth</b>&nbsp;and <b>enhance class switching to \
+IgE and IgG</b>?<div><br /></div><div>{{c1::IL-4}}</div>"""
+extra = '<div><img src="paste-20439749361922.jpg" /></div>'
+tags = 'Brosencephalon Immunology::Immune-Responses::important-cytokines'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1403910406179
+text = """
+Which cytokine released from Th2 cells functions to promote B cell differentiation and <b>enhance class switching to \
+IgA</b>?<div><br /></div><div>{{c1::IL-5}}</div>"""
+extra = '<div><img src="paste-20439749361922.jpg" /></div>'
+tags = 'Brosencephalon Immunology::Immune-Responses::important-cytokines'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1403910502179
+text = """
+Which cytokine released from Th2 cells functions to stimulate the growth and differentiation of eosinophils?<div><br \
+/></div><div>{{c1::IL-5}}</div>"""
+extra = ""
+tags = 'Brosencephalon Immunology::Immune-Responses::important-cytokines'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1403910545340
+text = """
+{{c1::IL-10}} is an anti-inflammatory cytokine released by Th2 cells that inhibits the actions of activated T cells and \
+Th1 cells."""
+extra = """
+<div><i>Also secreted by regulatory T cells.</i></div><div><i>Similar to TGF-beta which is also anti-\
+inflammatory.</i></div>"""
+tags = 'Brosencephalon Immunology::Immune-Responses::important-cytokines'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1403918806326
+text = """
+{{c1::Interferons}} are immunological glycoproteins synthesized by viral-infected cells that act locally on uninfected \
+cells, thereby "priming them" for viral defense."""
+extra = """
+<div><i>When a virus infected a "primed" cell, viral nucleic acid triggers the following enzymes and eventually \
+apoptosis, hence stopping viral replication:</i></div><div><i>- RNA-ase L, which degrades viral/host \
+mRNA</i></div><div><i>- Protein Kinases that inhibit viral/host protein synthesis</i></div>"""
+tags = 'Brosencephalon Immunology::Immune-Responses::interferon-a-and-b'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1403919003754
+text = """
+{{c1::RNA-ase L}} is a ribonuclease enzyme that functions to degrade viral/host mRNA as a defense mechanism in virally \
+infected cells."""
+extra = """
+<div></div><div><div><i>When a virus infected a "primed" cell, viral nucleic acid triggers the following enzymes and \
+eventually apoptosis, hence stopping viral replication:</i></div><div><i>- RNA-ase L, which degrades viral/host \
+mRNA</i></div><div><i>- Protein Kinases that inhibit viral/host protein synthesis</i></div></div>"""
+tags = 'Brosencephalon Immunology::Immune-Responses::interferon-a-and-b'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1403919110154
+text = 'Which cell type is the only cell that does not have MHC I on its surface?<div><br /></div><div>{{c1::Mature RBCs}}</div>'
+extra = ""
+tags = 'Brosencephalon Immunology::Immune-Responses::cell-surface-proteins'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1403919956930
+text = 'Which cell surface receptor on T cells binds to the antigen-MHC complex?<div><br /></div><div>{{c1::TCR}}</div>'
+extra = ""
+tags = 'Brosencephalon Immunology::Immune-Responses::cell-surface-proteins'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1403920002488
+text = """
+Which cell surface receptor on T cells is associated with the TCR for signal transduction?<div><br \
+/></div><div>{{c1::CD3}}</div>"""
+extra = ""
+tags = 'Brosencephalon Immunology::Immune-Responses::cell-surface-proteins'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1403920032758
+text = """
+Which cell surface receptor on T cells binds to B7 on APCs during the secondary signal in T cell activation?<div><br \
+/></div><div>{{c1::CD28}}</div>"""
+extra = ""
+tags = 'Brosencephalon Immunology::Immune-Responses::cell-surface-proteins'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1403920064266
+text = 'Which cell surface receptor on B cells is the receptor for EBV?<div><br /></div><div>{{c1::CD21}}</div>'
+extra = '<div><i>"You must be <b>21</b>&nbsp;to drink at the <b>Epstein-Barr</b>."</i></div>'
+tags = 'Brosencephalon Immunology::Immune-Responses::cell-surface-proteins'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1403920166350
+text = """
+Which cell surface receptor on B cells binds to CD40L on helper T cells during B cell activation?<div><br \
+/></div><div>{{c1::CD40}}</div>"""
+extra = ""
+tags = 'Brosencephalon Immunology::Immune-Responses::cell-surface-proteins'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1403920196810
+text = """
+Which lymphocyte is characterized by CD19, CD20, CD21 and CD40 cell surface proteins?<div><br /></div><div>{{c1::B \
+cells}}</div>"""
+extra = ""
+tags = 'Brosencephalon Immunology::Immune-Responses::cell-surface-proteins'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1403920249024
+text = 'Which lymphocyte is characterized by CD3 and CD28 cell surface proteins?<div><br /></div><div>{{c1::T cells}}</div>'
+extra = ""
+tags = 'Brosencephalon Immunology::Immune-Responses::cell-surface-proteins'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1403920377502
+text = '{{c1::CD14}} and&nbsp;{{c2::CD40}} are the 2 CD-cell surface proteins found on macrophages.'
+extra = ""
+tags = 'Brosencephalon Immunology::Immune-Responses::cell-surface-proteins'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1403920412901
+text = 'Which cell surface protein on NK cells binds to the Fc portion of IgG?<div><br /></div><div>{{c2::CD16}}</div>'
+extra = ""
+tags = 'Brosencephalon Immunology::Immune-Responses::cell-surface-proteins'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1403920430120
+text = 'Which cell surface protein on NK cells is a unique marker for NK cells?<div><br /></div><div>{{c1::CD56}}</div>'
+extra = ""
+tags = 'Brosencephalon Immunology::Immune-Responses::cell-surface-proteins'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1403920455001
+text = """
+{{c1::Anergy}} is an immunological phenomenon that involves T cells becoming nonreactive without a costimulatory \
+molecule."""
+extra = '<div><i>B cells also become anergic, but tolerance is less complete than in T cells.</i></div>'
+tags = 'Brosencephalon Immunology::Immune-Responses::anergy'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1403921380619
+text = """
+{{c1::Superantigens}} are bacterial toxins that function to cross-link the <b>beta-region of TCRs on all T cells to MHC \
+II on APCs</b>, thereby causing massive release of cytokines."""
+extra = '<div><i>Especially released from Streptococcus pyogenes and Staphylococcus aureus.</i></div>'
+tags = 'Brosencephalon Immunology::Immune-Responses::effects-of-bacterial-toxins'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1403922093744
+text = """
+{{c1::Endotoxin/LPS}} is a bacterial toxin from gram-negative bacteria that functions to <b>directly stimulate \
+macrophages by binding to the endotoxin receptor CD14</b>."""
+extra = '<div><i>Th cells are not involved.</i></div>'
+tags = 'Brosencephalon Immunology::Immune-Responses::effects-of-bacterial-toxins'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1403922433630
+text = """
+Which cell surface protein on macrophages is the receptor for <b>endotoxin/LPS</b>&nbsp;from gram-negative \
+bacteria?<div><br /></div><div>{{c1::CD-14}}</div>"""
+extra = ""
+tags = 'Brosencephalon Immunology::Immune-Responses::effects-of-bacterial-toxins'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1403972465428
+text = """
+{{c1::<i>Salmonella</i>}} is a gram-negative bacteria that yiels antigenic variation due to it having 2 flagellar \
+variants."""
+extra = ""
+tags = 'Brosencephalon Immunology::Immune-Responses::antigenic-variation'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1403973380580
+text = '{{c1::<i>Borrelia spp.</i>}} is a Spirochete that yields antigenic variation and hence causes Relapsing Fever.'
+extra = ""
+tags = 'Brosencephalon Immunology::Immune-Responses::antigenic-variation'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1403973457267
+text = """
+{{c1::<i>Neisseria gonorrhoeae</i>}} is a species of <i>Neisseria </i>that yield antigenic variation due to its pilus \
+protein."""
+extra = ""
+tags = 'Brosencephalon Immunology::Immune-Responses::antigenic-variation'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1403973514544
+text = """
+{{c1::<i>Trypanosoma</i>}} is a genus of parasite that yields antigenic variation through programmed rearrangement of \
+nucleic acid."""
+extra = ""
+tags = 'Brosencephalon Immunology::Immune-Responses::antigenic-variation'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1403973818647
+text = 'How is passive immunity acquired?<div><br /></div><div>{{c1::Receiving preformed antibodies}}</div>'
+extra = ""
+tags = 'Brosencephalon Immunology::Immune-Responses::passive-vs-active-immunity'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1403974182943
+text = 'What is the half-life of antibodies?<div><br /></div><div>{{c1::3 weeks}}</div>'
+extra = ""
+tags = 'Brosencephalon Immunology::Immune-Responses::passive-vs-active-immunity'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1403974216209
+text = 'Which type of vaccine induces a strong and often lifelong immunity?<div><br /></div><div>{{c1::Live attenuated}}</div>'
+extra = ""
+tags = 'Brosencephalon Immunology::Immune-Responses::vaccination'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1403974569126
+text = """
+Which type of vaccine often induces a weaker immune response and hence requires booster shots?<div><br \
+/></div><div>{{c1::Inactivated/killed vaccine}}</div>"""
+extra = ""
+tags = 'Brosencephalon Immunology::Immune-Responses::vaccination'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1403974602027
+text = 'Which type of hypersensitivity reaction causes anaphylaxis?<div><br /></div><div>{{c1::Type I}}</div>'
+extra = '<div><img src="paste-35566624178432.jpg" /><img src="paste-40510131536095.jpg" /></div>'
+tags = 'Brosencephalon Immunology::Immune-Responses::hypersensitivity-types'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1403975571117
+text = """
+{{c1::Type I Hypersensitivity}} is a type of hypersensitivity that involves free antigens cross-linking IgE on \
+presensitized mast cells and basophils.<div><br /></div><div><img src="paste-35562329211136.jpg" /></div>"""
+extra = """
+<div><i>Thereby triggering immediate, widespread release of vasoactive amines that act as postcapillary venules (i.e. \
+histamine).</i></div><div><i>The reaction is <b>rapid</b>&nbsp;due to preformed antibodies.</i></div>"""
+tags = 'Brosencephalon Immunology::Immune-Responses::hypersensitivity-types'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1403975686169
+text = """
+{{c1::Type I Hypersensitivity}} is a type of hypersensitivity that involves a delayed response due to production of \
+Arachidonic Acid metabolites (e.g. leukotrienes).<div><br /></div><div><img src="paste-35562329211136.jpg" /></div>"""
+extra = ""
+tags = 'Brosencephalon Immunology::Immune-Responses::hypersensitivity-types'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1403975847006
+text = 'Which hypersensitivity reactions are mediated by antibodies?<div><br /></div><div>{{c1::Types I, II, and III}}</div>'
+extra = ""
+tags = 'Brosencephalon Immunology::Immune-Responses::hypersensitivity-types'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1403975961897
+text = 'What is the diagnostic test for Type I Hypersensitivity?<div><br /></div><div>{{c1::Skin test for specific IgE}}</div>'
+extra = ""
+tags = 'Brosencephalon Immunology::Immune-Responses::hypersensitivity-types'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1403975975899
+text = """
+Which type of hypersensitivity involves cytotoxicity?<div><br /></div><div>{{c1::Type II}}</div><div><br \
+/></div><div><img src="paste-36206574305588.jpg" /></div>"""
+extra = """
+<div><i>Type </i><b><i>2</i>&nbsp;</b><i>is cy-<b>2</b>-toxic.</i></div><div><i><img src="paste-40510131536095.jpg" \
+/></i></div>"""
+tags = 'Brosencephalon Immunology::Immune-Responses::hypersensitivity-types'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1403976358058
+text = """
+{{c1::Type II Hypersensitivity}} is a type of hypersensitivity that involves IgM or IgG binding to fixed antigens on \
+"enemy" cells, thereby leading to cellular destruction.<div><br /></div><div><img src="paste-36202279338292.jpg" \
+/></div>"""
+extra = """
+<div><i>3 mechanisms exist:</i></div><div><i>- Opsonization leading to phagocytosis or complement \
+activation</i></div><div><i>- Complement-mediated lysis</i></div><div><i>- Antibody-dependent cell-mediated \
+cytotoxicity, typically by NK cells or macrophages</i></div>"""
+tags = 'Brosencephalon Immunology::Immune-Responses::hypersensitivity-types'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1403976666920
+text = """
+What is the diagnostic test for Type II Hypersensitivity?<div><br /></div><div>{{c1::Indirect and direct Coombs' \
+test}}</div><div><br /></div><div><img src="paste-36202279338292.jpg" /></div>"""
+extra = ""
+tags = 'Brosencephalon Immunology::Immune-Responses::hypersensitivity-types'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1403976724587
+text = """
+The&nbsp;{{c1::Direct Coomb's test}} is a type of Coomb's test that detects antibodies that <u style="font-weight: bold; \
+">have adhered</u>&nbsp;to the patient's RBCs."""
+extra = '<div><i>e.g. testing an Rh-positive infant of an Rh-negative mother</i></div>'
+tags = 'Brosencephalon Immunology::Immune-Responses::hypersensitivity-types'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1403976951442
+text = """
+The&nbsp;{{c1::Indirect Coomb's Test}} is a type of Coomb's test that detects antibodies that <u style="font-weight: \
+bold; ">can adhere</u>&nbsp;to other RBCs."""
+extra = '<div><i>e.g. testing an Rh-negative mother for Rh-positive antibodies</i></div>'
+tags = 'Brosencephalon Immunology::Immune-Responses::hypersensitivity-types'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1403977015655
+text = """
+Which type of hypersensitivity reaction involves immune complexes?<div><br /></div><div>{{c1::Type III \
+Hypersensitivity}}</div><div><br /></div><div><img src="paste-37946036060486.jpg" /></div>"""
+extra = '<img src="paste-40510131536095.jpg" /><div></div>'
+tags = 'Brosencephalon Immunology::Immune-Responses::hypersensitivity-types'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1403977055546
+text = """
+{{c1::Type III Hypersensitivity}} is a type of hypersensitivity that involves antigen-antibody (IgG) complexes which \
+activate complement, thereby attracting neutrophils.<div><br /></div><div><img src="paste-38100654883105.jpg" /></div>"""
+extra = '<div><i>Neutrophils release lysosomal enzymes.</i></div>'
+tags = 'Brosencephalon Immunology::Immune-Responses::hypersensitivity-types'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1403977409517
+text = 'Which immunoglobulin isotype is involved in Type I Hypersensitivity?<div><br /></div><div>{{c1::IgE}}</div>'
+extra = '<div><img src="paste-38246683771141.jpg" /></div>'
+tags = 'Brosencephalon Immunology::Immune-Responses::hypersensitivity-types'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1403977596021
+text = 'Which immunoglobulin isotype is involved in Type II Hypersensitivity?<div><br /></div><div>{{c1::IgM; IgG}}</div>'
+extra = '<div><img src="paste-38341173051709.jpg" /></div>'
+tags = 'Brosencephalon Immunology::Immune-Responses::hypersensitivity-types'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1403977623907
+text = 'Which immunoglobulin isotype is involved in Type III Hypersensitivity?<div><br /></div><div>{{c1::IgG}}</div>'
+extra = '<div><img src="paste-38375532790053.jpg" /></div>'
+tags = 'Brosencephalon Immunology::Immune-Responses::hypersensitivity-types'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1403977660948
+text = """
+{{c1::Serum Sickness}} is a Type III Hypersensitivity disorder that involves antibodies produced rapidly to an antigen \
+(5 days) forming immune complexes that deposit in membranes, thereby causing tissue damage through complement fixation."""
+extra = '<div><i>More common that the Arthus Reaction.</i></div>'
+tags = 'Brosencephalon Immunology::Immune-Responses::hypersensitivity-types'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1403977757423
+text = 'Which type of hypersensitivity reaction is involved in Serum Sickness?<div><br /></div><div>{{c1::Type III}}</div>'
+extra = ""
+tags = 'Brosencephalon Immunology::Immune-Responses::hypersensitivity-types'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1403977799154
+text = 'Which type of hypersensitivity reaction is involved in Arthus Reaction?<div><br /></div><div>{{c1::Type III}}</div>'
+extra = '<div><img src="paste-38371237822757.jpg" /></div>'
+tags = 'Brosencephalon Immunology::Immune-Responses::hypersensitivity-types'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1403977813070
+text = """
+{{c1::Serum Sickness}} is a type III hypersensitivity disorder that presents with fever, urticaria, arthralgia, \
+proteinuria, lymphadenopathy <b>5-10 days after antigen exposure</b>."""
+extra = ""
+tags = 'Brosencephalon Immunology::Immune-Responses::hypersensitivity-types'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1403978313337
+text = '{{c1::Arthus Reaction}} is a type III hypersensitivity disorder that results from intradermal injection of antigens.'
+extra = ""
+tags = 'Brosencephalon Immunology::Immune-Responses::hypersensitivity-types'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1403978462132
+text = """
+{{c1::Arthus Reaction}} is a type III hypersensitivity disorder that presents with antigen-antibody complexes in the \
+skin."""
+extra = ""
+tags = 'Brosencephalon Immunology::Immune-Responses::hypersensitivity-types'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1403978567048
+text = """
+{{c1::Arthus Reaction}} is a type III hypersensitivity that is characterized by edema, necrosis of the skin and \
+complement activation."""
+extra = ""
+tags = 'Brosencephalon Immunology::Immune-Responses::hypersensitivity-types'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1403978700931
+text = """
+What diagnostic test is used to diagnose the Arthus Reaction?<div><br /></div><div>{{c1::Immunofluorescent \
+staining}}</div>"""
+extra = ""
+tags = 'Brosencephalon Immunology::Immune-Responses::hypersensitivity-types'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1403978726721
+text = 'Which type of hypersensitivity involves a delayed, T-cell mediated reaction?<div><br /></div><div>{{c1::Type IV}}</div>'
+extra = '<div><img src="paste-39724152520981.jpg" /><img src="paste-40514426503391.jpg" /></div>'
+tags = 'Brosencephalon Immunology::Immune-Responses::hypersensitivity-types'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1403978968306
+text = """
+Which type of hypersensitivity involves sensitized T-cells that encounter antigen and then release lymphokines?<div><br \
+/></div><div>{{c1::Type IV}}</div>"""
+extra = """
+<div></div><i>The lymphokines lead to macrophage activation.</i><div><i>There are no antibodies involves.</i><div><img \
+src="paste-39719857553685.jpg" /></div></div>"""
+tags = 'Brosencephalon Immunology::Immune-Responses::hypersensitivity-types'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1403979101476
+text = 'Which type of hypersensitivity is not transferrable by serum?<div><br /></div><div>{{c1::Type IV}}</div>'
+extra = '<div><img src="paste-40007620362499.jpg" /></div>'
+tags = 'Brosencephalon Immunology::Immune-Responses::hypersensitivity-types'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1403979315540
+text = 'Which type of hypersensitivity is involved in transplant rejection?<div><br /></div><div>{{c1::Type IV}}</div>'
+extra = '<div><img src="paste-40003325395203.jpg" /></div>'
+tags = 'Brosencephalon Immunology::Immune-Responses::hypersensitivity-types'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1403979360773
+text = 'Which type of hypersensitivity is involved in TB skin tests?<div><br /></div><div>{{c1::Type IV}}</div>'
+extra = '<div><img src="paste-40003325395203.jpg" /></div>'
+tags = 'Brosencephalon Immunology::Immune-Responses::hypersensitivity-types'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1403979372604
+text = 'Which type of hypersensitivity is involved in contact dermatitis?<div><br /></div><div>{{c1::Type IV}}</div>'
+extra = '<div><img src="paste-40003325395203.jpg" /></div>'
+tags = 'Brosencephalon Immunology::Immune-Responses::hypersensitivity-types'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1403979472100
+text = 'What type of hypersensitivity is associated with anaphylaxis?<div><br /></div><div>{{c1::Type I}}</div>'
+extra = ""
+tags = 'Brosencephalon Immunology::Immune-Responses::hypersensitivity-types'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1403980403798
+text = """
+What type of hypersensitivity is associated with allergic and atopic disorders?<div><br /></div><div>{{c1::Type \
+I}}</div>"""
+extra = ""
+tags = 'Brosencephalon Immunology::Immune-Responses::hypersensitivity-types'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1403980425763
+text = 'What type of hypersensitivity is associated with Autoimmune Hemolytic Anemia?<div><br /></div><div>{{c1::Type II}}</div>'
+extra = ""
+tags = 'Brosencephalon Immunology::Immune-Responses::hypersensitivity-types'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1403980439089
+text = 'What type of hypersensitivity is associated with Pernicious Anemia?<div><br /></div><div>{{c1::Type II}}</div>'
+extra = ""
+tags = 'Brosencephalon Immunology::Immune-Responses::hypersensitivity-types'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1403980446348
+text = """
+What type of hypersensitivity is associated with Idiopathic Thrombocytopenic Purpura?<div><br /></div><div>{{c1::Type \
+II}}</div>"""
+extra = ""
+tags = 'Brosencephalon Immunology::Immune-Responses::hypersensitivity-types'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1403980480384
+text = 'What type of hypersensitivity is associated with Erythroblastosis Fetalis?<div><br /></div><div>{{c1::Type II}}</div>'
+extra = ""
+tags = 'Brosencephalon Immunology::Immune-Responses::hypersensitivity-types'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1403980491424
+text = """
+What type of hypersensitivity is associated with acute hemolytic transfusion reactions?<div><br /></div><div>{{c1::Type \
+II}}</div>"""
+extra = ""
+tags = 'Brosencephalon Immunology::Immune-Responses::hypersensitivity-types'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1403980510724
+text = 'What type of hypersensitivity is associated with Rheumatic Fever?<div><br /></div><div>{{c1::Type II}}</div>'
+extra = ""
+tags = 'Brosencephalon Immunology::Immune-Responses::hypersensitivity-types'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1403980521754
+text = 'What type of hypersensitivity is associated with Goodpasture Syndrome?<div><br /></div><div>{{c1::Type II}}</div>'
+extra = ""
+tags = 'Brosencephalon Immunology::Immune-Responses::hypersensitivity-types'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1403980533878
+text = 'What type of hypersensitivity is associated with Bullous Pemphigoid?<div><br /></div><div>{{c1::Type II}}</div>'
+extra = ""
+tags = 'Brosencephalon Immunology::Immune-Responses::hypersensitivity-types'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1403980553347
+text = 'What type of hypersensitivity is associated with Pemphigus Vulgaris?<div><br /></div><div>{{c1::Type II}}</div>'
+extra = ""
+tags = 'Brosencephalon Immunology::Immune-Responses::hypersensitivity-types'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1403980689240
+text = 'What type of hypersensitivity is associated with SLE?<div><br /></div><div>{{c1::Type III}}</div>'
+extra = ""
+tags = 'Brosencephalon Immunology::Immune-Responses::hypersensitivity-types'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1403980700885
+text = 'What type of hypersensitivity is associated with Polyarteritis Nodosa?<div><br /></div><div>{{c1::Type III}}</div>'
+extra = ""
+tags = 'Brosencephalon Immunology::Immune-Responses::hypersensitivity-types'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1403980711154
+text = """
+What type of hypersensitivity is associated with Poststreptococcal Glomerulonephritis?<div><br /></div><div>{{c1::Type \
+III}}</div>"""
+extra = ""
+tags = 'Brosencephalon Immunology::Immune-Responses::hypersensitivity-types'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1403980732227
+text = 'What type of hypersensitivity is associated with Serum Sickness?<div><br /></div><div>{{c1::Type III}}</div>'
+extra = ""
+tags = 'Brosencephalon Immunology::Immune-Responses::hypersensitivity-types'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1403980856605
+text = 'What type of hypersensitivity is associated with Arthus Reaction?<div><br /></div><div>{{c1::Type III}}</div>'
+extra = ""
+tags = 'Brosencephalon Immunology::Immune-Responses::hypersensitivity-types'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1403980869988
+text = """
+What type of hypersensitivity is associated with vasculitis and systemic manifestations?<div><br /></div><div>{{c1::Type \
+III}}</div>"""
+extra = ""
+tags = 'Brosencephalon Immunology::Immune-Responses::hypersensitivity-types'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1403981018779
+text = 'What type of hypersensitivity is associated with Multiple Sclerosis?<div><br /></div><div>{{c1::Type IV}}</div>'
+extra = ""
+tags = 'Brosencephalon Immunology::Immune-Responses::hypersensitivity-types'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1403981277894
+text = 'What type of hypersensitivity is associated with Graft-versus-host disease?<div><br /></div><div>{{c1::Type IV}}</div>'
+extra = ""
+tags = 'Brosencephalon Immunology::Immune-Responses::hypersensitivity-types'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1403981292947
+text = 'What type of hypersensitivity is associated with PPD test for TB?<div><br /></div><div>{{c1::Type IV}}</div>'
+extra = ""
+tags = 'Brosencephalon Immunology::Immune-Responses::hypersensitivity-types'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1403982071145
+text = """
+What type of hypersensitivity is associated with Contact Dermatitis (e.g. poison ivy; nickel allergy)?<div><br \
+/></div><div>{{c1::Type IV}}</div>"""
+extra = ""
+tags = 'Brosencephalon Immunology::Immune-Responses::hypersensitivity-types'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1403993435845
+text = """
+What type of hypersensitivity is involved in febrile nonhemolytic transfusion reactions?<div><br /></div><div>{{c1::Type \
+II hypersensitivity}}</div>"""
+extra = '<div><i>Involves host antibodies against donor HLA antigens and leukocytes.</i></div>'
+tags = 'Brosencephalon Immunology::Immune-Responses::hypersensitivity-types'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1403994370623
+text = """
+What type of hypersensitivity is involved in acute hemolytic transfusion reactions?<div><br /></div><div>{{c1::Type \
+II}}</div>"""
+extra = """
+<div><i>Involves intravascular hemolysis (i.e. ABO blood group incompatibility) or extravascular hemolysis (i.e. host \
+antibody reaction against foreign antigens on donor RBCs).</i></div>"""
+tags = 'Brosencephalon Immunology::Immune-Responses::hypersensitivity-types'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1403994583077
+text = 'Which autoantibody is associated with Myasthenia Gravis?<div><br /></div><div>{{c1::Anti-ACh Receptor}}</div>'
+extra = ""
+tags = 'Brosencephalon Immunology::Immune-Responses::autoantibodies'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1403995003159
+text = 'Which autoantibody is associated with Goodpasture Syndrome?<div><br /></div><div>{{c1::Anti-basement membrane}}</div>'
+extra = ""
+tags = 'Brosencephalon Immunology::Immune-Responses::autoantibodies'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1403995012828
+text = """
+Which autoantibody is associated with SLE?<div><br /></div><div>{{c1::Anti-cardiolipin; Anti-dsDNA; Anti-Smith; ANA \
+(nonspecific)}}</div>"""
+extra = ""
+tags = 'Brosencephalon Immunology::Immune-Responses::autoantibodies'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1403995075505
+text = 'Which autoantibody is associated with Antiphospholipid Syndrome?<div><br /></div><div>{{c1::Anti-cardiolipin}}</div>'
+extra = ""
+tags = 'Brosencephalon Immunology::Immune-Responses::autoantibodies'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1403995126258
+text = """
+Which autoantibody is associated with <b>limited</b>&nbsp;Scleroderma (CREST Syndrome)?<div><br \
+/></div><div>{{c1::Anticentromere}}</div>"""
+extra = ""
+tags = 'Brosencephalon Immunology::Immune-Responses::autoantibodies'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1403995140505
+text = 'Which autoantibody is associated with Pemphigus Vulgaris?<div><br /></div><div>{{c1::Anti-desmoglein}}</div>'
+extra = ""
+tags = 'Brosencephalon Immunology::Immune-Responses::autoantibodies'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1403995155658
+text = 'Which autoantibody is associated with T1DM?<div><br /></div><div>{{c1::Anti-glutamate decarboxylase}}</div>'
+extra = ""
+tags = 'Brosencephalon Immunology::Immune-Responses::autoantibodies'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1403995179411
+text = 'Which autoantibody is associated with Bullous Pemphigoid?<div><br /></div><div>{{c1::Anti-hemidesmosome}}</div>'
+extra = ""
+tags = 'Brosencephalon Immunology::Immune-Responses::autoantibodies'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1403995201458
+text = 'Which autoantibody is associated with Drug-induced SLE?<div><br /></div><div>{{c1::Antihistone}}</div>'
+extra = ""
+tags = 'Brosencephalon Immunology::Immune-Responses::autoantibodies'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1403995574176
+text = """
+Which autoantibody is associated with Polyomyositis and Dermatomyositis?<div><br /></div><div>{{c1::Anti-Jo-1; Anti-SRP; \
+Anti-Mi-2}}</div>"""
+extra = ""
+tags = 'Brosencephalon Immunology::Immune-Responses::autoantibodies'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1403995610720
+text = """
+Which autoantibody is associated with Hashimoto Thyroiditis?<div><br /></div><div>{{c1::Antimicrosomal; \
+Antithyroglobulin}}</div>"""
+extra = ""
+tags = 'Brosencephalon Immunology::Immune-Responses::autoantibodies'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1403995637713
+text = 'Which autoantibody is associated with Primary Biliary Cirrhosis?<div><br /></div><div>{{c1::Antimitochondrial}}</div>'
+extra = ""
+tags = 'Brosencephalon Immunology::Immune-Responses::autoantibodies'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1403995653877
+text = """
+Which autoantibody is associated with <b>Diffuse </b>Scleroderma?<div><br /></div><div>{{c1::Anti-Scl-70 (Anti-DNA \
+Topoisomerase I)}}</div>"""
+extra = ""
+tags = 'Brosencephalon Immunology::Immune-Responses::autoantibodies'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1403995681306
+text = 'Which autoantibody is associated with Autoimmune Hepatitis?<div><br /></div><div>{{c1::Anti-smooth muscle}}</div>'
+extra = ""
+tags = 'Brosencephalon Immunology::Immune-Responses::autoantibodies'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1403995693784
+text = 'Which autoantibody is associated with Sjogren Syndrome?<div><br /></div><div>{{c1::Anti-SSA (Ro); Anti-SSB (La)}}</div>'
+extra = ""
+tags = 'Brosencephalon Immunology::Immune-Responses::autoantibodies'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1403996350172
+text = 'Which autoantibody is associated with Graves Disease?<div><br /></div><div>{{c1::Anti-TSH Receptor}}</div>'
+extra = ""
+tags = 'Brosencephalon Immunology::Immune-Responses::autoantibodies'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1403996368467
+text = """
+Which autoantibody is associated with Mixed Connective Tissue Disease?<div><br /></div><div>{{c1::Anti-U1 RNP \
+(Ribonucleoprotein)}}</div>"""
+extra = ""
+tags = 'Brosencephalon Immunology::Immune-Responses::autoantibodies'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1403996398329
+text = """
+Which autoantibody is associated with Wegener Granulomatosis (i.e. granulomatosis with polyangiitis)?<div><br \
+/></div><div>{{c1::c-ANCA (PR3-ANCA)}}</div>"""
+extra = ""
+tags = 'Brosencephalon Immunology::Immune-Responses::autoantibodies'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1403996432198
+text = """
+Which autoantibody is associated with Celiac Disease?<div><br /></div><div>{{c1::IgA anti-tissue transglutaminase; IgA \
+antiendomysial}}</div>"""
+extra = ""
+tags = 'Brosencephalon Immunology::Immune-Responses::autoantibodies'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1403996462590
+text = 'Which autoantibody is associated with Microscoptic Polyangiitis?<div><br /></div><div>{{c1::p-ANCA (MPO-ANCA)}}</div>'
+extra = ""
+tags = 'Brosencephalon Immunology::Immune-Responses::autoantibodies'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1403996478102
+text = 'Which autoantibody is associated with Churg-Strauss Syndrome?<div><br /></div><div>{{c1::p-ANCA (MPO-ANCA)}}</div>'
+extra = ""
+tags = 'Brosencephalon Immunology::Immune-Responses::autoantibodies'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1403996490484
+text = """
+Which autoantibody is associated with Rheumatoid Arthritis?<div><br /></div><div>{{c1::Rheumatoid factor (IgM specific \
+to the Fc region of IgG); anti-CCP}}</div>"""
+extra = ""
+tags = 'Brosencephalon Immunology::Immune-Responses::autoantibodies'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1403996531568
+text = """
+{{c1::<i>Neisseria</i>}} is a genus of gram-negative bacterial that commonly cause infection in <b>complement \
+deficiency</b>&nbsp;as there is no membrane attack complex."""
+extra = ""
+tags = 'Brosencephalon Immunology::Immune-Responses::immunodeficiencies'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1403996587310
+text = """
+Which lymphocyte deficiency tends to produce recurrent <b>bacterial </b>infections?<div><br /></div><div>{{c1::B-cell \
+deficiency}}</div>"""
+extra = ""
+tags = 'Brosencephalon Immunology::Immune-Responses::immunodeficiencies'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1403996626512
+text = """
+Which lymphocyte deficiency tends to produce more recurrent <b>fungal</b>&nbsp;and <b>viral</b>&nbsp;infections?<div><br \
+/></div><div>{{c1::T-cell deficiency}}</div>"""
+extra = ""
+tags = 'Brosencephalon Immunology::Immune-Responses::immunodeficiencies'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1403996658354
+text = """
+{{c1::<i>Giardia lamblia</i>}} is a GI protozoal infection that is often seen in <b>B cell deficiency</b>&nbsp;due to a \
+lack of IgA."""
+extra = ""
+tags = 'Brosencephalon Immunology::Immune-Responses::immunodeficiencies'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1403997709839
+text = """
+Which gene is defective in Bruton (X-linked) Agammglobulinemia?<div><br /></div><div>{{c1::<i>BTK</i>&nbsp;(Bruton's \
+Tyrosine Kinase); results in a lack of B cell maturation}}</div>"""
+extra = ""
+tags = 'Brosencephalon Immunology::Immune-Responses::immunodeficiencies'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1403999757012
+text = """
+{{c1::Bruton (X-linked) Agammaglobulinemia}} is an XLR immunodeficiency that involves a defect in \
+<i>BTK</i>&nbsp;(Bruton Tyrosine Kinase gene), thereby resulting in a lack of B-cell maturation."""
+extra = ""
+tags = 'Brosencephalon Immunology::Immune-Responses::immunodeficiencies'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1403999799341
+text = 'What is the genetic inheritance of Bruton Agammaglobulinemia??<div><br /></div><div>{{c1::XLR}}</div>'
+extra = '<div><i>Hence there is an increased incidence in boys.</i></div>'
+tags = 'Brosencephalon Immunology::Immune-Responses::immunodeficiencies'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1403999830500
+text = 'Which lymphocyte is affected in Bruton Agammaglobulinemia?<div><br /></div><div>{{c1::B-cells}}</div>'
+extra = ""
+tags = 'Brosencephalon Immunology::Immune-Responses::immunodeficiencies'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1403999844692
+text = """
+{{c1::Bruton (X-linked) Agammaglobulinemia}} is an XLR immunodeficiency that presents with recurrent bacterial and \
+enteroviral infections <b>after 6 months</b>&nbsp;of birth (due to a decrease in maternal IgG in the child)."""
+extra = ""
+tags = 'Brosencephalon Immunology::Immune-Responses::immunodeficiencies'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1404000041802
+text = """
+{{c1::Bruton (X-linked) Agammaglobulinemia}} is an XLR immunodeficiency that presents with an <b>absence of CD19+ \
+B-cells</b>&nbsp;and a decrease in <b>pro-B cells</b>."""
+extra = ""
+tags = 'Brosencephalon Immunology::Immune-Responses::immunodeficiencies'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1404000232064
+text = """
+How do immunoglobulin levels change in Bruton (X-linked) Agammaglobulinemia?<div><br /></div><div>{{c1::Decreased \
+immunoglobulins of all classes}}</div>"""
+extra = ""
+tags = 'Brosencephalon Immunology::Immune-Responses::immunodeficiencies'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1404000257469
+text = """
+{{c1::Bruton (X-linked) Agammaglobulinema}} is an XLR immunodeficiency that presents with <b>absent/scanty lymph \
+nodes</b>&nbsp;and <b>tonsils</b>."""
+extra = ""
+tags = 'Brosencephalon Immunology::Immune-Responses::immunodeficiencies'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1404007128360
+text = 'What is the most common primary immunodeficiency?<div><br /></div><div>{{c1::Selective IgA Deficiency}}</div>'
+extra = ""
+tags = 'Brosencephalon Immunology::Immune-Responses::immunodeficiencies'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1404007373971
+text = """
+What IgA level is diagnostic of Selective IgA Deficiency?<div><br /></div><div>{{c1::&lt; 7 mg/dL (with normal IgG and \
+IgM levels)}}</div>"""
+extra = ""
+tags = 'Brosencephalon Immunology::Immune-Responses::immunodeficiencies'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1404007413143
+text = """
+{{c1::Common Variable Immunodeficiency}} is a primary immunodeficiency with <b>many causes</b>&nbsp;that involves a \
+defect in B-cell differentiation."""
+extra = """
+<div><i>Can be acquired in the 20s-30s.</i></div><div><i>Increased risk of autoimmune disease, bronchiectasis, lymphoma, \
+sinopulmonary infections.</i></div>"""
+tags = 'Brosencephalon Immunology::Immune-Responses::immunodeficiencies'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1404007637297
+text = 'How do immunoglobulin levels change in Common Variable Immunodeficiency?<div><br /></div><div>{{c1::Decrease}}</div>'
+extra = """
+<div><i>There is a defect in B-cell differentiation, hence there are fewer plasma cells and fewer \
+immunoglobulins.</i></div>"""
+tags = 'Brosencephalon Immunology::Immune-Responses::immunodeficiencies'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1404007679611
+text = 'What genetic defect is seen in DiGeorge Syndrome?<div><br /></div><div>{{c1::22q11}}</div>'
+extra = ""
+tags = 'Brosencephalon Immunology::Immune-Responses::immunodeficiencies'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1404007721770
+text = 'Which lymphocyte is affected in Common Variable Immunodeficiency?<div><br /></div><div>{{c1::B-cells}}</div>'
+extra = '<div><i>Hence there are fewer plasma cells and immunoglobulins.</i></div>'
+tags = 'Brosencephalon Immunology::Immune-Responses::immunodeficiencies'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1404007743187
+text = 'Which pharyngeal pouches fail to develop in DiGeorge Syndrome?<div><br /></div><div>{{c1::3rd and 4th}}</div>'
+extra = '<div><i>Hence there is thymic and parathyroid aplasia.</i></div>'
+tags = 'Brosencephalon Immunology::Immune-Responses::immunodeficiencies'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1404007981537
+text = """
+{{c1::Tetany}} is a muscular complication of DiGeorge Syndrome that occurs due to the <b>hypocalcemia</b>&nbsp;secondary \
+to parathyroid aplasia."""
+extra = ""
+tags = 'Brosencephalon Immunology::Immune-Responses::immunodeficiencies'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1404008010570
+text = 'How do PTH levels change in DiGeorge Syndrome?<div><br /></div><div>{{c1::Decrease}}</div>'
+extra = ""
+tags = 'Brosencephalon Immunology::Immune-Responses::immunodeficiencies'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1404008073227
+text = 'How do serum Ca levels change in DiGeorge Syndrome?<div><br /></div><div>{{c1::Decrease}}</div>'
+extra = ""
+tags = 'Brosencephalon Immunology::Immune-Responses::immunodeficiencies'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1404008085107
+text = 'Which lymphocytes are affected in DiGeorge Syndrome?<div><br /></div><div>{{c1::T cells}}</div>'
+extra = '<div><i>Due to the thymic aplasia.</i></div>'
+tags = 'Brosencephalon Immunology::Immune-Responses::immunodeficiencies'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1404008108957
+text = 'What is the genetic inheritance of IL-12 Receptor Deficiency?<div><br /></div><div>{{c1::Autosomal Recessive}}</div>'
+extra = ""
+tags = 'Brosencephalon Immunology::Immune-Responses::immunodeficiencies'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1404008313963
+text = """
+{{c1::IL-12 Receptor Deficiency}} is a primary immunodeficiency that involves a decreased Th1 response due to a lack of \
+IL-12 action."""
+extra = '<div><i>Remember, IL-12 from macrophages activates Th1 cells (which then activate macrophages via IFN-gamma).</i></div>'
+tags = 'Brosencephalon Immunology::Immune-Responses::immunodeficiencies'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1404008382813
+text = 'How do IFN-gamma levels change in IL-12 Receptor Deficiency?<div><br /></div><div>{{c1::Decrease}}</div>'
+extra = """
+<div><i>IL-12 from macrophages causes Th1 cell activation.</i></div><div><i>Activated Th1 cells release IFN-gamma which \
+activations macrophages.</i></div><div><i><b>No IL-12 action = no IFN-gamma release from Th1 cells</b></i></div>"""
+tags = 'Brosencephalon Immunology::Immune-Responses::immunodeficiencies'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1404008442212
+text = """
+What is the genetic inheritance of Job Syndrome (Hyper-IgE Syndrome)?<div><br /></div><div>{{c1::Autosomal \
+Dominant}}</div>"""
+extra = ""
+tags = 'Brosencephalon Immunology::Immune-Responses::immunodeficiencies'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1404008490941
+text = """
+{{c1::Autosomal Dominant hyper-IgE Syndrome (Job Syndrome)}} is a primary immunodeficiency that presents with a \
+<b>deficiency of Th17 cells</b>&nbsp;due to a <i style="font-weight: bold; ">STAT3</i>&nbsp;mutation."""
+extra = '<div><i>The mutation results in impaired recruitment of neutrophils to the site of infection.</i></div>'
+tags = 'Brosencephalon Immunology::Immune-Responses::immunodeficiencies'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1404008550006
+text = """
+Which gene mutation is seen in Job Syndrome (Autosomal Dominant hyper-IgE Syndrome)?<div><br \
+/></div><div>{{c1::<i>STAT3</i>; causes a deficiency of Th17 cells which leads to impaired recruitment of neutrophils to \
+sites of infection}}</div>"""
+extra = ""
+tags = 'Brosencephalon Immunology::Immune-Responses::immunodeficiencies'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1404008592546
+text = """
+How do IgE levels change in Job Syndrome (Autosomal Dominant hyper-IgE Syndrome)?<div><br \
+/></div><div>{{c1::Elevated}}</div>"""
+extra = '<div><img src="paste-49598282334413.jpg" /></div>'
+tags = 'Brosencephalon Immunology::Immune-Responses::immunodeficiencies'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1404008632293
+text = """
+How do IFN-gamma levels change in Job Syndrome (Autosomal Dominant hyper-IgE Syndrome)?<div><br \
+/></div><div>{{c1::Decreased}}</div>"""
+extra = ""
+tags = 'Brosencephalon Immunology::Immune-Responses::immunodeficiencies'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1404008678484
+text = """
+What type of lymphocyte is affected in Job Syndrome (Autosomal Dominant hyper-IgE Syndrome)?<div><br \
+/></div><div>{{c1::T cells}}</div>"""
+extra = ""
+tags = 'Brosencephalon Immunology::Immune-Responses::immunodeficiencies'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1404009254845
+text = 'What type of lymphocyte is affected in Chronic Mucocutaneous Candidiasis?<div><br /></div><div>{{c1::T cells}}</div>'
+extra = ""
+tags = 'Brosencephalon Immunology::Immune-Responses::immunodeficiencies'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1404009272434
+text = """
+{{c1::Chronic Mucocutaneous Candidiasis}} is a primary T-cell immunodeficiency that involves noninvasive <i>Candida \
+albicans</i>&nbsp;infections of skin and mucous membranes."""
+extra = ""
+tags = 'Brosencephalon Immunology::Immune-Responses::immunodeficiencies'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1404010851270
+text = """
+What is the most common etiology of Severe Combined Immunodeficiency (SCID)?<div><br /></div><div>{{c1::Defective IL-2R \
+gamma chain}}</div>"""
+extra = '<div><i>X-linked</i></div>'
+tags = 'Brosencephalon Immunology::Immune-Responses::immunodeficiencies'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1404011726248
+text = """
+What is the genetic inheritance of IL-2R Gamma Chain deficiency [and the subsequent Severe Combined Immunodeficiency \
+(SCID)]?<div><br /></div><div>{{c1::X-linked Recessive}}</div>"""
+extra = ""
+tags = 'Brosencephalon Immunology::Immune-Responses::immunodeficiencies'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1404011780588
+text = """
+What is the genetic inheritance of Adenosine Deaminase Deficiency [and the subsequent Severe Combined Immunodeficiency \
+(SCID)]?<div><br /></div><div>{{c1::Autosomal Recessive}}</div>"""
+extra = ""
+tags = 'Brosencephalon Immunology::Immune-Responses::immunodeficiencies'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1404011821953
+text = """
+What type of lymphocytes are affected in Severe Combined Immunodeficiency (SCID)?<div><br /></div><div>{{c1::T and B \
+cells}}</div>"""
+extra = ""
+tags = 'Brosencephalon Immunology::Immune-Responses::immunodeficiencies'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1404011853786
+text = """
+What is the treatment for Severe Combined Immunodeficiency (SCID)?<div><br /></div><div>{{c1::Bone marrow \
+transplantation}}</div>"""
+extra = '<div><i>There is no concern for rejection.</i></div>'
+tags = 'Brosencephalon Immunology::Immune-Responses::immunodeficiencies'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1404011951361
+text = """
+{{c1::Severe Combined Immunodeficiency (SCID}} is a primary immunodeficiency that presents with decreased T-cell \
+receptor excision circles (TRECs)."""
+extra = ""
+tags = 'Brosencephalon Immunology::Immune-Responses::immunodeficiencies'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1404012084160
+text = """
+What genetic defect is seen in Ataxia Telangiectasia?<div><br /></div><div>{{c1::<i>ATM</i>&nbsp;gene; leads to DNA \
+double stranded breaks and arrest of the cell cycle}}</div>"""
+extra = '<div><i>This ultimately causes a deficiency of lymphocytes. (T and B cells).</i></div>'
+tags = 'Brosencephalon Immunology::Immune-Responses::immunodeficiencies'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1404012157533
+text = """
+{{c1::Ataxia Telangiectasia}} is a primary immunodeficiency that involves a defect in the <i>ATM</i>&nbsp;gene, thereby \
+leading to many double stranded DNA breaks and arrest of the cell cycle."""
+extra = ""
+tags = 'Brosencephalon Immunology::Immune-Responses::immunodeficiencies'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1404012196576
+text = """
+{{c1::Ataxia Telangiectasia}} is a primary immunodeficiency that presents with a triad of <b>ataxia, spider \
+angiomas</b>&nbsp;and <b>IgA deficiency.</b>"""
+extra = """
+<div><i>Spider angiomas are a type of telangiectasia.</i></div><div><i>There is also significant cerebellar \
+atrophy.</i></div>"""
+tags = 'Brosencephalon Immunology::Immune-Responses::immunodeficiencies'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1404012232234
+text = 'Which immunoglobulin isotype is deficient in Ataxia Telangiectasia?<div><br /></div><div>{{c1::IgA}}</div>'
+extra = '<div><i>IgG and IgE are also decreased.</i></div>'
+tags = 'Brosencephalon Immunology::Immune-Responses::immunodeficiencies'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1404012380967
+text = 'How do AFP levels change in Ataxia Telangiectasia?<div><br /></div><div>{{c1::Increase}}</div>'
+extra = ""
+tags = 'Brosencephalon Immunology::Immune-Responses::immunodeficiencies'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1404012403474
+text = 'What genetic defect is seen in Hyper IgM Syndrome?<div><br /></div><div>{{c1::CD40L; especially at Th cells}}</div>'
+extra = '<div><i>Hence class switching for B cells is defective.</i></div>'
+tags = 'Brosencephalon Immunology::Immune-Responses::immunodeficiencies'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1404012453683
+text = 'What is the genetic inheritance of Hyper IgM Syndrome?<div><br /></div><div>{{c1::X-linked recessive}}</div>'
+extra = ""
+tags = 'Brosencephalon Immunology::Immune-Responses::immunodeficiencies'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1404012481178
+text = """
+{{c1::Hyper IgM Syndrome}} is an XLR primary immunodeficiency that involves a defect in CD40L on Th cells, thereby \
+yielding a defect in B-cell class switching."""
+extra = """
+<div><i>CD40L is required as a co-stimulatory factor in class switching. Since it is defective, B-cells are "stuck" \
+secreted IgM (which is a default isotype expressed by naive B-cells).</i></div>"""
+tags = 'Brosencephalon Immunology::Immune-Responses::immunodeficiencies'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1404012568560
+text = 'Which cell surface protein is defective in Hyper IgM Syndrome?<div><br /></div><div>{{c1::CD40L on Th cells}}</div>'
+extra = ""
+tags = 'Brosencephalon Immunology::Immune-Responses::immunodeficiencies'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1404012581402
+text = '{{c1::Hyper IgM Syndrome}} is a primary immunodeficiency that involves severe pyogenic infections early in life.'
+extra = '<div><i>Opportunistic infections with Pneumocystis, Cryptosporidium and CMV are also likely.</i></div>'
+tags = 'Brosencephalon Immunology::Immune-Responses::immunodeficiencies'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1404012904857
+text = 'How do IgG, IgA and IgE levels change in Hyper IgM Syndrome?<div><br /></div><div>{{c1::Decrease}}</div>'
+extra = """
+<div><i>This stems from why there is hyper-IgM.</i></div><div><i></i></div><div><i>Remember, there is a defect in class \
+switching of B cells - they are stuck secreting IgM due to a CD40L defect on Th cells. As a result, no IgG, IgA or IgE \
+is made as no B cells are switching to those isotypes.</i></div>"""
+tags = 'Brosencephalon Immunology::Immune-Responses::immunodeficiencies'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1404012991885
+text = """
+What genetic defect is seen in Wiskott-Aldrich Syndrome?<div><br /></div><div>{{c1::<i>WAS</i>&nbsp;mutation; results in \
+T cells that are unable to reorganize their actin cytoskeleton}}</div>"""
+extra = ""
+tags = 'Brosencephalon Immunology::Immune-Responses::immunodeficiencies'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1404013032550
+text = """
+{{c1::Wiskot-Aldrich Syndrome}} is a primary immunodeficiency that involves a mutation in <i>WAS</i>&nbsp;and hence \
+presents with T-cells that are unable to reorganize their actin cytoskeleton."""
+extra = ""
+tags = 'Brosencephalon Immunology::Immune-Responses::immunodeficiencies'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1404013066104
+text = 'What is the genetic inheritance of Wiskott-Aldrich Syndrome?<div><br /></div><div>{{c1::X-linked recessive}}</div>'
+extra = ""
+tags = 'Brosencephalon Immunology::Immune-Responses::immunodeficiencies'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1404013081138
+text = """
+{{c1::Wiskott-Aldrich Syndrome}} is a primary immunodeficiency that presents with <b>thrombocytopenic purpura</b>, \
+<b>eczema</b>&nbsp;and <b>recurrent infections</b>."""
+extra = '<div><img src="paste-54417235640488.jpg" /></div>'
+tags = 'Brosencephalon Immunology::Immune-Responses::immunodeficiencies'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1404013407607
+text = 'How do IgG and IgM levels change in Wiskott-Aldrich Syndrome?<div><br /></div><div>{{c1::Decrease to normal}}</div>'
+extra = ""
+tags = 'Brosencephalon Immunology::Immune-Responses::immunodeficiencies'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1404013436862
+text = 'How do IgE and IgA levels change in Wiskott-Aldrich Syndrome?<div><br /></div><div>{{c1::Increased}}</div>'
+extra = ""
+tags = 'Brosencephalon Immunology::Immune-Responses::immunodeficiencies'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1404013453792
+text = """
+What genetic defect is seen in Leukocyte Adhesion Deficiency Type 1 (LAD1)?<div><br /></div><div>{{c1::LFA-1 integrin \
+(CD18) on phagocytes}}</div>"""
+extra = ""
+tags = 'Brosencephalon Immunology::Immune-Responses::immunodeficiencies'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1404013755387
+text = """
+{{c1::Leukocyte Adhesion Deficiency Type 1 (LAD1)}} is a primary immunodeficiency that involves a defect in LFA-1 \
+integrin (CD18) on phagocytes, thereby resulting in impaired phagocyte migration and chemotaxis."""
+extra = ""
+tags = 'Brosencephalon Immunology::Immune-Responses::immunodeficiencies'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1404013792319
+text = """
+What is the genetic inheritance of Leukocyte Adhesion Deficiency Type 1 (LAD1)?<div><br /></div><div>{{c1::Autosomal \
+Recessive}}</div>"""
+extra = ""
+tags = 'Brosencephalon Immunology::Immune-Responses::immunodeficiencies'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1404013817379
+text = """
+{{c1::Leukocyte Adhesion Deficiency Type 1 (LAD1)}} is a primary immunodeficiency that presents with <b>delayed \
+separation of the umbilical cord</b>&nbsp;(&gt; 30 days)."""
+extra = ""
+tags = 'Brosencephalon Immunology::Immune-Responses::immunodeficiencies'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1404014947661
+text = """
+{{c1::Leukocyte Adhesion Deficiency Type 1 (LAD1)}} is a primary immunodeficiency that presents with recurrent bacterial \
+skin/mucosal infections, absent pus formation and impaired wound healing."""
+extra = ""
+tags = 'Brosencephalon Immunology::Immune-Responses::immunodeficiencies'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1404014982518
+text = """
+Which genetic defect is seen in Chediak-Higashi Syndrome?<div><br /></div><div>{{c1::<i>LYST</i>&nbsp;(Lysosomal \
+trafficking regulator gene)}}</div>"""
+extra = '<div><i>Causes microtubule dysfunction in phagosome-lysosome fusion.</i></div>'
+tags = 'Brosencephalon Immunology::Immune-Responses::immunodeficiencies'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1404015046147
+text = """
+{{c1::Chediak-Higashi Syndrome}} is a primary immunodeficiency disorder that involves a defect in \
+<i>LYST</i>&nbsp;(Lysosomal trafficking regulator gene), thereby presenting with microtubule dysfunction in phagosome-\
+lysosome fusion."""
+extra = '<div></div>'
+tags = 'Brosencephalon Immunology::Immune-Responses::immunodeficiencies'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1404015100169
+text = 'What is the genetic inheritance of Chediak-Higashi Syndrome?<div><br /></div><div>{{c1::Autosomal Recessive}}</div>'
+extra = ""
+tags = 'Brosencephalon Immunology::Immune-Responses::immunodeficiencies'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1404015115816
+text = """
+{{c1::Parital Albinism}} is a cutaneous disorder seen in Chediak-Higashi Syndrome that results from dysfunctional \
+phagosome-lysosome fusion."""
+extra = ""
+tags = 'Brosencephalon Immunology::Immune-Responses::immunodeficiencies'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1404015180318
+text = """
+Which gram-positive bacterial genuses often cause recurrent pyogenic infections in Chediak-Higashi Syndrome?<div><br \
+/></div><div>{{c1::<i>Staphylococci; Streptococci</i>}}</div>"""
+extra = ""
+tags = 'Brosencephalon Immunology::Immune-Responses::immunodeficiencies'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1404015216936
+text = """
+{{c1::Chediak-Higashi Syndrome}} is a primary immunodeficiency disorder that presents with <b>giant granules in \
+neutrophils and platelets</b>."""
+extra = '<div><i>There is pancytopenia and mild coagulation defects.</i></div>'
+tags = 'Brosencephalon Immunology::Immune-Responses::immunodeficiencies'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1404015264002
+text = 'What genetic defect is seen in Chronic Granulomatous Disease?<div><br /></div><div>{{c1::NADPH Oxidase defect}}</div>'
+extra = '<div><i>XLR</i></div>'
+tags = 'Brosencephalon Immunology::Immune-Responses::immunodeficiencies'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1404015286448
+text = 'What is the genetic inheritance of Chronic Granulomatous Disease?<div><br /></div><div>{{c1::XLR}}</div>'
+extra = ""
+tags = 'Brosencephalon Immunology::Immune-Responses::immunodeficiencies'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1404015298694
+text = """
+{{c1::Chronic Granulomatous Disease}} is a primary immunodeficiency that involves an NADPH Oxidase defect, thereby \
+resulting in deceased ROS and a subsequent lack of respiratory burst in neutrophils."""
+extra = '<div><i>Remember, NADPH Oxidase makes superoxide.</i></div>'
+tags = 'Brosencephalon Immunology::Immune-Responses::immunodeficiencies'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1404015355228
+text = """
+What Nitroblue Tetrazolium (NZT) dye reduction test result is associated with Chronic Granulomatous Disease?<div><br \
+/></div><div>{{c1::Negative}}</div>"""
+extra = ""
+tags = 'Brosencephalon Immunology::Immune-Responses::immunodeficiencies'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1404015422163
+text = """
+Which flow cytometry test is abnormal in Chronic Granulomatous Disease?<div><br /></div><div>{{c1::Abnormal \
+Dihydrorhodamine Test}}</div>"""
+extra = ""
+tags = 'Brosencephalon Immunology::Immune-Responses::immunodeficiencies'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1404015447316
+text = 'A(n) {{c1::autograft}} is a type of graft that is received from oneself.'
+extra = ""
+tags = 'Brosencephalon Immunology::Immune-Responses::grafts'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1404015985734
+text = 'A(n)&nbsp;{{c1::Syngeneic Graft}} is a type of graft that is received from an identical twin or clone.'
+extra = ""
+tags = 'Brosencephalon Immunology::Immune-Responses::grafts'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1404016011128
+text = 'A(n)&nbsp;{{c1::allograft}} is a type of graft that is received from a nonidentical individual of the same species.'
+extra = ""
+tags = 'Brosencephalon Immunology::Immune-Responses::grafts'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1404016039210
+text = 'A(n)&nbsp;{{c1::xenograft}} is a graft that is received from a different species.'
+extra = ""
+tags = 'Brosencephalon Immunology::Immune-Responses::grafts'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1404016054779
+text = 'What is the onset of Hyperacute transplant rejection?<div><br /></div><div>{{c1::Minutes}}</div>'
+extra = ""
+tags = 'Brosencephalon Immunology::Immune-Responses::transplant-rejection'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1404016076261
+text = 'What is the onset of Acute transplant rejection?<div><br /></div><div>{{c1::Weeks to months}}</div>'
+extra = ""
+tags = 'Brosencephalon Immunology::Immune-Responses::transplant-rejection'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1404016088036
+text = 'What is the onset of Chronic transplant rejection?<div><br /></div><div>{{c1::Months to years}}</div>'
+extra = ""
+tags = 'Brosencephalon Immunology::Immune-Responses::transplant-rejection'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1404016096921
+text = """
+{{c1::Hyperacute Rejection}} is a type of transplant rejection that involves <b>pre-existing recipient antibodies \
+reacting to donor antigens</b>&nbsp;via a Type II reaction."""
+extra = ""
+tags = 'Brosencephalon Immunology::Immune-Responses::transplant-rejection'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1404016146807
+text = """
+{{c1::Hyperacute Rejection}} is a type of transplant rejection that involves <b>widespread thrombosis of grafted \
+vessels</b>, thereby leading to ischemia and necrosis."""
+extra = '<div><i>The graft has to be removed.</i></div>'
+tags = 'Brosencephalon Immunology::Immune-Responses::transplant-rejection'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1404016180870
+text = """
+{{c1::Cellular Acute Rejection}} is a type of Acute Transplant Rejection that involves <b>CTLs</b>&nbsp;that become \
+<b>activated against donor MHCs</b>."""
+extra = ""
+tags = 'Brosencephalon Immunology::Immune-Responses::transplant-rejection'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1404016228306
+text = """
+{{c1::Humoral Acute Rejection}} is a type of Acute Transplant Rejection that presents similarly to Hyperacute rejection, \
+but involves antibodies that <b>develop after transplantation</b>."""
+extra = ""
+tags = 'Brosencephalon Immunology::Immune-Responses::transplant-rejection'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1404016531454
+text = """
+{{c1::Acute Rejection}} is a type of transplant rejection that presents with <b>vasculitis of grafted \
+vessels</b>&nbsp;with <b>dense interstitial lymphocytic infiltrate</b>."""
+extra = '<div><i>Prevented or reversed with immunosuppressants.</i></div>'
+tags = 'Brosencephalon Immunology::Immune-Responses::transplant-rejection'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1404016580569
+text = """
+{{c1::Chronic Rejection}} is a type of transplant rejection that involves <b>recipient T cells that perceive donor MHC \
+as recipient MHC</b>&nbsp;and subsequently <b>react against donor antigens that are presented</b>."""
+extra = """
+<div><i>Basically, recipient (host) T cells here think that the donor MHC molecules are host MHC molecules. Hence any \
+antigens presented by the donor MHCs trigger both cell-mediated and humoral reactions (i.e. reaction against donor \
+antigens).</i></div>"""
+tags = 'Brosencephalon Immunology::Immune-Responses::transplant-rejection'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1404016926300
+text = """
+{{c1::Chronic Rejection}} is a type of transplant rejection that presents with <b>irreversible T-cell</b>&nbsp;and \
+<b>antibody mediated damage</b>."""
+extra = ""
+tags = 'Brosencephalon Immunology::Immune-Responses::transplant-rejection'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1404016969952
+text = 'How does Chronic transplant rejection present at the heart?<div><br /></div><div>{{c1::Atherosclerosis}}</div>'
+extra = ""
+tags = 'Brosencephalon Immunology::Immune-Responses::transplant-rejection'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1404016988210
+text = 'How does Chronic transplant rejection present at the Lungs?<div><br /></div><div>{{c1::Bronchiolitis obliterans}}</div>'
+extra = ""
+tags = 'Brosencephalon Immunology::Immune-Responses::transplant-rejection'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1404016999210
+text = 'How does Chronic transplant rejection present at the liver?<div><br /></div><div>{{c1::Vanishing bile ducts}}</div>'
+extra = ""
+tags = 'Brosencephalon Immunology::Immune-Responses::transplant-rejection'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1404017009258
+text = """
+How does Chronic transplant rejection present at the kidney?<div><br /></div><div>{{c1::Vascular fibrosis and \
+glomerulopathy}}</div>"""
+extra = ""
+tags = 'Brosencephalon Immunology::Immune-Responses::transplant-rejection'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1404017019087
+text = """
+{{c1::Graft-versus-host disease}} is a transplant rejection disorder that involves <b>grafted immunocompetent T cells \
+that proliferate in the immunocompromised host</b>&nbsp;and eventually begin <b>rejecting host cells </b>as if they were \
+"foreign."\
+"""
+extra = """
+<br><div><i>Essentially, the transplanted, functional T cells attack the immunocompromised host T \
+cells.</i></div><div><i>Causes severe organ dysfunction.</i></div>"""
+tags = 'Brosencephalon Immunology::Immune-Responses::transplant-rejection'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1404017950425
+text = """
+Which type of transplants are typically associated with graft-versus-host disease?<div><br /></div><div>{{c1::Bone \
+marrow and liver transplants (as they are rich in lymphocytes)}}</div>"""
+extra = """
+<div><i>This is potentially beneficial in bone marrow transplants to treat leukemia (Graft-versus-tumor \
+effect).</i></div>"""
+tags = 'Brosencephalon Immunology::Immune-Responses::transplant-rejection'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1404059399172
+text = 'What is the MOA of Cyclosporine?<div><br /></div><div>{{c1::Inhibition of Calcineurin by binding to Cyclophilin}}</div>'
+extra = """
+<div></div><i>Thereby blocks T-cell activation by <b>preventing IL-2 transcription</b>.</i><div><img \
+src="paste-58523224375972.jpg" /></div>"""
+tags = 'Brosencephalon Immunology::Immunosuppressants::immunosuppressants'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1404063112127
+text = """
+{{c1::Cyclosporine}} is an immunosuppressant that inhibits Calcineurin by binding to Cyclophilin, thereby inhibiting \
+IL-2 transcription and T-cell activation."""
+extra = ""
+tags = 'Brosencephalon Immunology::Immunosuppressants::immunosuppressants'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1404063162191
+text = '''Which interleukin's transcription is prevented by Cyclosporine and Tacrolimus?<div><br /></div><div>{{c1::IL-2}}</div>'''
+extra = """
+<div><i>Cyclosporine binds to Cyclophilin and then inhibits Calcineurin.</i></div><div><i>Tacrolimus binds to FKBP and \
+then inhibits Calcineurin.</i></div><div><i>Sirolimus binds to FKBP and then inhibits mTOR, but <b>inhibits IL-2 signal \
+transduction.</b></i></div><div><i><img src="paste-58518929408676.jpg" /></i></div>"""
+tags = 'Brosencephalon Immunology::Immunosuppressants::immunosuppressants'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1404063255668
+text = 'What does Cyclosporine bind to before inhibiting Calcineurin?<div><br /></div><div>{{c1::Cyclophilin}}</div>'
+extra = '<div><img src="paste-58518929408676.jpg" /></div>'
+tags = 'Brosencephalon Immunology::Immunosuppressants::immunosuppressants'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1404063535509
+text = '{{c1::Cyclosporine}} is an immunosuppressant that is used to <b>psoriasis</b>&nbsp;and rheumatoid arthritis.'
+extra = ""
+tags = 'Brosencephalon Immunology::Immunosuppressants::immunosuppressants'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1404063620151
+text = """
+Which immunosuppressant is associated with <b>nephrotoxicity</b>?<div><br /></div><div>{{c1::Cyclosporine; \
+Tacrolimus}}</div>"""
+extra = '<div><i>Both Calcineurin inhibitors are nephrotoxic.</i></div>'
+tags = 'Brosencephalon Immunology::Immunosuppressants::immunosuppressants'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1404063651642
+text = """
+Which immunosuppressant is associated with <b>hirsutism</b>&nbsp;and <b>gingival hyperplasia</b>?<div><br \
+/></div><div>{{c1::Cyclosporine}}</div>"""
+extra = ""
+tags = 'Brosencephalon Immunology::Immunosuppressants::immunosuppressants'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1404063677232
+text = """
+{{c1::Cyclosporine}} is an immunosuppressant that is associated with <b>hypertension, hyperlipidemia</b>&nbsp;and \
+<b>hyperglycemia</b>."""
+extra = ""
+tags = 'Brosencephalon Immunology::Immunosuppressants::immunosuppressants'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1404064623432
+text = """
+What is the MOA of Tacrolimus?<div><br /></div><div>{{c1::Inhibition of Calcineurin via FKBP (FK506 Binding \
+Protein)}}</div>"""
+extra = '<div><img src="paste-58518929408676.jpg" /></div>'
+tags = 'Brosencephalon Immunology::Immunosuppressants::immunosuppressants'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1404064653178
+text = """
+{{c1::Tacrolimus}} is an immunosuppressant that inhibits Calcineurin by binding to FKBP, thereby inhibiting IL-2 \
+transcription."""
+extra = '<div><img src="paste-58518929408676.jpg" /></div>'
+tags = 'Brosencephalon Immunology::Immunosuppressants::immunosuppressants'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1404064716929
+text = 'Which protein does Tacrolimus bind to in order to inhibit Calcineurin?<div><br /></div><div>{{c1::FKBP}}</div>'
+extra = '<div></div><i>The -limus drugs bind to FKBP.</i><div><img src="paste-58518929408676.jpg" /></div>'
+tags = 'Brosencephalon Immunology::Immunosuppressants::immunosuppressants'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1404064776888
+text = """
+{{c1::Tacrolimus}} is an immunosuppressant that inhibits Calcineurin and yields an <b>increased risk of diabetes and \
+neurotoxicity</b>."""
+extra = ""
+tags = 'Brosencephalon Immunology::Immunosuppressants::immunosuppressants'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1404064933400
+text = """
+{{c1::Tacrolimus}} is an immunosuppressant that inhibits Calcineurin but <b>does not cause hirsutism or gingival \
+hyperplasia</b>."""
+extra = ""
+tags = 'Brosencephalon Immunology::Immunosuppressants::immunosuppressants'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1404064975838
+text = """
+What is the MOA of Sirolimus (Rapamycin)?<div><br /></div><div>{{c1::Inhibition of mTOR via binding to FKBP; thereby \
+inhibits IL-2 signal transduction}}</div>"""
+extra = '<div><img src="paste-58518929408676.jpg" /></div>'
+tags = 'Brosencephalon Immunology::Immunosuppressants::immunosuppressants'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1404065097406
+text = 'What protein does Sirolimus (Rapamycin) bind to before inhibiting mTOR?<div><br /></div><div>{{c1::FKBP}}</div>'
+extra = '<div><img src="paste-58518929408676.jpg" /></div>'
+tags = 'Brosencephalon Immunology::Immunosuppressants::immunosuppressants'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1404065131727
+text = """
+{{c1::Sirolimus (Rapamycin)}} is an immunosuppressant that inhibits mTOR via binding to FKBP, thereby inhibiting IL-2 \
+<b>signal transduction</b>."""
+extra = '<div><img src="paste-58518929408676.jpg" /></div>'
+tags = 'Brosencephalon Immunology::Immunosuppressants::immunosuppressants'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1404065360707
+text = """
+Which organ transplant is associated with subsequent Sirolimus (Rapamycin) use?<div><br /></div><div>{{c1::Kidney \
+transplant rejection prophylaxis}}</div>"""
+extra = ""
+tags = 'Brosencephalon Immunology::Immunosuppressants::immunosuppressants'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1404065420288
+text = """
+Which immunosuppressant is associated with insulin resistance and hyperlipidemia?<div><br /></div><div>{{c1::Sirolimus \
+(Rapamycin)}}</div>"""
+extra = ""
+tags = 'Brosencephalon Immunology::Immunosuppressants::immunosuppressants'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1404065485604
+text = '{{c1::Sirolimus (Rapamycin)}} is an immunosuppressant that inhibits mTOR and is <b>non-nephrotoxic</b>.'
+extra = ""
+tags = 'Brosencephalon Immunology::Immunosuppressants::immunosuppressants'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1404065544829
+text = '{{c1::Sirolimus (Rapamycin)}} is an immunosuppressant that works in synergy with Cyclosporine.'
+extra = '<div><img src="paste-58518929408676.jpg" /></div>'
+tags = 'Brosencephalon Immunology::Immunosuppressants::immunosuppressants'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1404065877680
+text = 'What is the MOA of the immunosuppressant Basiliximab?<div><br /></div><div>{{c1::Binds to and blocks the IL-2R}}</div>'
+extra = '<div><img src="paste-58518929408676.jpg" /></div>'
+tags = 'Brosencephalon Immunology::Immunosuppressants::immunosuppressants'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1404066012709
+text = """
+{{c1::Basiliximab}} is a monoclonal antibody that blocks the <b>IL-2R</b>, thereby causing immunosuppression and acting \
+as a kidney transplant rejection prophylactic."""
+extra = '<div><img src="paste-58518929408676.jpg" /></div>'
+tags = 'Brosencephalon Immunology::Immunosuppressants::immunosuppressants'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1404066056607
+text = '{{c1::Basiliximab}} is a monoclonal antibody that blocks IL-2R and yields <b>edema, HTN</b>&nbsp;and <b>tremor</b>.'
+extra = '<div></div>'
+tags = 'Brosencephalon Immunology::Immunosuppressants::immunosuppressants'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1404066078559
+text = '{{c1::Azathioprine (AZT)}} is an immunosuppressant that is the antimetabolite precursor of 6-MP.'
+extra = '<div><img src="paste-58518929408676.jpg" /></div>'
+tags = 'Brosencephalon Immunology::Immunosuppressants::immunosuppressants'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1404066128501
+text = """
+What is the MOA of Azathioprine?<div><br /></div><div>{{c1::Inhibition of PRPP Amidotransferase; inhibits lymphocyte \
+proliferation by blocking nucleotide synthesis}}</div>"""
+extra = '<div></div><i>Remember, AZT is the prodrug form of 6-MP.</i><div><img src="paste-58518929408676.jpg" /></div>'
+tags = 'Brosencephalon Immunology::Immunosuppressants::immunosuppressants'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1404066180132
+text = '{{c1::Azathioprine}} is an immunosuppressant that is used to treat <b>Crohn Disease</b>.'
+extra = ""
+tags = 'Brosencephalon Immunology::Immunosuppressants::immunosuppressants'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1404066579885
+text = 'How does Allopurinol influence the toxicity of Azathioprine (6MP)?<div><br /></div><div>{{c1::Increase}}</div>'
+extra = '<div><i>6-MP is degraded by Xanthine Oxidase. Hence Allopurinol increases its toxicity.</i></div>'
+tags = 'Brosencephalon Immunology::Immunosuppressants::immunosuppressants'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1404066636967
+text = """
+{{c1::Azathioprine}} is an immunosuppressant that inhibits PRPP Amidotransferase and causes <b>leukopenia, \
+anemia</b>&nbsp;and <b>thrombocytopenia</b>."""
+extra = ""
+tags = 'Brosencephalon Immunology::Immunosuppressants::immunosuppressants'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1404066691061
+text = """
+What is the MOA of Glucocorticoids as immunosuppressants?<div><br /></div><div>{{c1::Inhibition of NF-kB; Thereby \
+suppressing both B and T cell function by decreasing the transcription of many cytokines}}</div>"""
+extra = '<div><img src="paste-58518929408676.jpg" /></div>'
+tags = 'Brosencephalon Immunology::Immunosuppressants::immunosuppressants'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1404066745491
+text = """
+{{c1::Glucocorticoids}} are a type of immunosuppressant that inhibits NF-kB, thereby decreasing the transcription of \
+many cytokines."""
+extra = '<div><img src="paste-58518929408676.jpg" /></div>'
+tags = 'Brosencephalon Immunology::Immunosuppressants::immunosuppressants'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1404066839371
+text = """
+{{c1::Azathioprine}} is an immunosuppressant that is converted into <b>6-MP</b>&nbsp;and inhibits <b>PRPP \
+Amidotransferase</b>."""
+extra = '<div><img src="paste-58518929408676.jpg" /></div>'
+tags = 'Brosencephalon Immunology::Immunosuppressants::immunosuppressants'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1404066891524
+text = """
+{{c1::Glucocorticoids}} are a type of immunosuppressant that is associated with <b>central obesity</b>&nbsp;and \
+<b>hyperglycemia</b>."""
+extra = '<div><img src="paste-58518929408676.jpg" /></div>'
+tags = 'Brosencephalon Immunology::Immunosuppressants::immunosuppressants'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1404066937054
+text = """
+{{c1::Glucocorticoids}} are a type of immunosuppressant that are associated with <b>osteoporosis</b>&nbsp;and <b>muscle \
+breakdown</b>."""
+extra = ""
+tags = 'Brosencephalon Immunology::Immunosuppressants::immunosuppressants'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1404067164688
+text = '{{c1::Glucocorticoids}} are a type of immunosuppressant that are associated with <b>acne</b>&nbsp;and <b>cataracts</b>.'
+extra = ""
+tags = 'Brosencephalon Immunology::Immunosuppressants::immunosuppressants'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1404067186993
+text = '{{c1::Glucocorticoids}} are a type of immunosuppressant that are associated with <b>peptic ulcers</b>.'
+extra = ""
+tags = 'Brosencephalon Immunology::Immunosuppressants::immunosuppressants'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1404067203206
+text = '{{c1::Glucocorticoids}} are a type of immunosuppressant that are known to cause iatrogenic Cushing Syndrome.'
+extra = ""
+tags = 'Brosencephalon Immunology::Immunosuppressants::immunosuppressants'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1404067580343
+text = """
+{{c1::Epoetin alfa}} is a recombinant cytokine that functions as Erythropoietin and is used to treat <b>anemia</b>, \
+especially in renal failure."""
+extra = ""
+tags = 'Brosencephalon Immunology::Immunosuppressants::unsorted'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1404069394445
+text = '{{c1::Thrombopoietin}} and&nbsp;{{c2::Oprelvekin}} are recombinant cytokines that are used to treat thrombocytopenia.'
+extra = ""
+tags = 'Brosencephalon Immunology::Immunosuppressants::unsorted'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1404069436564
+text = """
+{{c1::Oprelvekin}} is a recombinant cytokine that functions as <b>IL-11</b>&nbsp;and hence is used to treat \
+Thrombocytopenia."""
+extra = ""
+tags = 'Brosencephalon Immunology::Immunosuppressants::unsorted'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1404069482968
+text = """
+{{c1::Filgrastim}} is a recombinant cytokine that functions as a <b>granulocyte colony-stimulating factor (G-CSF)</b> to \
+induce bone marrow recovery."""
+extra = ""
+tags = 'Brosencephalon Immunology::Immunosuppressants::unsorted'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1404069605164
+text = """
+{{c1::Sargramostim}} is a recombinant cytokine that functions as a <b>granulocyte-macrophage colony-stimulating factor \
+(GM-CSF) </b>and is used to induce bone marrow recovery."""
+extra = ""
+tags = 'Brosencephalon Immunology::Immunosuppressants::unsorted'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1404069687174
+text = """
+{{c1::Aldesleukin}} is a recombinant cytokine that function as <b>IL-2</b>&nbsp;and is used in renal cell carcinoma and \
+metastatic melanoma."""
+extra = ""
+tags = 'Brosencephalon Immunology::Immunosuppressants::unsorted'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1404069713578
+text = 'Which interferon is used to treat chronic HBV and HCV?<div><br /></div><div>{{c1::IFN-alpha}}</div>'
+extra = ""
+tags = 'Brosencephalon Immunology::Immunosuppressants::unsorted'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1404069732893
+text = 'Which interferon is used to treat Kaposi Sarcoma?<div><br /></div><div>{{c1::IFN-alpha}}</div>'
+extra = ""
+tags = 'Brosencephalon Immunology::Immunosuppressants::unsorted'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1404069739996
+text = 'Which interferon is used to treat Hairy Cell Leukemia?<div><br /></div><div>{{c1::IFN-alpha}}</div>'
+extra = ""
+tags = 'Brosencephalon Immunology::Immunosuppressants::unsorted'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1404069747185
+text = 'Which interferon is used to treat Condyloma Acuminatum?<div><br /></div><div>{{c1::IFN-alpha}}</div>'
+extra = ""
+tags = 'Brosencephalon Immunology::Immunosuppressants::unsorted'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1404069763176
+text = 'Which interferon is used to treat Renal Cell Carcinoma?<div><br /></div><div>{{c1::IFN-alpha}}</div>'
+extra = ""
+tags = 'Brosencephalon Immunology::Immunosuppressants::unsorted'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1404069770283
+text = 'Which interferon is used to treat Malignant Melanoma?<div><br /></div><div>{{c1::IFN-alpha}}</div>'
+extra = ""
+tags = 'Brosencephalon Immunology::Immunosuppressants::unsorted'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1404069778681
+text = 'Which interferon is used to treat Multiple Sclerosis?<div><br /></div><div>{{c1::IFN-beta}}</div>'
+extra = ""
+tags = 'Brosencephalon Immunology::Immunosuppressants::unsorted'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1404069788097
+text = 'Which interferon is used to treat Chronic Granulomatous Disease?<div><br /></div><div>{{c1::IFN-gamma}}</div>'
+extra = ""
+tags = 'Brosencephalon Immunology::Immunosuppressants::unsorted'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1404069797079
+text = """
+What is the target of the monoclonal antibody Alemtuzumab?<div><br /></div><div>{{c1::CD52 in Chronic Lymphocytic \
+Leukemia}}</div>"""
+extra = ""
+tags = 'Brosencephalon Immunology::Immunosuppressants::unsorted'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1404070337638
+text = """
+What is the target of the monoclonal antibody Bevacizumab?<div><br /></div><div>{{c1::VEGF in colorectal cancer, renal \
+cell carcinoma}}</div>"""
+extra = ""
+tags = 'Brosencephalon Immunology::Immunosuppressants::unsorted'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1404070364535
+text = """
+What is the target of the monoclonal antibody Cetuximab?<div><br /></div><div>{{c1::Epidermal growth factor receptor \
+(EGFR) in stage IV colorectal cancer, head and neck cancer}}</div>"""
+extra = ""
+tags = 'Brosencephalon Immunology::Immunosuppressants::unsorted'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1404070414787
+text = """
+What is the target of the monoclonal antibody Rituximab?<div><br /></div><div>{{c1::CD20 in B-cell non-Hodgkin lymphoma, \
+Rheumaoid Arthritis and Idiopathic Thrombocytopenic Purpura}}</div>"""
+extra = ""
+tags = 'Brosencephalon Immunology::Immunosuppressants::unsorted'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1404070486754
+text = """
+What is the target of the monoclonal antibody Trastuzumab?<div><br /></div><div>{{c1::HER2/neu in breast cancer and some \
+gastric cancer}}</div>"""
+extra = '<div><i>"Tras-<b>2</b>-zumab targets HER<b>2</b>"</i></div>'
+tags = 'Brosencephalon Immunology::Immunosuppressants::unsorted'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1404070524214
+text = """
+What is the target of the monoclonal antibody Infliximab?<div><br /></div><div>{{c1::TNF-alpha in IBD, Rheumatoid \
+Arthritis, Ankylosing Spondylitis, Psoriasis}}</div>"""
+extra = ""
+tags = 'Brosencephalon Immunology::Immunosuppressants::unsorted'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1404070711881
+text = """
+What is the target of the monoclonal antibody Adalimumab?<div><br /></div><div>{{c1::TNF-alpha in IBD, Rheumatoid \
+Arthritis, Ankylosing Spondylitis, Psoriasis}}</div>"""
+extra = ""
+tags = 'Brosencephalon Immunology::Immunosuppressants::unsorted'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1404070868387
+text = """
+What is the target of the monoclonal antibody Natalizumab?<div><br /></div><div>{{c1::alpha4-integrin in MS and Crohn \
+Disease}}</div>"""
+extra = '<div><i>Alpha4-integrin is an integrin protein involved with leukocyte adhesion.</i></div>'
+tags = 'Brosencephalon Immunology::Immunosuppressants::unsorted'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1404070920133
+text = """
+{{c1::Progressive Multifocal Leukoencephalopathy (PML)}} is a possible neurological complication of Natalizumab use in \
+patients with JC virus infection."""
+extra = ""
+tags = 'Brosencephalon Immunology::Immunosuppressants::unsorted'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1404070972875
+text = """
+What is the target of the monoclonal antibody Abciximab?<div><br /></div><div>{{c1::GpIIb/IIIa in patients that need \
+anti-platelet action}}</div>"""
+extra = """
+<div><i>i.e. for the prevention of ischemic complications in patients undergoing percutaneous coronary \
+intervention</i></div>"""
+tags = 'Brosencephalon Immunology::Immunosuppressants::unsorted'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1404071054879
+text = """
+What is the target of the monoclonal antibody Denosumab?<div><br /></div><div>{{c1::RANKL in osteoporosis; Blocking of \
+RANKL inhibits osteoclast maturation}}</div>"""
+extra = ""
+tags = 'Brosencephalon Immunology::Immunosuppressants::unsorted'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1404071083682
+text = """
+What is the target of the monoclonal antibody Digoxin Immune Fab?<div><br /></div><div>{{c1::Digoxin; acts as an \
+antidote for Digoxin toxicity}}</div>"""
+extra = ""
+tags = 'Brosencephalon Immunology::Immunosuppressants::unsorted'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1404071121555
+text = """
+What is the target of the monoclonal antibody Omalizumab?<div><br /></div><div>{{c1::IgE; used to prevent allergic \
+asthma and prevents IgE binding to FcERI}}</div>"""
+extra = ""
+tags = 'Brosencephalon Immunology::Immunosuppressants::unsorted'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1404071160652
+text = 'What is the target of the monoclonal antibody Pavilizumab?<div><br /></div><div>{{c1::RSV F protein}}</div>'
+extra = '<div><i>Remember, F proteins on RSV allow is to make syncytia. Hence, Respiratory Syncytial Virus (RSV).</i></div>'
+tags = 'Brosencephalon Immunology::Immunosuppressants::unsorted'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1404071589190
+text = """
+What is the clinical use of the monoclonal antibody Alemtuzumab?<div><br /></div><div>{{c1::Chronic Lymphocytic Leukemia \
+(CLL) via CD52}}</div>"""
+extra = ""
+tags = 'Brosencephalon Immunology::Immunosuppressants::unsorted'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1404071614787
+text = """
+What is the clinical use of the monoclonal antibody Bevacizumab?<div><br /></div><div>{{c1::Colorectal cancer; Renal \
+cell carcinoma; via VEGF}}</div>"""
+extra = ""
+tags = 'Brosencephalon Immunology::Immunosuppressants::unsorted'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1404071654896
+text = """
+What is the clinical use of the monoclonal antibody Cetuximab?<div><br /></div><div>{{c1::Stage IV colorectal cancer; \
+Head and neck cancer; via EGFR}}</div>"""
+extra = ""
+tags = 'Brosencephalon Immunology::Immunosuppressants::unsorted'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1404071682615
+text = """
+What is the clinical use of the monoclonal antibody Rituximab?<div><br /></div><div>{{c1::B-cell non-Hodgkin lymphoma; \
+Rheumatoid Arthritis; Idiopathic Thrombocytopenia Purpura; via CD20}}</div>"""
+extra = ""
+tags = 'Brosencephalon Immunology::Immunosuppressants::unsorted'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1404071717603
+text = """
+What is the clinical use of the monoclonal antibody Trastuzumab?<div><br /></div><div>{{c1::Breast cancer; Gastric \
+cancer; via HER2/neu}}</div>"""
+extra = ""
+tags = 'Brosencephalon Immunology::Immunosuppressants::unsorted'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1404071740352
+text = """
+What is the clinical use of the monoclonal antibody Infliximab?<div><br /></div><div>{{c1::IBD; Rheumatoid Arthritis; \
+Ankylosing Spondylitis; Psoriasis; via TNF-alpha}}</div>"""
+extra = ""
+tags = 'Brosencephalon Immunology::Immunosuppressants::unsorted'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1404071944718
+text = """
+What is the clinical use of the monoclonal antibody Adalimumab?<div><br /></div><div>{{c1::IBD; Rheumatoid Arthritis; \
+Ankylosing Spondylitis; Psoriasis; via TNF-alpha}}</div>"""
+extra = ""
+tags = 'Brosencephalon Immunology::Immunosuppressants::unsorted'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1404071967380
+text = """
+What is the clinical use of the monoclonal antibody Natalizumab?<div><br /></div><div>{{c1::Multiple Sclerosis; Crohn \
+Disease; via alpha4-integrin}}</div>"""
+extra = '<div><i>Remember, alpha4-integrin is involved with leukocyte adhesion.</i></div>'
+tags = 'Brosencephalon Immunology::Immunosuppressants::unsorted'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1404072007193
+text = """
+What is the clinical use of the monoclonal antibody Abciximab?<div><br /></div><div>{{c1::Prevention of ischemic \
+complications in patients undergoing percutaneous coronary intervention}}</div>"""
+extra = '''<div><i>i.e. it's an antiplatelet, brah!</i></div>'''
+tags = 'Brosencephalon Immunology::Immunosuppressants::unsorted'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1404072051299
+text = """
+What is the clinical use of the monoclonal antibody Denosumab?<div><br /></div><div>{{c1::Osteoporosis; inhibits \
+osteoclast maturation via RANKL}}</div>"""
+extra = ""
+tags = 'Brosencephalon Immunology::Immunosuppressants::unsorted'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1404072078422
+text = """
+What is the clinical use of the monoclonal antibody Digoxin Immune Fab?<div><br /></div><div>{{c1::Antidote for \
+Digitoxin toxicity}}</div>"""
+extra = ""
+tags = 'Brosencephalon Immunology::Immunosuppressants::unsorted'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1404072094823
+text = """
+What is the clinical use of the monoclonal antibody Omalizumab?<div><br /></div><div>{{c1::Allergic asthma; prevents IgE \
+binding to FcERI}}</div>"""
+extra = ""
+tags = 'Brosencephalon Immunology::Immunosuppressants::unsorted'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1404072129533
+text = """
+What is the clinical use of the monoclonal antibody Palivizumab?<div><br /></div><div>{{c1::Prophylaxis in RSV high-risk \
+infants; via RSV F protein}}</div>"""
+extra = ""
+tags = 'Brosencephalon Immunology::Immunosuppressants::unsorted'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1404072154231
+text = """
+Which monoclonal antibody can be used to treat Chronic Lymphocytic Leukemia (CLL)?<div><br \
+/></div><div>{{c1::Alemtuzumab (via CD52)}}</div>"""
+extra = ""
+tags = 'Brosencephalon Immunology::Immunosuppressants::unsorted'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1404072803058
+text = """
+Which monoclonal antibody can be used to treat Idiopathic Thrombocytopenic Purpura (ITP)?<div><br \
+/></div><div>{{c1::Rituximab}}</div>"""
+extra = ""
+tags = 'Brosencephalon Immunology::Immunosuppressants::unsorted'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1404073044364
+text = """
+Which monoclonal antibody can be used to treat Breast Cancer?<div><br /></div><div>{{c1::Trastuzumab (via \
+HER2/neu)}}</div>"""
+extra = ""
+tags = 'Brosencephalon Immunology::Immunosuppressants::unsorted'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1404073071781
+text = 'Which monoclonal antibody can be used to treat Multiple Sclerosis?<div><br /></div><div>{{c1::Natalizumab}}</div>'
+extra = ""
+tags = 'Brosencephalon Immunology::Immunosuppressants::unsorted'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1404073420208
+text = 'Which monoclonal antibody can be used to treat Crohn Disease?<div><br /></div><div>{{c1::Natalizumab}}</div>'
+extra = ""
+tags = 'Brosencephalon Immunology::Immunosuppressants::unsorted'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1404073432419
+text = """
+Which monoclonal antibody can be used to treat Ankylosing Spondylitis?<div><br /></div><div>{{c1::Infliximab; \
+Adalimumab; both via TNF-alpha}}</div>"""
+extra = ""
+tags = 'Brosencephalon Immunology::Immunosuppressants::unsorted'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1404074377437
+text = 'Which monoclonal antibody can be used to treat Osteoporosis?<div><br /></div><div>{{c1::Denosumab (via RANKL)}}</div>'
+extra = ""
+tags = 'Brosencephalon Immunology::Immunosuppressants::unsorted'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1404074417513
+text = 'Which monoclonal antibody can be used to treat Digoxin toxicity?<div><br /></div><div>{{c1::Digoxin Immune Fab}}</div>'
+extra = ""
+tags = 'Brosencephalon Immunology::Immunosuppressants::unsorted'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1404074435170
+text = 'Which monoclonal antibody can be used to treat Allergic Asthma?<div><br /></div><div>{{c1::Omalizumab}}</div>'
+extra = ""
+tags = 'Brosencephalon Immunology::Immunosuppressants::unsorted'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1404074449984
+text = """
+Which monoclonal antibody can be used as an RSV-prophylaxis for high-risk infants?<div><br \
+/></div><div>{{c1::Palivizumab}}</div>"""
+extra = ""
+tags = 'Brosencephalon Immunology::Immunosuppressants::unsorted'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1404180633484
+text = """
+{{c1::DiGeorge Syndrome}} is a primary immunodeficiency that involves developmental failure of the 3rd and 4th \
+pharyngeal pouches."""
+extra = ""
+tags = 'Brosencephalon Immunology::Immune-Responses::immunodeficiencies'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1404182076931
+text = 'What is the etiology of DiGeorge Syndrome?<div><br /></div><div>{{c1::22q11 chromosomal deletion}}</div>'
+extra = ""
+tags = 'Brosencephalon Immunology::Immune-Responses::immunodeficiencies'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1404182093421
+text = """
+{{c1::DiGeorge Syndrome}} is a&nbsp;primary immunodeficiency that presents with <b>T-cell deficiency</b>&nbsp;and \
+<b>hypocalcemia</b>&nbsp;due to thymic and parathyroid aplasia respectively."""
+extra = ""
+tags = 'Brosencephalon Immunology::Immune-Responses::immunodeficiencies'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1404182137644
+text = """
+{{c1::Severe Combined Immunodeficiency (SCID)}} is a&nbsp;primary immunodeficiency that can develop from <b>cytokine \
+receptor defects.</b>"""
+extra = ""
+tags = 'Brosencephalon Immunology::Immune-Responses::immunodeficiencies'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1404182184583
+text = """
+{{c1::Severe Combined Immunodeficiency (SCID)}} is a&nbsp;primary immunodeficiency that can develop from <b>Adenosine \
+Deaminase (ADA) deficiency</b>."""
+extra = """
+<div><i>ADA is necessary to deaminate adenosine and deoxyadenosine; buildup of both of them is toxic to \
+lymphocytes.</i></div>"""
+tags = 'Brosencephalon Immunology::Immune-Responses::immunodeficiencies'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1404182240578
+text = """
+{{c1::Severe Combined Immunodeficiency (SCID)}} is a&nbsp;primary immunodeficiency that can develop from an <b>MHC II \
+deficiency</b>&nbsp;as MHC II is required for CD4+ helper T cell activation and cytokine production."""
+extra = ""
+tags = 'Brosencephalon Immunology::Immune-Responses::immunodeficiencies'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1404182282662
+text = """
+{{c1::Severe Combined Immunodeficiency (SCID)}} is a&nbsp;primary immunodeficiency that can be treated by <b>sterile \
+isolation</b>&nbsp;("bubble baby")."""
+extra = ""
+tags = 'Brosencephalon Immunology::Immune-Responses::immunodeficiencies'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1404182332349
+text = """
+{{c1::X-linked (Bruton) Agammaglobulinemia}} is a&nbsp;primary immunodeficiency that involves a complete lack of \
+immunoglobulin due to disordered B-cell maturation as a result of a <i style="font-weight: bold; \
+">BTK</i>&nbsp;mutation."""
+extra = ""
+tags = 'Brosencephalon Immunology::Immune-Responses::immunodeficiencies'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1404182384469
+text = """
+What is the etiology of X-linked (Bruton) Agammaglobulinemia?<div><br /></div><div>{{c1::Mutation in <i>BTK</i>, Bruton \
+tyrosine kinase}}</div>"""
+extra = ""
+tags = 'Brosencephalon Immunology::Immune-Responses::immunodeficiencies'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1404182424139
+text = """
+{{c1::X-linked (Bruton) Agammaglobulinemia}} is a&nbsp;primary immunodeficiency that presents after 6 months of life \
+with recurrent bacterial, enterovirus and <i>Giardia lamblia</i>&nbsp;infections."""
+extra = ""
+tags = 'Brosencephalon Immunology::Immune-Responses::immunodeficiencies'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1404182470188
+text = """
+{{c1::Bacterial}},&nbsp;{{c2::enterovirus}} and&nbsp;{{c3::<i>Giardia lamblia</i>}} infections are 3 hallmark infections \
+of generalised immunoglobulin deficiency."""
+extra = ""
+tags = 'Brosencephalon Immunology::Immune-Responses::immunodeficiencies'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1404182514449
+text = 'What is the most common immunoglobulin deficiency?<div><br /></div><div>{{c1::IgA}}</div>'
+extra = '<div><i>Seen in many celiac patients.</i></div>'
+tags = 'Brosencephalon Immunology::Immune-Responses::immunodeficiencies'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1404182547807
+text = """
+{{c1::Hyper IgM Syndrome}} is a&nbsp;primary immunodeficiency that presents with elevated IgM due to <b>mutated CD40L \
+</b>on helper T cells or <b>CD40</b>&nbsp;on B cells."""
+extra = """
+<div><i>Hence, <b>there is no secondary signal for B cell activation</b>. If there is no B cell activation, cytokines \
+needed for B cell class switching (IL-4; IL-5) are not produced. The result is an elevation of IgM (which is the default \
+class) and a significant lack of IgA, IgE and IgG.</i></div>"""
+tags = 'Brosencephalon Immunology::Immune-Responses::immunodeficiencies'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1404182900584
+text = """
+What is the etiology of Hyper IgM Syndrome?<div><br /></div><div>{{c1::Mutation in CD40L on helper T cells or CD40 on B \
+cells}}</div>"""
+extra = ""
+tags = 'Brosencephalon Immunology::Immune-Responses::immunodeficiencies'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1404182998858
+text = """
+{{c1::Wiskott-Aldrich Syndrome}} is a&nbsp;primary immunodeficiency that presents with thrombocytopenia, eczema and \
+recurrent infections due to a mutation in WASP."""
+extra = ""
+tags = 'Brosencephalon Immunology::Immune-Responses::immunodeficiencies'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1404183137353
+text = 'What is the etiology of Wiskott-Aldrich Syndrome?<div><br /></div><div>{{c1::WASP mutation}}</div>'
+extra = ""
+tags = 'Brosencephalon Immunology::Immune-Responses::immunodeficiencies'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1404183147500
+text = 'What is the genetic inheritance of Wiskott-Aldrich Syndrome?<div><br /></div><div>{{c1::XLR}}</div>'
+extra = ""
+tags = 'Brosencephalon Immunology::Immune-Responses::immunodeficiencies'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1404183158836
+text = """
+Which complement deficiency is associated with increased risk for <i>Neisseria</i>&nbsp;infection?<div><br \
+/></div><div>{{c1::C5-C9}}</div>"""
+extra = ""
+tags = 'Brosencephalon Immunology::Immune-Responses::immunodeficiencies'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1404183201081
+text = """
+Which complement deficiency results in Hereditary Angioedema?<div><br /></div><div>{{c1::C1 inhibitor \
+deficiency}}</div><div><br /></div><div><img src="paste-21809843929442.jpg" /></div>"""
+extra = '<div><i>Typically presents periorbitally and at mucosal surfaces.</i></div>'
+tags = 'Brosencephalon Immunology::Immune-Responses::immunodeficiencies'
+

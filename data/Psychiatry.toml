@@ -1,0 +1,3128 @@
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1389923405904
+text = 'What is the most common presentation of ADHD in adults?<div><br /></div><div>{{c1::Predominantly Inattentive}}</div>'
+extra = ""
+tags = 'Brosencephalon Psychiatry::Pathology::unsorted-adhd'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1389923686803
+text = 'Which sex is more commonly affected by ADHD?<div><br /></div><div>{{c1::Males (4:1;M:F)}}</div>'
+extra = ""
+tags = 'Brosencephalon Psychiatry::Pathology::unsorted-adhd'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1389923728182
+text = """
+What is the major and most apparent problem associated with ADHD in students?<div><br /></div><div>{{c1::Academic \
+difficulties}}</div>"""
+extra = ""
+tags = 'Brosencephalon Psychiatry::Pathology::unsorted-adhd'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1389923952991
+text = """
+Which 2 neurotransmitters are found to be in deficits in patients with ADHD?<div><br /></div><div>{{c1::Dopamine and \
+NE}}</div>"""
+extra = ""
+tags = 'Brosencephalon Psychiatry::Pathology::unsorted-adhd'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1389923997779
+text = 'The diagnosis of ADHD requires&nbsp;{{c1::6}} inattentive symptoms and/or {{c2::6}} hyperactive/impulsive symptoms.'
+extra = """
+<div><i>After 17 y/o, 5 symptoms are required. &nbsp;Several symptoms must have started before 12y/o, and must be \
+present in two or more settings (e.g., at home, school, or work).</i></div>"""
+tags = 'Brosencephalon Psychiatry::Pathology::unsorted-adhd'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1389924939532
+text = """
+{{c1::Separation Anxiety Disorder}} is an anxiety disorder characterized by excessive fear or anxiety of separation \
+from, harm to and loss of an attachment figure."""
+extra = ""
+tags = 'Brosencephalon Psychiatry::Pathology::unsorted-psych-disorders'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1389925300955
+text = """
+In a psychiatric sense,&nbsp;{{c1::fear}} is defiend as an emotion seen in response to real or perceived \
+<b>imminent</b>&nbsp;threat."""
+extra = ""
+tags = 'Brosencephalon Psychiatry::Pathology::unsorted-psych-disorders'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1389925347222
+text = """
+In a psychiatric sense,&nbsp;{{c1::anxiety}} is defined as an emotion in response to the <b>anticipation</b>&nbsp;of a \
+<b>future</b>&nbsp;threat."""
+extra = ""
+tags = 'Brosencephalon Psychiatry::Pathology::unsorted-psych-disorders'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1389925377207
+text = """
+{{c1::Selective Mutism}} is an anxiety disorder defined as a failure to speak in social situations when expected to. But \
+the patient is able to speak in other situations."""
+extra = ""
+tags = 'Brosencephalon Psychiatry::Pathology::unsorted-psych-disorders'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1389925424042
+text = """
+A {{c1::Specific Phobia}} is defined as fear, anxiety or avoidance of a circumscribed object or situation. The reaction \
+is often out of proportion."""
+extra = ""
+tags = 'Brosencephalon Psychiatry::Pathology::unsorted-psych-disorders'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1389925503321
+text = 'What is the most common <b>type</b>&nbsp;of specific phobia?<div><br /></div><div>{{c1::Animal}}</div>'
+extra = ""
+tags = 'Brosencephalon Psychiatry::Pathology::unsorted-psych-disorders'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1389925513673
+text = 'Treatment of specific phobias is through a behavioural therapy process called&nbsp;{{c1::systematic desensitization}}.'
+extra = ""
+tags = 'Brosencephalon Psychiatry::Pathology::unsorted-psych-disorders'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1389925572704
+text = """
+{{c1::Social Anxiety Disorder}} is a type of social phobia defined as fear, anxiety or avoidance of social situations \
+that involve being scrutinized or embarassed."""
+extra = '<div><i>The classic example is a fear of public speaking.</i></div>'
+tags = 'Brosencephalon Psychiatry::Pathology::unsorted-psych-disorders'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1389925997696
+text = 'What is the most common Social Anxiety Disorder?<div><br /></div><div>{{c1::Public Speaking}}</div>'
+extra = ""
+tags = 'Brosencephalon Psychiatry::Pathology::unsorted-psych-disorders'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1389926017633
+text = '{{c1::Panic Disorder}} is an anxiety disorder that is defined by recurrent <b>unexpected</b>&nbsp;panic attacks.'
+extra = ""
+tags = 'Brosencephalon Psychiatry::Pathology::unsorted-psych-disorders'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1389926055837
+text = """
+A&nbsp;{{c1::panic attack}} is a sudden, abrupt surge of intense fear or discomfort that peaks within minutes. It may be \
+expected."""
+extra = ""
+tags = 'Brosencephalon Psychiatry::Pathology::unsorted-psych-disorders'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1389926106234
+text = """
+{{c1::Generalized Anxiety Disorder}} is an anxiety disorder defined by excessive fear and anxiety about various \
+different domains."""
+extra = '<div><i>i.e. not a specific domain</i></div>'
+tags = 'Brosencephalon Psychiatry::Pathology::unsorted-psych-disorders'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1389926173945
+text = """
+{{c1::Body Dysmorphic Disorder}} is a type of psych disorder defined as a preoccupation with perceived defects or flaws \
+in one's physical appearance, typically features that are not observable or are only slight to others."""
+extra = ""
+tags = 'Brosencephalon Psychiatry::Pathology::unsorted-psych-disorders'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1389926646738
+text = """
+{{c1::Hoarding Disorder}} is a psychiatric disorder defined as a persistent difficulty parting with possessions. More \
+common in the elderly."""
+extra = ""
+tags = 'Brosencephalon Psychiatry::Pathology::unsorted-psych-disorders'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1389926817671
+text = """
+{{c1::Trichotillomania}} is a psychiatric disorder defined as recurrent pulling out of hair resulting in hair loss \
+despite repeated attempts to stop."""
+extra = ""
+tags = 'Brosencephalon Psychiatry::Pathology::unsorted-psych-disorders'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1389926852567
+text = """
+{{c1::Excoriation}} is a psychiatric disorder defined as recurrent picking of skin resulting in skin lesions. The picked \
+skin can be healthy, lesioned, scabbed, etc."""
+extra = ""
+tags = 'Brosencephalon Psychiatry::Pathology::unsorted-psych-disorders'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1389926882959
+text = 'What is the duration of Acute Stress Disorder?<div><br /></div><div>{{c1::3 days - 1 month}}</div>'
+extra = ""
+tags = 'Brosencephalon Psychiatry::Pathology::unsorted-psych-disorders'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1389926939752
+text = 'What is the duration of Posttraumatic Stress Disorder (PTSD)?<div><br /></div><div>{{c1::&gt; 1 month}}</div>'
+extra = ""
+tags = 'Brosencephalon Psychiatry::Pathology::unsorted-psych-disorders'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1389926953570
+text = """
+{{c1::Instrusion Symptoms}} is a symptom seen in stress disorders involving memories, dreams, flashbacks or reactions to \
+reminders of the stressful event."""
+extra = ""
+tags = 'Brosencephalon Psychiatry::Pathology::unsorted-psych-disorders'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1389927019384
+text = """
+{{c1::Avoidance}} is a symptom seen in stress disorders defined as persistent avoidance of stimuli associated with the \
+event."""
+extra = '<div><i>e.g. distressing memories, locations, sounds, people, activities, etc</i></div>'
+tags = 'Brosencephalon Psychiatry::Pathology::unsorted-psych-disorders'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1389927062276
+text = """
+{{c1::Negative Congitions/Mood}} is a symptom seen in stress disorders involving the inability to recall the aspects of \
+the event, negative beliefs, blaming, negative emotions, etc."""
+extra = ""
+tags = 'Brosencephalon Psychiatry::Pathology::unsorted-psych-disorders'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1389927111118
+text = """
+{{c1::Arousal/Reactivity}} is a symptom seen in stress disorders involving irritability, anger, recklessness, \
+hypervigilance, etc."""
+extra = ""
+tags = 'Brosencephalon Psychiatry::Pathology::unsorted-psych-disorders'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1389927138838
+text = """
+{{c1::Dissociative Symptoms}} is a symptom seen in stress disorders involving depersonalization, derealization and \
+dissociative amnesia."""
+extra = '<div><i>More common in Acute Stress Disorder.</i></div>'
+tags = 'Brosencephalon Psychiatry::Pathology::unsorted-psych-disorders'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1390099156016
+text = """
+At which blood alcohol concentration (BAC) does someone exhibit impaired vitals and have a high risk of death?<div><br \
+/></div><div>{{c1::&gt; 300 mg/dL}}</div>"""
+extra = ""
+tags = 'Brosencephalon Psychiatry::Pathology::unsorted-substance-abuse'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1390100994366
+text = """
+{{c1::Fetal Alcohol Syndrome}} is a congenital disorder resulting from alcohol abuse by the mother during \
+gestation.<div><br /></div><div><img src="paste-1644972474794.jpg" /></div>"""
+extra = ""
+tags = 'Brosencephalon Psychiatry::Pathology::unsorted-substance-abuse'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1390101175626
+text = """
+{{c1::Aspiration Pneumonia}} is a respiratory disorder that can occur due to vomiting following alcohol consumption and \
+aspiration of the vomit."""
+extra = ""
+tags = 'Brosencephalon Psychiatry::Pathology::unsorted-substance-abuse'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1390101392124
+text = """
+What is the best lab/enzyme marker that indicates recent alcohol consumption?<div><br /></div><div>{{c1::Gamma \
+Glutamyltransferase (GGT)}}</div>"""
+extra = ""
+tags = 'Brosencephalon Psychiatry::Pathology::unsorted-substance-abuse'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1390101448625
+text = 'The&nbsp;{{c2::wet}} form of Beri-Beri is the one that involves edema and cardiac problems.'
+extra = ""
+tags = 'Brosencephalon Psychiatry::Pathology::unsorted-substance-abuse'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1390101483931
+text = 'The&nbsp;{{c1::dry}} form of Beri-Beri is the form that involves neurological deficits.'
+extra = ""
+tags = 'Brosencephalon Psychiatry::Pathology::unsorted-substance-abuse'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1390101493778
+text = 'What vitamin deficient in Beri-Beri?<div><br /></div><div>{{c1::B1; Thiamine}}</div>'
+extra = ""
+tags = 'Brosencephalon Psychiatry::Pathology::unsorted-substance-abuse'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1390101514643
+text = 'What is the treatment for Beri-Beri?<div><br /></div><div>{{c1::Thiamine (Vit B1)}}</div>'
+extra = ""
+tags = 'Brosencephalon Psychiatry::Pathology::unsorted-substance-abuse'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1390101598420
+text = """
+{{c1::Wernicke-Korsakoff}} Syndrome is a neurological disorder due to bilateral lesion to the mammillary bodies \
+following a Thiamine (B1) deficiency and excessive, consistent alcohol consumption."""
+extra = ""
+tags = 'Brosencephalon Psychiatry::Pathology::unsorted-substance-abuse'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1390101665558
+text = 'What is the treatment for Wernicke-Korsakoff Syndrome?<div><br /></div><div>{{c1::Thiamine BEFORE Glucose}}</div>'
+extra = ""
+tags = 'Brosencephalon Psychiatry::Pathology::unsorted-substance-abuse'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1390101692919
+text = '''What is the key clinical feature of Korsakoff's psychosis?<div><br /></div><div>{{c1::Confabulation}}</div>'''
+extra = ""
+tags = 'Brosencephalon Psychiatry::Pathology::unsorted-substance-abuse'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1390101753315
+text = """
+{{c1::Amnesia}} is a symptom in Korsakoff's psychosis that is caused by hemorrhaging into the mammillary bodies and \
+periaqueductal gray."""
+extra = ""
+tags = 'Brosencephalon Psychiatry::Pathology::unsorted-substance-abuse'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1390101799613
+text = """
+{{c1::Hepatic Encephalopathy}} is a CNS complication of alcohol abuse characterized by confusion, disorientation and \
+asterixis due to acute liver damage and its inability to metabolize ammonia to urea."""
+extra = ""
+tags = 'Brosencephalon Psychiatry::Pathology::unsorted-substance-abuse'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1390101918394
+text = '{{c1::Asterixis}} is a symptom seen in Hepatic Encephalopathy and is characerized as a "flapping tremor" of the hand.'
+extra = ""
+tags = 'Brosencephalon Psychiatry::Pathology::unsorted-substance-abuse'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1390102012216
+text = 'What type of seizures are seen in Alcohol Withdrawal?<div><br /></div><div>{{c1::Tonic-Clonic}}</div>'
+extra = ""
+tags = 'Brosencephalon Psychiatry::Pathology::unsorted-substance-abuse'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1390182109637
+text = """
+What is the MOA of Amphetamine?<div><br /></div><div>{{c1::Increases catecholamine (DA; NE) tone by blocking reuptake \
+and facilitating release}}</div>"""
+extra = ""
+tags = 'Brosencephalon::neurology Brosencephalon::psych Brosencephalon::stimulants Psychiatry::Pharmacology::unsorted'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1390182637621
+text = """
+What is the MOA of Methylphenidate?<div><br /></div><div>{{c1::Increases catecholamine (DA; NE) tone by blocking \
+reuptake and facilitating release}}</div>"""
+extra = ""
+tags = 'Brosencephalon::neurology Brosencephalon::psych Brosencephalon::stimulants Psychiatry::Pharmacology::unsorted'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1390182640345
+text = """
+What is the MOA of Lisdexamfetamine Dismesylate?<div><br /></div><div>{{c1::Increases catecholamine (DA; NE) tone by \
+blocking reuptake and facilitating release}}</div>"""
+extra = ""
+tags = 'Brosencephalon Psychiatry::Pharmacology::unsorted-neurology'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1390182656649
+text = 'What is the clinical use of Amphetamine?<div><br /></div><div>{{c1::Tx of ADHD in adults and children}}</div>'
+extra = ""
+tags = 'Brosencephalon::neurology Brosencephalon::psych Brosencephalon::stimulants Psychiatry::Pharmacology::unsorted'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1390182679312
+text = 'What is the clinical use of Lisdexamfetamine?<div><br /></div><div>{{c1::Tx of ADHD in adults and children}}</div>'
+extra = ""
+tags = 'Brosencephalon Psychiatry::Pharmacology::unsorted-neurology'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1390182692754
+text = """
+What is the clinical use of Methylphenidate?<div><br /></div><div>{{c1::Tx of ADHD in adults and children; some forms of \
+narcolepsy}}</div>"""
+extra = ""
+tags = 'Brosencephalon::neurology Brosencephalon::psych Brosencephalon::stimulants Psychiatry::Pharmacology::unsorted'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1390182705091
+text = 'Abrupt withdrawal of stimulants can lead to&nbsp;{{c1::acute depression}} and possible suicide.'
+extra = ""
+tags = 'Brosencephalon::neurology Brosencephalon::psych Brosencephalon::stimulants Psychiatry::Pharmacology::unsorted'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1390182736679
+text = 'Lisdexamfetamine is a prodrug that is converted into its active form&nbsp;{{c1::Dextroamphetamine}}.'
+extra = ""
+tags = 'Brosencephalon::neurology Brosencephalon::psych Brosencephalon::stimulants Psychiatry::Pharmacology::unsorted'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1390182830507
+text = 'What is the MOA of Bupropion?<div><br /></div><div>{{c1::Increases DA and NE levels by blocking reuptake}}</div>'
+extra = ""
+tags = 'Brosencephalon::neurology Brosencephalon::nonstimulants Brosencephalon::psych Psychiatry::Pharmacology::unsorted'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1390318161055
+text = 'A patient described as "indifferent" may have&nbsp;{{c1::Schizoid}} personality disorder.'
+extra = ""
+tags = 'Brosencephalon Psychiatry::Pathology::unsorted-personality-disorders'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1390318756762
+text = 'A patient decribed as "weird" may have&nbsp;{{c1::Schizotypal}} personality disorder.'
+extra = ""
+tags = 'Brosencephalon Psychiatry::Pathology::unsorted-personality-disorders'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1390318768813
+text = 'A patient described as "submissive" may have&nbsp;{{c1::Dependent}} personality disorder.'
+extra = ""
+tags = 'Brosencephalon Psychiatry::Pathology::unsorted-personality-disorders'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1390318789795
+text = 'A patient described as "melodramatic" may have&nbsp;{{c1::Histrionic}} personality disorder.'
+extra = ""
+tags = 'Brosencephalon Psychiatry::Pathology::unsorted-personality-disorders'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1390318810304
+text = 'A patient described as "anal-retentive" may have&nbsp;{{c1::Obsessive-Compulsive}} personality disorder.'
+extra = ""
+tags = 'Brosencephalon Psychiatry::Pathology::unsorted-personality-disorders'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1390318830111
+text = 'A patient described as "fragile" may have&nbsp;{{c1::Avoidant}} personality disorder.'
+extra = ""
+tags = 'Brosencephalon Psychiatry::Pathology::unsorted-personality-disorders'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1390318847438
+text = 'A patient described as "immoral" may have&nbsp;{{c1::Anti-Social}} personality disorder.'
+extra = '<div><i>i.e. Sociopath</i></div>'
+tags = 'Brosencephalon Psychiatry::Pathology::unsorted-personality-disorders'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1390318867733
+text = 'A patient described as "egotistical" may have&nbsp;{{c1::Narcissistic}} personality disorder.'
+extra = ""
+tags = 'Brosencephalon Psychiatry::Pathology::unsorted-personality-disorders'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1390318888428
+text = 'A patient described as "unstable" may have&nbsp;{{c1::Borderline}} personality disorder.'
+extra = ""
+tags = 'Brosencephalon Psychiatry::Pathology::unsorted-personality-disorders'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1390318914923
+text = 'Cluster&nbsp;{{c1::A}} personality disorders describe patients that are said to be odd and eccentric.'
+extra = ""
+tags = 'Brosencephalon Psychiatry::Pathology::unsorted-personality-disorders'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1390319014066
+text = """
+Cluster&nbsp;{{c1::B}} personality disorder describe patients that are said to be dramatic, emotional, erratic and \
+impulsive."""
+extra = ""
+tags = 'Brosencephalon Psychiatry::Pathology::unsorted-personality-disorders'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1390319033610
+text = 'Cluster&nbsp;{{c1::C}} personality disorders describe patients that are said to be anxious and fearful.'
+extra = ""
+tags = 'Brosencephalon Psychiatry::Pathology::unsorted-personality-disorders'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1390319076284
+text = 'What cluster personality disorder is Paranoid PD?<div><br /></div><div>{{c1::A}}</div>'
+extra = ""
+tags = 'Brosencephalon Psychiatry::Pathology::unsorted-personality-disorders'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1390324222954
+text = 'What cluster personality disorder is Schizoid PD?<div><br /></div><div>{{c1::A}}</div>'
+extra = ""
+tags = 'Brosencephalon Psychiatry::Pathology::unsorted-personality-disorders'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1390324237358
+text = 'What cluster personality disorder is Schizotypal PD?<div><br /></div><div>{{c1::A}}</div>'
+extra = ""
+tags = 'Brosencephalon Psychiatry::Pathology::unsorted-personality-disorders'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1390324246358
+text = 'What cluster personality disorder is Antisocial PD?<div><br /></div><div>{{c1::B}}</div>'
+extra = ""
+tags = 'Brosencephalon Psychiatry::Pathology::unsorted-personality-disorders'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1390324257111
+text = 'What cluster personality disorder is Borderline PD?<div><br /></div><div>{{c1::B}}</div>'
+extra = ""
+tags = 'Brosencephalon Psychiatry::Pathology::unsorted-personality-disorders'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1390324265313
+text = 'What cluster personality disorder is Histrionic PD?<div><br /></div><div>{{c1::B}}</div>'
+extra = ""
+tags = 'Brosencephalon Psychiatry::Pathology::unsorted-personality-disorders'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1390324274335
+text = 'What cluster personality disorder is Narcissistic PD?<div><br /></div><div>{{c1::B}}</div>'
+extra = ""
+tags = 'Brosencephalon Psychiatry::Pathology::unsorted-personality-disorders'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1390324282843
+text = 'What cluster personality disorder is Avoidant PD?<div><br /></div><div>{{c1::C}}</div>'
+extra = ""
+tags = 'Brosencephalon Psychiatry::Pathology::unsorted-personality-disorders'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1390324295823
+text = 'What cluster personality disorder is Dependent PD?<div><br /></div><div>{{c1::C}}</div>'
+extra = ""
+tags = 'Brosencephalon Psychiatry::Pathology::unsorted-personality-disorders'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1390324303549
+text = 'What cluster personality disorder is Obsessive-Compulsive PD (OCPD)?<div><br /></div><div>{{c1::C}}</div>'
+extra = ""
+tags = 'Brosencephalon Psychiatry::Pathology::unsorted-personality-disorders'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1390324322723
+text = '{{c1::Paranoid PD}} is a Type A personality disorder characterized by pervasive distrust and suspiciousness of others.'
+extra = ""
+tags = 'Brosencephalon Psychiatry::Pathology::unsorted-personality-disorders'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1390324406905
+text = """
+{{c1::Schizotypal PD}} is a Type A personality disorder characterized by eccentricity, odd behaviour and discomfort with \
+or reduced capacity for close relationships."""
+extra = ""
+tags = 'Brosencephalon Psychiatry::Pathology::unsorted-personality-disorders'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1390324479020
+text = """
+{{c1::Schizoid PD}} is a Type A personality disorder characterized by pervasive detachment from social relations and a \
+restricted expression of emotion."""
+extra = '<div><i>i.e. indifferent</i></div>'
+tags = 'Brosencephalon Psychiatry::Pathology::unsorted-personality-disorders'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1390324539545
+text = """
+{{c1::Antisocial PD}} is a Type B personality disorder characterized by a disregard for and violation of the rights of \
+others."""
+extra = '<div><i>i.e. Hannibal</i></div>'
+tags = 'Brosencephalon Psychiatry::Pathology::unsorted-personality-disorders'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1390324609102
+text = 'Patients with Antisocial PD must be at least&nbsp;{{c1::18}} years old.'
+extra = ""
+tags = 'Brosencephalon Psychiatry::Pathology::unsorted-personality-disorders'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1390324630954
+text = 'Patients with Antisocial PD have often had a previous diagnosis of&nbsp;{{c1::Conduct Disorder}} before the age of 18.'
+extra = ""
+tags = 'Brosencephalon Psychiatry::Pathology::unsorted-personality-disorders'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1390324657632
+text = """
+{{c1::Borderline PD}} is a Type B personality disorder characterized by instability/polarization in relationships &amp; \
+self-image. They have poor control over impulses."""
+extra = '<div><i>i.e. unstable; very difficult to treat</i></div>'
+tags = 'Brosencephalon Psychiatry::Pathology::unsorted-personality-disorders'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1390324808448
+text = """
+{{c1::Histrionic PD}} is a Type B personality disorder characterized by a pervasive pattern of excessive emotionality \
+and attention-seeking. They are often sexually provocative."""
+extra = ""
+tags = 'Brosencephalon Psychiatry::Pathology::unsorted-personality-disorders'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1390324987640
+text = """
+{{c1::Narcissistic PD}} is a Type B personality disorder characterized by a pervasive pattern of gradiosity, need for \
+admiration and lack of empathy."""
+extra = '<div><i>i.e. DiCaprio in The Wolf of Wall Street</i></div>'
+tags = 'Brosencephalon Psychiatry::Pathology::unsorted-personality-disorders'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1390325159365
+text = """
+{{c1::Avoidant PD}} is a Type C personality disorder characterized by social inhibition, feelings of inadequacy and \
+hypersensitivity to negative evaluation."""
+extra = '<div><i>i.e. fragile</i></div>'
+tags = 'Brosencephalon Psychiatry::Pathology::unsorted-personality-disorders'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1390325231440
+text = """
+{{c1::Dependent PD}} is a Type C personality disorder characterized by the need to be taken care of, submissive/clinging \
+behaviour and fear of separation."""
+extra = '<div><i>High risk of being victimized by cluster B.</i></div>'
+tags = 'Brosencephalon Psychiatry::Pathology::unsorted-personality-disorders'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1390325302580
+text = """
+{{c1::Obsessive-Compulsive PD}} is a Type C personality disorder characterized by a preoccupation with orderliness, \
+perfectionism and mental/interpersonal control at the expense of fleixibility, openness and efficiency."""
+extra = '<div><i>Common in med school and medical professionals.</i></div>'
+tags = 'Brosencephalon Psychiatry::Pathology::unsorted-personality-disorders'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1390608145597
+text = """
+Discrete episodes of symptoms in Major Depressive Disorder must last for at least&nbsp;{{c1::2}} weeks before a dx can \
+be given."""
+extra = '<div><img src="paste-60090887438742.jpg" /></div>'
+tags = 'Brosencephalon Psychiatry::Pathology::unsorted-depression'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1390608218663
+text = '{{c1::Anhedonia}} is defined as a loss of interest or the ability to feel pleasure.'
+extra = ""
+tags = 'Brosencephalon Psychiatry::Pathology::unsorted-depression'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1390608273042
+text = """
+If a patient is experiencing a mixture of sadness and more pleasant emotions, they likely have&nbsp;{{c1::grief}} \
+instead of depression."""
+extra = ""
+tags = 'Brosencephalon Psychiatry::Pathology::unsorted-depression'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1390610364874
+text = 'In depression, anguish and pain is typically continuous rather than in waves or pangs such as in&nbsp;{{c1::grief}}'
+extra = ""
+tags = 'Brosencephalon Psychiatry::Pathology::unsorted-depression'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1390610391960
+text = """
+A grieving patient typically remains hopeful and is consolable whereas a patient with&nbsp;{{c1::depression}} is \
+uniformly gloom and does not respond to consolation."""
+extra = ""
+tags = 'Brosencephalon Psychiatry::Pathology::unsorted-depression'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1390610438104
+text = """
+{{c1::Persistent Depressive Disorder (or Dysthymia)}} is a more chronic and milder form of depression that lasts at \
+least {{c2::2}} years."""
+extra = ""
+tags = 'Brosencephalon Psychiatry::Pathology::unsorted-depression'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1390610905287
+text = 'Which sex is more commonly affected by Major Depression?<div><br /></div><div>{{c1::Females (10-25%)}}</div>'
+extra = '<div><img src="paste-60086592471446.jpg" /></div>'
+tags = 'Brosencephalon Psychiatry::Pathology::unsorted-depression'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1390611336113
+text = """
+{{c1::Men}} are more likely to hide their feelings than women, and hence resort to drinking, irritability and alcoholism \
+as opposed to falling into a Dx of depression."""
+extra = ""
+tags = 'Brosencephalon Psychiatry::Pathology::unsorted-depression'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1390611414888
+text = 'Which sex exhibits a higher risk of <b>suicide attempts</b>&nbsp;in depression?<div><br /></div><div>{{c1::Women}}</div>'
+extra = ""
+tags = 'Brosencephalon Psychiatry::Pathology::unsorted-depression'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1390611455325
+text = 'Which sex exhibits a higher risk of <b>suicide completion</b>&nbsp;in depression?<div><br /></div><div>{{c1::Men}}</div>'
+extra = ""
+tags = 'Brosencephalon Psychiatry::Pathology::unsorted-depression'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1390611468423
+text = '{{c1::Disruptive Mood Dysregulation Disorder}} is a depressive disorder that affects kids 6 to 18 y/o.'
+extra = ""
+tags = 'Brosencephalon Psychiatry::Pathology::unsorted-depression'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1390611559354
+text = """
+{{c1::Disruptive Mood Dysregulation Disorder}} is a depressive disorder that is characterized by temper outbursts that \
+are grossly out of proportion in intensity or duration to the situation or provocation."""
+extra = ""
+tags = 'Brosencephalon Psychiatry::Pathology::unsorted-depression'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1390611607602
+text = """
+{{c1::Premenstrual Dysphoric Disorder}} is a depressive disorder that often follows ovulation and remits within a few \
+days of menses and has a marked impact on functioning."""
+extra = ""
+tags = 'Brosencephalon Psychiatry::Pathology::unsorted-depression'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1390611740394
+text = """
+{{c1::Substance/Drug-Induced Depressive Disorder}} is a depressive disorder that is induced by a drug, substance or \
+medication."""
+extra = ""
+tags = 'Brosencephalon Psychiatry::Pathology::unsorted-depression'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1390611767236
+text = """
+What is the <b>nonpharmacological</b>&nbsp;treatment of depression?<div><br /></div><div>{{c1::Cognitive-Behavioural \
+Therapy}}</div>"""
+extra = ""
+tags = 'Brosencephalon Psychiatry::Pathology::unsorted-depression'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1390613288394
+text = """
+{{c1::Cognitive Restructuring}} is a part of Cognitive Behavioural Therapy (CBT) that involves identification and \
+changing of inaccurate negative thoughts that contribute to the development of depression."""
+extra = ""
+tags = 'Brosencephalon Psychiatry::Pathology::unsorted-depression'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1390613710428
+text = """
+A&nbsp;{{c1::Manic Episode}} is a distinct period of abnormally and persistently elevated, expansive or irritable mood \
+with goal-oriented activity/energy that lasts at least&nbsp;{{c2::<b>1}} week.</b>"""
+extra = """
+<div><i>It is present for most of the day, nearly every day. And must include at least 3 manic symptoms (DIG \
+FAST)</i></div><div><i><img src="paste-59790239727860.jpg" /></i></div>"""
+tags = 'Brosencephalon Psychiatry::Pathology::unsorted-bipolar-disorders'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1390615550388
+text = """
+A&nbsp;{{c1::Hypomanic Episode}} is a distinct period of abnormally and persistently elevated, expansive or irritable \
+mood with goal-oriented activity/energy that lasts at least&nbsp;{{c2::4}} consecutive days."""
+extra = '<div><i>Plus 3 of DIG FAST.</i></div>'
+tags = 'Brosencephalon Psychiatry::Pathology::unsorted-bipolar-disorders'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1390615593128
+text = 'What is the core syndrome of Bipolar I disorder?<div><br /></div><div>{{c1::Manic Episodes}}</div>'
+extra = ""
+tags = 'Brosencephalon Psychiatry::Pathology::unsorted-bipolar-disorders'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1390615613855
+text = 'What is the core syndrome of Bipolar II disorder?<div><br /></div><div>{{c1::Hypomanic Episodes}}</div>'
+extra = ""
+tags = 'Brosencephalon Psychiatry::Pathology::unsorted-bipolar-disorders'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1390615629349
+text = '{{c1::Manic}} Episodes are the core syndrome of Bipolar I disorder.'
+extra = ""
+tags = 'Brosencephalon Psychiatry::Pathology::unsorted-bipolar-disorders'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1390615641227
+text = '{{c1::Hypomanic}} Episodes are the core syndrome of Bipolar II disorder.'
+extra = ""
+tags = 'Brosencephalon Psychiatry::Pathology::unsorted-bipolar-disorders'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1390615653820
+text = """
+{{c1::Hypomanic}} episodes are commonly seen in bipolar disorders but are not severe enough to cause marked impairment \
+in social/occupational functioning or to necessitate hospitalization."""
+extra = ""
+tags = 'Brosencephalon Psychiatry::Pathology::unsorted-bipolar-disorders'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1390615827893
+text = """
+{{c1::Hypomanic}} episodes are commonly seen in bipolar disorders but are not severe enough to involve psychotic \
+features."""
+extra = ""
+tags = 'Brosencephalon Psychiatry::Pathology::unsorted-bipolar-disorders'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1390616203097
+text = """
+{{c1::Cyclothymic Disorder}} is a bipolar disorder where for <b>at least 2 years</b> there is numerous periods with \
+hypomania and numerous periods of depressive symptoms."""
+extra = '<div><i>But they have never met criteria for manic, hypomanic or major depressive episodes.</i></div>'
+tags = 'Brosencephalon Psychiatry::Pathology::unsorted-bipolar-disorders'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1390616796409
+text = """
+{{c1::Interpersonal &amp; Social Rhythm Therapy}} is a form of psychotherapy (non-pharmacological) specifically designed \
+for patients with bipolar disorders."""
+extra = ""
+tags = 'Brosencephalon Psychiatry::Pathology::unsorted-bipolar-disorders'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1390617765411
+text = """
+{{c1::Somatic Symptom}} disorder is a somatoform disorder characterized by one or more symptoms that produce clinically \
+significant levels of distress or impairment for over&nbsp;{{c2::6}} months."""
+extra = '<div><img src="paste-61392262529570.jpg" /></div>'
+tags = 'Brosencephalon Psychiatry::Pathology::unsorted-somatoform-disorders'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1390619825210
+text = """
+{{c2::Brief Somatic Symptom}} disorder is a somatoform disorder where symptoms are present for less \
+than&nbsp;{{c3::<b>6}} months.</b>"""
+extra = ""
+tags = 'Brosencephalon Psychiatry::Pathology::unsorted-somatoform-disorders'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1390619938478
+text = """
+A {{c1::Somatoform Disorder}} is a psychiatric disorder that involves symptoms that cannot be explained by a general \
+medical condition or direct effect of a substance. The symptoms are <b>not falsified</b>."""
+extra = """
+<div><i>Medical complaints are typically in excess of what would be expected</i></div><div><i><img \
+src="paste-61392262529570.jpg" /></i></div>"""
+tags = 'Brosencephalon Psychiatry::Pathology::unsorted-somatoform-disorders'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1390620206909
+text = """
+{{c1::Conversion Disorder}} is a somatoform disorder that involves a sudden loss of sensory or motor function, typically \
+following an acute stressor."""
+extra = '<div><img src="paste-61392262529570.jpg" /></div>'
+tags = 'Brosencephalon Psychiatry::Pathology::unsorted-somatoform-disorders'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1390620702131
+text = """
+{{c1::La Belle Indifference}} is a phenomenon seen in patients with Conversion Disorder where the patient is aware of \
+their symptoms but indifferent towards them."""
+extra = ""
+tags = 'Brosencephalon Psychiatry::Pathology::unsorted-somatoform-disorders'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1390620765950
+text = """
+{{c1::Illness Anxiety Disorder (hypochondriasis)}} is a somatoform disorder defined as a preoccupation with fear of \
+having or acquiring a serious disease for at least&nbsp;{{c2::6}} months."""
+extra = '<div><img src="paste-61392262529570.jpg" /></div>'
+tags = 'Brosencephalon Psychiatry::Pathology::unsorted-somatoform-disorders'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1390621157969
+text = """
+A&nbsp;{{c1::Factitious Disorder}} is a psychiatric disorder defined as <b>intentional</b>&nbsp;falsification of \
+physical or psychological symptoms in order to gain medical attention."""
+extra = '<div><img src="paste-61392262529570.jpg" /></div>'
+tags = 'Brosencephalon Psychiatry::Pathology::unsorted-somatoform-disorders'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1390621257905
+text = """
+{{c1::Malingering}} is defined as a conscious faking of disorders in order to attain a specific secondary gain. It is \
+not a mental disorder."""
+extra = '<div><i>Such as drugs, money, skipping work, etc</i></div><div><i><img src="paste-61396557496866.jpg" /></i></div>'
+tags = 'Brosencephalon Psychiatry::Pathology::unsorted-somatoform-disorders'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1390621334336
+text = """
+{{c1::Munchausen's Syndrome}} is a <b>chronic</b>&nbsp;form of factitious disorder with predominantly physical signs and \
+symptoms."""
+extra = '<div><img src="paste-61392262529570.jpg" /></div>'
+tags = 'Brosencephalon Psychiatry::Pathology::unsorted-somatoform-disorders'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1390621376441
+text = """
+{{c1::Munchausen's Syndrome by proxy}} is a factitious disorder involving harm to a child or elderly person in other to \
+assume a sick role."""
+extra = '<div><img src="paste-61392262529570.jpg" /></div>'
+tags = 'Brosencephalon Psychiatry::Pathology::unsorted-somatoform-disorders'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1390621643695
+text = """
+{{c1::Dissociative Identity Disorder}} is a dissociative disorder defined as the presence of 2 or more distinct \
+identities or personality states with recurrent gaps in recalling events and information."""
+extra = '<div><i>aka Multiple Personality Disorder</i></div>'
+tags = 'Brosencephalon Psychiatry::Pathology::unsorted-dissociative-disorders'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1390622237248
+text = """
+{{c1::Dissociative Identity Disorder}} is a dissociative disorder that is often associated with a history of sexual or \
+physical abuse as a child."""
+extra = ""
+tags = 'Brosencephalon Psychiatry::Pathology::unsorted-dissociative-disorders'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1390622782868
+text = """
+{{c1::Dissociative Amnesia}} is a dissociative disorder defined as the inability to recall important information usually \
+of a traumatic nature that is not consistent with ordinary forgetting."""
+extra = '<div><i>May be accompanied by dissociative fugue.</i></div>'
+tags = 'Brosencephalon Psychiatry::Pathology::unsorted-dissociative-disorders'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1390622857232
+text = """
+{{c1::Dissociative Fugue}} is a dissociative disorder characterized by abrupt changes in geographical location with no \
+memory of the past and confusion."""
+extra = '<div><i>Often involves the assumption of a new identity.</i></div>'
+tags = 'Brosencephalon Psychiatry::Pathology::unsorted-dissociative-disorders'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1390622931086
+text = """
+{{c1::Depersonalization Disorder}} is a dissociative disorder is characterized by experiences of unreality or being \
+detached from one's thoughts, feelings, sensations or actions."""
+extra = '<div><i>i.e. feeling like an outside observer</i></div>'
+tags = 'Brosencephalon Psychiatry::Pathology::unsorted-dissociative-disorders'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1390665198419
+text = """
+In depression, genetics and adverse life events contribute towards stress that increases the levels of the \
+hormone&nbsp;{{c1::CRF; Corticotropin Releasing Factor}}, thereby increasing glucocorticoid levels downstream."""
+extra = '<div><i>Thereby leading to downstream biological and behavioural effects</i></div>'
+tags = 'Brosencephalon Psychiatry::Pathology::unsorted-depression'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1390665407553
+text = """
+In depression, stress leads to an increase in glucocorticoid levels that then lead to a decrease in the growth factor \
+{{c1::BDNF}}, thereby leading to neuronal atrophy."""
+extra = ""
+tags = 'Brosencephalon Psychiatry::Pathology::unsorted-depression'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1390665511245
+text = """
+The entire basis of antidepressant therapy is their ability to increase levels of the growth factor&nbsp;{{c1::BDNF}} \
+through 5-HT and NE mediated depression of glucocorticoid levels."""
+extra = ""
+tags = 'Brosencephalon Psychiatry::Pathology::unsorted-depression'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1390665568077
+text = """
+In depression there is a reduction of gray matter around the brain, especially at the&nbsp;{{c1::Anterior Cingulate \
+Cortex (ACC)}}, the area that assesses emotional and motivational information."""
+extra = ""
+tags = 'Brosencephalon Psychiatry::Pathology::unsorted-depression'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1390666532831
+text = """
+Inflammation has a major role in depression. Elevated levels of IL1, TNF-alpha and IL-6 interfere with hippocampal \
+plasticity and reduce levels of the growth factor&nbsp;{{c1::BDNF}}"""
+extra = ""
+tags = 'Brosencephalon Psychiatry::Pathology::unsorted-depression'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1390666598813
+text = """
+{{c1::Interferon-alpha}} is an anti-viral drug often given for Hepatitis which greatly increases the levels of TNF-alpha \
+and IL-6, making depression a common side effect."""
+extra = ""
+tags = 'Brosencephalon Psychiatry::Pathology::unsorted-depression'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1390666655294
+text = """
+The monoamines 5-HT and NE have downstream effects at postsynaptic neurons that increase CREB levels and ultimately the \
+expression of the growth factor&nbsp;{{c1::BDNF}}. Hence, they are used in depression."""
+extra = ""
+tags = 'Brosencephalon Psychiatry::Pathology::unsorted-depression'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1390666772378
+text = '''{{c1::St. John's Wort}} is an over-the-counter herbal remedy with SSRI function.'''
+extra = ""
+tags = 'Brosencephalon::depression Brosencephalon::psych Psychiatry::Pharmacology::unsorted'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1390667256716
+text = 'Which isoform of MAO mainly breaks down 5-HT, NE, Epi and Melatonin?<div><br /></div><div>{{c1::MAO-A}}</div>'
+extra = ""
+tags = 'Brosencephalon::depression Brosencephalon::psych Psychiatry::Pharmacology::unsorted'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1390667438458
+text = 'Which isoform of MAO mainly breaks down Phenethylamine and trace amines?<div><br /></div><div>{{c1::MAO-B}}</div>'
+extra = ""
+tags = 'Brosencephalon::depression Brosencephalon::psych Psychiatry::Pharmacology::unsorted'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1390667456485
+text = '{{c1::Dopamine}} and&nbsp;{{c2::Tyramine}} are broken down equally by both isoforms of MAO.'
+extra = ""
+tags = 'Brosencephalon Psychiatry::Pharmacology::unsorted-depression'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1390667476865
+text = 'Where is MAO-A typically found aside from the CNS?<div><br /></div><div>{{c1::Liver, GI tract, placenta}}</div>'
+extra = ""
+tags = 'Brosencephalon Psychiatry::Pharmacology::unsorted-depression'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1390667518570
+text = 'Where is MAO-B typically found aside from the CNS?<div><br /></div><div>{{c1::Blood platelets}}</div>'
+extra = ""
+tags = 'Brosencephalon Psychiatry::Pharmacology::unsorted-depression'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1390667531380
+text = """
+{{c1::Tyramine}} is a trace amine found in many foods that is able to cause a mass displacement of NE and downstream \
+Hypertensive Crisis in the presence of a&nbsp;{{c2::<b>non-specific</b>&nbsp;MAO}}&nbsp;inhibitor."""
+extra = ""
+tags = 'Brosencephalon::depression Brosencephalon::psych Psychiatry::Pharmacology::unsorted'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1390668287065
+text = """
+Depression may be able to raise the number of auto-receptors on presynaptic 5-HT neurons, making them resistant \
+to&nbsp;{{c1::SSRIs}} as treatment."""
+extra = '<div><i>Such patients would require a combination of anti-depressants.</i></div>'
+tags = 'Brosencephalon Psychiatry::Pharmacology::unsorted-depression'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1390668327797
+text = """
+All efficacious antidepressants have been found to increase the levels of&nbsp;{{c1::BDNF}} in the hippocampus and \
+thereby increase neuroplasticity."""
+extra = ""
+tags = 'Brosencephalon::depression Brosencephalon::psych Psychiatry::Pharmacology::unsorted'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1390668407713
+text = """
+{{c1::Ketamine}} is an NMDA receptor antagonist that is sometimes used for rapid reversal of depressive symptoms through \
+a release of BDNF."""
+extra = ""
+tags = 'Brosencephalon::depression Brosencephalon::psych Psychiatry::Pharmacology::unsorted'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1390669722225
+text = 'What class of anti-depressant is Imipramine?<div><br /></div><div>{{c1::TCA}}</div>'
+extra = ""
+tags = 'Brosencephalon::depression Brosencephalon::psych Psychiatry::Pharmacology::unsorted'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1390671627354
+text = 'What class of anti-depressant is Amitriptyline?<div><br /></div><div>{{c1::TCA}}</div>'
+extra = ""
+tags = 'Brosencephalon::depression Brosencephalon::psych Psychiatry::Pharmacology::unsorted'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1390671639268
+text = 'What class of anti-depressant is Clomipramine?<div><br /></div><div>{{c1::TCA}}</div>'
+extra = ""
+tags = 'Brosencephalon::depression Brosencephalon::psych Psychiatry::Pharmacology::unsorted'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1390671645999
+text = 'What class of anti-depressant is Phenelzine?<div><br /></div><div>{{c1::Non-selective MAOI}}</div>'
+extra = '<br /><div><img src="paste-7709466296401.jpg" /></div>'
+tags = 'Brosencephalon::depression Brosencephalon::psych Psychiatry::Pharmacology::unsorted'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1390671661331
+text = 'What class of anti-depressant is Selegiline?<div><br /></div><div>{{c1::Selective MAO-B Inhibitor}}</div>'
+extra = '<br /><div><img src="paste-7705171329105.jpg" /></div>'
+tags = 'Brosencephalon::depression Brosencephalon::psych Psychiatry::Pharmacology::unsorted'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1390671671241
+text = 'What class of anti-depressant is Fluoxetine?<div><br /></div><div>{{c1::SSRI}}</div>'
+extra = ""
+tags = 'Brosencephalon::depression Brosencephalon::psych Psychiatry::Pharmacology::unsorted'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1390671677794
+text = 'What class of anti-depressant is Paroxetine?<div><br /></div><div>{{c1::SSRI}}</div>'
+extra = ""
+tags = 'Brosencephalon::depression Brosencephalon::psych Psychiatry::Pharmacology::unsorted'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1390671683636
+text = 'What class of anti-depressant is Escitalopram?<div><br /></div><div>{{c1::SSRI}}</div>'
+extra = ""
+tags = 'Brosencephalon::depression Brosencephalon::psych Psychiatry::Pharmacology::unsorted'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1390671694045
+text = 'What class of anti-depressant is Citalopram?<div><br /></div><div>{{c1::SSRI}}</div>'
+extra = ""
+tags = 'Brosencephalon::depression Brosencephalon::psych Psychiatry::Pharmacology::unsorted'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1390671702625
+text = 'What class of anti-depressant is Sertraline?<div><br /></div><div>{{c1::SSRI}}</div>'
+extra = ""
+tags = 'Brosencephalon::depression Brosencephalon::psych Psychiatry::Pharmacology::unsorted'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1390671709755
+text = 'What class of anti-depressant is Duloxetine?<div><br /></div><div>{{c1::SNRI}}</div>'
+extra = ""
+tags = 'Brosencephalon::depression Brosencephalon::psych Psychiatry::Pharmacology::unsorted'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1390671719414
+text = 'What class of anti-depressant is Venlafaxine?<div><br /></div><div>{{c1::SNRI}}</div>'
+extra = ""
+tags = 'Brosencephalon::depression Brosencephalon::psych Psychiatry::Pharmacology::unsorted'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1390671726272
+text = 'What class of anti-depressant is Desvenlafaxine?<div><br /></div><div>{{c1::SNRI}}</div>'
+extra = ""
+tags = 'Brosencephalon::depression Brosencephalon::psych Psychiatry::Pharmacology::unsorted'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1390671736830
+text = """
+Which 2 classes of Anti-depressants make up the 1st generation antidepressants?<div><br /></div><div>{{c1::TCAs and \
+MAOIs}}</div>"""
+extra = ""
+tags = 'Brosencephalon::depression Brosencephalon::psych Psychiatry::Pharmacology::unsorted'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1390671769296
+text = 'What is the MOA of Tricyclic Antidepressants?<div><br /></div><div>{{c1::Inhibition of 5-HT and NE reuptake}}</div>'
+extra = '<div><br /></div><img src="paste-6970731922197.jpg" />'
+tags = 'Brosencephalon::depression Brosencephalon::psych Psychiatry::Pharmacology::unsorted'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1390671902488
+text = '{{c1::Imipramine}} is a TCA that yields a balance between 5-HT and NE.'
+extra = ""
+tags = 'Brosencephalon::depression Brosencephalon::psych Psychiatry::Pharmacology::unsorted'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1390671956732
+text = '{{c1::Amitriptyline}} is a TCA that slightly favours 5-HT reuptake over NE.'
+extra = ""
+tags = 'Brosencephalon::depression Brosencephalon::psych Psychiatry::Pharmacology::unsorted'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1390671984926
+text = '{{c1::Clomipramine}} is a TCA that <b>greatly</b>&nbsp;favours 5-HT reuptake over NE.'
+extra = ""
+tags = 'Brosencephalon::depression Brosencephalon::psych Psychiatry::Pharmacology::unsorted'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1390672008495
+text = """
+{{c1::Imipramine}} is a TCA that is also useful in Noctural Enuresis due to its ability to decrease slow wave sleep in \
+Phase IV of sleep."""
+extra = ""
+tags = 'Brosencephalon::depression Brosencephalon::psych Psychiatry::Pharmacology::unsorted'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1390672053469
+text = '{{c1::Amitriptyline}} is a TCA that is also useful in treating neuropathic pain.'
+extra = ""
+tags = 'Brosencephalon::depression Brosencephalon::psych Psychiatry::Pharmacology::unsorted'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1390672069613
+text = '{{c1::Clomipramine}} is a TCA that is useful in the treatment of OCD.'
+extra = ""
+tags = 'Brosencephalon::depression Brosencephalon::psych Psychiatry::Pharmacology::unsorted'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1390672086409
+text = 'TCAs cause drowsiness through the antagonism of&nbsp;{{c1::H1 Histamine}} receptors.'
+extra = ""
+tags = 'Brosencephalon::depression Brosencephalon::psych Psychiatry::Pharmacology::unsorted'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1390672145171
+text = 'TCAs cause postural hypotension through antagonism of&nbsp;{{c1::Alpha1-adrenergic}} receptors.'
+extra = ""
+tags = 'Brosencephalon::depression Brosencephalon::psych Psychiatry::Pharmacology::unsorted'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1390672163938
+text = """
+TCAs cause memory impairments, dry mouth, blurry vision and urinary retention through antagonism \
+of&nbsp;{{c1::muscarinic}} receptors."""
+extra = ""
+tags = 'Brosencephalon::depression Brosencephalon::psych Psychiatry::Pharmacology::unsorted'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1390672198585
+text = """
+Which 5-HT receptors are involved in the sexual dysfunction seen with TCAs?<div><br /></div><div>{{c1::5-HT2A and \
+5-HT3}}</div>"""
+extra = ""
+tags = 'Brosencephalon::depression Brosencephalon::psych Psychiatry::Pharmacology::unsorted'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1390672238744
+text = '{{c1::Tricyclic Antidepressants}} are a class of anti-depressants that have strong interactions with CYP450 enzymes.'
+extra = '<br /><div><img src="paste-7069516169353.jpg" /></div>'
+tags = 'Brosencephalon::depression Brosencephalon::psych Psychiatry::Pharmacology::unsorted'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1390672276500
+text = """
+What is the MOA of Phenelzine?<div><br /></div><div>{{c1::<b>Non-selective</b>&nbsp;inhibition of MAO-A and MAO-B; \
+thereby yielding increased monoamine levels}}</div>"""
+extra = '<br /><div><img src="paste-6970731922197.jpg" /></div>'
+tags = 'Brosencephalon::depression Brosencephalon::psych Psychiatry::Pharmacology::unsorted'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1390672347135
+text = """
+What drugs are used when treat Atypical Depression won't respond to typical first line drugs?<div><br /></div><div>{{c1\
+::Non-selective MAOIs}}</div>"""
+extra = ""
+tags = 'Brosencephalon::depression Brosencephalon::psych Psychiatry::Pharmacology::unsorted'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1390672378615
+text = 'What is the MOA of Selegiline?<div><br /></div><div>{{c1::Selective, irreversible inhibition of MAO-B only}}</div>'
+extra = '<br /><div><img src="paste-6970731922197.jpg" /></div>'
+tags = 'Brosencephalon::depression Brosencephalon::psych Psychiatry::Pharmacology::unsorted'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1390672483033
+text = '{{c1::Selegiline}} is an antidepressant that is given as a high-dose transdermal patch to treat depression.'
+extra = ""
+tags = 'Brosencephalon::depression Brosencephalon::psych Psychiatry::Pharmacology::unsorted'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1390672503338
+text = '{{c1::Phenelzine}} is a MAOI that is only given parenterally.'
+extra = ""
+tags = 'Brosencephalon Psychiatry::Pharmacology::unsorted-depression'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1390672522106
+text = '''{{c1::Selegiline}} is a MAOI that can be used in low oral doses in Parkinson's to increase DA levels.'''
+extra = ""
+tags = 'Brosencephalon::depression Brosencephalon::psych Psychiatry::Pharmacology::unsorted'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1390672561795
+text = 'Selegiline does not present with a risk of Hypertensive Crisis as it selectively inhibits&nbsp;{{c1::MAO-B}} only.'
+extra = ""
+tags = 'Brosencephalon::depression Brosencephalon::psych Psychiatry::Pharmacology::unsorted'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1390672615501
+text = '{{c1::Fluoxetine}} and {{c2::Paroxetine}} are 2 SSRIs that are CYP450 enzyme inhibitors.'
+extra = ""
+tags = 'Brosencephalon Psychiatry::Pharmacology::unsorted-depression'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1390672668965
+text = """
+What is the MOA of SSRIs?<div><br /></div><div>{{c1::Selective inhibition of 5-HT reuptake, thereby leading to increased \
+5-HT, downregulation of 5-HT autoreceptors and eventual increase in presynaptic 5-HT production}}</div>"""
+extra = '<br /><div><img src="paste-6970731922197.jpg" /></div>'
+tags = 'Brosencephalon::depression Brosencephalon::psych Psychiatry::Pharmacology::unsorted'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1390672717683
+text = 'What is the 1st line drug in Mild, Moderate or Severe Depression?<div><br /></div><div>{{c1::SSRIs}}</div>'
+extra = ""
+tags = 'Brosencephalon::depression Brosencephalon::psych Psychiatry::Pharmacology::unsorted'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1390672735865
+text = 'What is the DOC for Bulimia?<div><br /></div><div>{{c1::SSRIs}}</div>'
+extra = ""
+tags = 'Brosencephalon::depression Brosencephalon::psych Psychiatry::Pharmacology::unsorted'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1390672743722
+text = 'What is the drug of choice for General Anxiety Disorder?<div><br /></div><div>{{c1::SSRIs}}</div>'
+extra = ""
+tags = 'Brosencephalon::depression Brosencephalon::psych Psychiatry::Pharmacology::unsorted'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1390672764041
+text = 'SSRIs can cause nausea through&nbsp;{{c1::5-HT3}} receptors.'
+extra = ""
+tags = 'Brosencephalon::depression Brosencephalon::psych Psychiatry::Pharmacology::unsorted'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1390672817839
+text = 'What is Bruxism?<div><br /></div><div>{{c1::Teeth grinding; often seen with elevated 5-HT levels}}</div>'
+extra = ""
+tags = 'Brosencephalon::depression Brosencephalon::psych Psychiatry::Pharmacology::unsorted'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1390672835914
+text = 'SSRIs can cause anorgasmia through&nbsp;{{c1::5-HT2A}} receptors.'
+extra = '<br /><div><i>This is an off-label use for SSRIs in men with early ejaculation or hypersensitivity.</i></div>'
+tags = 'Brosencephalon::depression Brosencephalon::psych Psychiatry::Pharmacology::unsorted'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1390672880885
+text = 'What is the pregnancy category of SSRIs?<div><br /></div><div>{{c1::C - possible risk}}</div>'
+extra = ""
+tags = 'Brosencephalon::depression Brosencephalon::psych Psychiatry::Pharmacology::unsorted'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1390672898138
+text = """
+SSRIs are often given initially with the benzodiazepine&nbsp;{{c1::Alprazolam}} to allow the SSRI to take effect. The \
+benzo mitigates depression in the first few weeks."""
+extra = ""
+tags = 'Brosencephalon::depression Brosencephalon::psych Psychiatry::Pharmacology::unsorted'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1390673007853
+text = '{{c1::Paroxetine}} is an SSRI with higher rates of sexual dysfunction.'
+extra = ""
+tags = 'Brosencephalon Psychiatry::Pharmacology::unsorted-depression'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1390677802286
+text = """
+Which 2 SSRIs have favourable efficacy, ADEs <b>and</b>&nbsp;tolerability?<div><br /></div><div>{{c1::Escitalopram and \
+Sertraline}}</div>"""
+extra = ""
+tags = 'Brosencephalon Psychiatry::Pharmacology::unsorted-depression'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1390677879039
+text = 'What is the MOA of Duloxetine?<div><br /></div><div>{{c1::Inhibition of 5-HT and NE reuptake}}</div>'
+extra = '<br /><div><img src="paste-6975026889493.jpg" /></div>'
+tags = 'Brosencephalon::depression Brosencephalon::psych Psychiatry::Pharmacology::unsorted'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1390677955170
+text = '{{c1::Duloxetine}} is an SNRI that has a hepatotoxicity warning.'
+extra = ""
+tags = 'Brosencephalon::depression Brosencephalon::psych Psychiatry::Pharmacology::unsorted'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1390677999928
+text = '{{c1::Venlafaxine}} is an SNRI that is used to treat Hot Flashes in Menopause or Resistant Severe Depression.'
+extra = ""
+tags = 'Brosencephalon Psychiatry::Pharmacology::unsorted-depression'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1390678067856
+text = '{{c1::Venlafaxine}} is an SNRI that has fewer ANS side effects than other SNRIs.'
+extra = ""
+tags = 'Brosencephalon::depression Brosencephalon::psych Psychiatry::Pharmacology::unsorted'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1390678091180
+text = '{{c1::Desvenlafaxine}} is the active metabolity of the SNRI Venlafaxine.'
+extra = ""
+tags = 'Brosencephalon Psychiatry::Pharmacology::unsorted-depression'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1390678115369
+text = '{{c1::Burpropion}} is an atypical antidepressant that inhibits the reuptake of DA and NE only.'
+extra = '<br /><div><i>Hence it can be used with SSRIs as it does not affect 5-HT.</i></div>'
+tags = 'Brosencephalon::depression Brosencephalon::psych Psychiatry::Pharmacology::unsorted'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1390678170878
+text = """
+{{c1::Mirtazapine}} is an atypical antidepressant that acts as an antagonist at pre-synaptic {{c2::alpha2}} adrenergic \
+autoreceptors, thereby increasing NE levels."""
+extra = ""
+tags = 'Brosencephalon::depression Brosencephalon::psych Psychiatry::Pharmacology::unsorted'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1390678301473
+text = """
+{{c1::Mirtazapine}} is an atypical antidepressant that acts as an antagonist at presynaptic&nbsp;{{c2::alpha2}} \
+heteroceptors on Serotoninergic neurons, thereby increasing 5-HT levels."""
+extra = ""
+tags = 'Brosencephalon::depression Brosencephalon::psych Psychiatry::Pharmacology::unsorted'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1390678359579
+text = """
+{{c1::Mirtazapine}} is an atypical antidepressant that can mitigate 5-HT induced nausea via antagonism \
+at&nbsp;{{c2::5-HT3}} receptors."""
+extra = ""
+tags = 'Brosencephalon::depression Brosencephalon::psych Psychiatry::Pharmacology::unsorted'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1390678410927
+text = """
+{{c1::Mirtazapine}} is an atypical antidepressant that can mitigate 5-HT induced anxiety via antagonism at \
+{{c2::5-HT2A}} receptors"""
+extra = ""
+tags = 'Brosencephalon Psychiatry::Pharmacology::unsorted-depression'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1390678482017
+text = """
+{{c1::Mirtazapine}} is an atypical antidepressant that can mitigate 5-HT induced sleep via antagonism \
+at&nbsp;{{c2::5-HT2C}} receptors."""
+extra = ""
+tags = 'Brosencephalon Psychiatry::Pharmacology::unsorted-depression'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1390678518333
+text = """
+{{c1::Mirtazapine}} is an atypical antidepressant that is a second line therapy for depression or a common adjunct drug \
+to other antidepressants."""
+extra = ""
+tags = 'Brosencephalon::depression Brosencephalon::psych Psychiatry::Pharmacology::unsorted'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1390678565765
+text = 'What is the MOA of Trazodone?<div><br /></div><div>{{c1::Weak inhibition of 5-HT reuptake}}</div>'
+extra = '<br /><div><img src="paste-6970731922197.jpg" /></div>'
+tags = 'Brosencephalon::depression Brosencephalon::psych Psychiatry::Pharmacology::unsorted'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1390678614885
+text = '{{c1::Trazodone}} is an atypical antidepressant that is associated with a risk of priapism.'
+extra = '<br /><div><i>Trazo<b>BONE</b> causes <b>boners</b>.</i></div>'
+tags = 'Brosencephalon::depression Brosencephalon::psych Psychiatry::Pharmacology::unsorted'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1390678676472
+text = """
+{{c1::Trazodone}} is an atypical antidepressant that is actually used more commonly for insomnia. It is not preferred \
+for depression."""
+extra = ""
+tags = 'Brosencephalon::depression Brosencephalon::psych Psychiatry::Pharmacology::unsorted'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1390762282537
+text = """
+{{c1::Delirium}} is a psychiatric disorder defined as a <b>transient</b> disorder of cognition, <b>arousal and \
+attention</b> with disturbances of the sleep-wake cycle and psychomotor behaviour."""
+extra = ""
+tags = 'Brosencephalon Psychiatry::Pathology::unsorted-confusional-states'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1390763147713
+text = 'Confusion or delirium is not a disease but a&nbsp;{{c1::syndrome}} or symptom of another underlying cause.'
+extra = ""
+tags = 'Brosencephalon Psychiatry::Pathology::unsorted-confusional-states'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1390763181023
+text = """
+{{c1::Brief Psychotic Disorder}} is a psychotic disorder defined as a transient (<b>&lt; 1 month</b>), acute psychotic \
+syndrome with <b>no attention problems</b>&nbsp;and a <b>clear sensorium</b>."""
+extra = ""
+tags = 'Brosencephalon Psychiatry::Pathology::unsorted-confusional-states'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1390764020618
+text = """
+{{c1::Delirium}} is a cognitive disorder that is greatly characterized by a disturbance in consciousness with an \
+<b>acute onset</b>."""
+extra = '<div><i>Attention and arousal.</i></div>'
+tags = 'Brosencephalon Psychiatry::Pathology::unsorted-confusional-states'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1390764293858
+text = '''The&nbsp;{{c1::sensorium}} is defined as the sum of an organism's perception.'''
+extra = ""
+tags = 'Brosencephalon Psychiatry::Pathology::unsorted-confusional-states'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1390764367698
+text = """
+Which neurons are most vulnerable to toxic-metabolic disturbances?<div><br /></div><div>{{c1::Reticular Activating \
+System (RAS)}}</div>"""
+extra = '''<div><i>Hence, an acute confusional state can occur following anything taht disturbs the body's homeostasis</i></div>'''
+tags = 'Brosencephalon Psychiatry::Pathology::unsorted-confusional-states'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1390765236962
+text = 'The most common causes of acute confusional states are&nbsp;{{c1::toxic}} or&nbsp;{{c2::metabolic}} in nature.'
+extra = ""
+tags = 'Brosencephalon Psychiatry::Pathology::unsorted-confusional-states'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1390765648209
+text = 'What vitamin is deficient in Wernicke-Korsakoff syndrome?<div><br /></div><div>{{c1::Thiamine (Vit B1)}}</div>'
+extra = ""
+tags = 'Brosencephalon Psychiatry::Pathology::unsorted-confusional-states'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1390768007682
+text = 'What is the cause of Wernicke-Korsakoff Syndrome?<div><br /></div><div>{{c1::Thiamine Deficiency}}</div>'
+extra = ""
+tags = 'Brosencephalon Psychiatry::Pathology::unsorted-confusional-states'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1390768778620
+text = '''What type of amnesia is more commonly seen in Korsakoff's Syndrome?<div><br /></div><div>{{c1::Anterograde}}</div>'''
+extra = '<div><i>Retrograde still seen, just not as often.</i></div>'
+tags = 'Brosencephalon Psychiatry::Pathology::unsorted-confusional-states'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1390768820803
+text = """
+Where is the lesion primarily located in Wernicke-Korsakoff syndrome?<div><br /></div><div>{{c1::Mamillary \
+Bodies}}</div>"""
+extra = ""
+tags = 'Brosencephalon Psychiatry::Pathology::unsorted-confusional-states'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1390769160609
+text = """
+Petechiae can often be seen at the&nbsp;{{c1::Mamillary Bodies}} in Wernicke-Korsakoff Syndrome.<div><br \
+/></div><div><img src="paste-2319282340069.jpg" /></div>"""
+extra = ""
+tags = 'Brosencephalon Psychiatry::Pathology::unsorted-confusional-states'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1390769224139
+text = """
+The petechiae and hemorrhaging at the mamillary bodies in Wernicke-Korsakoff Syndrome often \
+becomes&nbsp;{{c1::hemosiderosis}} as the blood pools/collects.<div><br /></div><div><img src="paste-2362232013029.jpg" \
+/></div>"""
+extra = ""
+tags = 'Brosencephalon Psychiatry::Pathology::unsorted-confusional-states'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1390769263629
+text = """
+What is the classic triad of symptoms seen in Wernicke's Encephalopathy?<div><br /></div><div>{{c1::Confusion, ataxia \
+and ophthalmoplegia}}</div>"""
+extra = ""
+tags = 'Brosencephalon Psychiatry::Pathology::unsorted-confusional-states'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1391385138620
+text = """
+A {{c1::delusion}} is a key feature of psychosis that involves fixed beliefs not amenable to change even in the face of \
+conflicting evidence."""
+extra = ""
+tags = 'Brosencephalon Psychiatry::Pathology::unsorted-psychosis'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1391385202985
+text = 'What is the most common type of delusion?<div><br /></div><div>{{c1::Persucutory}}</div>'
+extra = ""
+tags = 'Brosencephalon Psychiatry::Pathology::unsorted-psychosis'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1391385218807
+text = 'A&nbsp;{{c1::persecutory delusion}} is a type of delusio that involves the belief that one is going to be harmed.'
+extra = ""
+tags = 'Brosencephalon Psychiatry::Pathology::unsorted-psychosis'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1391385260269
+text = """
+A&nbsp;{{c1::referential delusion}} is a delusion that involves the belief that a certain gesture, comment, \
+environmental cue, etc are directed at oneself."""
+extra = ""
+tags = 'Brosencephalon Psychiatry::Pathology::unsorted-psychosis'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1391385294089
+text = 'A&nbsp;{{c1::grandiose delusion}} is a delusion that involves belief that one has exceptional abilities, wealth or fame.'
+extra = ""
+tags = 'Brosencephalon Psychiatry::Pathology::unsorted-psychosis'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1391385321629
+text = """
+A&nbsp;{{c1::Erotomaniac delusion}} is a delusion that involves false belief that another person is in love with \
+oneself."""
+extra = ""
+tags = 'Brosencephalon Psychiatry::Pathology::unsorted-psychosis'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1391385344689
+text = """
+A&nbsp;{{c1::Nihilistic delusion}} is a type of delusion that involves the conviction that a major catastrophe will \
+occur."""
+extra = ""
+tags = 'Brosencephalon Psychiatry::Pathology::unsorted-psychosis'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1391385372338
+text = 'A&nbsp;{{c1::somatic delusion}} is a type of delusion that involves preoccupations with health and organ function.'
+extra = ""
+tags = 'Brosencephalon Psychiatry::Pathology::unsorted-psychosis'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1391385386680
+text = '''A&nbsp;{{c1::jealousy delusion}} is a delusion that involves erroneous beliefs that one's spouse or lover is unfaithful.'''
+extra = ""
+tags = 'Brosencephalon Psychiatry::Pathology::unsorted-psychosis'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1391385415303
+text = """
+{{c1::Bizarre delusions}} are a type of delusion that involves beliefs that are clearly implausible and not \
+understandable to same-culture peers. They do not derive from ordinary life experiences."""
+extra = ""
+tags = 'Brosencephalon Psychiatry::Pathology::unsorted-psychosis'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1391385463621
+text = """
+A {{c1::hallucination}} is a key feature of psychosis that involves perception-like experiences that occur \
+<b>without</b> external stimuli."""
+extra = """
+<div><i>This is different from an <b>illusion</b>, which is a misinterpretation of stimuli that <b>are \
+present</b></i></div>"""
+tags = 'Brosencephalon Psychiatry::Pathology::unsorted-psychosis'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1391385553518
+text = """
+What type of hallucinations are the most common in Schizophrenia and related psychotic disorders?<div><br \
+/></div><div>{{c1::Auditory}}</div>"""
+extra = ""
+tags = 'Brosencephalon Psychiatry::Pathology::unsorted-psychosis'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1391385580117
+text = '{{c1::Hypnagogic}} hallucinations are a type of hallucination that occur <b>while falling asleep</b>.'
+extra = """
+<div><i>Here, REM sleep essentially starts before you even sleep and is rather abnormal.</i></div><div><i>Hypnagogic \
+hallucinations are a staple of <b>narcolepsy</b>.</i></div>"""
+tags = 'Brosencephalon Psychiatry::Pathology::unsorted-psychosis'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1391385617063
+text = '{{c1::Hypnopompic}} hallucinations are a type of hallucination that occur while waking up.'
+extra = """
+<div><i></i></div><div><i>As you awake from REM sleep, some lingering dreaming can manifest as hallucinations as REM \
+"shuts off". This is typically normal.</i></div>"""
+tags = 'Brosencephalon Psychiatry::Pathology::unsorted-psychosis'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1391385753945
+text = """
+{{c1::Disorganized Thinking/Speech}} is a key feature of psychosis that involves derailment, loose associations, \
+tangentiality and incoherence."""
+extra = ""
+tags = 'Brosencephalon Psychiatry::Pathology::unsorted-psychosis'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1391385792137
+text = """
+{{c1::Catatonia}} is a psychological disorder described as a marked decrease in reactivity to the environment, a loss of \
+motor skill or constant hyperactive motor activity."""
+extra = ""
+tags = 'Brosencephalon Psychiatry::Pathology::unsorted-psychosis'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1391385927646
+text = """
+{{c1::Disorganized/Abnormal motor behaviour}} is a key feature of psychosis that involves disorganized or abnormal \
+behaviour and catatonia."""
+extra = ""
+tags = 'Brosencephalon Psychiatry::Pathology::unsorted-psychosis'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1391385996749
+text = '{{c1::Alogia}} is a psychiatric syndrome defined as poverty of speech and dimished speech output.'
+extra = ""
+tags = 'Brosencephalon Psychiatry::Pathology::unsorted-psychosis'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1391386033345
+text = """
+{{c1::Delusional Disorder}} is a psychotic disorder that involves <b>&gt; 1 month</b> of delusions but no other \
+psychotic symptoms."""
+extra = '''<div><i>e.g. me thinking that I am actually married to Olivia Wilde, when i'm not.</i></div>'''
+tags = 'Brosencephalon Psychiatry::Pathology::unsorted-psychosis'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1391386083540
+text = """
+{{c1::Schizophreniform Disorder}} is a time-limited psychotic disorder that involved symptomatic presentation equivalent \
+to schizophrenia but for less than&nbsp;{{c2::<u><b>6}} months</b></u> and with an absence of declining function."""
+extra = '<div><img src="paste-61942018343281.jpg" /></div>'
+tags = 'Brosencephalon Psychiatry::Pathology::unsorted-psychosis'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1391386152774
+text = """
+How long must symptoms be present for a diagnosis of Schizophrenia to be given?<div><br /></div><div>{{c1::6 \
+months}}</div>"""
+extra = ""
+tags = 'Brosencephalon Psychiatry::Pathology::unsorted-psychosis'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1391386209896
+text = """
+{{c1::Schizoaffective}} disorder is a time-dependent psychotic disorder that involves active-phase symptoms of \
+schizophrenia occuring together with a mood episode followed/preceded by <b>at least 2 weeks</b> of \
+delusions/hallucinations without prominent mood symptoms."""
+extra = '<div><img src="paste-61946313310577.jpg" /></div>'
+tags = 'Brosencephalon Psychiatry::Pathology::unsorted-psychosis'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1391386889244
+text = '{{c1::Drug-induced Psychotic Disorder}} is a psychotic disorder brought upon by drug use.'
+extra = ""
+tags = 'Brosencephalon Psychiatry::Pathology::unsorted-psychosis'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1391387422304
+text = """
+Which Dopamine pathway of the brain is associated with the positive symptoms of Schizophrenia (hallucinations, \
+delusions)?<div><br /></div><div>{{c1::Mesolimbic}}</div>"""
+extra = ""
+tags = 'Brosencephalon Psychiatry::Pathology::unsorted-psychosis'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1391387467670
+text = """
+Which Dopamine pathway of the brain is associated with the negative symptoms of Schizophrenia?<div><br \
+/></div><div>{{c1::Mesocortical (to the Dorsolateral PFC)}}</div>"""
+extra = ""
+tags = 'Brosencephalon Psychiatry::Pathology::unsorted-psychosis'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1391387493361
+text = """
+Schizophrenia is thought to be due to an increase in the neurotransmitter&nbsp;{{c1::Dopamine}} in the mesolimbic areas \
+due to hypoactive NMDA receptors."""
+extra = '<div><i>NMDA receptors would normally put a break on dopamine release and action.</i></div>'
+tags = 'Brosencephalon Psychiatry::Pathology::unsorted-psychosis'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1391387736856
+text = """
+Schizophrenia is thought to be associated with a loss of the neurotransmitter {{c1::dopamine}} in the prefrontal cortex \
+and other cortical areas."""
+extra = '<div><i>Remember, there is an increase in dopamine in the mesolimbic area.</i></div>'
+tags = 'Brosencephalon Psychiatry::Pathology::unsorted-psychosis'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1391387811592
+text = """
+The decrease in dopamine at the prefrontal cortex in Schizophrenia is thought to be due to a Val for {{c2::Met}} \
+substitution in the {{c1::COMT}} gene."""
+extra = ""
+tags = 'Brosencephalon Psychiatry::Pathology::unsorted-psychosis'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1391387964688
+text = """
+In Schizophrenia, a Val for Met substitution of the COMT gene results in increased COMT activity and hence increased \
+metabolism of&nbsp;{{c1::Dopamine}} at the prefrontal cortex."""
+extra = ""
+tags = 'Brosencephalon Psychiatry::Pathology::unsorted-psychosis'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1391388008760
+text = """
+Which genetic polymoprhism is associated with an increased occurrence and risk for Schizophrenia?<div><br \
+/></div><div>{{c1::Val for Met substitution in the COMT gene}}</div>"""
+extra = ""
+tags = 'Brosencephalon Psychiatry::Pathology::unsorted-psychosis'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1391388450535
+text = 'Blockade of {{c1::D2}} receptors at the mesolimbic pathway in Schizophrenia blocks the positive symptoms from occurring.'
+extra = ""
+tags = 'Brosencephalon::antipsychotics Brosencephalon::psych Psychiatry::Pharmacology::unsorted'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1391389680857
+text = """
+Blockade of&nbsp;{{c1::D2}} receptors in the Nigrostriatal pathway is an adverse effect of Schizophrenia treatment and \
+may result in abnormal movement and <b>tardive dyskinesia</b> with chronic administration of the drug."""
+extra = ""
+tags = 'Brosencephalon::antipsychotics Brosencephalon::psych Psychiatry::Pharmacology::unsorted'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1391389740262
+text = """
+Blockade of&nbsp;{{c1::D2}} receptors at the mesocortical pathway in Schizophrenia confounds the negative symptoms of \
+Schizophrenia as the mesocortical pathway is hypoactive to begin with."""
+extra = '<br /><div><i>Remember, the mesocortical pathway extends to the prefrontal cortex.</i></div>'
+tags = 'Brosencephalon::antipsychotics Brosencephalon::psych Psychiatry::Pharmacology::unsorted'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1391389852419
+text = """
+Blockade of the&nbsp;{{c1::D2}} receptors in the tuberinfundibular dopamine pathway in Schizophrenia can cause adverse \
+effects such as hyperprolactinemia, galactorrhea and amenorrhea."""
+extra = ""
+tags = 'Brosencephalon::antipsychotics Brosencephalon::psych Psychiatry::Pharmacology::unsorted'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1391389902454
+text = """
+{{c1::Neuroleptic Malignant Syndrome}} is a life threatening disorder caused by adverse reactions to neuroleptics or \
+antipsychotics. It involves high fever, unstable BP, autonomic dysfunction and muscle rigidity."""
+extra = '<br /><div><img src="paste-5480378269864.jpg" /><img src="paste-5501853106427 (1).jpg" /></div>'
+tags = 'Brosencephalon::antipsychotics Brosencephalon::psych Psychiatry::Pharmacology::unsorted'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1391389999544
+text = 'What is the treatment for Malignant Hyperthermia??<div><br /></div><div>{{c1::Dantrolene}}</div>'
+extra = ""
+tags = 'Brosencephalon Psychiatry::Pharmacology::unsorted-antipsychotics'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1391390021170
+text = """
+Which adverse effects are commonly associated with the <b>typical</b>&nbsp;antipsychotics?<div><br \
+/></div><div>{{c1::EPS and <b>Tardive Dyskinesia</b>}}</div>"""
+extra = '<br /><div><img src="paste-5544802779443.jpg" /></div>'
+tags = 'Brosencephalon::antipsychotics Brosencephalon::psych Psychiatry::Pharmacology::unsorted'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1391390075952
+text = """
+Which adverse effects are commonly associated with the <b>typical</b>&nbsp;antipsychotics?<div><br \
+/></div><div>{{c1::Neuroleptic Malignant Syndrome}}</div>"""
+extra = ""
+tags = 'Brosencephalon Psychiatry::Pharmacology::unsorted-antipsychotics'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1391390094850
+text = """
+The binding of Serotonin to&nbsp;{{c1::5HT2A}} post-synaptic receptors on presynaptic dopamine neurons acts as a brake \
+on dopamine neurons."""
+extra = '<div><i><br /></i></div>'
+tags = 'Brosencephalon::antipsychotics Brosencephalon::psych Psychiatry::Pharmacology::unsorted'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1391390577370
+text = """
+Antagonism of&nbsp;{{c1::5HT2A}} post-synaptic receptors on presynaptic dopamine neurons in Schizophrenia results in \
+dopamine release in the <b>nigrostriatal</b>&nbsp;and <b>mesocortical</b>&nbsp;regions."""
+extra = '<br /><div><i>Thereby, decreasing EPS and negative symptoms.</i></div>'
+tags = 'Brosencephalon::antipsychotics Brosencephalon::psych Psychiatry::Pharmacology::unsorted'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1391390648277
+text = """
+Serotonin agonism at&nbsp;{{c1::5HT1A}} autoreceptors acts as an accelerator on dopamine release by reducing the amount \
+of 5-HT in the synaptic cleft (i.e. disinhibition of DA neurons due to less 5-HT2A post-synaptic receptor activation)."""
+extra = ""
+tags = 'Brosencephalon::antipsychotics Brosencephalon::psych Psychiatry::Pharmacology::unsorted'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1391391183083
+text = 'What generation of antipsychotics are Typical antipsychotics?<div><br /></div><div>{{c1::1st}}</div>'
+extra = ""
+tags = 'Brosencephalon::antipsychotics Brosencephalon::psych Psychiatry::Pharmacology::unsorted'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1391392439540
+text = 'What generation of antipsychotics are Atypical Antipsychotics?<div><br /></div><div>{{c1::2nd}}</div>'
+extra = ""
+tags = 'Brosencephalon::antipsychotics Brosencephalon::psych Psychiatry::Pharmacology::unsorted'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1391392452918
+text = 'What is the main MOA for all Typical Antipsychotics?<div><br /></div><div>{{c1::Antagonism at D2 receptors}}</div>'
+extra = ""
+tags = 'Brosencephalon::antipsychotics Brosencephalon::psych Psychiatry::Pharmacology::unsorted'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1391392502972
+text = 'What kind of antipsychotic is Chlorpromazine?<div><br /></div><div>{{c1::Typical}}</div>'
+extra = ""
+tags = 'Brosencephalon::antipsychotics Brosencephalon::psych Psychiatry::Pharmacology::unsorted'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1391392523223
+text = 'What kind of antipsychotic is&nbsp;Fluphenazine?<div><br /></div><div>{{c1::Typical}}</div>'
+extra = ""
+tags = 'Brosencephalon::antipsychotics Brosencephalon::psych Psychiatry::Pharmacology::unsorted'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1391392530682
+text = 'What kind of antipsychotic is&nbsp;Perphenazine?<div><br /></div><div>{{c1::Typical}}</div>'
+extra = ""
+tags = 'Brosencephalon Psychiatry::Pharmacology::unsorted-antipsychotics'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1391392536613
+text = 'What kind of antipsychotic is&nbsp;Thioridazine?<div><br /></div><div>{{c1::Typical}}</div>'
+extra = ""
+tags = 'Brosencephalon::antipsychotics Brosencephalon::psych Psychiatry::Pharmacology::unsorted'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1391392545506
+text = 'What kind of antipsychotic is&nbsp;Haloperidol?<div><br /></div><div>{{c1::Typical}}</div>'
+extra = ""
+tags = 'Brosencephalon::antipsychotics Brosencephalon::psych Psychiatry::Pharmacology::unsorted'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1391392552573
+text = """
+What is the drug of choice to treat the positive symptoms of Psychosis &amp; Schizophrenia?<div><br \
+/></div><div>{{c1::Typical Antipsychotics}}</div>"""
+extra = ""
+tags = 'Brosencephalon::antipsychotics Brosencephalon::psych Psychiatry::Pharmacology::unsorted'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1391392598701
+text = '''What is the drug of choice in Tourette's Syndrome?<div><br /></div><div>{{c1::Typical antipsychotics}}</div>'''
+extra = ""
+tags = 'Brosencephalon::antipsychotics Brosencephalon::psych Psychiatry::Pharmacology::unsorted'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1391392612353
+text = """
+What is the secondary MOA of antipsychotics that yields many of the adverse effects seen?<div><br \
+/></div><div>{{c1::Antagonism of M3, Histamine H1 and Alpha-1 Adrenergic receptors}}</div>"""
+extra = '<br /><div><i>i.e. H.A.M. effects</i></div>'
+tags = 'Brosencephalon::antipsychotics Brosencephalon::psych Psychiatry::Pharmacology::unsorted'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1391392710557
+text = 'What kind of antipsychotic is&nbsp;Clozapine?<div><br /></div><div>{{c1::Atypical}}</div>'
+extra = '<br /><div><img src="paste-5600637354068.jpg" /></div>'
+tags = 'Brosencephalon::antipsychotics Brosencephalon::psych Psychiatry::Pharmacology::unsorted'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1391392731508
+text = 'What kind of antipsychotic is&nbsp;Olanzapine?<div><br /></div><div>{{c1::Atypical}}</div>'
+extra = '<br /><div><img src="paste-5600637354068.jpg" /></div>'
+tags = 'Brosencephalon::antipsychotics Brosencephalon::psych Psychiatry::Pharmacology::unsorted'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1391392736846
+text = 'What kind of antipsychotic is&nbsp;Quetiapine?<div><br /></div><div>{{c1::Atypical}}</div>'
+extra = '<br /><div><img src="paste-5600637354068.jpg" /></div>'
+tags = 'Brosencephalon::antipsychotics Brosencephalon::psych Psychiatry::Pharmacology::unsorted'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1391392755317
+text = 'What kind of antipsychotic is&nbsp;Risperidone?<div><br /></div><div>{{c1::Atypical}}</div>'
+extra = '<br /><div><img src="paste-5600637354068.jpg" /></div>'
+tags = 'Brosencephalon::antipsychotics Brosencephalon::psych Psychiatry::Pharmacology::unsorted'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1391392763418
+text = 'What kind of antipsychotic is&nbsp;Asenapine?<div><br /></div><div>{{c1::Atypical}}</div>'
+extra = '<br /><div><img src="paste-5600637354068.jpg" /></div>'
+tags = 'Brosencephalon::antipsychotics Brosencephalon::psych Psychiatry::Pharmacology::unsorted'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1391392770052
+text = 'What kind of antipsychotic is&nbsp;Aripiprazole?<div><br /></div><div>{{c1::Atypical}}</div>'
+extra = '<br /><div><img src="paste-5604932321364.jpg" /></div>'
+tags = 'Brosencephalon::antipsychotics Brosencephalon::psych Psychiatry::Pharmacology::unsorted'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1391392782174
+text = """
+What is the MOA of Clozapine?<div><br /></div><div>{{c1::Partial agonism at 5HT1A receptors; Antagonism at 5HT2A and D2 \
+receptors}}</div>"""
+extra = ""
+tags = 'Brosencephalon Psychiatry::Pharmacology::unsorted-antipsychotics'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1391392948596
+text = 'What is the MOA of Olanzapine?<div><br /></div><div>{{c1::Antagonism at 5HT2A and D2 receptors}}</div>'
+extra = ""
+tags = 'Brosencephalon Psychiatry::Pharmacology::unsorted-antipsychotics'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1391392967107
+text = """
+What is the MOA of Quetiapine?<div><br />{{c1::Partial agonism at 5HT1A receptors; Antagonism at 5HT2A and D2 \
+receptors}}</div>"""
+extra = ""
+tags = 'Brosencephalon Psychiatry::Pharmacology::unsorted-antipsychotics'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1391392996386
+text = '{{c1::Quetiapine}} is an atypical antipsychotic that also acts as a NE reuptake inhibitor.'
+extra = ""
+tags = 'Brosencephalon Psychiatry::Pharmacology::unsorted-antipsychotics'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1391393086535
+text = 'What is the MOA of Risperidone?<div><br /></div><div>{{c1::Antagonism at 5HT2A and DA receptors}}</div>'
+extra = ""
+tags = 'Brosencephalon Psychiatry::Pharmacology::unsorted-antipsychotics'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1391393105925
+text = 'What is the MOA of Asenapine?<div><br /></div><div>{{c1::Antagonism at 5HT2A and D2 receptors}}</div>'
+extra = ""
+tags = 'Brosencephalon Psychiatry::Pharmacology::unsorted-antipsychotics'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1391393121746
+text = """
+What is the MOA of Aripiprazole?<div><br /></div><div>{{c1::Partial agonism at 5HT1A and D2 receptors; Antagonism at \
+5HT2A}}</div>"""
+extra = ""
+tags = 'Brosencephalon::antipsychotics Brosencephalon::psych Psychiatry::Pharmacology::unsorted'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1391393148611
+text = '{{c1::Aripiprazole}} is an atypical antipsychotic that is approved for irritability in autism in children aged 6-17.'
+extra = ""
+tags = 'Brosencephalon Psychiatry::Pharmacology::unsorted-antipsychotics'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1391393177789
+text = """
+{{c1::Clozapine}} is an atypical antipsychotic that must be watched very closely due to the high risk of \
+<b>agranulocytosis</b>."""
+extra = """
+<br /><div><i>There must be weekly WBC counts.</i></div><div><i><b>Cloz</b>apine must be watched \
+<b>CLOZE</b>ly.</i></div>"""
+tags = 'Brosencephalon::antipsychotics Brosencephalon::psych Psychiatry::Pharmacology::unsorted'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1391393244043
+text = 'Clozapine can cause&nbsp;{{c1::sedation}} through antagonism of M1, H1 and Alpha-1 adrenergic receptors.'
+extra = ""
+tags = 'Brosencephalon Psychiatry::Pharmacology::unsorted-antipsychotics'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1391393272012
+text = 'Clozapine can cause weight gain through&nbsp;{{c1::H1 and 5-HT2C}} receptor antagonism.'
+extra = ""
+tags = 'Brosencephalon::antipsychotics Brosencephalon::psych Psychiatry::Pharmacology::unsorted'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1391393305198
+text = 'Clozapine can elicit muscarinic side effects through&nbsp;{{c1::M3}} receptors.'
+extra = ""
+tags = 'Brosencephalon::antipsychotics Brosencephalon::psych Psychiatry::Pharmacology::unsorted'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1391393320012
+text = '{{c1::Sialorrhea}} is a side effect of Clozapine that involves hypersalivation.'
+extra = ""
+tags = 'Brosencephalon::antipsychotics Brosencephalon::psych Psychiatry::Pharmacology::unsorted'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1391393409998
+text = '{{c1::Myocarditis}} is a side effect of Clozapine that involves inflammation of the myocardium.'
+extra = ""
+tags = 'Brosencephalon Psychiatry::Pharmacology::unsorted-antipsychotics'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1391393432011
+text = """
+{{c1::Risperidone}} and&nbsp;{{c2::Asenapine}} are atypical antipsychotics that do not have Histamine and Muscarinic \
+binding. They still have Alpha-1 Adrenoceptor binding."""
+extra = ""
+tags = 'Brosencephalon::antipsychotics Brosencephalon::psych Psychiatry::Pharmacology::unsorted'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1391393476744
+text = '{{c1::Aripiprazole}} is an atypical antipsychotic that has the least side effects.'
+extra = ""
+tags = 'Brosencephalon::antipsychotics Brosencephalon::psych Psychiatry::Pharmacology::unsorted'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1391393505498
+text = 'What kind of antipsychotics are used for Acute Mania?<div><br /></div><div>{{c1::Atypical Antipsychotics}}</div>'
+extra = ""
+tags = 'Brosencephalon::psych Psychiatry::Pharmacology::unsorted'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1391393632011
+text = '{{c1::Quetiapine}} is an atypical antipsychotic that is also used for bipolar depression.'
+extra = ""
+tags = 'Brosencephalon::psych Psychiatry::Pharmacology::unsorted'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1391393685518
+text = """
+{{c1::Carbamazepine}} and&nbsp;{{c1::Valproic Acid}} are antiepileptics used in Acute Mania that may induce neuronal \
+plasticity through depleting inositol and enhancing growth factor action."""
+extra = ""
+tags = 'Brosencephalon::psych Psychiatry::Pharmacology::unsorted'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1391393782074
+text = 'What is the pregnancy category of Antiepileptics?<div><br /></div><div>{{c1::C - possible risk}}</div>'
+extra = ""
+tags = 'Brosencephalon::psych Psychiatry::Pharmacology::unsorted'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1391393808964
+text = """
+{{c1::Lamotrigine}} is an antiepileptic that is used in maintenance therapy in Bipolar Disorders and as a 2nd line drug \
+for Bipolar Depression."""
+extra = ""
+tags = 'Brosencephalon Psychiatry::Pathology::unsorted-bipolar-disorders'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1391394284215
+text = """
+What is the MOA of Lithium in the treatment of Acute mania and Bipolar Disorders?<div><br /></div><div>{{c1::Inhibition \
+of Inositol Monophosphatase and the inositol signalling cascade}}</div>"""
+extra = '<br /><div><i>Thereby promoting neuroprotection, long term plasticity and antimanic effects</i></div>'
+tags = 'Brosencephalon::psych Psychiatry::Pharmacology::unsorted'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1391394374071
+text = 'Lithium is not recommended to be taken with&nbsp;{{c1::NSAIDs}} due to their ability to increase Li plasma levels.'
+extra = ""
+tags = 'Brosencephalon::psych Psychiatry::Pharmacology::unsorted'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1391394826442
+text = """
+Lithium is not recommended to be taken with&nbsp;{{c1::Diuretics}} due to their ability to deplete Na and increase Li \
+levels."""
+extra = ""
+tags = 'Brosencephalon::psych Psychiatry::Pharmacology::unsorted'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1391394849694
+text = """
+Lithium is not recommended to be taken with&nbsp;{{c1::ACE Inhibitors}} due to their ability to deplete Na and decrease \
+GFR."""
+extra = ""
+tags = 'Brosencephalon::psych Psychiatry::Pharmacology::unsorted'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1391394877115
+text = '{{c1::Lithium}} is a mood stabilizer used in bipolar disorders that is treated like Na at the proximal tubule.'
+extra = """
+<br /><div><i>Hence it is influenced by GFR and plasma volume changes and requires a patient with good kidney \
+function.</i></div>"""
+tags = 'Brosencephalon::psych Psychiatry::Pharmacology::unsorted'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1405827187068
+text = """
+{{c1::Classical conditioning}} is a type of conditioning where a <b>natural response is elicited by a conditioned or \
+learned stimulus that was presented with an unconditioned stimulus</b>."""
+extra = """
+<div><i><u>e.g. Pavlov's dog.</u></i></div><div><i>Natural response = salivation</i></div><div><i>Conditioned Stimulus = \
+bell</i></div><div><i>Unconditioned stimulus = food</i></div>"""
+tags = 'Brosencephalon Psychiatry::Psychology::classical-conditioning'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1405828425670
+text = """
+Which type of conditioning usually deals with <b>involuntary </b>responses?<div><br /></div><div>{{c1::Classical \
+Conditioning}}</div>"""
+extra = ""
+tags = 'Brosencephalon Psychiatry::Psychology::classical-conditioning'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1405828440359
+text = """
+{{c1::Operant Conditioning}} is a type of conditioning where a <b>particular action is elicited because it produces a \
+punishment or reward</b>."""
+extra = '<div><img src="paste-54503134986454.jpg" /></div>'
+tags = 'Brosencephalon Psychiatry::Psychology::operant-conditioning'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1405828472197
+text = """
+Which type of conditioning deals with <b>voluntary </b>responses?<div><br /></div><div>{{c1::Operant \
+Conditioning}}</div>"""
+extra = ""
+tags = 'Brosencephalon Psychiatry::Psychology::operant-conditioning'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1405828486414
+text = """
+{{c1::Transference}} is a psychological phemonenon where the <b>patient </b>projects feeling about formative or other \
+important persons onto the physician."""
+extra = '<div><i>e.g. the physician is seen as a parent.</i></div>'
+tags = 'Brosencephalon Psychiatry::Psychology::transference-and-countertransference'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1405828647046
+text = """
+{{c1::Countertransference}} is a psychological phenomenon where the <b>physician</b>&nbsp;projects feelings about \
+formative or other important persons onto the patient."""
+extra = '<div><i>e.g. patient reminds the physician of a younger sibling.</i></div>'
+tags = 'Brosencephalon Psychiatry::Psychology::transference-and-countertransference'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1405828734471
+text = '{{c1::Ego Defenses}} are unconscious mental processes used to resolve conflict and prevent undesirable feelings.'
+extra = ""
+tags = 'Brosencephalon Psychiatry::Psychology::ego-defenses'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1405829389229
+text = """
+{{c1::Acting out}} is an immature ego defense that involves expressing unacceptable feelings and thoughts through \
+actions."""
+extra = '<div><i>e.g. tantrums</i></div>'
+tags = 'Brosencephalon Psychiatry::Psychology::ego-defenses'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1405829572571
+text = """
+{{c1::Dissociation}} is an immature ego defense that involves temporary, drastic change in personality, memory, \
+consciousness or motor behaviour to avoid emotional stress."""
+extra = '<div><i>Extreme forms can result in Dissociative Identity Disorder (multiple personality disorder).</i></div>'
+tags = 'Brosencephalon Psychiatry::Psychology::ego-defenses'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1405829607547
+text = '{{c1::Denial}} is an immature ego defense that involves avoiding the awareness of some painful reality.'
+extra = ""
+tags = 'Brosencephalon Psychiatry::Psychology::ego-defenses'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1405829633902
+text = """
+{{c1::Displacement}} is an immature ego defense that involves transferring avoided ideas and feelings to some <b>neutral \
+person or object</b>."""
+extra = '<div><i>i.e. mother yells at her child because her husband yelled at her</i></div>'
+tags = 'Brosencephalon Psychiatry::Psychology::ego-defenses'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1405829827102
+text = '{{c1::Fixation}} is an immature ego defense that involves partially remaining at a more childish level of development.'
+extra = ""
+tags = 'Brosencephalon Psychiatry::Psychology::ego-defenses'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1405829870338
+text = """
+{{c1::Identification}} is an immature ego defense that involves modeling behaviour after another person who is more \
+powerful (though not necessarily admired)"""
+extra = '<div><i>e.g. abusee indentifying with the abuser</i></div>'
+tags = 'Brosencephalon Psychiatry::Psychology::ego-defenses'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1405829917276
+text = '{{c1::Isolation (of affect)}} is an immature ego defense that involves separating feelings from ideas and events.'
+extra = '<div><i>e.g. described murder is graphic detail with no emotional response</i></div>'
+tags = 'Brosencephalon Psychiatry::Psychology::ego-defenses'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1405829966612
+text = """
+{{c1::Projection}} is an immature ego defense that involves <b>attributing an unacceptable internal impulse to an \
+external source</b>."""
+extra = '<div><i>e.g. a man who wants to be with another woman thinking his wife is cheating on him</i></div>'
+tags = 'Brosencephalon Psychiatry::Psychology::ego-defenses'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1405830030465
+text = """
+{{c1::Rationalization}} is an immature ego defense that involves proclaiming logical reasons for actions that are \
+actually performed for other reasons, usually to avoid self-blame."""
+extra = '''<div><i>e.g. after getting fired, the person claims the job wasn't even important</i></div>'''
+tags = 'Brosencephalon Psychiatry::Psychology::ego-defenses'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1405830075689
+text = """
+{{c1::Reaction formation}} is an immature ego defense that involves replacing a warded-off idea or feeling by an \
+unconsciously derived emphasis on its opposite."""
+extra = ""
+tags = 'Brosencephalon Psychiatry::Psychology::ego-defenses'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1405830120230
+text = """
+{{c1::Regression}} is an immature ego defense that involves <b>turning back</b>&nbsp;of the maturational clock and going \
+back to earlier modes of dealing with the world."""
+extra = '<div><i>e.g. children under stress</i></div>'
+tags = 'Brosencephalon Psychiatry::Psychology::ego-defenses'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1405830175638
+text = """
+{{c1::Repression}} is an immature ego defense that involves<b> involuntary </b>withholding of an idea or feeling from \
+conscious awareness."""
+extra = ""
+tags = 'Brosencephalon Psychiatry::Psychology::ego-defenses'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1405830327441
+text = """
+{{c1::Splitting}} is an immature ego defense that involves the belief that people are either all good or bad at \
+different times due to an intolerance of ambiguity."""
+extra = 'e.g., A patient says that all nurses are cold/insensitive but all doctors are warm/friendly.'
+tags = 'Brosencephalon Psychiatry::Psychology::ego-defenses'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1405830367538
+text = """
+Which ego defense is commonly associated with Borderline Personality Disorder?<div><br \
+/></div><div>{{c1::Splitting}}</div>"""
+extra = '<div><i>e.g. a patient says that all nurses are cold and insensitive but that doctors are warm and friendly</i></div>'
+tags = 'Brosencephalon Psychiatry::Psychology::ego-defenses'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1405830380441
+text = """
+{{c1::Altruism}} is a <b>mature</b>&nbsp;ego defense that involves alleviating of guilty feelings by unsolicited \
+generosity towards others."""
+extra = '<div><i>e.g. mafia boss making a large donation to charity</i></div>'
+tags = 'Brosencephalon Psychiatry::Psychology::ego-defenses'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1405830450866
+text = """
+{{c1::Humour}} is a <b>mature</b>&nbsp;ego defense that involves appreciating the amusing nature of an anxiety-provoking \
+or adverse situation."""
+extra = """
+<div><i>e.g. MS2's making jokes about how much Step 1 is going to destroy them</i></div><div><i></i></div><div><i></i></\
+div><div><i></i></div><div><i></i></div><div><i></i></div><div><i></i></div><div><i>.... i want my life back, \
+pls</i></div>"""
+tags = 'Brosencephalon Psychiatry::Psychology::ego-defenses'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1405830502966
+text = """
+{{c1::Sublimation}} is a <b>mature</b>&nbsp;ego defense that involves replacing of an unacceptable wish with a course of \
+action that is similar to the wish but does not conflict with one's value system."""
+extra = ""
+tags = 'Brosencephalon Psychiatry::Psychology::ego-defenses'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1405830543713
+text = """
+{{c1::Suppression}} is a <b>mature</b>&nbsp;ego defense that involves <b>intentional</b>&nbsp;withholding of an idea or \
+feeling from conscious awareness."""
+extra = """
+<div><i>Versus repression with involves <b>involuntary withdrawal</b>.</i></div><div><i>e.g. choosing not to worry about \
+the Step 1 until test day (LOL YA RIGHT, BRAH)</i></div>"""
+tags = 'Brosencephalon Psychiatry::Psychology::ego-defenses'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1405830620663
+text = 'What is the most common abuser in <b>physical</b>&nbsp;child abuse?<div><br /></div><div>{{c1::Biological mother}}</div>'
+extra = ""
+tags = 'Brosencephalon Psychiatry::Pathology::unsorted'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1405830957882
+text = """
+What is the most common abuser in <b>sexual</b>&nbsp;child abuse?<div><br /></div><div>{{c1::Person known to the victim, \
+usually male}}</div>"""
+extra = ""
+tags = 'Brosencephalon Psychiatry::Pathology::unsorted'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1405830984179
+text = """
+{{c1::Rett Disorder}} is an X<b>-linked</b> pervasive developmental disorder seen almost exclusive in girls that \
+involves <b>regression characterized by loss of development, verbal abilities and congition</b>&nbsp;as well as \
+<b>ataxia </b>and <b>stereotyped hand-wringing</b>."""
+extra = '<div><i>It is not seen in males because they die in utero or shortly after birth.</i></div>'
+tags = 'Brosencephalon Psychiatry::Pathology::unsorted'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1405831176364
+text = 'What is the genetic inheritance of Rett Disorder?<div><br /></div><div>{{c1::X-linked}}</div>'
+extra = ""
+tags = 'Brosencephalon Psychiatry::Pathology::unsorted'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1405831188067
+text = 'Which sex is more commonly affected by Autism Spectrum Disorder?<div><br /></div><div>{{c1::Boys}}</div>'
+extra = ""
+tags = 'Brosencephalon Psychiatry::Pathology::unsorted'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1405831204775
+text = """
+{{c1::Autism Spectrum Disorder}} is a pervasive developmental disorder that involves <b>poor social interactions, \
+communication deficits, repetitive/ritualized behaviours</b>&nbsp;and <b>restricted interests</b>."""
+extra = '<div><i>Rarely accompanied by unusual abilities (savants).</i></div><div><i></i></div>'
+tags = 'Brosencephalon Psychiatry::Pathology::unsorted'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1405831259921
+text = 'What aspect of orientation is lost first?<div><br /></div><div>{{c1::Time --&gt; place --&gt; person}}</div>'
+extra = '<div></div>'
+tags = 'Brosencephalon Psychiatry::Pathology::unsorted'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1405831292513
+text = """
+{{c1::Tactile hallucinations}} is a type of hallucination commonly seen in <b>alcohol withdrawal</b>&nbsp;or <b>cocaine \
+use</b>&nbsp;that involves the sensation of bugs crawling on the skin."""
+extra = ""
+tags = 'Brosencephalon Psychiatry::Pathology::unsorted'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1405832065679
+text = """
+{{c1::Maternal/Postpartum Blues}} is a postpartum mood distrubance that is characterized by a <b>depressed affect, \
+tearfulness</b>&nbsp;and <b>fatigue</b>&nbsp;that <b>usually resolves within 10 days</b>."""
+extra = ""
+tags = 'Brosencephalon Psychiatry::Pathology::unsorted'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1405833106916
+text = """
+{{c1::Postpartum depression}} is a postpartum mood disturbance that is characterized by a <b>depressed affect, \
+anxiety</b>&nbsp;and <b>poor concentration</b>&nbsp;within 4 weeks of delivery that can <b>last 2 weeks to a year or \
+more</b>."""
+extra = ""
+tags = 'Brosencephalon Psychiatry::Pathology::unsorted'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1405833158746
+text = """
+{{c1::Postpartum Psychosis}} is a rare postpartum mood distrubance that involves <b>delusions, hallucinations, \
+confusion, unusual behaviour</b>&nbsp;and <b>possible homicidal/suicidal ideations/attempts</b>&nbsp;that usually lasts \
+<b>4-6 weeks</b>."""
+extra = ""
+tags = 'Brosencephalon Psychiatry::Pathology::unsorted'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1405833206501
+text = """
+{{c1::Obsessive-compulsive disorder}} is a panic disorder that involves <b>reucrring intrusive \
+thoughts/feeling/sensations </b>(obsessions) that cause severe distress and are relieved in part by the performation of \
+<b>repetitive actions</b>&nbsp;(compulsions)."""
+extra = ""
+tags = 'Brosencephalon Psychiatry::Pathology::unsorted'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1405833311161
+text = """
+{{c1::Adjustment Disorder}} is a type of anxiety disorder that involves <b>emotional symptoms</b>&nbsp;causing \
+impairment following an <b>identifiable psychosocial stressor</b>&nbsp;that lasts <b>&lt; 6 months</b>."""
+extra = ""
+tags = 'Brosencephalon Psychiatry::Pathology::unsorted'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1405833382137
+text = """
+{{c1::Agoraphobia}} is an exaggerated fear of open or enclosed spaces, using public transportation, being in line/crowds \
+or leaving home alone."""
+extra = ""
+tags = 'Brosencephalon Psychiatry::Pathology::unsorted'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1405833421728
+text = """
+{{c1::Anorexia Nervosa}} is an eating disorder that involves excessive dieting due to the intense fear of gaining weight \
+and distortion of body image."""
+extra = '<div><i>May or may not involve purging.</i></div>'
+tags = 'Brosencephalon Psychiatry::Pathology::unsorted'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1405833802016
+text = '{{c1::Lanugo}} is a feature of Anorexia Nervosa that is described as <b>fine body hair</b>.'
+extra = ""
+tags = 'Brosencephalon Psychiatry::Pathology::unsorted'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1405833824292
+text = """
+{{c1::Bulimia Nervosa}} is an eating disorder that involves <b>binge eating</b>&nbsp;following by <b>self-induced \
+vomiting or use of laxatives/diuretics/emetics</b>."""
+extra = '<div><i>However,<b>&nbsp;body weight is often maintained in a normal range.</b></i></div>'
+tags = 'Brosencephalon Psychiatry::Pathology::unsorted'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1405833877594
+text = """
+{{c1::Russell Sign}} is a cutaneous feature of Bulimia Nervosa that is described as <b>dorsal hand callouses from \
+induced vomiting</b>."""
+extra = ""
+tags = 'Brosencephalon Psychiatry::Pathology::unsorted'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1405833906411
+text = """
+{{c1::Gender Dysphoria}} is a psych disorder that involves s<b>trong persistant cross-gender identification</b>&nbsp;due \
+to <b>persistent discomfort with one's assigned sex at birth</b>."""
+extra = '<div><i>Such individuals are referred to as <b>transgender</b>.</i></div>'
+tags = 'Brosencephalon Psychiatry::Pathology::unsorted'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1405833977403
+text = """
+{{c1::Transexualism}} is a type of gender dysphoria that involves the desire to live at the <b>opposite sex</b>, \
+typically through surgical or hormonal treatment."""
+extra = ""
+tags = 'Brosencephalon Psychiatry::Pathology::unsorted'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1405834009639
+text = '{{c1::Tranvestism}} is a type of gender <b>paraphilia</b> that involves wearing clothes of the opposite sex.'
+extra = ""
+tags = 'Brosencephalon Psychiatry::Pathology::unsorted'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1405880845528
+text = """
+{{c1::Sleep Terror Disorder}} is a psych disorder that involves <b>periods of terror with screming in the middle of the \
+night</b>, typically in children."""
+extra = ""
+tags = 'Brosencephalon Psychiatry::Pathology::unsorted'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1405881039136
+text = """
+During which phase of sleep does Sleep Terror Disorder manifest?<div><br /></div><div>{{c1::Slow wave (delta) \
+sleep}}</div>"""
+extra = """
+<div><i>Hence, earlier in the night, as REM sleep is more predominant later in the night.</i></div><div><i>This is also \
+why there is <b>no memory of arousal or the dream itself</b>&nbsp;(vs. dreams that occur in REM which we \
+remember)</i></div>"""
+tags = 'Brosencephalon Psychiatry::Pathology::unsorted'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1405881075328
+text = 'Which stage of sleep is associated with nightmares?<div><br /></div><div>{{c1::REM sleep}}</div>'
+extra = '<div><i>Typically normal.</i></div><div><i>Night terrors = delta (NREM) sleep</i></div>'
+tags = 'Brosencephalon Psychiatry::Pathology::unsorted'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1405881159001
+text = """
+{{c1::Narcolepsy}} is a sleep disorder that involves disordered regulation of the sleep-wake cycle, primarily involving \
+<b>excessive daytime sleepiness</b>."""
+extra = '''<div><i>I'm looking at you Naman..... man can sleep through an air raid.</i></div>'''
+tags = 'Brosencephalon Psychiatry::Pathology::unsorted'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1405881294909
+text = """
+{{c1::Narcolepsy}} is a sleep disorder that involves a decrease in <b>orexin</b>&nbsp;production in the lateral \
+hypothalamus."""
+extra = ""
+tags = 'Brosencephalon Psychiatry::Pathology::unsorted'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1405881320827
+text = """
+Which neurotransmitter deficiency in the hypothalamus is associated with Narcolepsy?<div><br \
+/></div><div>{{c1::Orexin}}</div>"""
+extra = ""
+tags = 'Brosencephalon Psychiatry::Pathology::unsorted'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1405881915255
+text = '{{c1::Narcolepsy}} is a sleep disorder that involves sleep episodes that <b>start off</b>&nbsp;with REM sleep.'
+extra = '<div><i>Narcolepsy is essentially REM sleep gone wild.</i></div>'
+tags = 'Brosencephalon Psychiatry::Pathology::unsorted'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1405881956361
+text = """
+{{c1::Cataplexy}} is a possible complication of Narcolepsy that involves <b>loss of muscle tone following a strong \
+emotional stimulus</b>, such as laughter."""
+extra = ""
+tags = 'Brosencephalon Psychiatry::Pathology::unsorted'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1405881987105
+text = """
+{{c1::Modafinil}} is a drug used to treat Narcolepsy through <b>inhibition of DA reuptake, GABA antagonism</b>&nbsp;and \
+<b>Glutamate activation</b>."""
+extra = ""
+tags = 'Brosencephalon Psychiatry::Pathology::unsorted'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1405882040293
+text = """
+What are the stages of change in overcoming substance addiction?<div><br /></div><div>{{c1::<img \
+src="paste-3126736191801.jpg" />}}</div>"""
+extra = ""
+tags = 'Brosencephalon Psychiatry::Pathology::unsorted'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1405882918885
+text = '{{c1::Methadone}} is a long-acting oral opiate that is used for heroic detoxification or long-term maintenance.'
+extra = ""
+tags = 'Brosencephalon Psychiatry::Pathology::unsorted'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1405882962419
+text = """
+{{c1::Naltrexone}} is a long-acting opioid antagonist used for relapse prevention once heroin detoxification is \
+completed."""
+extra = ""
+tags = 'Brosencephalon Psychiatry::Pathology::unsorted'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1405882988417
+text = '{{c1::Disulfiram}} is a drug used to treat alcoholism as it conditions the patient to abstain from alcohol use.'
+extra = ""
+tags = 'Brosencephalon Psychiatry::Pathology::unsorted'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1405883946474
+text = """
+{{c1::Delirium tremens (DTs)}} is a life-threatening alcohol withdrawal syndrome that peaks 2-5 days after the last \
+drink and presents with <b>autonomic hyperactivity, psychosis</b>&nbsp;and <b>confusion</b>."""
+extra = ""
+tags = 'Brosencephalon Psychiatry::Pathology::unsorted'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1405884119094
+text = 'What type of drugs are used to treat Delirium Tremens (DTs)?<div><br /></div><div>{{c1::Benzodiazepines}}</div>'
+extra = ""
+tags = 'Brosencephalon Psychiatry::Pathology::unsorted'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1405884132958
+text = 'What is the preferred drug treatment for ADHD?<div><br /></div><div>{{c1::Methylphenidate}}</div>'
+extra = ""
+tags = 'Brosencephalon::psych Psychiatry::Pharmacology::unsorted'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1405885513493
+text = 'What is the preferred drug treatment for alcohol withdrawal?<div><br /></div><div>{{c1::Benzodiazepines}}</div>'
+extra = ""
+tags = 'Brosencephalon::psych Psychiatry::Pharmacology::unsorted'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1405885523499
+text = 'What is the preferred drug treatment for anxiety?<div><br /></div><div>{{c1::SSRIs; SNRIs; Buspirone}}</div>'
+extra = ""
+tags = 'Brosencephalon::psych Psychiatry::Pharmacology::unsorted'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1405885534956
+text = """
+What is the preferred drug treatment for bipolar disorder?<div><br /></div><div>{{c1::Mood stabilizers; Atypical \
+antipsychotics}}</div>"""
+extra = ""
+tags = 'Brosencephalon::psych Psychiatry::Pharmacology::unsorted'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1405885548907
+text = 'What is the preferred drug treatment for Bulimia?<div><br /></div><div>{{c1::SSRIs}}</div>'
+extra = ""
+tags = 'Brosencephalon::psych Psychiatry::Pharmacology::unsorted'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1405885558678
+text = """
+What is the preferred drug treatment for depression?<div><br /></div><div>{{c1::SSRIs; SNRIs; TCAs; Bupropion; \
+Mirtazapine}}</div>"""
+extra = ""
+tags = 'Brosencephalon::psych Psychiatry::Pharmacology::unsorted'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1405885578573
+text = """
+What is the preferred drug treatment for obsessive-compulsive disorder?<div><br /></div><div>{{c1::SSRIs; \
+Clomipramine}}</div>"""
+extra = ""
+tags = 'Brosencephalon::psych Psychiatry::Pharmacology::unsorted'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1405885596049
+text = """
+What is the preferred drug treatment for panic disorder?<div><br /></div><div>{{c1::SSRIs; Venlafaxine; \
+Benzodiazepines}}</div>"""
+extra = ""
+tags = 'Brosencephalon::psych Psychiatry::Pharmacology::unsorted'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1405885616986
+text = 'What is the preferred drug treatment for PTSD?<div><br /></div><div>{{c1::SSRIs}}</div>'
+extra = ""
+tags = 'Brosencephalon::psych Psychiatry::Pharmacology::unsorted'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1405885621937
+text = 'What is the preferred drug treatment for schizophrenia?<div><br /></div><div>{{c1::Antipsychotics}}</div>'
+extra = ""
+tags = 'Brosencephalon::psych Psychiatry::Pharmacology::unsorted'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1405885629817
+text = 'What is the preferred drug treatment for social phobias?<div><br /></div><div>{{c1::SSRIs; beta-blockers}}</div>'
+extra = ""
+tags = 'Brosencephalon::psych Psychiatry::Pharmacology::unsorted'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1405885639984
+text = 'What is the preferred drug treatment for tourette syndrome?<div><br /></div><div>{{c1::Antipsychotics}}</div>'
+extra = ""
+tags = 'Brosencephalon::psych Psychiatry::Pharmacology::unsorted'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1405885654243
+text = """
+Which atypical antipsychotics is known to <b>increase prolactin</b>, thereby resulting in decreased GnRH, LH and FSH \
+levels?<div><br /></div><div>{{c1::Risperidone}}</div>"""
+extra = '<br /><div><i>Can cause lactation, gynecomastia, irregular menstruation and fertility issues.</i></div>'
+tags = 'Brosencephalon::psych Psychiatry::Pharmacology::unsorted'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1405886098707
+text = """
+Which atypical antipsychotic is commonly associated with prolonged the QT interval?<div><br \
+/></div><div>{{c1::Ziprasidone}}</div>"""
+extra = ""
+tags = 'Brosencephalon::psych Psychiatry::Pharmacology::unsorted'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1405886121104
+text = """
+Which atypical antipsychotics may cause significant weight gain?<div><br /></div><div>{{c1::Olanzapine; \
+Clozapine}}</div>"""
+extra = ""
+tags = 'Brosencephalon::psych Psychiatry::Pharmacology::unsorted'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1405886155163
+text = """
+{{c1::Lithium}} is a mood stabilizer that is associated with fetal cardiac defects such as&nbsp;<b>Ebstein \
+anomaly</b>&nbsp;and <b>malformation of the great vessels</b>."""
+extra = ""
+tags = 'Brosencephalon::psych Psychiatry::Pharmacology::unsorted'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1405886455993
+text = 'Which endocrine disorder can be caused by Lithium?<div><br /></div><div>{{c1::Hypothyroidism}}</div>'
+extra = '<br /><div><img src="paste-6695854014724.jpg" /></div>'
+tags = 'Brosencephalon::psych Psychiatry::Pharmacology::unsorted'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1405886473293
+text = """
+Which TCA drug has l<b>ess sedating effect</b>&nbsp;but has a <b>higher seizure incidence</b>?<div><br \
+/></div><div>{{c1::Desipramine}}</div>"""
+extra = ""
+tags = 'Brosencephalon::psych Psychiatry::Pharmacology::unsorted'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1405886905575
+text = """
+What is the treatment for the cardiovascular toxicity caused by tricylic antidepressants?<div><br \
+/></div><div>{{c1::NaHCO<sub>3</sub>}}</div>"""
+extra = '<br /><div><img src="paste-7065221202057.jpg" /></div>'
+tags = 'Brosencephalon::psych Psychiatry::Pharmacology::unsorted'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1405886924350
+text = 'What is the cardiotoxicity of tricyclic antidepressants?<div><br /></div><div>{{c1::Arrhythmia}}</div>'
+extra = '<br /><div><img src="paste-7065221202057.jpg" /></div>'
+tags = 'Brosencephalon::psych Psychiatry::Pharmacology::unsorted'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1405886940423
+text = 'Which atypical antidepressant is also used for smoking cessation?<div><br /></div><div>{{c1::Bupropion}}</div>'
+extra = ""
+tags = 'Brosencephalon::psych Psychiatry::Pharmacology::unsorted'
+

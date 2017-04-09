@@ -1,0 +1,786 @@
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1379276258465
+text = '{{c1::Tachyphylaxis}} is used to describe an acute, rapid development of drug tolerance.'
+extra = ""
+tags = 'Brosencephalon Pharmacology::Autonomic-Drugs::unsorted'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1379539830538
+text = 'Epinephrine is an adrenergic with a receptor affinity of&nbsp;{{c1::b1=b2=b3 &gt;&gt; a1=a2}}'
+extra = ""
+tags = 'Brosencephalon Pharmacology::Autonomic-Drugs::sympathomimetics'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1379541123732
+text = '{{c1::Epinephrine}} is the adrenergic of choice to treat anaphylaxis and angioedema.'
+extra = ""
+tags = 'Brosencephalon Pharmacology::Autonomic-Drugs::sympathomimetics'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1379541217698
+text = '{{c1::Dobutamine}} and {{c2::Dopamine}} are the adrenergics/sympathomimetics of choice to treat cardiogenic shock.'
+extra = ""
+tags = 'Brosencephalon Pharmacology::Autonomic-Drugs::sympathomimetics'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1379541384454
+text = '{{c1::Norepinephrine}} and&nbsp;{{c2::phenylephrine}} are the adrenergics of choice to treat vasodilatory shock.'
+extra = '<div><i>Neurogenic, septic, etc shock</i></div>'
+tags = 'Brosencephalon Pharmacology::Autonomic-Drugs::sympathomimetics'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1379541448677
+text = '{{c1::Epinephrine}} is the adrenergic of choice to treat anaphylactic shock.'
+extra = ""
+tags = 'Brosencephalon Pharmacology::Autonomic-Drugs::sympathomimetics'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1379541481648
+text = '{{c1::Epinephrine}} is the adrenergic used during cardiopulmonary resuscitation (CPR)'
+extra = ""
+tags = 'Brosencephalon Pharmacology::Autonomic-Drugs::sympathomimetics'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1379541500977
+text = '{{c1::Isoproterenol}} is the adrenergic of choice to treat torsade de pointes.'
+extra = ""
+tags = 'Brosencephalon Pharmacology::Autonomic-Drugs::sympathomimetics'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1379541559411
+text = """
+{{c1::Clonidine}} and Methyldopa are the adrenergics used to treat hypertension through the activation of central a2 \
+receptors. """
+extra = ""
+tags = 'Brosencephalon Pharmacology::Autonomic-Drugs::sympatholytics'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1379541591233
+text = """
+{{c1::Epinephrine}} and&nbsp;{{c1::norepinephrine}} are the adrenergics involved with local anaesthesia and the \
+triggering of local vasoconstriction."""
+extra = ""
+tags = 'Brosencephalon Pharmacology::Autonomic-Drugs::sympathomimetics'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1379541644648
+text = '{{c1::Phenylephrine}} is the adrenergic used to treat nasal congestion and bleeding.'
+extra = ""
+tags = 'Brosencephalon Pharmacology::Autonomic-Drugs::sympathomimetics'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1379541757663
+text = '{{c1::Epinephrine}} and&nbsp;{{c1::selective b2}} agonists are adrenergics used to treat asthma and COPD.'
+extra = ""
+tags = 'Brosencephalon Pharmacology::Autonomic-Drugs::sympathomimetics'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1379541803547
+text = '{{c1::Epinephrine}} and&nbsp;{{c2::Apraclonidine}} are adrenergics used to treat open angle glaucoma.'
+extra = ""
+tags = 'Brosencephalon Pharmacology::Autonomic-Drugs::sympathomimetics'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1379541831196
+text = '{{c1::Clonidine}} is an adrenergic used to treat tobacco, alcohol or opioid withdrawal.'
+extra = ""
+tags = 'Brosencephalon Pharmacology::Autonomic-Drugs::sympatholytics'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1379541863787
+text = 'Norepinephrine is an a-b agonist with a receptor affinity of&nbsp;{{c1::a1 &gt; a2 &gt; b1}}.'
+extra = ""
+tags = 'Brosencephalon Pharmacology::Autonomic-Drugs::sympathomimetics'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1379542145050
+text = 'Phenylephrine is a(n) {{c1::a1}} selective adrenergic agonist.'
+extra = ""
+tags = 'Brosencephalon Pharmacology::Autonomic-Drugs::sympathomimetics'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1379542198636
+text = 'Clonidine is a(n)&nbsp;{{c1::a2}} selective adrenergic agonist.'
+extra = """
+<div><i>Remember, Clonidine activates a2 autoreceptors and a2 central receptors to decrease central adrenergic \
+tone.</i></div>"""
+tags = 'Brosencephalon Pharmacology::Autonomic-Drugs::sympatholytics'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1379542307767
+text = 'Isoproterenol is a(n)&nbsp;{{c1::b1, b2, b3}} adrenergic agonist.'
+extra = ""
+tags = 'Brosencephalon Pharmacology::Autonomic-Drugs::sympathomimetics'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1379542340464
+text = 'Dobutamine is a(n)&nbsp;{{c1::b1}} selective adrenergic agonist.'
+extra = ""
+tags = 'Brosencephalon Pharmacology::Autonomic-Drugs::sympathomimetics'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1379542355899
+text = 'Albuterol is a(n)&nbsp;{{c1::b2}} selective adrenergic agonist.'
+extra = ""
+tags = 'Brosencephalon Pharmacology::Autonomic-Drugs::sympathomimetics'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1379542374732
+text = 'Salmeterol is a(n)&nbsp;{{c2::b2}} selective adrenergic agonist.'
+extra = ""
+tags = 'Brosencephalon Pharmacology::Autonomic-Drugs::sympathomimetics'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1379542429922
+text = """
+{{c1::Methyldopa}} is converted to methylnorepinephrine in adrenergic neurons. It then activates central {{c2::a2}} \
+receptors to decrease central adrenergic tone."""
+extra = ""
+tags = 'Brosencephalon Pharmacology::Autonomic-Drugs::sympatholytics'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1379542523150
+text = """
+{{c1::Tyramine}} is converted to Octopamine in adrenergic neurons. It is then stored in vesicles and released in place \
+of NE."""
+extra = ""
+tags = 'Brosencephalon Pharmacology::Autonomic-Drugs::tyramine'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1379542561813
+text = '{{c1::Cocaine}} is a mixed-acting adrenergic that blocks the reuptake of catecholamines in the CNS and PNS.'
+extra = ""
+tags = 'Brosencephalon Pharmacology::Autonomic-Drugs::sympathomimetics'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1379542597439
+text = """
+{{c1::Amphetamines}} is a mixed-acting adrenergic that stimulates the release of monoamine NTs (NE, D, 5-HT) from their \
+storage vesicles. It also blocks catecholamine reuptake."""
+extra = ""
+tags = 'Brosencephalon Pharmacology::Autonomic-Drugs::sympathomimetics'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1379558429103
+text = '{{c2::Phenoxybenzamine}} is an irreversible non-selective alpha adrenergic blocker with an affinity of a1 &gt; a2.'
+extra = ""
+tags = 'Brosencephalon Pharmacology::Autonomic-Drugs::alpha-blockers'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1379558572762
+text = 'Prazosin is a selective&nbsp;{{c1::a1}} adrenergic blocker.'
+extra = ""
+tags = 'Brosencephalon Pharmacology::Autonomic-Drugs::alpha-blockers'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1379558601635
+text = 'Doxazosin is a selective&nbsp;{{c1::a1}} adrenergic blocker.'
+extra = ""
+tags = 'Brosencephalon Pharmacology::Autonomic-Drugs::alpha-blockers'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1379558615718
+text = 'Tamsulosin is a selective&nbsp;{{c1::a1}} adrenergic blocker.'
+extra = ""
+tags = 'Brosencephalon Pharmacology::Autonomic-Drugs::alpha-blockers'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1379558629853
+text = 'Propanolol is a non-selective&nbsp;{{c1::beta}} adrenergic blocker. It has a local anaesthetic effect.'
+extra = ""
+tags = 'Brosencephalon Pharmacology::Autonomic-Drugs::beta-blockers'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1379558648135
+text = 'Pindolol is a nonselective&nbsp;{{c1::beta}} adrenergic blocker. It has a local anaesthetic effect.'
+extra = ""
+tags = 'Brosencephalon Pharmacology::Autonomic-Drugs::beta-blockers'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1379558695127
+text = 'Timolol is a non-selective&nbsp;{{c1::beta}} adrenergic blocker that is commonly used for open angle glaucoma.'
+extra = ""
+tags = 'Brosencephalon Pharmacology::Autonomic-Drugs::beta-blockers'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1379558728817
+text = 'Sotalol is a nonselective&nbsp;{{c1::beta}} adrenergic blocker.'
+extra = ""
+tags = 'Brosencephalon Pharmacology::Autonomic-Drugs::beta-blockers'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1379558754697
+text = 'Atenolol is a selective&nbsp;{{c1::b1}} adrenergic blocker.'
+extra = ""
+tags = 'Brosencephalon Pharmacology::Autonomic-Drugs::beta-blockers'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1379558782272
+text = 'Metoprolol is a selective&nbsp;{{c1::b1}} adrenergic blocker.'
+extra = ""
+tags = 'Brosencephalon Pharmacology::Autonomic-Drugs::beta-blockers'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1379558802870
+text = 'Esmolol is a selective&nbsp;{{c1::b1}} adrenergic blocker. It is only administered parenterally.'
+extra = ""
+tags = 'Brosencephalon Pharmacology::Autonomic-Drugs::beta-blockers'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1379558852507
+text = """
+{{c1::Labetalol}} is an alpha-beta adrenergic blocker that has alpha-antagonist and partial beta-agonist function. It is \
+also a local anaesthetic."""
+extra = ""
+tags = 'Brosencephalon Pharmacology::Autonomic-Drugs::beta-blockers'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1379558913105
+text = 'Carvidilol is a(n)&nbsp;{{c1::a1-beta}} adrenergic blocker.'
+extra = ""
+tags = 'Brosencephalon Pharmacology::Autonomic-Drugs::beta-blockers'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1379558952458
+text = """
+{{c2::Metyrosine}} is an indirect acting antiadrenergic that inhibits&nbsp;{{c1::Tyrosine Hydroxylase}}, the rate \
+limiting enzyme in catecholamine biosynthesis."""
+extra = ""
+tags = 'Brosencephalon Pharmacology::Autonomic-Drugs::autonomic-drugs'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1379559008875
+text = """
+{{c1::Phenoxybenzamine}} is an alpha-adrenergic blocker primarily used to treat Pheochromocytoma as a pre-operative \
+preparation or when the tumor is metastatic/inoperable."""
+extra = ""
+tags = 'Brosencephalon Pharmacology::Autonomic-Drugs::alpha-blockers'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1379559702644
+text = """
+Selective a1-adrenergic blockers are primarily used to treat&nbsp;{{c1::HTN}} and&nbsp;{{c2::urinary incontinence in \
+BPH.}}"""
+extra = """
+<div><i>Remember, selective a1-adrenergic blockers end in -osin</i></div><div><i>e.g. Prazosin, trazosin, \
+&nbsp;doxazosin, &nbsp;tamsulosin</i></div>"""
+tags = 'Brosencephalon Pharmacology::Autonomic-Drugs::alpha-blockers'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1379559801375
+text = 'Phenoxybenzamine toxicity involves&nbsp;{{c1::orthostatic hypotension}} and&nbsp;{{c2::reflex tachycardia}}.'
+extra = ""
+tags = 'Brosencephalon Pharmacology::Autonomic-Drugs::alpha-blockers'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1379559878331
+text = 'Selective a1-blockers have a toxicity of&nbsp;{{c1::1st dose orthostatic hypotension}}.'
+extra = ""
+tags = 'Brosencephalon Pharmacology::Autonomic-Drugs::alpha-blockers'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1379559903975
+text = 'Timolol is a non-selective beta-blocker primarily used to treat&nbsp;{{c1::open angle glaucoma}}.'
+extra = ""
+tags = 'Brosencephalon Pharmacology::Autonomic-Drugs::beta-blockers'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1379559964204
+text = '{{c1::Metoprolol}} and&nbsp;{{c2::Esmolol}} are selective b1-blockers used to treat Supraventricular Tachycardia (SVT).'
+extra = ""
+tags = 'Brosencephalon Pharmacology::Autonomic-Drugs::beta-blockers'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1379626915852
+text = 'Acetylcholine is a direct muscarinic agonist that acts on {{c1::M1, M2, M3}} receptors.'
+extra = ""
+tags = 'Brosencephalon Pharmacology::Autonomic-Drugs::unsorted-cholinergics'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1379627712763
+text = 'Acetylcholine can be used to treat&nbsp;{{c1::open angle glaucoma}}.'
+extra = ""
+tags = 'Brosencephalon Pharmacology::Autonomic-Drugs::unsorted-cholinergics'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1379627737361
+text = 'Carbachol is a direct muscarinic agonist that has a receptor affinity of&nbsp;{{c1::M3 = N &gt; M2 &gt; M1}}.'
+extra = ""
+tags = 'Brosencephalon Pharmacology::Autonomic-Drugs::unsorted-cholinergics'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1379627784547
+text = 'Carbachol can be used to treat&nbsp;{{c1::open angle glaucoma}}.'
+extra = '<div><i><b>Carb</b><u>achol</u> is a <b>carb</b>on copy of <u>A</u>cetyl<u>chol</u>ine</i></div>'
+tags = 'Brosencephalon Pharmacology::Autonomic-Drugs::unsorted-cholinergics'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1379627838402
+text = 'Bethanechol is a direct muscarinic agonist that has a receptor affinity of&nbsp;{{c1::M3 &gt; M2 &gt; M1}}.'
+extra = ""
+tags = 'Brosencephalon Pharmacology::Autonomic-Drugs::unsorted-cholinergics'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1379627871132
+text = """
+{{c1::Bethanechol}} is a direct muscarinic agonist used to treat postoperative nonobstructive ileus, neurogenic ileus \
+and urinary retention."""
+extra = '<i>Bethanechol = bowels and bladder </i>'
+tags = 'Brosencephalon Pharmacology::Autonomic-Drugs::cholinomimetic-agents'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1379627939721
+text = 'Pilocarpine is a direct muscarinic agonist with a receptor affinity of&nbsp;{{c1::M3=M2=M1}}'
+extra = ""
+tags = 'Brosencephalon Pharmacology::Autonomic-Drugs::unsorted-cholinergics'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1379627972507
+text = """
+{{c1::Pilocarpine}} is a direct muscarinic agonist used to treat open angle glaucoma and xerostomia as it stimulates \
+sweating, tearing and salivation."""
+extra = '<div><i style="font-weight: bold; ">Pilo</i><i>carpine lets you cry, drool and sweat onto your <b>pillo</b>w</i></div>'
+tags = 'Brosencephalon Pharmacology::Autonomic-Drugs::cholinomimetic-agents'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1379628088968
+text = """
+Muscarine is a direct muscarinic agonist with a receptor affinity of&nbsp;{{c1::M3=M2=M1}}. It is ingested and commonly \
+found in mushrooms."""
+extra = ""
+tags = 'Brosencephalon Pharmacology::Autonomic-Drugs::unsorted-cholinergics'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1379628145233
+text = """
+{{c1::Mycetism}} is poisoning due to mushrooms that contain muscarine. Symptoms appear within 30 minutes: salivation, \
+lacrimation, bronchospasm, bradycardia, tremors, coma."""
+extra = ""
+tags = 'Brosencephalon Pharmacology::Autonomic-Drugs::cholinomimetic-agents'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1379628209827
+text = 'Nicotine activates&nbsp;{{c1::nicotinic}} receptors.'
+extra = ""
+tags = 'Brosencephalon Pharmacology::Autonomic-Drugs::unsorted-cholinergics'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1379628251268
+text = 'Large doses of nicotine result in&nbsp;{{c1::depolarization blockade}}.'
+extra = ""
+tags = 'Brosencephalon Pharmacology::Autonomic-Drugs::unsorted-cholinergics'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1379628272106
+text = 'Edrophonium is a reversible&nbsp;{{c2::cholinesterase}} inhibitor.'
+extra = ""
+tags = 'Brosencephalon Pharmacology::Autonomic-Drugs::unsorted-cholinergics'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1379628340573
+text = '{{c1::Edrophonium}} is a cholinesterase inhibitor clinically used to diagnose myasthenia gravis.'
+extra = ""
+tags = 'Brosencephalon Pharmacology::Autonomic-Drugs::cholinomimetic-agents'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1379628387147
+text = 'Physostigmine is a reversible&nbsp;{{c1::cholinesterase}} inhibitor.'
+extra = ""
+tags = 'Brosencephalon Pharmacology::Autonomic-Drugs::unsorted-cholinergics'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1379628420301
+text = 'Physostigmine is used to treat&nbsp;{{c1::open angle glaucoma}}.'
+extra = ""
+tags = 'Brosencephalon Pharmacology::Autonomic-Drugs::unsorted-cholinergics'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1379628464437
+text = 'Neostigmine is reversible&nbsp;{{c1::cholinesterase}} inhibitor.'
+extra = ""
+tags = 'Brosencephalon Pharmacology::Autonomic-Drugs::unsorted-cholinergics'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1379628521535
+text = """
+{{c1::Neostigmine}} is used to treat myasthenia gravis, postoperative nonobstructive ileus, urinary retention and \
+postoperative NMJ blockade"""
+extra = ""
+tags = 'Brosencephalon Pharmacology::Autonomic-Drugs::cholinomimetic-agents'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1379628647497
+text = '{{c1::Neostigmine}} and&nbsp;{{c2::Bethanechol}} can be used to treat neurogenic bladder.'
+extra = ""
+tags = 'Brosencephalon Pharmacology::Autonomic-Drugs::cholinomimetic-agents'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1379628795465
+text = 'Donepezil is a reversible&nbsp;{{c1::cholinesterase}} inhibitor.'
+extra = ""
+tags = 'Brosencephalon Pharmacology::Autonomic-Drugs::unsorted-cholinergics'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1379628861500
+text = """
+{{c1::Doneprezil}} is a cholinesterase inhibitor that is selective for ChE's in the brain. As such, it is used to treat \
+Alzheimer's Disease."""
+extra = ""
+tags = 'Brosencephalon Pharmacology::Autonomic-Drugs::cholinomimetic-agents'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1379628918981
+text = '{{c1::Organophosphate}} are <b>irreversible</b>&nbsp;cholinesterase inhibitors.'
+extra = ""
+tags = 'Brosencephalon Pharmacology::Autonomic-Drugs::cholinomimetic-agents'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1379628958760
+text = 'Pralodoxime is a&nbsp;{{c1::cholinesterase}} reactivator.'
+extra = ""
+tags = 'Brosencephalon Pharmacology::Autonomic-Drugs::unsorted-cholinergics'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1379629129053
+text = '{{c2::Pralidoxime}} is a cholinesterase reactivator used to treat organophosphate poisoning.'
+extra = ""
+tags = 'Brosencephalon Pharmacology::Autonomic-Drugs::cholinomimetic-agents'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1379638553851
+text = 'Atropine is a competitive&nbsp;{{c1::muscarinic}} blocker.&nbsp;'
+extra = '<div><i>It blocks all muscarinics.</i></div>'
+tags = 'Brosencephalon Pharmacology::Autonomic-Drugs::unsorted-anticholinergics'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1379638625360
+text = 'Atropine is typically used in ophthalmology where it causes&nbsp;{{c1::mydriasis}} and&nbsp;{{c2::cycloplegia}}.'
+extra = ""
+tags = 'Brosencephalon Pharmacology::Autonomic-Drugs::atropine'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1379638661510
+text = 'Scopolamine is a&nbsp;{{c1::muscarinic}} blocker.'
+extra = ""
+tags = 'Brosencephalon Pharmacology::Autonomic-Drugs::unsorted-anticholinergics'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1379638684720
+text = '{{c1::Scopolamine}} is a muscarinic blocker used to treat motion sickness.'
+extra = ""
+tags = 'Brosencephalon Pharmacology::Autonomic-Drugs::muscarinic-antagonists'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1379638707860
+text = 'Homatropine is a&nbsp;{{c1::muscarinic}} blocker.'
+extra = ""
+tags = 'Brosencephalon Pharmacology::Autonomic-Drugs::unsorted-anticholinergics'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1379638720612
+text = 'Homatropine is commonly used in opthalmology where is causes&nbsp;{{c1::mydriasis}} and&nbsp;{{c2::cycloplegia}}.'
+extra = ""
+tags = 'Brosencephalon Pharmacology::Autonomic-Drugs::unsorted-anticholinergics'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1379638741165
+text = 'Darifenacin is a selective&nbsp;{{c1::M3}} blocker.'
+extra = ""
+tags = 'Brosencephalon Pharmacology::Autonomic-Drugs::unsorted-anticholinergics'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1379638802033
+text = 'Benzotropine is a&nbsp;{{c1::muscarinic}} blocker.'
+extra = ""
+tags = 'Brosencephalon Pharmacology::Autonomic-Drugs::unsorted-anticholinergics'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1379638827171
+text = '''{{c1::Benzotropine}} is a muscarinic blocker used to treat Parkinson's Disease.'''
+extra = '<div><i>Park my&nbsp;<b>Benz.</b></i></div>'
+tags = 'Brosencephalon Pharmacology::Autonomic-Drugs::muscarinic-antagonists'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1379981560930
+text = 'The&nbsp;{{c1::M2}} receptor is the major muscarinic receptor at the heart.'
+extra = ""
+tags = 'Brosencephalon Pharmacology::Autonomic-Drugs::g-protein-linked-2nd-messengers'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1379981594689
+text = 'The {{c2::M2}} receptor <b>strongly</b> decreases conduction and refractoriness at the&nbsp;{{c1::AV node}}'
+extra = ""
+tags = 'Brosencephalon Pharmacology::Autonomic-Drugs::g-protein-linked-2nd-messengers'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1379981634633
+text = 'The&nbsp;{{c1::M3}} muscarinic receptor causes vasodilation.'
+extra = ""
+tags = 'Brosencephalon Pharmacology::Autonomic-Drugs::g-protein-linked-2nd-messengers'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1379981723221
+text = 'The&nbsp;{{c1::M3}} muscarinic receptor causes strong bronchoconstriction and lung secretion.'
+extra = ""
+tags = 'Brosencephalon Pharmacology::Autonomic-Drugs::g-protein-linked-2nd-messengers'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1379981772778
+text = 'The&nbsp;{{c1::M3}} muscarinic receptor causes strong erection indirectly via NO.'
+extra = ""
+tags = 'Brosencephalon Pharmacology::Autonomic-Drugs::g-protein-linked-2nd-messengers'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1379981794571
+text = """
+The&nbsp;{{c1::M3}} muscarinic receptor causes a strong increase in GI motility, a decrease in sphincter tone and \
+gallbladder contraction."""
+extra = ""
+tags = 'Brosencephalon Pharmacology::Autonomic-Drugs::g-protein-linked-2nd-messengers'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1379981913792
+text = 'The&nbsp;{{c1::M3}} muscarinic receptor causes <b>moderate</b>&nbsp;exocrine secretion from the pancreas.'
+extra = ""
+tags = 'Brosencephalon Pharmacology::Autonomic-Drugs::g-protein-linked-2nd-messengers'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1379981953963
+text = 'The {{c1::M3}} muscarinic receptor causes a strong increase in detrusor muscle motility and tone.'
+extra = ""
+tags = 'Brosencephalon Pharmacology::Autonomic-Drugs::g-protein-linked-2nd-messengers'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1379982068167
+text = 'The&nbsp;{{c1::M3}} muscarinic receptor causes strong contraction of the spincter pupillae and ciliary muscles.&nbsp;'
+extra = ""
+tags = 'Brosencephalon Pharmacology::Autonomic-Drugs::g-protein-linked-2nd-messengers'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1379982098869
+text = 'The&nbsp;{{c1::M3}} muscarinic receptor causes a strong increase in lacrimal gland secretion.'
+extra = ""
+tags = 'Brosencephalon Pharmacology::Autonomic-Drugs::g-protein-linked-2nd-messengers'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1379982116300
+text = 'The&nbsp;{{c1::M3}} muscarinic receptor causes a strong increase in sweat gland secretion.'
+extra = ""
+tags = 'Brosencephalon Pharmacology::Autonomic-Drugs::g-protein-linked-2nd-messengers'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1379982137526
+text = 'The&nbsp;{{c1::b1}} adrenergic receptor is the main receptor at the heart.'
+extra = ""
+tags = 'Brosencephalon Pharmacology::Autonomic-Drugs::g-protein-linked-2nd-messengers'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1379982213560
+text = 'The&nbsp;{{c1::a1}} adrenergic receptor is responsible for most vasocontriction and smooth muscle contraction.'
+extra = ""
+tags = 'Brosencephalon Pharmacology::Autonomic-Drugs::g-protein-linked-2nd-messengers'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1379988833840
+text = 'The&nbsp;{{c1::b2}} adrenergic receptor is responsible for most vasodilation and bronchodilation.'
+extra = ""
+tags = 'Brosencephalon Pharmacology::Autonomic-Drugs::g-protein-linked-2nd-messengers'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1379988856732
+text = 'Bronchial muscle relaxation is mediated through&nbsp;{{c1::b2}} adrenergic receptors.'
+extra = ""
+tags = 'Brosencephalon Pharmacology::Autonomic-Drugs::g-protein-linked-2nd-messengers'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1379988982816
+text = 'Ejaculation in males is mediated through the&nbsp;{{c1::a1}} adrenergic receptor.'
+extra = ""
+tags = 'Brosencephalon Pharmacology::Autonomic-Drugs::g-protein-linked-2nd-messengers'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1379989022198
+text = """
+Relaxation of uterine muscle in both the pregnant and non-pregnant uteruses are mediated by the&nbsp;{{c1::b2}} \
+adrenergic receptor."""
+extra = ""
+tags = 'Brosencephalon Pharmacology::Autonomic-Drugs::g-protein-linked-2nd-messengers'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1379989068780
+text = """
+The&nbsp;{{c1::b2}} adrenergic receptor is the major mediator of the increases in hepatic glycogenolysis and \
+gluconeogenesis."""
+extra = ""
+tags = 'Brosencephalon Pharmacology::Autonomic-Drugs::g-protein-linked-2nd-messengers'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1379989219218
+text = 'The {{c1::a2}} adrenergic receptor strongly decreases insulin secretion from the pancreas.'
+extra = ""
+tags = 'Brosencephalon Pharmacology::Autonomic-Drugs::g-protein-linked-2nd-messengers'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1379989262187
+text = 'The {{c1::b2}} adrenergic receptor weakly increases insulin release from the pancreas.'
+extra = ""
+tags = 'Brosencephalon Pharmacology::Autonomic-Drugs::g-protein-linked-2nd-messengers'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1379989284393
+text = """
+The&nbsp;{{c1::b2}} adrenergic receptor increases Ca<sup>2+</sup>&nbsp;sequestration, glycogenolysis and \
+K<sup>+</sup>&nbsp;uptake at <b>skeletal</b> muscle."""
+extra = ""
+tags = 'Brosencephalon Pharmacology::Autonomic-Drugs::g-protein-linked-2nd-messengers'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1380063485106
+text = 'Mast cell degranulation is inhibited through&nbsp;{{c1::b2}} adrenergic receptors.'
+extra = ""
+tags = 'Brosencephalon Pharmacology::Autonomic-Drugs::g-protein-linked-2nd-messengers'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1380063518711
+text = 'Platelet aggregation is stimulated by&nbsp;{{c1::a2}} adrenergic receptors.'
+extra = ""
+tags = 'Brosencephalon Pharmacology::Autonomic-Drugs::g-protein-linked-2nd-messengers'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1386368164970
+text = """
+Drug induced SLE is commonly seen in patients who are slow acetylators and have taken \
+either&nbsp;{{c1::Procainamide}},&nbsp;{{c1::Isoniazid}}, or&nbsp;{{c1::Hydralazine}}."""
+extra = ""
+tags = 'Brosencephalon Pharmacology::Autonomic-Drugs::unsorted'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1404582660811
+text = 'What is the hematological toxicity of Cimetidine?<div><br /></div><div>{{c1::Thrombocytopenia}}</div>'
+extra = ""
+tags = 'Pharmacology::Toxicities-and-Side-Effects'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1404584414970
+text = 'Which is the oral complication of Nifedipine?<div><br /></div><div>{{c1::Gingival hyperplasia}}</div>'
+extra = ""
+tags = 'Pharmacology::Toxicities-and-Side-Effects'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1404595915141
+text = 'How does Modafinil influence cytochrome p450 activity?<div><br /></div><div>{{c1::Increase}}</div>'
+extra = '<div><img src="paste-12416750453390.jpg" /></div>'
+tags = 'Pharmacology::Toxicities-and-Side-Effects'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1404596172193
+text = 'How does Gemfibrozil influence cytochrome p450 activity?<div><br /></div><div>{{c1::Decrease}}</div>'
+extra = '<div><img src="paste-13069585482402.jpg" /></div>'
+tags = 'Pharmacology::Toxicities-and-Side-Effects'
+
