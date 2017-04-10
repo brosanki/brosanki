@@ -8203,7 +8203,7 @@ tags = 'Brosencephalon Microbiology::Clinical-Bacteriology::chlamydiae'
 [[notes]]
 model = 'Cloze-Brosencephalon'
 note-id = 1402800583375
-text = '{{c1::Reiter Syndrome}} is a type of reactive arthritis that is caused by <i>Chlamydia trachomatis</i>.'
+text = '{{c1::Reactive arthritis (Reiter Syndrome)}} is a joint sequela that is caused by <i>Chlamydia trachomatis</i>.'
 extra = ""
 tags = 'Brosencephalon Microbiology::Clinical-Bacteriology::chlamydiae'
 

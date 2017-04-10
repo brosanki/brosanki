@@ -2781,8 +2781,8 @@ tags = 'Brosencephalon Immunology::Immune-Responses::autoantibodies'
 model = 'Cloze-Brosencephalon'
 note-id = 1403996398329
 text = """
-Which autoantibody is associated with Wegener Granulomatosis (i.e. granulomatosis with polyangiitis)?<div><br \
-/></div><div>{{c1::c-ANCA (PR3-ANCA)}}</div>"""
+Which autoantibody is associated with Granulomatosis with polyangiitis (Wegener)?<div><br /></div><div>{{c1::c-ANCA \
+(PR3-ANCA)}}</div>"""
 extra = ""
 tags = 'Brosencephalon Immunology::Immune-Responses::autoantibodies'
 
@@ -2805,7 +2805,9 @@ tags = 'Brosencephalon Immunology::Immune-Responses::autoantibodies'
 [[notes]]
 model = 'Cloze-Brosencephalon'
 note-id = 1403996478102
-text = 'Which autoantibody is associated with Churg-Strauss Syndrome?<div><br /></div><div>{{c1::p-ANCA (MPO-ANCA)}}</div>'
+text = """
+Which autoantibody is associated with Eosinophilic&nbsp;granulomatosis with&nbsp;polyangiitis (Churg-Strauss \
+Syndrome)?<div><br /></div><div>{{c1::p-ANCA (MPO-ANCA)}}</div>"""
 extra = ""
 tags = 'Brosencephalon Immunology::Immune-Responses::autoantibodies'
 

@@ -3167,8 +3167,9 @@ tags = 'Brosencephalon Cardiovascular::Pathology::vasculitides'
 model = 'Cloze-Brosencephalon'
 note-id = 1384916999530
 text = """
-{{c1::Churg-Strauss Syndrome}} is a type of necrotizing granulomatous Vasculitis that involves fibrinoid necrosis and \
-<b>eosinophilia</b>.<div><br></div><div><img src="paste-10617159156088.jpg" /></div>"""
+{{c1::Eosinophilic&nbsp;granulomatosis with&nbsp;polyangiitis (Churg-Strauss Syndrome)}} is a type of necrotizing \
+granulomatous Vasculitis that involves fibrinoid necrosis and <b>eosinophilia</b>.<div><br /></div><div><img \
+src="paste-10617159156088.jpg" /></div>"""
 extra = ""
 tags = 'Brosencephalon Cardiovascular::Pathology::vasculitides'
 
@@ -3176,8 +3177,8 @@ tags = 'Brosencephalon Cardiovascular::Pathology::vasculitides'
 model = 'Cloze-Brosencephalon'
 note-id = 1384917282600
 text = """
-{{c1::Wegener's Granulomatosis}} is a form of necrotizing, granulomatous Vasculitis that involves ulceration at the \
-upper respiratory tract or palate.<div><br /></div><div><img src="paste-10904921964806.jpg" /></div>"""
+{{c1::Granulomatosis with polyangiitis (Wegener)}} is a form of necrotizing, granulomatous Vasculitis that involves \
+ulceration at the upper respiratory tract or palate.<div><br /></div><div><img src="paste-10904921964806.jpg" /></div>"""
 extra = ""
 tags = 'Brosencephalon Cardiovascular::Pathology::vasculitides'
 
@@ -3440,8 +3441,8 @@ tags = 'Brosencephalon Cardiovascular::Pathology::vasculitides'
 model = 'Cloze-Brosencephalon'
 note-id = 1384919793251
 text = """
-{{c1::Wegener's Granulomatosis}} is a necrotizing, granulomatous vasculitis that classically involves the upper \
-respiratory tract, lungs and kidneys."""
+{{c1::Granulomatosis with polyangiitis (Wegener)}} is a necrotizing, granulomatous vasculitis that classically involves \
+the upper respiratory tract, lungs and kidneys."""
 extra = ""
 tags = 'Brosencephalon Cardiovascular::Pathology::vasculitides'
 
@@ -3449,8 +3450,8 @@ tags = 'Brosencephalon Cardiovascular::Pathology::vasculitides'
 model = 'Cloze-Brosencephalon'
 note-id = 1384919889290
 text = """
-{{c1::Wegener's Granulomatosis}} is a small-vessel vasculitis that commonly involves ulceration of the nasopharynx or \
-palate."""
+{{c1::Granulomatosis with polyangiitis (Wegener)}} is a small-vessel vasculitis that commonly involves ulceration of the \
+nasopharynx or palate."""
 extra = ""
 tags = 'Brosencephalon Cardiovascular::Pathology::vasculitides'
 
@@ -3458,8 +3459,8 @@ tags = 'Brosencephalon Cardiovascular::Pathology::vasculitides'
 model = 'Cloze-Brosencephalon'
 note-id = 1384919919188
 text = """
-What ANCA subtype is involved with&nbsp;Wegener's Granulomatosis?<div><br /></div><div>{{c1::cytoplasmic-ANCA \
-(PR3-ANCA)}}</div>"""
+What ANCA subtype is involved with&nbsp;Granulomatosis with Polyangiitis (Wegener)?<div><br /></div><div>{{c1\
+::cytoplasmic-ANCA (PR3-ANCA)}}</div>"""
 extra = ""
 tags = 'Brosencephalon Cardiovascular::Pathology::vasculitides'
 
@@ -3467,7 +3468,9 @@ tags = 'Brosencephalon Cardiovascular::Pathology::vasculitides'
 model = 'Cloze-Brosencephalon'
 note-id = 1384919969033
 text = '{{c1::Microscopic Polyangiitis}} is a necrotizing vasculitis that classically involves the lungs and kidneys only.'
-extra = '''<div><i>Presents similar to Wegener's Granulomatosis but lacks nasopharyngeal involvement and granulomas.</i></div>'''
+extra = """
+<div><i>Presents similar to Granulomatosis with polyangiitis (Wegener) but lacks nasopharyngeal involvement and \
+granulomas.</i></div>"""
 tags = 'Brosencephalon Cardiovascular::Pathology::vasculitides'
 
 [[notes]]
@@ -3483,8 +3486,8 @@ tags = 'Brosencephalon Cardiovascular::Pathology::vasculitides'
 model = 'Cloze-Brosencephalon'
 note-id = 1384920085966
 text = """
-{{c1::Churg-Strauss Syndrome}} is a necrotizing, granulomatous vasculitis/inflammation involving \
-<b>eosinophils</b>&nbsp;at many organs, especially the <b>lungs and heart</b>."""
+{{c1::Eosinophilic&nbsp;granulomatosis with&nbsp;polyangiitis (Churg-Strauss Syndrome)}} is a necrotizing, granulomatous \
+vasculitis/inflammation involving <b>eosinophils</b>&nbsp;at many organs, especially the <b>lungs and heart</b>."""
 extra = ""
 tags = 'Brosencephalon Cardiovascular::Pathology::vasculitides'
 
@@ -3492,8 +3495,8 @@ tags = 'Brosencephalon Cardiovascular::Pathology::vasculitides'
 model = 'Cloze-Brosencephalon'
 note-id = 1384920137998
 text = """
-{{c1::Churg-Strauss Syndrome}} is a type of vasculitis that presents with asthma, peripheral eosinophilia, and \
-vascular/extravascular granulomas."""
+{{c1::Eosinophilic&nbsp;granulomatosis with&nbsp;polyangiitis (Churg-Strauss Syndrome)}} is a type of vasculitis that \
+presents with asthma, peripheral eosinophilia, and vascular/extravascular granulomas."""
 extra = ""
 tags = 'Brosencephalon Cardiovascular::Pathology::vasculitides'
 
@@ -3501,8 +3504,8 @@ tags = 'Brosencephalon Cardiovascular::Pathology::vasculitides'
 model = 'Cloze-Brosencephalon'
 note-id = 1384920195535
 text = """
-What ANCA subtype is associated with&nbsp;Churg-Strauss Syndrome?<div><br /></div><div>{{c1::perinuclear-ANCA (MPO-\
-ANCA)}}</div>"""
+What ANCA subtype is associated with&nbsp;Eosinophilic&nbsp;granulomatosis with&nbsp;polyangiitis (Churg-Strauss \
+Syndrome)?<div><br /></div><div>{{c1::perinuclear-ANCA (MPO-ANCA)}}</div>"""
 extra = ""
 tags = 'Brosencephalon Cardiovascular::Pathology::vasculitides'
 
@@ -7669,14 +7672,18 @@ tags = 'Brosencephalon Cardiovascular::Pathology::vasculitides'
 [[notes]]
 model = 'Cloze-Brosencephalon'
 note-id = 1397678712389
-text = '''What type of vasculitis is Wegener's Granulomatosis?<div><br /></div><div>{{c1::Small vessel vasculitis}}</div>'''
+text = """
+What type of vasculitis is Granulomatosis with polyangiitis (Wegener)?<div><br /></div><div>{{c1::Small vessel \
+vasculitis}}</div>"""
 extra = ""
 tags = 'Brosencephalon Cardiovascular::Pathology::vasculitides'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
 note-id = 1397678728616
-text = 'What type of vasculitis is Churg-Strauss Syndrome?<div><br /></div><div>{{c1::Small vessel vasculitis}}</div>'
+text = """
+What type of vasculitis is Eosinophilic&nbsp;granulomatosis with&nbsp;polyangiitis (Churg-Strauss Syndrome)?<div><br \
+/></div><div>{{c1::Small vessel vasculitis}}</div>"""
 extra = ""
 tags = 'Brosencephalon Cardiovascular::Pathology::vasculitides'
 
@@ -8015,7 +8022,7 @@ model = 'Cloze-Brosencephalon'
 note-id = 1397684031629
 text = """
 Which small-vessel vasculitis affects the upper respiratory tract, lower respiratory tract \
-<b>and</b>&nbsp;kidneys?<div><br /></div><div>{{c1::Wegener Granulomatosis with Polyangiitis}}</div>"""
+<b>and</b>&nbsp;kidneys?<div><br /></div><div>{{c1::Granulomatosis with polyangiitis (Wegener)}}</div>"""
 extra = ""
 tags = 'Brosencephalon Cardiovascular::Pathology::vasculitides'
 
@@ -8023,7 +8030,7 @@ tags = 'Brosencephalon Cardiovascular::Pathology::vasculitides'
 model = 'Cloze-Brosencephalon'
 note-id = 1397685057099
 text = """
-{{c1::Wegener Granulomatosis with Polyangiitis}} is a necrotizing, granulomatous vasculitis involving the nasopharynx, \
+{{c1::Granulomatosis with polyangiitis (Wegener)}} is a necrotizing, granulomatous vasculitis involving the nasopharynx, \
 lungs <b>and</b>&nbsp;kidneys."""
 extra = ""
 tags = 'Brosencephalon Cardiovascular::Pathology::vasculitides'
@@ -8033,8 +8040,8 @@ model = 'Cloze-Brosencephalon'
 note-id = 1397685168766
 text = """
 Which small-vessel vasculitis involves a triad of <b>focal necrotising vasculitis</b>, <b>necrotizing granulomas at the \
-lung and nasopharynx</b>&nbsp;and <b>necrotizing glomerulonephritis</b>?<div><br></div><div>{{c1::Wegener Granulomatosis \
-with Polyangiitis}}</div>"""
+lung and nasopharynx</b>&nbsp;and <b>necrotizing glomerulonephritis</b>?<div><br /></div><div>{{c1::Granulomatosis with \
+polyangiitis (Wegener)}}</div>"""
 extra = ""
 tags = 'Brosencephalon Cardiovascular::Pathology::vasculitides'
 
@@ -8042,7 +8049,7 @@ tags = 'Brosencephalon Cardiovascular::Pathology::vasculitides'
 model = 'Cloze-Brosencephalon'
 note-id = 1397685229086
 text = """
-Which ANCA antibodies are associated with&nbsp;Wegener Granulomatosis with Polyangiitis?<div><br /></div><div><img \
+Which ANCA antibodies are associated with&nbsp;Granulomatosis with polyangiitis (Wegener)?<div><br /></div><div><img \
 src="paste-23437636534515.jpg" /><br /><div><br /></div><div>{{c1::PR3-ANCA (anti-proteinase 3 ANCA; \
 c-ANCA)}}</div></div>"""
 extra = ""
@@ -8061,7 +8068,7 @@ tags = 'Brosencephalon Cardiovascular::Pathology::vasculitides'
 model = 'Cloze-Brosencephalon'
 note-id = 1397685384033
 text = """
-What is the treatment for&nbsp;Wegener Granulomatosis with Polyangiitis?<div><br />{{c1::Cyclophosphamide; \
+What is the treatment for&nbsp;Granulomatosis with polyangiitis (Wegener)?<div><br />{{c1::Cyclophosphamide; \
 Corticosteroids}}</div>"""
 extra = ""
 tags = 'Brosencephalon Cardiovascular::Pathology::vasculitides'
@@ -8070,8 +8077,8 @@ tags = 'Brosencephalon Cardiovascular::Pathology::vasculitides'
 model = 'Cloze-Brosencephalon'
 note-id = 1397685409147
 text = """
-Which small-vessel vasculitis is associated with <b>large, nodular densities</b>&nbsp;on chest \
-x-ray?<div><br></div><div>{{c1::Wegener Granulomatosis with Polyangiitis}}</div>"""
+Which small-vessel vasculitis is associated with <b>large, nodular densities</b>&nbsp;on chest x-ray?<div><br \
+/></div><div>{{c1::Granulomatosis with polyangiitis (Wegener)}}</div>"""
 extra = ""
 tags = 'Brosencephalon Cardiovascular::Pathology::vasculitides'
 
@@ -8079,8 +8086,8 @@ tags = 'Brosencephalon Cardiovascular::Pathology::vasculitides'
 model = 'Cloze-Brosencephalon'
 note-id = 1397685436722
 text = """
-{{c1::Microscopic Polyangiitis}} is a small vessel vasculitis that presents similarly to Wegener Granulomatosis, but \
-<b>lacks nasopharyngeal involvement and granulomas</b>."""
+{{c1::Microscopic Polyangiitis}} is a small vessel vasculitis that presents similarly to Granulomatosis with \
+polyangiitis (Wegener), but <b>lacks nasopharyngeal involvement and granulomas</b>."""
 extra = ""
 tags = 'Brosencephalon Cardiovascular::Pathology::vasculitides'
 
@@ -8097,7 +8104,7 @@ tags = 'Brosencephalon Cardiovascular::Pathology::vasculitides'
 model = 'Cloze-Brosencephalon'
 note-id = 1397685839024
 text = """
-{{c1::Microscopic polyangiitis}} is a small vessel&nbsp;<b>necrotizing</b>&nbsp;vasculitis that involves <b>pauci-immune \
+{{c1::Microscopic Polyangiitis}} is a small vessel&nbsp;<b>necrotizing</b>&nbsp;vasculitis that involves <b>pauci-immune \
 glomerulonephritis</b>&nbsp;and <b>palpable purpura</b>."""
 extra = ""
 tags = 'Brosencephalon Cardiovascular::Pathology::vasculitides'
@@ -8130,7 +8137,9 @@ tags = 'Brosencephalon Cardiovascular::Pathology::vasculitides'
 [[notes]]
 model = 'Cloze-Brosencephalon'
 note-id = 1397685979327
-text = 'Which small-vessel vasculitis is associated with Asthma?<div><br /></div><div>{{c1::Churg-Strauss Syndrome}}</div>'
+text = """
+Which small-vessel vasculitis is associated with Asthma?<div><br /></div><div>{{c1::Eosinophilic&nbsp;granulomatosis \
+with&nbsp;polyangiitis (Churg-Strauss Syndrome)}}</div>"""
 extra = ""
 tags = 'Brosencephalon Cardiovascular::Pathology::vasculitides'
 
@@ -8138,8 +8147,9 @@ tags = 'Brosencephalon Cardiovascular::Pathology::vasculitides'
 model = 'Cloze-Brosencephalon'
 note-id = 1397686668806
 text = """
-{{c1::Churg-Strauss Syndrome}} is a small-vessel <b>granulomatous, necrotizing</b>&nbsp;vasculitis that involves \
-<b>eosinophilia</b>.<div><br /></div><div><img src="paste-24790551232766.jpg" /></div>"""
+{{c1::Eosinophilic&nbsp;granulomatosis with&nbsp;polyangiitis&nbsp;(Churg-Strauss Syndrome)}} is a small-vessel \
+<b>granulomatous, necrotizing</b>&nbsp;vasculitis that involves <b>eosinophilia</b>.<div><br /></div><div><img \
+src="paste-24790551232766.jpg" /></div>"""
 extra = ""
 tags = 'Brosencephalon Cardiovascular::Pathology::vasculitides'
 
@@ -8147,9 +8157,9 @@ tags = 'Brosencephalon Cardiovascular::Pathology::vasculitides'
 model = 'Cloze-Brosencephalon'
 note-id = 1397686708135
 text = """
-{{c1::Churg-Strauss Syndrome}} is a small-vessel <b>granulomatous, necrotizing</b>&nbsp;vasculitis, <u>with \
-eosinophilia</u>, that involves <b>sinusitis</b>, <b>palpable purpura</b>&nbsp;and <b>pauci-immune \
-glomerulonephritis</b>."""
+{{c1::Eosinophilic&nbsp;granulomatosis with&nbsp;polyangiitis&nbsp;(Churg-Strauss Syndrome)}} is a small-vessel \
+<b>granulomatous, necrotizing</b>&nbsp;vasculitis, <u>with eosinophilia</u>, that involves <b>sinusitis</b>, <b>palpable \
+purpura</b>&nbsp;and <b>pauci-immune glomerulonephritis</b>."""
 extra = ""
 tags = 'Brosencephalon Cardiovascular::Pathology::vasculitides'
 
@@ -8157,8 +8167,8 @@ tags = 'Brosencephalon Cardiovascular::Pathology::vasculitides'
 model = 'Cloze-Brosencephalon'
 note-id = 1397686832597
 text = """
-Which small-vessel vasculitis is associated with Peripheral Neuropathy (wrist/foot drop)?<div><br /></div><div>{{c1\
-::Churg-Strauss Syndrome}}</div>"""
+Which small-vessel vasculitis is associated with Peripheral Neuropathy (wrist/foot drop)?<div><br \
+/></div><div>{{c1::Eosinophilic&nbsp;granulomatosis with&nbsp;polyangiitis (Churg-Strauss Syndrome)}}</div>"""
 extra = ""
 tags = 'Brosencephalon Cardiovascular::Pathology::vasculitides'
 
@@ -8166,9 +8176,9 @@ tags = 'Brosencephalon Cardiovascular::Pathology::vasculitides'
 model = 'Cloze-Brosencephalon'
 note-id = 1397686854767
 text = """
-What ANCA antibodies are associated with&nbsp;Churg-Strauss Syndrome?<div><br /></div><div><img \
-src="paste-25129853649144.jpg" /><br /><div><br /></div><div>{{c1::MPO-ANCA (anti-myeloperoxidase ANCA; \
-p-ANCA)}}</div></div>"""
+What ANCA antibodies are associated with&nbsp;Eosinophilic&nbsp;granulomatosis with&nbsp;polyangiitis (Churg-Strauss \
+Syndrome)?<div><br /></div><div><img src="paste-25129853649144.jpg" /><br /><div><br /></div><div>{{c1::MPO-ANCA (anti-\
+myeloperoxidase ANCA; p-ANCA)}}</div></div>"""
 extra = ""
 tags = 'Brosencephalon Cardiovascular::Pathology::vasculitides'
 
@@ -8176,8 +8186,8 @@ tags = 'Brosencephalon Cardiovascular::Pathology::vasculitides'
 model = 'Cloze-Brosencephalon'
 note-id = 1397686930763
 text = """
-Which small-vessel vasculitis is associated with <b>elevated IgE</b>?<div><br /></div><div>{{c1::Churg-Strauss \
-Syndrome}}</div>"""
+Which small-vessel vasculitis is associated with <b>elevated IgE</b>?<div><br \
+/></div><div>{{c1::Eosinophilic&nbsp;granulomatosis with&nbsp;polyangiitis (Churg-Strauss Syndrome)}}</div>"""
 extra = '<div><i>Remember, Churg-Strauss involves eosinophilia.</i></div>'
 tags = 'Brosencephalon Cardiovascular::Pathology::vasculitides'
 

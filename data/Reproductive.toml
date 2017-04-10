@@ -2828,15 +2828,15 @@ tags = 'Brosencephalon Reproductive::Pathology::prostate'
 model = 'Cloze-Brosencephalon'
 note-id = 1394395654386
 text = """
-{{c1::Reiter Syndrome}} is a self-limiting infectious syndrome that involves <b>urethritis, conjunctivitis </b>and \
-<b>arthritis</b>."""
-extra = '<br><i>Everyone at AUC has Reiters Syndrome</i>'
+{{c1::Reactive Arthritis (Reiter Syndrome)}} is a self-limiting infectious syndrome that involves <b>urethritis, \
+conjunctivitis </b>and <b>arthritis</b>"""
+extra = '<br /><i>Everyone at AUC has Reactive arthritis</i>'
 tags = 'Brosencephalon Reproductive::Pathology::prostate'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
 note-id = 1394396756282
-text = '''What HLA subtype is associated with Reiter's Syndrome?<div><br /></div><div>{{c1::HLA-B27}}</div>'''
+text = '''What HLA subtype is associated with Reactive arthritis (Reiter's Syndrome)?<div><br /></div><div>{{c1::HLA-B27}}</div>'''
 extra = ""
 tags = 'Brosencephalon Reproductive::Pathology::prostate'
 

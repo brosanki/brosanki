@@ -6524,8 +6524,8 @@ tags = 'Brosencephalon MSK-Skin-CT::Pathology::unsorted'
 model = 'Cloze-Brosencephalon'
 note-id = 1397430103502
 text = """
-What is the classic triad of symptoms seen in Reactive Arthritis (Reiter Syndrome)?<div><br \
-/></div><div>{{c1::Cojunctivitis; Urethritis; Arthritis}}</div>"""
+What is the classic triad of symptoms seen in Reactive Arthritis (Reiter \
+Syndrome)?<div><br></div><div>{{c1::Conjunctivitis; Urethritis; Arthritis}}</div>"""
 extra = '''<div><i>"Can't see, can't pee, can't bend my knee."</i></div>'''
 tags = 'Brosencephalon MSK-Skin-CT::Pathology::unsorted'
 

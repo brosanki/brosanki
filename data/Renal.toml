@@ -1334,8 +1334,8 @@ tags = 'Brosencephalon Renal::Pathology::nephritic-syndrome'
 model = 'Cloze-Brosencephalon'
 note-id = 1393176058497
 text = """
-What type of glomerular immunofluoresence is seen in Wegener's Granulomatosis?<div><br /></div><div>{{c1::Pauci-\
-Immune}}</div>"""
+What type of glomerular immunofluoresence is seen in Granulomatosis with polyangiitis (Wegener)?<div><br \
+/></div><div>{{c1::Pauci-Immune}}</div>"""
 extra = ""
 tags = 'Brosencephalon Renal::Pathology::nephritic-syndrome'
 
@@ -1361,17 +1361,17 @@ tags = 'Brosencephalon Renal::Pathology::nephritic-syndrome'
 model = 'Cloze-Brosencephalon'
 note-id = 1393176136963
 text = """
-{{c1::Wegener's Granulomatosis}} is a Type III Rapidly Progressive Glomerulonephritis (RPGN) associated with \
-<b>c-ANCA</b>."""
+{{c1::Granulomatosis with polyangiitis (Wegener)}} is a Type III Rapidly Progressive Glomerulonephritis (RPGN) \
+associated with <b>c-ANCA</b>."""
 extra = """
-<div><i>Remember, Wegener's affects the lungs, kidneys AND pharynx. So do not automatically think Goodpasture's if there \
-is lung and kidney involvement.</i></div>"""
+<div><i>Remember, Granulomatosis with polyangiitis affects the lungs, kidneys AND pharynx. So do not automatically think \
+Goodpasture's if there is lung and kidney involvement.</i></div>"""
 tags = 'Brosencephalon Renal::Pathology::nephritic-syndrome'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
 note-id = 1393176199186
-text = '''What type of ANCA is seen in Wegener's Granulomatosis?<div><br /></div><div>{{c1::c-ANCA}}</div>'''
+text = 'What type of ANCA is seen in Granulomatosis with polyangiitis (Wegener)?<div><br /></div><div>{{c1::c-ANCA}}</div>'
 extra = '''<div><i>"We<b><u>c</u></b>ener's"</i></div>'''
 tags = 'Brosencephalon Renal::Pathology::nephritic-syndrome'
 
