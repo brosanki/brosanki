@@ -3409,7 +3409,7 @@ tags = 'Brosencephalon Cardiovascular::Pathology::vasculitides'
 [[notes]]
 model = 'Cloze-Brosencephalon'
 note-id = 1384919703455
-text = '''What is the Tx for&nbsp;Kawasaki's Disease?<div><br /></div><div>{{c1::Aspirin}}</div>'''
+text = '''What is the Tx for&nbsp;Kawasaki's Disease?<div><br></div><div>{{c1::IVIG and Aspirin}}</div>'''
 extra = '<div><i>Inhibits the production of Thromboxane A2, thereby inhibiting thrombosis.</i></div>'
 tags = 'Brosencephalon Cardiovascular::Pathology::vasculitides'
 
@@ -12055,4 +12055,13 @@ text = """
 occlusion of the left subclavian artery or brachiocephalic trunk.</div>"""
 extra = '<i><br /></i>'
 tags = 'Brosencephalon Cardiovascular::Pathology::aortic-dissection'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1488571858732
+text = """
+{{c1::Hereditary hemorrhagic telangiectasia}} is a small-vessel vasculitis that presents with <b>blanching skin lesions \
+(telangiectasias)</b>, <b>recurrent epistaxis</b>, and <b>skin discolorations</b>"""
+extra = 'Also presents with arteriovenous malformations, GI bleeding, and hematuria'
+tags = 'Brosencephalon Cardiovascular::Pathology::vasculitides'
 
