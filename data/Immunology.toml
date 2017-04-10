@@ -833,14 +833,14 @@ tags = 'Brosencephalon Immunology::Lymphocytes::innate-vs-adaptive-immunity'
 [[notes]]
 model = 'Cloze-Brosencephalon'
 note-id = 1403729873078
-text = '{{c1::HLA-A}},&nbsp;{{c2::HLA-B}} and&nbsp;{{c3::HLA-C}} are the HLA loci associated with MHC I.'
+text = '{{c1::HLA-A}},&nbsp;{{c1::HLA-B}} and&nbsp;{{c1::HLA-C}} are the HLA loci associated with MHC I.'
 extra = ""
 tags = 'Brosencephalon Immunology::Lymphocytes::mhc-i-and-ii'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
 note-id = 1403730052424
-text = '{{c1::HLA-DR}},&nbsp;{{c2::HLA-DP}} and&nbsp;{{c3::HLA-DQ}} are the HLA loci that are associated with MHC II.'
+text = '{{c1::HLA-DR}},&nbsp;{{c1::HLA-DP}} and&nbsp;{{c1::HLA-DQ}} are the HLA loci that are associated with MHC II.'
 extra = ""
 tags = 'Brosencephalon Immunology::Lymphocytes::mhc-i-and-ii'
 
@@ -2695,7 +2695,9 @@ tags = 'Brosencephalon Immunology::Immune-Responses::autoantibodies'
 [[notes]]
 model = 'Cloze-Brosencephalon'
 note-id = 1403995155658
-text = 'Which autoantibody is associated with T1DM?<div><br /></div><div>{{c1::Anti-glutamate decarboxylase}}</div>'
+text = """
+Which autoantibody is associated with T1DM?<div><br /></div><div>{{c1::Anti-glutamate decarboxylase, islet cell \
+cytoplasmic antibodies}}</div>"""
 extra = ""
 tags = 'Brosencephalon Immunology::Immune-Responses::autoantibodies'
 
@@ -4505,4 +4507,13 @@ Which complement deficiency results in Hereditary Angioedema?<div><br /></div><d
 deficiency}}</div><div><br /></div><div><img src="paste-21809843929442.jpg" /></div>"""
 extra = '<div><i>Typically presents periorbitally and at mucosal surfaces.</i></div>'
 tags = 'Brosencephalon Immunology::Immune-Responses::immunodeficiencies'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1488338810188
+text = """
+Which autoantibody is associated with Primary membranous nephropathy?<div><br /></div><div>{{c1::Antiphospholipase \
+A<sub>2</sub>&nbsp;receptor}}</div>"""
+extra = ""
+tags = 'Brosencephalon Immunology::Immune-Responses::autoantibodies'
 
