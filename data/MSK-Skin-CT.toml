@@ -727,7 +727,7 @@ model = 'Cloze-Brosencephalon'
 note-id = 1383086966175
 text = """
 What 2 bacterial species is commonly the cause of Osteomyelitis in diabetics or IV drug users?<div><br \
-/></div><div>{{c1::<i>Pseudomonas spp.</i>}}</div>"""
+/></div><div>{{c1::<i>Pseudomonas spp. and Staphylococcus aureus</i>}}</div>"""
 extra = """
 Patients with Sickle Cell disease contract Osteomyelitis as a result of Salmonella, whereas IV drug users may be \
 infected with Pseudomonas. &nbsp;However, Staphylococcus aureus continues to be most common cause of Osteomyelitis in \

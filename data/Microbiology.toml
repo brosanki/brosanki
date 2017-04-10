@@ -7925,8 +7925,8 @@ tags = 'Brosencephalon Microbiology::Clinical-Bacteriology::zoonotic-bacteria'
 model = 'Cloze-Brosencephalon'
 note-id = 1402794315636
 text = """
-The&nbsp;{{c1::louse}} is an insect that serves as the vector for <i>Borrelia recurrentis</i>&nbsp;(Relapsing Fever) as \
-it has variable surface antigens."""
+The&nbsp;{{c1::louse}} is an insect that serves as the vector for <i>Borrelia recurrentis</i>&nbsp;(Relapsing Fever), a \
+bacteria with variable surface antigens."""
 extra = '<div><i>The antigen variability makes it recurrent.</i></div>'
 tags = 'Brosencephalon Microbiology::Clinical-Bacteriology::zoonotic-bacteria'
 
@@ -13203,8 +13203,8 @@ tags = 'Brosencephalon Microbiology::Systems::torches-infections'
 model = 'Cloze-Brosencephalon'
 note-id = 1403393249459
 text = """
-What cardiovascular defects are associated with Congenital Rubella (ToRCHeS)?<div><br /></div><div>{{c1::PDA or \
-Pulmonary Artery Hypoplasia}}</div>"""
+What cardiovascular defects are associated with Congenital Rubella (ToRCHeS)?<div><br /></div><div>{{c1::PDA (Patent \
+Ductus Arteriosus) or Pulmonary Artery Hypoplasia}}</div>"""
 extra = ""
 tags = 'Brosencephalon Microbiology::Systems::torches-infections'
 
