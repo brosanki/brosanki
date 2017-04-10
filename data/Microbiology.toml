@@ -2035,8 +2035,8 @@ tags = 'Brosencephalon Microbiology::Basic-Bacteriology::unsorted'
 model = 'Cloze-Brosencephalon'
 note-id = 1385688352461
 text = """
-{{c1::<i>Mycobacterium tuberculosis</i>}} is an acid-fast, obligate anerobe bacteria that causes tuberculosis.<div><br \
-/></div><div><img src="paste-1413044240777.jpg" /></div>"""
+{{c1::<i>Mycobacterium tuberculosis</i>}} is an acid-fast, obligate aerobe bacteria that causes \
+tuberculosis.<div><br></div><div><img src="paste-1413044240777.jpg" /></div>"""
 extra = ""
 tags = 'Brosencephalon Microbiology::Basic-Bacteriology::unsorted'
 
