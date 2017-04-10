@@ -1,0 +1,49 @@
+[[models]]
+vers = []
+name = "Cloze-Brosencephalon"
+tags = []
+did = 1482818683246
+usn = 900
+sortf = 0
+mod = 1491837210
+latexPost = "\\end{document}"
+type = 1
+id = 1481924269089
+css = ".card {\n\tfont-family: Calibri, \"Open sans\", Arial;\n\tfont-size: 18px;\n\tcolor: #F0EAE5;\n        text-align:center;\n\tbackground-color: #202020;}\n\nhr { \n\tbox-shadow: 0 0 5px 0.2px #A5A19E;\n\tborder-color: #A5A19E !important;\n\tmargin: 0;}\n\n.cloze {\n\tfont-weight: bold;\n\tcolor: #CC5E5D;}\n\n.extra {\n\tfont-size: 90%;\n        font-family: Calibri,\"Open Sans\", Arial;\n\tcolor: #81A2BE;}\n\n.tags {\n\tcolor: #363636;\n\tfont-size: 60%;\n\ttext-align: left;\n        text-transform: uppercase;\n\tposition:fixed;\n        font-family: Calibri, \"Open Sans\", Arial;\n\tbottom:22px;\n\tleft:20px;}\n\n.tags:hover {\n\tcolor: #d4cfc9;\n\tcursor: default;}"
+latexPre = "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n"
+
+[[models.flds]]
+name = "Note ID"
+media = []
+sticky = false
+rtl = false
+ord = 0
+font = "Helvetica"
+size = 18
+
+[[models.flds]]
+name = "Text"
+media = []
+sticky = false
+rtl = false
+ord = 1
+font = "Helvetica"
+size = 18
+
+[[models.flds]]
+name = "Extra"
+media = []
+sticky = false
+rtl = false
+ord = 2
+font = "Helvetica"
+size = 18
+
+[[models.tmpls]]
+name = "Cloze"
+qfmt = "<div class=card>{{cloze:Text}}</div>"
+#did = null  # To use: uncomment and replace null with value
+bafmt = ""
+afmt = "<div class=card>{{cloze:Text}}</div><br>\n<div class=extra>{{Extra}}</div>\n\n<div class=tags>{{Tags}}</div>"
+ord = 0
+bqfmt = ""
