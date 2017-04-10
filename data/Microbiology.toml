@@ -4573,56 +4573,80 @@ note-id = 1402349330844
 text = """
 {{c1::Chronic Granulomatous Disease}} is an immune disorder that involves a deficiency of NADPH Oxidase and subsequent \
 recurrent infections with catalase-positive organisms."""
-extra = '<div><img src="paste-3766686318661.jpg" /></div><div><img src="paste-3779571220525.jpg" /></div>'
+extra = """
+<div>Examples: <i><b>N</b>ocardia, <b>P</b>seudomonas, <b>L</b>isteria, <b>A</b>spergillus, <b>C</b>andida, <b>E</b> \
+coli, <b>S</b>taphylococci, <b>S</b>erratia, <b>B</b> cepacia, <b>H</b> pylori.</i></div><div><b>Cat</b>s <b>N</b>eed \
+<b>PLACESS</b> to <b>B</b>elch their <b>H</b>airballs</div>"""
 tags = 'Brosencephalon Microbiology::Basic-Bacteriology::catalase-positive-organisms'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
 note-id = 1402349542264
 text = 'What is the catalase expression of <i>Pseudomonas</i>?<div><br /></div><div>{{c1::Positive}}</div>'
-extra = '<div><div><img src="paste-3766686318661.jpg" /></div><div><img src="paste-3779571220525.jpg" /></div></div>'
+extra = """
+<div>Examples: <i><b>N</b>ocardia, <b>P</b>seudomonas, <b>L</b>isteria, <b>A</b>spergillus, <b>C</b>andida, <b>E</b> \
+coli, <b>S</b>taphylococci, <b>S</b>erratia, <b>B</b> cepacia, <b>H</b> pylori.</i></div><div><b>Cat</b>s <b>N</b>eed \
+<b>PLACESS</b> to <b>B</b>elch their <b>H</b>airballs</div>"""
 tags = 'Brosencephalon Microbiology::Basic-Bacteriology::catalase-positive-organisms'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
 note-id = 1402349557832
 text = 'What is the catalase expression of <i>Listeria</i>?<div><br /></div><div>{{c1::Positive}}</div>'
-extra = '<div><div><img src="paste-3766686318661.jpg" /></div><div><img src="paste-3779571220525.jpg" /></div></div>'
+extra = """
+<div>Examples: <i><b>N</b>ocardia, <b>P</b>seudomonas, <b>L</b>isteria, <b>A</b>spergillus, <b>C</b>andida, <b>E</b> \
+coli, <b>S</b>taphylococci, <b>S</b>erratia, <b>B</b> cepacia, <b>H</b> pylori.</i></div><div><b>Cat</b>s <b>N</b>eed \
+<b>PLACESS</b> to <b>B</b>elch their <b>H</b>airballs</div>"""
 tags = 'Brosencephalon Microbiology::Basic-Bacteriology::catalase-positive-organisms'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
 note-id = 1402349567633
 text = 'What is the catalase expression of <i>Aspergillus</i>?<div><br /></div><div>{{c1::Positive}}</div>'
-extra = '<div><div><img src="paste-3766686318661.jpg" /></div><div><img src="paste-3779571220525.jpg" /></div></div>'
+extra = """
+<div>Examples: <i><b>N</b>ocardia, <b>P</b>seudomonas, <b>L</b>isteria, <b>A</b>spergillus, <b>C</b>andida, <b>E</b> \
+coli, <b>S</b>taphylococci, <b>S</b>erratia, <b>B</b> cepacia, <b>H</b> pylori.</i></div><div><b>Cat</b>s <b>N</b>eed \
+<b>PLACESS</b> to <b>B</b>elch their <b>H</b>airballs</div>"""
 tags = 'Brosencephalon Microbiology::Basic-Bacteriology::catalase-positive-organisms'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
 note-id = 1402349580052
 text = 'What is the catalase expression of <i>Candida</i>?<div><br /></div><div>{{c1::Positive}}</div>'
-extra = '<div><div><img src="paste-3766686318661.jpg" /></div><div><img src="paste-3779571220525.jpg" /></div></div>'
+extra = """
+<div>Examples: <i><b>N</b>ocardia, <b>P</b>seudomonas, <b>L</b>isteria, <b>A</b>spergillus, <b>C</b>andida, <b>E</b> \
+coli, <b>S</b>taphylococci, <b>S</b>erratia, <b>B</b> cepacia, <b>H</b> pylori.</i></div><div><b>Cat</b>s <b>N</b>eed \
+<b>PLACESS</b> to <b>B</b>elch their <b>H</b>airballs</div>"""
 tags = 'Brosencephalon Microbiology::Basic-Bacteriology::catalase-positive-organisms'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
 note-id = 1402349588984
 text = 'What is the catalase expression of <i>Escherichia coli</i>?<div><br /></div><div>{{c1::Positive}}</div>'
-extra = '<div><div><img src="paste-3766686318661.jpg" /></div><div><img src="paste-3779571220525.jpg" /></div></div>'
+extra = """
+<div>Examples: <i><b>N</b>ocardia, <b>P</b>seudomonas, <b>L</b>isteria, <b>A</b>spergillus, <b>C</b>andida, <b>E</b> \
+coli, <b>S</b>taphylococci, <b>S</b>erratia, <b>B</b> cepacia, <b>H</b> pylori.</i></div><div><b>Cat</b>s <b>N</b>eed \
+<b>PLACESS</b> to <b>B</b>elch their <b>H</b>airballs</div>"""
 tags = 'Brosencephalon Microbiology::Basic-Bacteriology::catalase-positive-organisms'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
 note-id = 1402349603442
 text = 'What is the catalase expression of <i>Staphylococcus spp.</i>?<div><br /></div><div>{{c1::Positive}}</div>'
-extra = '<div><div><img src="paste-3766686318661.jpg" /></div><div><img src="paste-3779571220525.jpg" /></div></div>'
+extra = """
+<div>Examples: <i><b>N</b>ocardia, <b>P</b>seudomonas, <b>L</b>isteria, <b>A</b>spergillus, <b>C</b>andida, <b>E</b> \
+coli, <b>S</b>taphylococci, <b>S</b>erratia, <b>B</b> cepacia, <b>H</b> pylori.</i></div><div><b>Cat</b>s <b>N</b>eed \
+<b>PLACESS</b> to <b>B</b>elch their <b>H</b>airballs</div>"""
 tags = 'Brosencephalon Microbiology::Basic-Bacteriology::catalase-positive-organisms'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
 note-id = 1402349622197
 text = 'What is the catalase expression of <i>Serratia</i>?<div><br /></div><div>{{c1::Positive}}</div>'
-extra = ""
+extra = """
+<div>Examples: <i><b>N</b>ocardia, <b>P</b>seudomonas, <b>L</b>isteria, <b>A</b>spergillus, <b>C</b>andida, <b>E</b> \
+coli, <b>S</b>taphylococci, <b>S</b>erratia, <b>B</b> cepacia, <b>H</b> pylori.</i></div><div><b>Cat</b>s <b>N</b>eed \
+<b>PLACESS</b> to <b>B</b>elch their <b>H</b>airballs</div>"""
 tags = 'Brosencephalon Microbiology::Basic-Bacteriology::catalase-positive-organisms'
 
 [[notes]]
@@ -4650,56 +4674,80 @@ tags = 'Brosencephalon Microbiology::Basic-Bacteriology::encapsulated-bacteria-v
 model = 'Cloze-Brosencephalon'
 note-id = 1402351906729
 text = 'What is the urease expression of <i>Cryptococcus</i>?<div><br /></div><div>{{c1::Positive}}</div>'
-extra = '<div><img src="paste-4569845203063.jpg" /></div>'
+extra = """
+<div><div><i><b>P</b>roteus, <b>C</b>ryptococcus, <b>H</b> pylori, <b>U</b>reaplasma, <b>N</b>ocardia, \
+<b>K</b>lebsiella, <b>S</b> epidermidis,</i></div><div><i><b>S </b>saprophyticus</i></div></div><div><br \
+/></div><div><b>P</b>ee <b>CHUNKSS</b></div>"""
 tags = 'Brosencephalon Microbiology::Basic-Bacteriology::urease-positive-organisms'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
 note-id = 1402352669308
 text = 'What is the urease expression of <i>Helicobacter pylori</i>?<div><br /></div><div>{{c1::Positive}}</div>'
-extra = '<div><img src="paste-4565550235767.jpg" /></div>'
+extra = """
+<div><div><i><b>P</b>roteus, <b>C</b>ryptococcus, <b>H</b> pylori, <b>U</b>reaplasma, <b>N</b>ocardia, \
+<b>K</b>lebsiella, <b>S</b> epidermidis,</i></div><div><i><b>S </b>saprophyticus</i></div></div><div><br \
+/></div><div><b>P</b>ee <b>CHUNKSS</b></div>"""
 tags = 'Brosencephalon Microbiology::Basic-Bacteriology::urease-positive-organisms'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
 note-id = 1402352685232
 text = 'What is the urease expression of <i>Proteus</i>?<div><br /></div><div>{{c1::Positive}}</div>'
-extra = '<div><img src="paste-4565550235767.jpg" /></div>'
+extra = """
+<div><div><i><b>P</b>roteus, <b>C</b>ryptococcus, <b>H</b> pylori, <b>U</b>reaplasma, <b>N</b>ocardia, \
+<b>K</b>lebsiella, <b>S</b> epidermidis,</i></div><div><i><b>S </b>saprophyticus</i></div></div><div><br \
+/></div><div><b>P</b>ee <b>CHUNKSS</b></div>"""
 tags = 'Brosencephalon Microbiology::Basic-Bacteriology::urease-positive-organisms'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
 note-id = 1402352694298
 text = 'What is the urease expression of <i>Ureaplasma spp</i>?<div><br /></div><div>{{c1::Positive}}</div>'
-extra = '<div><img src="paste-4565550235767.jpg" /></div>'
+extra = """
+<div><div><i><b>P</b>roteus, <b>C</b>ryptococcus, <b>H</b> pylori, <b>U</b>reaplasma, <b>N</b>ocardia, \
+<b>K</b>lebsiella, <b>S</b> epidermidis,</i></div><div><i><b>S </b>saprophyticus</i></div></div><div><br \
+/></div><div><b>P</b>ee <b>CHUNKSS</b></div>"""
 tags = 'Brosencephalon Microbiology::Basic-Bacteriology::urease-positive-organisms'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
 note-id = 1402352707385
 text = 'What is the urease expression of <i>Nocardia spp</i>?<div><br /></div><div>{{c1::Positive}}</div>'
-extra = '<div><img src="paste-4565550235767.jpg" /></div>'
+extra = """
+<div><div><i><b>P</b>roteus, <b>C</b>ryptococcus, <b>H</b> pylori, <b>U</b>reaplasma, <b>N</b>ocardia, \
+<b>K</b>lebsiella, <b>S</b> epidermidis,</i></div><div><i><b>S </b>saprophyticus</i></div></div><div><br \
+/></div><div><b>P</b>ee <b>CHUNKSS</b></div>"""
 tags = 'Brosencephalon Microbiology::Basic-Bacteriology::urease-positive-organisms'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
 note-id = 1402352717906
 text = 'What is the urease expression of <i>Klebsiella spp.</i>?<div><br /></div><div>{{c1::Positive}}</div>'
-extra = '<div><img src="paste-4565550235767.jpg" /></div>'
+extra = """
+<div><div><i><b>P</b>roteus, <b>C</b>ryptococcus, <b>H</b> pylori, <b>U</b>reaplasma, <b>N</b>ocardia, \
+<b>K</b>lebsiella, <b>S</b> epidermidis,</i></div><div><i><b>S </b>saprophyticus</i></div></div><div><br \
+/></div><div><b>P</b>ee <b>CHUNKSS</b></div>"""
 tags = 'Brosencephalon Microbiology::Basic-Bacteriology::urease-positive-organisms'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
 note-id = 1402352728938
 text = 'What is the urease expression of <i>Staphylococcus epidermidis</i>?<div><br /></div><div>{{c1::Positive}}</div>'
-extra = ""
+extra = """
+<div><div><i><b>P</b>roteus, <b>C</b>ryptococcus, <b>H</b> pylori, <b>U</b>reaplasma, <b>N</b>ocardia, \
+<b>K</b>lebsiella, <b>S</b> epidermidis,</i></div><div><i><b>S </b>saprophyticus</i></div></div><div><br \
+/></div><div><b>P</b>ee <b>CHUNKSS</b></div>"""
 tags = 'Brosencephalon Microbiology::Basic-Bacteriology::urease-positive-organisms'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
 note-id = 1402352742276
 text = 'What is the urease expression of <i>Staphylococcus saprophyticus</i>?<div><br /></div><div>{{c1::Positive}}</div>'
-extra = '<div><img src="paste-4565550235767.jpg" /></div>'
+extra = """
+<div><div><i><b>P</b>roteus, <b>C</b>ryptococcus, <b>H</b> pylori, <b>U</b>reaplasma, <b>N</b>ocardia, \
+<b>K</b>lebsiella, <b>S</b> epidermidis,</i></div><div><i><b>S </b>saprophyticus</i></div></div><div><br \
+/></div><div><b>P</b>ee <b>CHUNKSS</b></div>"""
 tags = 'Brosencephalon Microbiology::Basic-Bacteriology::urease-positive-organisms'
 
 [[notes]]
