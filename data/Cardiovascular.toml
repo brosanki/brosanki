@@ -3240,9 +3240,8 @@ tags = 'Brosencephalon Cardiovascular::Pathology::vasculitides'
 model = 'Cloze-Brosencephalon'
 note-id = 1384917948794
 text = """
-What type of vasculitis is involves the Temporal Artery, causing it to dilate and become inflamed?<div><br \
-/></div><div><img src="paste-13060995547404.jpg" /></div><div><br /></div><div>{{c1::Temporal Giant Cell \
-Arteritis}}</div>"""
+What type of vasculitis involves the Temporal Artery, causing it to dilate and become inflamed?<div><br></div><div><img \
+src="paste-13060995547404.jpg"></div><div><br></div><div>{{c1::Temporal Giant Cell Arteritis}}</div>"""
 extra = ""
 tags = 'Brosencephalon Cardiovascular::Pathology::vasculitides'
 

@@ -4872,7 +4872,7 @@ tags = 'Brosencephalon Gastrointestinal::Embryology::tracheoesophageal-anomalies
 model = 'Cloze-Brosencephalon'
 note-id = 1405567161887
 text = """
-{{c1::Cyanosis}} is a feature of congenital trancheoesophageal anomalies that occurs <b>secondary to \
+{{c1::Cyanosis}} is a feature of congenital tracheoesophageal anomalies that occurs <b>secondary to \
 laryngospasm</b>&nbsp;which occurs to avoid reflux-related aspiration."""
 extra = ""
 tags = 'Brosencephalon Gastrointestinal::Embryology::tracheoesophageal-anomalies'

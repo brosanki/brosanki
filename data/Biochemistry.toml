@@ -5398,7 +5398,7 @@ tags = 'Biochemistry::Nutrition::vitamin-b9-(folate) Brosencephalon'
 model = 'Cloze-Brosencephalon'
 note-id = 1401414272434
 text = """
-Which water soluble vitamine is important in the synthesis of nitrogenous bases in DNA and RNA?<div><br \
+Which water soluble vitamin is important in the synthesis of nitrogenous bases in DNA and RNA?<div><br \
 /></div><div>{{c1::Vitamin B9 (Folic Acid)}}</div>"""
 extra = ""
 tags = 'Biochemistry::Nutrition::vitamin-b9-(folate) Brosencephalon'

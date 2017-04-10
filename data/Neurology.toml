@@ -5326,7 +5326,7 @@ tags = 'Brosencephalon Neurology::Pathology::unsorted-myopathy'
 model = 'Cloze-Brosencephalon'
 note-id = 1391031544458
 text = """
-{{c1::Polyomyositis}} is an imflammatory myopathy that involves heavy intrafascicular mononuclear infiltrate.<div><br \
+{{c1::Polymyositis}} is an inflammatory myopathy that involves heavy intrafascicular mononuclear infiltrate.<div><br \
 /></div><div><img src="paste-3560527888720.jpg" /></div>"""
 extra = ""
 tags = 'Brosencephalon Neurology::Pathology::unsorted-myopathy'

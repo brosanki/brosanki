@@ -997,7 +997,7 @@ tags = 'Brosencephalon Immunology::Lymphocytes::hla-subtypes-and-associated-with
 [[notes]]
 model = 'Cloze-Brosencephalon'
 note-id = 1403736148376
-text = 'Which HLA subtype is associated with Graves Disease?<div><br /></div><div>{{c1::HLS-DR3}}</div>'
+text = 'Which HLA subtype is associated with Graves Disease?<div><br /></div><div>{{c1::HLA-DR3}}</div>'
 extra = ""
 tags = 'Brosencephalon Immunology::Lymphocytes::hla-subtypes-and-associated-with-diseases'
 
@@ -1342,8 +1342,8 @@ tags = 'Brosencephalon Immunology::Lymphocytes::cytotoxic-t-cells'
 model = 'Cloze-Brosencephalon'
 note-id = 1403805210685
 text = """
-Which type of T cell functions to <b>maintain specific immune tolerance</b>&nbsp;by <b>suppression CD4 and CD8 T \
-cell</b>&nbsp;effector function?<div><br /></div><div>{{c1::Regulatory T cells}}</div>"""
+Which type of T cell functions to <b>maintain specific immune tolerance</b>&nbsp;by <b>suppression of CD4+ and CD8+ T \
+cell</b>&nbsp;effector function?<div><br></div><div>{{c1::Regulatory T cells}}</div>"""
 extra = ""
 tags = 'Brosencephalon Immunology::Lymphocytes::regulatory-t-cells'
 
@@ -1827,7 +1827,7 @@ tags = 'Brosencephalon Immunology::Immune-Responses::complement-disorders'
 model = 'Cloze-Brosencephalon'
 note-id = 1403906701579
 text = """
-{{c1::C3 Deficiency}} is a complement disorder that presents with an increased risk of severem recurrent <b>pyogenic \
+{{c1::C3 Deficiency}} is a complement disorder that presents with an increased risk of severe recurrent <b>pyogenic \
 sinus and respiratory tract infections</b>."""
 extra = ""
 tags = 'Brosencephalon Immunology::Immune-Responses::complement-disorders'
@@ -2156,7 +2156,7 @@ model = 'Cloze-Brosencephalon'
 note-id = 1403922433630
 text = """
 Which cell surface protein on macrophages is the receptor for <b>endotoxin/LPS</b>&nbsp;from gram-negative \
-bacteria?<div><br /></div><div>{{c1::CD-14}}</div>"""
+bacteria?<div><br></div><div>{{c1::CD14}}</div>"""
 extra = ""
 tags = 'Brosencephalon Immunology::Immune-Responses::effects-of-bacterial-toxins'
 
@@ -2164,7 +2164,7 @@ tags = 'Brosencephalon Immunology::Immune-Responses::effects-of-bacterial-toxins
 model = 'Cloze-Brosencephalon'
 note-id = 1403972465428
 text = """
-{{c1::<i>Salmonella</i>}} is a gram-negative bacteria that yiels antigenic variation due to it having 2 flagellar \
+{{c1::<i>Salmonella</i>}} is a gram-negative bacteria that yields antigenic variation due to it having 2 flagellar \
 variants."""
 extra = ""
 tags = 'Brosencephalon Immunology::Immune-Responses::antigenic-variation'
@@ -2344,7 +2344,7 @@ tags = 'Brosencephalon Immunology::Immune-Responses::hypersensitivity-types'
 [[notes]]
 model = 'Cloze-Brosencephalon'
 note-id = 1403977596021
-text = 'Which immunoglobulin isotype is involved in Type II Hypersensitivity?<div><br /></div><div>{{c1::IgM; IgG}}</div>'
+text = 'Which immunoglobulin isotypes are involved in Type II Hypersensitivity?<div><br /></div><div>{{c1::IgM; IgG}}</div>'
 extra = '<div><img src="paste-38341173051709.jpg" /></div>'
 tags = 'Brosencephalon Immunology::Immune-Responses::hypersensitivity-types'
 
@@ -2407,7 +2407,7 @@ tags = 'Brosencephalon Immunology::Immune-Responses::hypersensitivity-types'
 model = 'Cloze-Brosencephalon'
 note-id = 1403978567048
 text = """
-{{c1::Arthus Reaction}} is a type III hypersensitivity that is characterized by edema, necrosis of the skin and \
+{{c1::Arthus Reaction}} is a Type III hypersensitivity that is characterized by edema, necrosis of the skin and \
 complement activation."""
 extra = ""
 tags = 'Brosencephalon Immunology::Immune-Responses::hypersensitivity-types'

@@ -1180,8 +1180,8 @@ tags = 'Brosencephalon MSK-Skin-CT::Pharmacology::gout-drugs'
 model = 'Cloze-Brosencephalon'
 note-id = 1383253625417
 text = """
-{{c1::Leflunomide}} is a DMARD used to treat severe Rheumatoid Arthritis and Psoriatic Arthritis by inhibiting Dihydro-\
-orotate Dehydrogenase."""
+{{c1::Leflunomide}} is a DMARD used to treat severe Rheumatoid Arthritis and Psoriatic Arthritis by inhibiting \
+Dihydroorotate Dehydrogenase."""
 extra = ""
 tags = 'Brosencephalon MSK-Skin-CT::Pharmacology::gout-drugs'
 
@@ -5923,7 +5923,7 @@ tags = 'Brosencephalon MSK-Skin-CT::Pathology::unsorted'
 model = 'Cloze-Brosencephalon'
 note-id = 1397408242969
 text = """
-{{c1::Osteoarthritis}} is a joint disorder that involves pain that <b>worsens</b>&nbsp;with use (typically at its worse \
+{{c1::Osteoarthritis}} is a joint disorder that involves pain that <b>worsens</b>&nbsp;with use (typically at its worst \
 at the end of the day)."""
 extra = ""
 tags = 'Brosencephalon MSK-Skin-CT::Pathology::unsorted'
@@ -5999,7 +5999,7 @@ model = 'Cloze-Brosencephalon'
 note-id = 1397411502752
 text = """
 {{c1::Rheumatoid Factor (anti-IgG IgM antibody)}} is an autoantibody that is found in 80% of Rheumatoid Arthritis cases \
-and targets the F<sub>c</sub>&nbsp;portion circulating IgG."""
+and targets the F<sub>c</sub>&nbsp;portion of circulating IgG."""
 extra = ""
 tags = 'Brosencephalon MSK-Skin-CT::Pathology::unsorted'
 
@@ -6139,7 +6139,7 @@ tags = 'Brosencephalon MSK-Skin-CT::Pathology::unsorted'
 model = 'Cloze-Brosencephalon'
 note-id = 1397424334567
 text = """
-What is the most common <b>mechanism</b>&nbsp;that causes Gout?<div><br /></div><div>{{c1::Underexcretion of \bUric Acid \
+What is the most common <b>mechanism</b>&nbsp;that causes Gout?<div><br /></div><div>{{c1::Underexcretion of\b Uric Acid \
 (seen in 90% of patients)}}</div>"""
 extra = '<div><i>Overproduction of Uric Acid is seen in 10% of patients.</i></div>'
 tags = 'Brosencephalon MSK-Skin-CT::Pathology::unsorted'
@@ -6215,7 +6215,9 @@ tags = 'Brosencephalon MSK-Skin-CT::Pathology::unsorted'
 [[notes]]
 model = 'Cloze-Brosencephalon'
 note-id = 1397426749507
-text = '{{c1::Gout}} is a joint disorder that involves the precipitation of needle shaped, <b>negative birfringent </b>crystals.'
+text = """
+{{c1::Gout}} is a joint disorder that involves the precipitation of needle shaped, <b>negative birefringent \
+</b>crystals."""
 extra = ""
 tags = 'Brosencephalon MSK-Skin-CT::Pathology::unsorted'
 
@@ -6452,7 +6454,7 @@ tags = 'Brosencephalon MSK-Skin-CT::Pathology::unsorted'
 model = 'Cloze-Brosencephalon'
 note-id = 1397429360404
 text = """
-{{c1::Akylosing Spondylitis}} is a Seronegative Spondyloarthropathy that involves chronic inflammatory disease of the \
+{{c1::Ankylosing Spondylitis}} is a Seronegative Spondyloarthropathy that involves chronic inflammatory disease of the \
 spine and sacroiliac joints."""
 extra = ""
 tags = 'Brosencephalon MSK-Skin-CT::Pathology::unsorted'
@@ -6471,7 +6473,7 @@ model = 'Cloze-Brosencephalon'
 note-id = 1397429794709
 text = """
 Which type of Seronegative Spondyloarthropathy is associated with <b>uveitis</b> and <b>aortic \
-regurgitation</b>?<div><br /></div><div>{{c1::Akylosing Spondylitis}}</div>"""
+regurgitation</b>?<div><br /></div><div>{{c1::Ankylosing Spondylitis}}</div>"""
 extra = ""
 tags = 'Brosencephalon MSK-Skin-CT::Pathology::unsorted'
 
@@ -7875,7 +7877,7 @@ tags = 'Brosencephalon MSK-Skin-CT::Pharmacology::unsorted'
 model = 'Cloze-Brosencephalon'
 note-id = 1397491654889
 text = """
-{{c1::Colchicine}} is an acute gout drug that binds to an stabilizes Tubulin to inhibit microtubule polymerization, \
+{{c1::Colchicine}} is an acute gout drug that binds to and stabilizes Tubulin to inhibit microtubule polymerization, \
 thereby imparing Leukocyte chemotaxis and degranulation."""
 extra = ""
 tags = 'Brosencephalon MSK-Skin-CT::Pharmacology::unsorted'

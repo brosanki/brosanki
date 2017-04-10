@@ -1636,7 +1636,7 @@ tags = 'Brosencephalon Pathology::Inflammation::acute-inflammation'
 model = 'Cloze-Brosencephalon'
 note-id = 1404155233002
 text = """
-{{c1::Bradykinin}} is a breakdown product of high-molecular weight kininogen that mediates vasodilation and icnreased \
+{{c1::Bradykinin}} is a breakdown product of high-molecular weight kininogen that mediates vasodilation and increased \
 vascular permeability as well as pain."""
 extra = ""
 tags = 'Brosencephalon Pathology::Inflammation::acute-inflammation'
@@ -2721,7 +2721,7 @@ tags = 'Brosencephalon Pathology::Autoimmune::autoimmune-disorders'
 model = 'Cloze-Brosencephalon'
 note-id = 1404188205154
 text = """
-{{c1::Limited Scleroderma}} is a type of Scleroderms that has involved limited skin involvement with late visceral \
+{{c1::Limited Scleroderma}} is a type of Scleroderma that has involved limited skin involvement with late visceral \
 involvement."""
 extra = ""
 tags = 'Brosencephalon Pathology::Autoimmune::autoimmune-disorders'

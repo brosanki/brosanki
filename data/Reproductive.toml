@@ -7125,7 +7125,7 @@ tags = 'Brosencephalon Reproductive::Embryology::branchial-arch-derivatives'
 [[notes]]
 model = 'Cloze-Brosencephalon'
 note-id = 1405204554793
-text = 'Which branchial arch gives rise to the Stylohoid muscle?<div><br /></div><div>{{c1::2nd}}</div>'
+text = 'Which branchial arch gives rise to the Stylohyoid muscle?<div><br /></div><div>{{c1::2nd}}</div>'
 extra = ""
 tags = 'Brosencephalon Reproductive::Embryology::branchial-arch-derivatives'
 

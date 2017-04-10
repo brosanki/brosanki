@@ -1517,8 +1517,8 @@ tags = 'Brosencephalon Microbiology::Basic-Bacteriology::unsorted'
 model = 'Cloze-Brosencephalon'
 note-id = 1385425443961
 text = """
-{{c1::<i>Legionella pneumophila</i>}} is a bacteria that causes atypical/broncho- pneumonia that requires \
-&nbsp;a&nbsp;{{c2::charcoal yeast extract}} agar to be cultured."""
+{{c1::<i>Legionella pneumophila</i>}} is a bacteria that causes atypical/broncho- pneumonia that requires a \
+{{c2::charcoal yeast extract}} agar to be cultured."""
 extra = '<div><i>Takes 3-5 days</i></div>'
 tags = 'Brosencephalon Microbiology::Basic-Bacteriology::unsorted'
 
@@ -2312,7 +2312,7 @@ model = 'Cloze-Brosencephalon'
 note-id = 1391919875084
 text = """
 Which serotypes of <i>Chlamydia trachomatis</i>&nbsp;are involved with TRIC (Trachoma Inclusion Body \
-Conjunctivitis)?<div><br /></div><div>{{c1::D--K}}</div>"""
+Conjunctivitis)?<div><br></div><div>{{c1::D-K}}</div>"""
 extra = '<div><i>"TRICH comes from D--K"</i></div>'
 tags = 'Brosencephalon Microbiology::Basic-Bacteriology::unsorted'
 
@@ -3200,7 +3200,7 @@ tags = 'Brosencephalon Microbiology::Antimicrobials::unsorted-antibiotics'
 model = 'Cloze-Brosencephalon'
 note-id = 1395363300453
 text = """
-{{c1::Aminoglycosides}} are a type of antibiotic that are commonly used in s<b>evere gram-negative \
+{{c1::Aminoglycosides}} are a type of antibiotic that are commonly used in <b>severe gram-negative \
 bacilli</b>&nbsp;infections with disseminated septicemia."""
 extra = ""
 tags = 'Brosencephalon Microbiology::Antimicrobials::unsorted-antibiotics'
@@ -3819,8 +3819,8 @@ tags = 'Brosencephalon Microbiology::Basic-Bacteriology::bacterial-structures'
 model = 'Cloze-Brosencephalon'
 note-id = 1402172315718
 text = """
-The&nbsp;{{c1::spore}} is a bacterial structure that is resistance to dehydration, heat and chemicals due to its \
-keratin-like coat and composition of peptidoglycan and dipicolinic acid."""
+The&nbsp;{{c1::spore}} is a bacterial structure that is resistant to dehydration, heat and chemicals due to its keratin-\
+like coat and composition of peptidoglycan and dipicolinic acid."""
 extra = ""
 tags = 'Brosencephalon Microbiology::Basic-Bacteriology::bacterial-structures'
 
@@ -4142,7 +4142,7 @@ tags = 'Brosencephalon Microbiology::Basic-Bacteriology::stains'
 model = 'Cloze-Brosencephalon'
 note-id = 1402175618870
 text = """
-Why doesn't <i>Legionella pneunophila</i>&nbsp;gram stain well?<div><br /></div><div>{{c1::Primarily intracellular \
+Why doesn't <i>Legionella pneumophila</i>&nbsp;gram stain well?<div><br></div><div>{{c1::Primarily intracellular \
 organism}}</div>"""
 extra = '<div><i>Legionella requires a silver stain.</i></div>'
 tags = 'Brosencephalon Microbiology::Basic-Bacteriology::stains'
@@ -4157,7 +4157,7 @@ tags = 'Brosencephalon Microbiology::Basic-Bacteriology::stains'
 [[notes]]
 model = 'Cloze-Brosencephalon'
 note-id = 1402175671704
-text = '''Why doesn't <i>Rickettsia</i>&nbsp;gram stain cell?<div><br /></div><div>{{c1::Intracellular parasite}}</div>'''
+text = '''Why doesn't <i>Rickettsia</i>&nbsp;gram stain well?<div><br></div><div>{{c1::Intracellular parasite}}</div>'''
 extra = ""
 tags = 'Brosencephalon Microbiology::Basic-Bacteriology::stains'
 
@@ -4542,7 +4542,7 @@ tags = 'Brosencephalon Microbiology::Basic-Bacteriology::encapsulated-bacteria'
 [[notes]]
 model = 'Cloze-Brosencephalon'
 note-id = 1402347845933
-text = 'The&nbsp;{{c1::capsule}} is a bacterial structure that functions as an anti-phagocytic virulence factors.'
+text = 'The&nbsp;{{c1::capsule}} is a bacterial structure that functions as an anti-phagocytic virulence factor.'
 extra = ""
 tags = 'Brosencephalon Microbiology::Basic-Bacteriology::encapsulated-bacteria'
 
@@ -4626,7 +4626,7 @@ tags = 'Brosencephalon Microbiology::Basic-Bacteriology::catalase-positive-organ
 [[notes]]
 model = 'Cloze-Brosencephalon'
 note-id = 1402349631858
-text = 'What is the catalase expresison of <i>Neisseria</i>?<div><br /></div><div>{{c1::Positive}}</div>'
+text = 'What is the catalase expression of <i>Neisseria</i>?<div><br></div><div>{{c1::Positive}}</div>'
 extra = """
 <div><i><b>"Staph</b>'s <b>N</b>' <b>Enterobacteria</b>&nbsp;<b>A</b>re <b>List</b>ed <b>C</b>atalase <b>P</b>ositive"</\
 i></div><div><i>Staphylococcus</i></div><div><i>Neisseria</i></div><div><i>Enterobacteria</i></div><div><i>Aspergillus</\
@@ -4927,7 +4927,7 @@ model = 'Cloze-Brosencephalon'
 note-id = 1402416008097
 text = """
 What is the MOA of Shiga-like Toxin (SLT) from&nbsp;Enterohemorrhagic&nbsp;<i>Escherichia coli</i>&nbsp;(EHEC)?<div><br \
-/></div><div>{{c1::Inactivation of the 60S ribosomal subunit by remocing adenine from rRNA}}</div>"""
+/></div><div>{{c1::Inactivation of the 60S ribosomal subunit by removing adenine from rRNA}}</div>"""
 extra = '<div><i>Results in enhanced cytokine release and Hemolytic Uremia Syndrome (HUS).</i></div>'
 tags = 'Brosencephalon Microbiology::Basic-Bacteriology::bugs-with-exotoxins'
 
@@ -5034,7 +5034,7 @@ note-id = 1402417716210
 text = """
 What is the MOA of Cholera Toxin from <i>Vibrio cholerae</i>?<div><br /></div><div>{{c1::Overactivation of Adenylate \
 Cyclase by permanently activating the G<sub>s</sub>&nbsp;subunit via ADP ribosylation}}</div>"""
-extra = '<div><i>This thereby causes an increase in Cl secretion and H2O effluc at the gut.</i></div>'
+extra = '<div><i>This thereby causes an increase in Cl secretion and H2O efflux</i><i>&nbsp;at the gut.</i></div>'
 tags = 'Brosencephalon Microbiology::Basic-Bacteriology::bugs-with-exotoxins'
 
 [[notes]]
@@ -5096,8 +5096,8 @@ tags = 'Brosencephalon Microbiology::Basic-Bacteriology::bugs-with-exotoxins'
 model = 'Cloze-Brosencephalon'
 note-id = 1402418986922
 text = """
-What is the MOA of Tetanospasmin toxin from <i>Clostridium tetani</i>?<div><br /></div><div>{{c1::Cleavage of SNARE \
-proteins required for neurotransmitter release}}</div>"""
+What is the MOA of Tetanospasmin toxin from <i>Clostridium tetani</i>?<div><br></div><div>{{c1::Cleavage of SNARE \
+proteins required for GABA and Glycine neurotransmitter release}}</div>"""
 extra = ""
 tags = 'Brosencephalon Microbiology::Basic-Bacteriology::bugs-with-exotoxins'
 
@@ -7132,11 +7132,11 @@ note-id = 1402703433847
 text = """
 {{c1::Hemolytic Uremia Syndrome (HUS)}} is a hematological/renal complication \
 of&nbsp;Enterohemorrhagic&nbsp;<i>Escherichia coli</i>&nbsp;(EHEC) infection that involves a triad of&nbsp;<b>anemia, \
-thrombocytopaenia</b><i style="font-weight: bold; ">&nbsp;</i>and <b>acute renal failure</b>."""
+thrombocytopenia</b><i style="font-weight: bold; ">&nbsp;</i>and <b>acute renal failure</b>."""
 extra = """
 <div><i>Microthrombi form on endothelium that is damaged by the Shiga-like toxin. This then causes mechanical hemolysis \
 and formation of schistocytes. That also causes a decrease in renal blood flow.</i></div><div><i>Additionally, the \
-microthrombi results thrombocytopaenia due to the platelet usage.</i></div>"""
+microthrombi results in thrombocytopenia due to the platelet usage.</i></div>"""
 tags = 'Brosencephalon Microbiology::Clinical-Bacteriology::e-coli'
 
 [[notes]]
@@ -7152,7 +7152,7 @@ tags = 'Brosencephalon Microbiology::Clinical-Bacteriology::e-coli'
 model = 'Cloze-Brosencephalon'
 note-id = 1402703632090
 text = """
-Which major strain of <i>Echerichia coli</i>&nbsp;<b>does not</b>&nbsp;ferment Sorbitol?<div><br \
+Which major strain of <i>Escherichia coli</i>&nbsp;<b>does not</b>&nbsp;ferment Sorbitol?<div><br \
 /></div><div>{{c1::Enterohemorrhagic&nbsp;<i>Escherichia coli</i>&nbsp;(EHEC)}}</div>"""
 extra = '<div><i>This is how you differentiate EHEC from other Escherichia coli strains.</i></div>'
 tags = 'Brosencephalon Microbiology::Clinical-Bacteriology::e-coli'
@@ -7542,7 +7542,7 @@ tags = 'Brosencephalon Microbiology::Clinical-Bacteriology::lyme-disease'
 [[notes]]
 model = 'Cloze-Brosencephalon'
 note-id = 1402779823546
-text = 'Which animal is the natural reservoir for <i>Borrelia burdorferi</i>?<div><br /></div><div>{{c1::Mouse}}</div>'
+text = 'Which animal is the natural reservoir for <i>Borrelia burgdorferi</i>?<div><br /></div><div>{{c1::Mouse}}</div>'
 extra = '<div><i>Mice are important in the tick life cycle.</i></div>'
 tags = 'Brosencephalon Microbiology::Clinical-Bacteriology::lyme-disease'
 
@@ -7557,7 +7557,7 @@ tags = 'Brosencephalon Microbiology::Clinical-Bacteriology::lyme-disease'
 model = 'Cloze-Brosencephalon'
 note-id = 1402780493044
 text = """
-{{c1::Erythemia Chronicum Migrans}} is an <b>initial</b> cutaneous feature of Lyme Disease that is described as an \
+{{c1::Erythema Chronicum Migrans}} is an <b>initial</b> cutaneous feature of Lyme Disease that is described as an \
 expanding <b>"bull's eye", red, target</b>&nbsp;rash.<div><br /></div><div><img src="paste-2576980378017.jpg" /></div>"""
 extra = """
 <div><i>Other initial features include flu-like symptoms and ± facial nerve palsy.</i></div><div><i><img \
@@ -7830,7 +7830,7 @@ tags = 'Brosencephalon Microbiology::Clinical-Bacteriology::zoonotic-bacteria'
 model = 'Cloze-Brosencephalon'
 note-id = 1402794149604
 text = """
-How it Anaplasmosis (<i>Anaplasma spp.</i>) transmitted?<div><br /></div><div>{{c1::<i>Ixodes</i>&nbsp;tick (which lives \
+How is Anaplasmosis (<i>Anaplasma spp.</i>) transmitted?<div><br></div><div>{{c1::<i>Ixodes</i>&nbsp;tick (which lives \
 on deer and mice)}}</div>"""
 extra = ""
 tags = 'Brosencephalon Microbiology::Clinical-Bacteriology::zoonotic-bacteria'
@@ -7998,7 +7998,7 @@ tags = 'Brosencephalon Microbiology::Clinical-Bacteriology::zoonotic-bacteria'
 model = 'Cloze-Brosencephalon'
 note-id = 1402795760707
 text = """
-What is the vector for <b>Epidemic</b>&nbsp;Typhus&nbsp;(<i>Rickettsia prowazeki</i>)?<div><br /></div><div>{{c1::Human \
+What is the vector for <b>Epidemic</b>&nbsp;Typhus&nbsp;(<i>Rickettsia prowazekii</i>)?<div><br></div><div>{{c1::Human \
 Body Louse}}</div>"""
 extra = ""
 tags = 'Brosencephalon Microbiology::Clinical-Bacteriology::zoonotic-bacteria'
@@ -8016,8 +8016,8 @@ tags = 'Brosencephalon Microbiology::Clinical-Bacteriology::zoonotic-bacteria'
 model = 'Cloze-Brosencephalon'
 note-id = 1402796136402
 text = """
-What is the vector for Rocket Mountain Spotted Fever (<i>Rickettsia rickettsii</i>)?<div><br \
-/></div><div>{{c1::<i>Dermacentor</i>&nbsp;ticks}}</div>"""
+What is the vector for Rocky Mountain Spotted Fever (<i>Rickettsia \
+rickettsii</i>)?<div><br></div><div>{{c1::<i>Dermacentor</i>&nbsp;ticks}}</div>"""
 extra = ""
 tags = 'Brosencephalon Microbiology::Clinical-Bacteriology::zoonotic-bacteria'
 
@@ -8114,7 +8114,7 @@ model = 'Cloze-Brosencephalon'
 note-id = 1402797720987
 text = """
 Where in the United States does Rocky Mountain Spotted Fever primarily manifest?<div><br /></div><div>{{c1::South \
-Atlantic states, especially North Caroline}}</div>"""
+Atlantic states, especially North Carolina}}</div>"""
 extra = ""
 tags = 'Brosencephalon Microbiology::Clinical-Bacteriology::rickettsial-diseases-and-vector-borne-illnesses'
 
@@ -12689,7 +12689,7 @@ model = 'Cloze-Brosencephalon'
 note-id = 1403303672031
 text = """
 {{c1::<i>Streptococcus pneumoniae</i>}},&nbsp;{{c1::<i>Klebsiella</i>}} and&nbsp;{{c1::<i>Staphylococcus sp.</i>}} are \
-baceria known to cause pneumonia in alcoholics and/or IV drug users."""
+bacteria known to cause pneumonia in alcoholics and/or IV drug users."""
 extra = ""
 tags = 'Brosencephalon Microbiology::Systems::common-causes-of-pneumonia'
 
@@ -13392,7 +13392,7 @@ tags = 'Brosencephalon Microbiology::Systems::sexually-transmitted-infections'
 [[notes]]
 model = 'Cloze-Brosencephalon'
 note-id = 1403398503408
-text = 'What is the cause of Chlamydia?<div><br /></div><div>{{c1::<i>Chlamydia trachomatis</i>&nbsp;serotypes D-K}}</div>'
+text = 'What is the etiology of Chlamydia?<div><br /></div><div>{{c1::<i>Chlamydia trachomatis</i>&nbsp;serotypes D-K}}</div>'
 extra = ""
 tags = 'Brosencephalon Microbiology::Systems::sexually-transmitted-infections'
 
@@ -13622,7 +13622,7 @@ tags = 'Brosencephalon Microbiology::Systems::nosocomial-infections'
 [[notes]]
 model = 'Cloze-Brosencephalon'
 note-id = 1403404531311
-text = 'What is the most common nocosomial wound infection?<div><br /></div><div>{{c1::<i>Staphylococcus aureus</i>}}</div>'
+text = 'What is the most common nosocomial wound infection?<div><br></div><div>{{c1::<i>Staphylococcus aureus</i>}}</div>'
 extra = ""
 tags = 'Brosencephalon Microbiology::Systems::nosocomial-infections'
 
@@ -13823,8 +13823,8 @@ tags = 'Brosencephalon Microbiology::Systems::bug-hints'
 model = 'Cloze-Brosencephalon'
 note-id = 1403412257226
 text = """
-Which Hepatitis virus is commonly associated with causing <b>needle pricks</b>&nbsp;in health care workers?<div><br \
-/></div><div>{{c1::HBV}}</div>"""
+Which Hepatitis virus is commonly associated with&nbsp;<b>needle pricks</b>&nbsp;in health care \
+workers?<div><br></div><div>{{c1::HBV}}</div>"""
 extra = ""
 tags = 'Brosencephalon Microbiology::Systems::bug-hints'
 

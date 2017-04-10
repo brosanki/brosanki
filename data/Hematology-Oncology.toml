@@ -1853,7 +1853,7 @@ tags = 'Brosencephalon Hematology-Oncology::Pathology::unsorted-neoplasia'
 [[notes]]
 model = 'Cloze-Brosencephalon'
 note-id = 1382059540927
-text = '''What is an 'onion-skin' pattern of periosteal bone indicative of?<div><br /></div><div>{{c1::Ewing Sarcoma}}.</div>'''
+text = '''What is an 'onion-skin' pattern of periosteal bone indicative of?<div><br /></div><div>{{c1::Ewing Sarcoma}}</div>'''
 extra = ""
 tags = 'Brosencephalon Hematology-Oncology::Pathology::unsorted-neoplasia'
 
@@ -2261,7 +2261,7 @@ tags = 'Brosencephalon Hematology-Oncology::Pathology::unsorted-wbc-disorders'
 [[notes]]
 model = 'Cloze-Brosencephalon'
 note-id = 1382158220200
-text = 'What gene mutation in involved in Myelofibrosis?<div><br /></div><div>{{c1::JAK2 Kinase mutation}}</div>'
+text = 'What gene mutation is involved in Myelofibrosis?<div><br></div><div>{{c1::JAK2 Kinase mutation}}</div>'
 extra = ""
 tags = 'Brosencephalon Hematology-Oncology::Pathology::unsorted-wbc-disorders'
 
@@ -8363,7 +8363,7 @@ tags = 'Brosencephalon Hematology-Oncology::Pathology::unsorted-wbc-disorders'
 model = 'Cloze-Brosencephalon'
 note-id = 1397165434904
 text = """
-Which immunostain is positive in Hair Cell Leukemia?<div><br /></div><div>{{c1::TRAP (tartrate resistant acid \
+Which immunostain is positive in Hairy Cell Leukemia?<div><br></div><div>{{c1::TRAP (tartrate resistant acid \
 phosphatase)}}</div>"""
 extra = """
 <div><i>"<b>TRAP</b>&nbsp;the <b>hairy</b>&nbsp;beast!"</i></div><div><i>However the TRAP stain has been largely \
