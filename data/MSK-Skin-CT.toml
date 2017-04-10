@@ -1451,6 +1451,210 @@ tags = 'Brosencephalon MSK-Skin-CT::Anatomy-Physiology::smooth-muscle-contractio
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+note-id = 1384972933399
+text = """
+Which morphology of Hemangioma is shown below?<div><br /></div><div><img src="paste-2765958938823.jpg" /></div><div><br \
+/></div><div>{{c1::Capillary Hemangioma}}</div>"""
+extra = ""
+tags = 'Brosencephalon MSK-Skin-CT::Pathology::unsorted-skin'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1384976023646
+text = """
+Upon biopsy, the&nbsp;{{c1::capillary}} form of Hemangioma will show closely packed thin-walled capillaries.<div><br \
+/></div><div><img src="paste-2843268350247.jpg" /></div>"""
+extra = ""
+tags = 'Brosencephalon MSK-Skin-CT::Pathology::unsorted-skin'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1384976072454
+text = """
+A&nbsp;{{c1::pyogenic granuloma}} is a type of hemangioma that is inflamed and commonly presents at the gums in pregnant \
+women.<div><br /></div><div><img src="paste-2920577761424.jpg" /></div>"""
+extra = ""
+tags = 'Brosencephalon MSK-Skin-CT::Pathology::unsorted-skin'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1384976170024
+text = """
+Which morphology of Hemangioma is shown below?<div><br /></div><div><img src="paste-3023656976571.jpg" /></div><div><br \
+/></div><div>{{c1::Cavernous Hemangioma}}</div>"""
+extra = ""
+tags = 'Brosencephalon MSK-Skin-CT::Pathology::unsorted-skin'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1384976305754
+text = """
+{{c1::Von Hippel-Lindau (VHL)}} Syndrome is a precancerous, autosomal dominant disorder involving cavernous hemangiomas \
+at the cerebellum and retina (hemangioblastoma)."""
+extra = ""
+tags = 'Brosencephalon MSK-Skin-CT::Pathology::unsorted-skin'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1384976375575
+text = """
+What malignant cancer is commonly associated with Von Hippel-Lindau (VHL) Syndrome?<div><br /></div><div>{{c1::Renal \
+Cell Carcinoma (increased risk)}}</div>"""
+extra = ""
+tags = 'Brosencephalon MSK-Skin-CT::Pathology::unsorted-skin'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1384976467753
+text = '{{c1::Lymphangioma}} is a lymphatic analog of Hemangioma seen in children.'
+extra = ""
+tags = 'Brosencephalon MSK-Skin-CT::Pathology::unsorted-skin'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1384976846675
+text = """
+What is a Vascular Ectasia?<div><br /></div><div>{{c1::A <b>localized </b>dilation of <b><u>pre-existing blood \
+vessels</u></b>}}</div>"""
+extra = '<div><i>Is not a neoplasm</i></div>'
+tags = 'Brosencephalon MSK-Skin-CT::Pathology::unsorted-skin'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1384976905111
+text = """
+{{c1::Telangiectasia}} is a dilation of single, small blood vessels at the skin or mucosa.<div><br /></div><div><img \
+src="paste-4565550235950.jpg" /></div>"""
+extra = ""
+tags = 'Brosencephalon MSK-Skin-CT::Pathology::unsorted-skin'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1384976939522
+text = """
+{{c1::Spider Telangiectasia}} &nbsp;is a form of vascular ectasia defined as a radial array of dilated subcutaneous \
+arteries/arterioles around a central core.<div><br /></div><div><img src="paste-4591320039688.jpg" /></div>"""
+extra = ""
+tags = 'Brosencephalon MSK-Skin-CT::Pathology::unsorted-skin'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1384977008159
+text = """
+What is the etiology of Spider Telangiectasia?<div><br /></div><div>{{c1::Hyperestrinism in pregnancy or liver \
+cirrhosis}}</div>"""
+extra = ""
+tags = 'Brosencephalon MSK-Skin-CT::Pathology::unsorted-skin'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1384993100060
+text = '{{c1::Nevus Flammeus}} is a congenital deformity in capillaries that presents as a birthmark.'
+extra = ""
+tags = 'Brosencephalon MSK-Skin-CT::Pathology::unsorted-skin'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1384993153595
+text = '''The&nbsp;{{c1::salmon patch}} form of Nevus Flammus is also known as 'stork bite' and 'angel kiss'.'''
+extra = ""
+tags = 'Brosencephalon MSK-Skin-CT::Pathology::unsorted-skin'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1384993191612
+text = """
+The&nbsp;{{c1::Salmon patch}} form of Nevus Flammus is pink and flat. It is the form that regresses.<div><br \
+/></div><div><img src="paste-5819680686483.jpg" /></div>"""
+extra = ""
+tags = 'Brosencephalon MSK-Skin-CT::Pathology::unsorted-skin'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1384993238282
+text = """
+The&nbsp;{{c1::Port Wine Stain}} form of Nevus Flammeus does not regress. It is rough, thickens with the skin surface \
+and is a golden-brown to ruby colour.<div><br /></div><div><img src="paste-6283537154400.jpg" /></div>"""
+extra = ""
+tags = 'Brosencephalon MSK-Skin-CT::Pathology::unsorted-skin'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1384993298369
+text = """
+{{c1::Sturge-Weber}} Syndrome involves the Port-Wine form of Nevus Flammeus in the trigeminal nerve \
+distribution.<div><br /></div><div><img src="paste-5905580032411.jpg" /></div>"""
+extra = '<div><i>It also involves Leptomeningeal angiomas.</i></div><div><i><img src="paste-45569603010654.jpg" /></i></div>'
+tags = 'Brosencephalon MSK-Skin-CT::Pathology::unsorted-skin'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1384993417743
+text = """
+{{c1::Bacillary Angiomatosis}} is a vascular proliferation that is associated \
+with&nbsp;<i>Bartonella</i>&nbsp;infections.<div><br /></div><div><img src="paste-6416681140454.jpg" /></div>"""
+extra = ""
+tags = 'Brosencephalon MSK-Skin-CT::Pathology::unsorted-skin'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1384993913664
+text = """
+What stain can be used to identify <i>Bartonella</i>&nbsp;<i>spp</i>?<div><br /></div><div>{{c1::Wartin-Starry (silver) \
+stain}}</div>"""
+extra = ""
+tags = 'Brosencephalon MSK-Skin-CT::Pathology::unsorted-skin'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1384993949053
+text = """
+{{c1::Hemangiopericytoma}} is a neoplastic proliferation originating from pericytes. It is benign 2/3 and metastatis 1/3 \
+of the time."""
+extra = ""
+tags = 'Brosencephalon MSK-Skin-CT::Pathology::unsorted-skin'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1384994150655
+text = 'Which endothelial surface marker is expressed in Hemangiosarcoma?<div><br /></div><div>{{c1::CD31+}}</div>'
+extra = ""
+tags = 'Brosencephalon MSK-Skin-CT::Pathology::unsorted-skin'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1384995817880
+text = """
+{{c1::Capillary Hemangioma}} is the form of hemangioma that involves closely packed thin-walled capillaries filled with \
+blood and lined with endothelium."""
+extra = ""
+tags = 'Brosencephalon MSK-Skin-CT::Pathology::unsorted-skin'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1384995870547
+text = """
+{{c1::Cavernous Hemangioma}} is the form of Hemangioma that involves large cavernous channels lined with endothelium and \
+filled with RBCs."""
+extra = ""
+tags = 'Brosencephalon MSK-Skin-CT::Pathology::unsorted-skin'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1384995906155
+text = '{{c1::Angiosarcoma}} is a malignant proliferation of endothelial cells. It is very invasive.'
+extra = ""
+tags = 'Brosencephalon MSK-Skin-CT::Pathology::unsorted-skin'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1384996248720
+text = '''What is the etiology of Kaposi's Sarcoma?<div><br /></div><div>{{c1::Human Herpesvirus-8 (HHV8)}}</div>'''
+extra = ""
+tags = 'Brosencephalon MSK-Skin-CT::Pathology::unsorted-skin'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
 note-id = 1393379966090
 text = """
 Which antibodies are associated with Systemic Lupus Erythematosus (SLE)?<div><br /></div><div>{{c1::ANA (non-specific); \
@@ -7757,6 +7961,213 @@ Which GI disorder can be treated with Infliximab and Adalimumab?<div><br /></div
 (Crohn Disease and Ulcerative Colitis)}}</div>"""
 extra = ""
 tags = 'Brosencephalon MSK-Skin-CT::Pharmacology::unsorted'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1397674148390
+text = """
+{{c1::Raynaud Phenomenon}} is a vascular disorder that is described as a <u>decrease in blood flow to the skin due to \
+arteriolar vasospasm</u>, typically in response to cold temperature or emotional stress.<div><br /></div><div><img \
+src="paste-11892764442927.jpg" /></div>"""
+extra = """
+<div><i>Commonly seen at the fingers and toes.</i></div><div><i><b>Raynaud Disease</b>&nbsp;= primary = idiopathic, \
+typically cold induced</i></div><div><i><b>Raynaud syndrome</b>&nbsp;= secondary to another disease process such as SLE, \
+CREST Syndrome or a mixed connective tissue disorder</i></div>"""
+tags = 'Brosencephalon MSK-Skin-CT::Pathology::unsorted-skin'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1397675627033
+text = """
+{{c1::Strawberry Hemangioma}} is a vascular tumor described as a benign capillary hemangioma of infancy that appears in \
+the first few weeks of life (1/200 births).<div><br /></div><div><img src="paste-13529146982701.jpg" /></div>"""
+extra = '<div><i>Strawberry = infants/children</i></div><div><i>Cherry = elderly</i></div>'
+tags = 'Brosencephalon MSK-Skin-CT::Pathology::unsorted-skin'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1397675735048
+text = """
+{{c1::Strawberry Hemangioma}} is a benign capillary hemangioma of infancy that grows rapidly and regresses spontaneously \
+at 5-8 y/o.<div><br /></div><div><img src="paste-13524852015405.jpg" /></div>"""
+extra = '<div><div><i>Strawberry = infants/children</i></div><div><i>Cherry = elderly</i></div></div>'
+tags = 'Brosencephalon MSK-Skin-CT::Pathology::unsorted-skin'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1397675778894
+text = """
+{{c1::Cherry Hemangioma}} is a benign capillary hemangioma that is common in the <b>elderly</b>.<div><br \
+/></div><div><img src="paste-13769665151285.jpg" /></div>"""
+extra = '<div><div><i>Strawberry = infants/children</i></div><div><i>Cherry = elderly</i></div></div>'
+tags = 'Brosencephalon MSK-Skin-CT::Pathology::unsorted-skin'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1397675815943
+text = """
+Which benign capillary hemangioma is common in the <b>elderly</b>?<div><br /></div><div><img \
+src="paste-13765370183989.jpg" /></div><div><br /></div><div>{{c1::Cherry Hemangioma}}</div>"""
+extra = '<div><div><i>Strawberry = infants/children</i></div><div><i>Cherry = elderly</i></div></div>'
+tags = 'Brosencephalon MSK-Skin-CT::Pathology::unsorted-skin'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1397675912149
+text = """
+Which benign capillary hemangioma is common in <b>infants</b>?<div><br /></div><div><img src="paste-14443975016754.jpg" \
+/></div><div><br /></div><div>{{c1::Strawberry Hemangioma}}</div>"""
+extra = ""
+tags = 'Brosencephalon MSK-Skin-CT::Pathology::unsorted-skin'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1397675943836
+text = """
+Which benign capillary hemangioma appears in the first few weeks of life and regresses spontaneously at 5-8 y/o?<div><br \
+/></div><div><img src="paste-14439680049458.jpg" /></div><div><br /></div><div>{{c1::Strawberry hemangioma}}</div>"""
+extra = ""
+tags = 'Brosencephalon MSK-Skin-CT::Pathology::unsorted-skin'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1397675994872
+text = """
+Which benign capillary hemangioma <b>does not regress</b>&nbsp;and exhibits a higher frequency with age?<div><br \
+/></div><div><img src="paste-14529874362676.jpg" /><br /><div><br /></div><div>{{c1::Cherry Hemangioma}}</div></div>"""
+extra = ""
+tags = 'Brosencephalon MSK-Skin-CT::Pathology::unsorted-skin'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1397676026661
+text = '{{c1::Pyogenic Granuloma}} is a polypoid capillary hemangioma that can ulcerate and bleed.&nbsp;'
+extra = ""
+tags = 'Brosencephalon MSK-Skin-CT::Pathology::unsorted-skin'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1397676064507
+text = '{{c1::Pyogenic Granuloma}} is a polypoid capillary hemangioma that is associated with trauma and pregnancy.'
+extra = ""
+tags = 'Brosencephalon MSK-Skin-CT::Pathology::unsorted-skin'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1397676085123
+text = '{{c1::Cystic Hygroma}} is a vascular tumor defined as a <b>cavernous lymphangioma of the neck</b>.'
+extra = ""
+tags = 'Brosencephalon MSK-Skin-CT::Pathology::unsorted-skin'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1397676114706
+text = 'Which chromosomal disorder is associated with Cystic Hygroma?<div><br /></div><div>{{c1::Turner Syndrome (XO)}}</div>'
+extra = ""
+tags = 'Brosencephalon MSK-Skin-CT::Pathology::unsorted-skin'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1397676506774
+text = '{{c1::Cystic Hygroma}} is a cavernous lymphangioma of the neck that is associated with Turner Syndrome.'
+extra = ""
+tags = 'Brosencephalon MSK-Skin-CT::Pathology::unsorted-skin'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1397676539128
+text = """
+{{c1::Glomus Tumor}} is a vascular tumor described as a <b>benign, painful, red-blue tumor</b>&nbsp;found under the \
+fingernails."""
+extra = ""
+tags = 'Brosencephalon MSK-Skin-CT::Pathology::unsorted-skin'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1397676580867
+text = '{{c1::Glomus Tumor}} is a vascular tumor that arises from <b>modified smooth muscle cells</b>&nbsp;of the Glomus body.'
+extra = ""
+tags = 'Brosencephalon MSK-Skin-CT::Pathology::unsorted-skin'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1397676601462
+text = """
+{{c1::Bacillary Angiomatosis}} is a vascular tumor described as a <b><u>benign capillary skin \
+papule</u></b>&nbsp;commonly found in AIDS patients."""
+extra = ""
+tags = 'Brosencephalon MSK-Skin-CT::Pathology::unsorted-skin'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1397676681042
+text = 'What is the cause of Bacillary Angiomatosis?<div><br /></div><div>{{c1::<i>Bartonella henselae</i>}}</div>'
+extra = ""
+tags = 'Brosencephalon MSK-Skin-CT::Pathology::unsorted-skin'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1397676697255
+text = """
+{{c1::Bacillary Angiomatosis}} is a <b>benign capillary skin papule</b>&nbsp;that is commonly mistaken for Kaposi \
+Sarcoma."""
+extra = ""
+tags = 'Brosencephalon MSK-Skin-CT::Pathology::unsorted-skin'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1397676718701
+text = """
+{{c1::Angiosarcoma}} is a rare <b>malignant</b>&nbsp;vascular tumor that typically occurs in the head, neck and breast \
+areas due to <b>radiation therapy</b>&nbsp;or <b>arsenic exposure</b>."""
+extra = """
+<div><i>Typically seen in the elderly or in sun-exposed areas.</i></div><div><i>Very difficult to treat as it is \
+aggressive and diagnosis is typically delayed.</i></div>"""
+tags = 'Brosencephalon MSK-Skin-CT::Pathology::unsorted-skin'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1397676930284
+text = 'Which metalloid element is associated with Angiosarcoma?<div><br /></div><div>{{c1::Arsenic}}</div>'
+extra = ""
+tags = 'Brosencephalon MSK-Skin-CT::Pathology::unsorted-skin'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1397677190196
+text = """
+{{c1::Lymphangiosarcoma}} is a lymphatic vascular malignancy associated with persistent lymphedema such as post-radical \
+mastectomy."""
+extra = ""
+tags = 'Brosencephalon MSK-Skin-CT::Pathology::unsorted-skin'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1397677842567
+text = '{{c1::Kaposi Sarcoma}} is an endothelial malignancy associated with HHV-8 and HIV.'
+extra = ""
+tags = 'Brosencephalon MSK-Skin-CT::Pathology::unsorted-skin'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1397677865795
+text = 'What cells are proliferating in Kaposi Sarcoma?<div><br /></div><div>{{c1::Endothelium}}</div>'
+extra = ""
+tags = 'Brosencephalon MSK-Skin-CT::Pathology::unsorted-skin'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1397677876286
+text = 'What is the cause of Kaposi Sarcoma?<div><br /></div><div>{{c1::HHV-8 (associated with HIV)}}</div>'
+extra = ""
+tags = 'Brosencephalon MSK-Skin-CT::Pathology::unsorted-skin'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1397677890976
+text = '{{c1::Kaposi Sarcoma}} is a malignant endothelial tumor that is commonly mistaken for Bacillary Angiomatosis.'
+extra = ""
+tags = 'Brosencephalon MSK-Skin-CT::Pathology::unsorted-skin'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
