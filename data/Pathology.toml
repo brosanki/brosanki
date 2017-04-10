@@ -1,5 +1,6 @@
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'QJ6PSJR!o'
 note-id = 1381623954708
 text = """
 What ANAs are indicative of Systemic Lupus Erythematosus (SLE)?<div><br /></div><div>{{c1::Anti-dsDNA or nonspecific \
@@ -9,6 +10,7 @@ tags = 'Brosencephalon Pathology::Autoimmune::autoimmune-disorders'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'DH](W0e>V3'
 note-id = 1381626724903
 text = 'What ANA is indicative of Drug-induced Lupus Erythematosus?<div><br /></div><div>{{c1::Anti-histone}}</div>'
 extra = ""
@@ -16,6 +18,7 @@ tags = 'Brosencephalon Pathology::Autoimmune::autoimmune-disorders'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'o}8TJBuUZ%'
 note-id = 1381626763463
 text = 'What ANA is indicative of <b>diffuse&nbsp;</b>Systemic&nbsp;Scleroderma?<div><br /></div><div>{{c1::Scl-70}}</div>'
 extra = ""
@@ -23,6 +26,7 @@ tags = 'Brosencephalon Pathology::Autoimmune::autoimmune-disorders'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'mI/Z12ku3K'
 note-id = 1381627054060
 text = """
 What ANA is indicative of <b>limited </b>Systemic&nbsp;Scleroderma (i.e. CREST Syndrome)?<div><br /></div><div>{{c1\
@@ -32,6 +36,7 @@ tags = 'Brosencephalon Pathology::Autoimmune::autoimmune-disorders'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'b$g;BO)O,4'
 note-id = 1381627075578
 text = '''What ANAs are indicative of Sjogren's Syndrome?<div><br /></div><div>{{c1::SS-A/Ro and SS-B/La}}</div>'''
 extra = ""
@@ -39,6 +44,7 @@ tags = 'Brosencephalon Pathology::Autoimmune::autoimmune-disorders'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'P1{p3yz(Aj'
 note-id = 1381627111555
 text = """
 What is a Malar Butterfly Rash a common clinical feature of?<div><br /></div><div>{{c1::Systemic Lupus \
@@ -48,6 +54,7 @@ tags = 'Brosencephalon Pathology::Autoimmune::autoimmune-disorders'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'id891/?ky]'
 note-id = 1381627386489
 text = """
 {{c1::Libman-Sacks}} Endocarditis is an aseptic/sterile form of endocarditis characterized by small deposits on \
@@ -57,6 +64,7 @@ tags = 'Brosencephalon Pathology::Autoimmune::autoimmune-disorders'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'J]<RBpaFw)'
 note-id = 1381628108416
 text = """
 Antiphospholipid Antibody Syndrome (APS) typically involves which 2 autoantibodies?<div><br \
@@ -66,6 +74,7 @@ tags = 'Brosencephalon Pathology::Autoimmune::autoimmune-disorders'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'sL?tW~e$x0'
 note-id = 1381628704524
 text = """
 {{c1::Raynaud's}} Phenomenon is characterized by an excessively reduced blood flow in response to cold or emotional \
@@ -75,6 +84,7 @@ tags = 'Brosencephalon Pathology::Autoimmune::autoimmune-disorders'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'H;B-n,p9.t'
 note-id = 1381635094021
 text = """
 {{c1::Sjogren's Syndrome}} is an autoimmune disorders characterized by the T cell mediated destruction of the lacrimal \
@@ -84,6 +94,7 @@ tags = 'Brosencephalon Pathology::Autoimmune::autoimmune-disorders'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'jY:k2M1ry%'
 note-id = 1381635159376
 text = '{{c1::Scleroderma}} is an autoimmune disorder characterized by the activation of fibroblasts and deposition of collagen.'
 extra = ""
@@ -91,6 +102,7 @@ tags = 'Brosencephalon Pathology::Autoimmune::autoimmune-disorders'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'lFRPQp_yI,'
 note-id = 1404076014360
 text = '{{c1::Hypertrophy}} is a cellular growth adaptation that involves an <b>increase in cell size</b>.'
 extra = ""
@@ -98,6 +110,7 @@ tags = 'Brosencephalon Pathology::Neoplasia::growth-adaptations'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'nQRgKsLitg'
 note-id = 1404076697248
 text = '{{c1::Hyperplasia}} is a cellular growth adaptation that involves an <b>increase in cell number</b>.'
 extra = ""
@@ -105,6 +118,7 @@ tags = 'Brosencephalon Pathology::Neoplasia::growth-adaptations'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'JGR#LyFl0K'
 note-id = 1404076717164
 text = """
 {{c1::Hypertrophy}} is a cellular growth adaptation that involves gene activation, protein synthesis and the production \
@@ -114,6 +128,7 @@ tags = 'Brosencephalon Pathology::Neoplasia::growth-adaptations'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'y5`%?>B4y%'
 note-id = 1404076741694
 text = '{{c1::Hyperplasia}} is a cellular growth adaptation that involves the production of new cells from stem cells.'
 extra = ""
@@ -121,6 +136,7 @@ tags = 'Brosencephalon Pathology::Neoplasia::growth-adaptations'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'OT%hw^jrh/'
 note-id = 1404076758402
 text = """
 Which type of tissue <b>cannot</b>&nbsp;make new cells and hence only undergoes hypertrophy?<div><br \
@@ -132,6 +148,7 @@ tags = 'Brosencephalon Pathology::Neoplasia::growth-adaptations'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'Gd]F9#co3`'
 note-id = 1404076809071
 text = """
 Which 3 specific tissues make up <b>permanent tissue</b>?<div><br /></div><div>{{c1::Cardiac muscle; skeletal muscle; \
@@ -143,6 +160,7 @@ tags = 'Brosencephalon Pathology::Neoplasia::growth-adaptations'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'KP:>lp[}kT'
 note-id = 1404076911194
 text = """
 {{c1::Benign Prostatic Hyperplasia (BPH)}} is a type of pathological hyperplasia seen at the prostate that <b>does \
@@ -154,6 +172,7 @@ tags = 'Brosencephalon Pathology::Neoplasia::growth-adaptations'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'B9mzc[;:(~'
 note-id = 1404077177893
 text = """
 {{c1::Atrophy}} is a cellular growth adaptation that involves a decrease in the <b>size</b>&nbsp;and \
@@ -163,6 +182,7 @@ tags = 'Brosencephalon Pathology::Neoplasia::growth-adaptations'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'xWqAce$bd{'
 note-id = 1404078193418
 text = '{{c1::Apoptosis}} is a process by which a <b>decrease in cell number occurs</b>&nbsp;(i.e. atrophy).'
 extra = ""
@@ -170,6 +190,7 @@ tags = 'Brosencephalon Pathology::Neoplasia::growth-adaptations'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'xfb/yC!BGz'
 note-id = 1404078219822
 text = """
 {{c1::Ubiquitin-proteosome degradation}} is a process by which a <b>decrease in cell size</b>&nbsp;occurs (i.e. \
@@ -183,6 +204,7 @@ tags = 'Brosencephalon Pathology::Neoplasia::growth-adaptations'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'G1tpS>4xt('
 note-id = 1404078427367
 text = """
 {{c1::Metaplasia}} is a cellular growth adaptation that involves a <b>change in cell type</b>&nbsp;due to a <b>change in \
@@ -194,6 +216,7 @@ tags = 'Brosencephalon Pathology::Neoplasia::growth-adaptations'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'uTeVEPzF}t'
 note-id = 1404078918513
 text = """
 <div>{{c1::Barrett Esophagus}} is a type of pathological metaplasia that occurs at the esophagus due to <b>acid \
@@ -207,6 +230,7 @@ tags = 'Brosencephalon Pathology::Neoplasia::growth-adaptations'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'c<,/?N]|,;'
 note-id = 1404079151977
 text = """
 {{c1::Metaplasia}} is a cellular growth adaptation that occurs via the reprogramming of stem cells which then produce \
@@ -218,6 +242,7 @@ tags = 'Brosencephalon Pathology::Neoplasia::growth-adaptations'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'DY.R2qkq?w'
 note-id = 1404079520961
 text = """
 {{c1::Dysplasia}} is a pathological complication of metaplasia that can present if the metaplastic tissue is held under \
@@ -227,6 +252,7 @@ tags = 'Brosencephalon Pathology::Neoplasia::growth-adaptations'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'AQoC_6Zhg+'
 note-id = 1404079611160
 text = """
 {{c1::Apocrine Metaplasia of the Breast}} is an example of metaplasia that occurs at the breast and <b>does \
@@ -236,6 +262,7 @@ tags = 'Brosencephalon Pathology::Neoplasia::growth-adaptations'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'h>$4Y}KgFi'
 note-id = 1404079654455
 text = 'Which fat soluble vitamin deficiency can result in metaplasia?<div><br /></div><div>{{c1::Vitamin A}}</div>'
 extra = ""
@@ -243,6 +270,7 @@ tags = 'Brosencephalon Pathology::Neoplasia::growth-adaptations'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = '^4Dp#3~_%'
 note-id = 1404079681951
 text = """
 Which fat soluble vitamin is necessary for the differentiation of specialized epithelial surfaces?<div><br \
@@ -252,6 +280,7 @@ tags = 'Brosencephalon Pathology::Neoplasia::growth-adaptations'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'Lgj+/0E<as'
 note-id = 1404079732166
 text = """
 {{c1::Keratomalacia}} is an ocular complication of Vitamin A deficiency that results from the thin squamous lining of \
@@ -262,6 +291,7 @@ tags = 'Brosencephalon Pathology::Neoplasia::growth-adaptations'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'I@w>-Z_>oW'
 note-id = 1404079770504
 text = """
 {{c1::Myositis Ossificans}} is a metaplastic disorder that involves connective tissue within muscle changing to bone \
@@ -271,6 +301,7 @@ tags = 'Brosencephalon Pathology::Neoplasia::growth-adaptations'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'NY:pcTd]4q'
 note-id = 1404079910294
 text = """
 {{c1::Dysplasia}} is a complication of longstanding metaplasia and/or hyperplasia that involves disordered cellular \
@@ -282,6 +313,7 @@ tags = 'Brosencephalon Pathology::Neoplasia::growth-adaptations'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'G/LmM_u(Un'
 note-id = 1404080021491
 text = '{{c1::Aplasia}} is the&nbsp;failure of cell production to occur during embryogenesis.'
 extra = '<div><i>e.g. unilateral renal agenesis</i></div>'
@@ -289,6 +321,7 @@ tags = 'Brosencephalon Pathology::Neoplasia::growth-adaptations'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'q^]JX.7dT}'
 note-id = 1404080216585
 text = """
 {{c1::Hypoplasia}} &nbsp;is described as a <b>decrease in cell production during embryogenesis</b>, thereby resulting in \
@@ -298,6 +331,7 @@ tags = 'Brosencephalon Pathology::Neoplasia::growth-adaptations'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'z]QJhGn[Y('
 note-id = 1404080585002
 text = 'What is the final electron acceptor in the ETC of oxidative phosphorylation?<div><br /></div><div>{{c1::Oxygen}}</div>'
 extra = """
@@ -307,6 +341,7 @@ tags = 'Brosencephalon Pathology::Inflammation::cellular-injury'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'w_5Jg|A8}~'
 note-id = 1404081156557
 text = '{{c1::Ischemia}} is a cause of hypoxia that is defined as <b>decreased blood flow through an organ</b>.'
 extra = '<div><i>e.g. decreased arterial perfusion, decreased venous drainage (Budd-Chiari Syndrome) and shock.</i></div>'
@@ -314,6 +349,7 @@ tags = 'Brosencephalon Pathology::Inflammation::cellular-injury'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'G(e5yO9cYb'
 note-id = 1404081377272
 text = 'What is the most common cause of Budd-Chiari Syndrome?<div><br /></div><div>{{c1::Polycythemia Vera}}</div>'
 extra = ""
@@ -321,6 +357,7 @@ tags = 'Brosencephalon Pathology::Inflammation::cellular-injury'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'fuK0}go,BE'
 note-id = 1404081393350
 text = """
 {{c1::Shock}} is a cause of ischemia that arises due to <b>widespread hypotension</b>&nbsp;that ultimately results in \
@@ -330,6 +367,7 @@ tags = 'Brosencephalon Pathology::Inflammation::cellular-injury'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'pwfs#z&DVk'
 note-id = 1404081425486
 text = '{{c1::Hypoxemia}} is a cause of hypoxia that is defined as a <b>low partial pressure of oxygen in the blood</b>.'
 extra = ""
@@ -337,6 +375,7 @@ tags = 'Brosencephalon Pathology::Inflammation::cellular-injury'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'l7ebFrSXML'
 note-id = 1404081452139
 text = """
 Which arterial partial pressure of Oxygen is diagnostic of Hypoxemia?<div><br \
@@ -346,6 +385,7 @@ tags = 'Brosencephalon Pathology::Inflammation::cellular-injury'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'AKS*cmWEYz'
 note-id = 1404081486236
 text = """
 Which arterial Oxygen saturation is diagnostic of hypoxemia?<div><br \
@@ -355,6 +395,7 @@ tags = 'Brosencephalon Pathology::Inflammation::cellular-injury'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'iqQPTl/eV?'
 note-id = 1404081594463
 text = """
 {{c1::High altitude}} is a cause of hypoxemia that results from <b>decreased barometric pressure</b>&nbsp;causing \
@@ -364,6 +405,7 @@ tags = 'Brosencephalon Pathology::Inflammation::cellular-injury'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'p_)(F*wsEu'
 note-id = 1404081786506
 text = """
 {{c1::Decreased O2 carrying capacity}} is a cause of hypoxia that stems from <b>loss of \
@@ -373,6 +415,7 @@ tags = 'Brosencephalon Pathology::Inflammation::cellular-injury'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'Cd,5-b7kCX'
 note-id = 1404082054272
 text = 'How does PaO2 change in anemia?<div><br /></div><div>{{c1::Normal}}</div>'
 extra = '<div><i></i></div>'
@@ -380,6 +423,7 @@ tags = 'Brosencephalon Pathology::Inflammation::cellular-injury'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'C1o[&8!S*h'
 note-id = 1404082081983
 text = 'How does SaO2 change in anemia?<div><br /></div><div>{{c1::Normal}}</div>'
 extra = """
@@ -389,6 +433,7 @@ tags = 'Brosencephalon Pathology::Inflammation::cellular-injury'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'mY,Xz{*Pf4'
 note-id = 1404082145795
 text = 'How does P<sub>a</sub>O<sub>2</sub>&nbsp;change in CO poisoning?<div><br /></div><div>{{c1::Normal}}</div>'
 extra = '<div><i>CO binds to Hb more avidly than O2.</i></div>'
@@ -396,6 +441,7 @@ tags = 'Brosencephalon Pathology::Inflammation::cellular-injury'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'KD1vS4erG)'
 note-id = 1404082247074
 text = 'How does S<sub>a</sub>O<sub>2</sub>&nbsp;change in CO poisoning?<div><br /></div><div>{{c1::Decrease}}</div>'
 extra = '<div><i>CO binds to Hb more avidly than O2.</i></div>'
@@ -403,6 +449,7 @@ tags = 'Brosencephalon Pathology::Inflammation::cellular-injury'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'q%_g[(rA6<'
 note-id = 1404082327680
 text = """
 {{c1::CO poisoning}} is a cause of <b>decreased O2 carrying capacity</b>&nbsp;that often arises following exposure to \
@@ -414,6 +461,7 @@ tags = 'Brosencephalon Pathology::Inflammation::cellular-injury'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'MNsr~99BHw'
 note-id = 1404082519304
 text = """
 {{c1::CO Poisoning}} is a cause of decreased O2 carrying capacity that classically presents with <b>cherry-red \
@@ -423,6 +471,7 @@ tags = 'Brosencephalon Pathology::Inflammation::cellular-injury'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'j(mTfzSl9V'
 note-id = 1404082618984
 text = 'Which ionized form of Fe binds to O2?<div><br /></div><div>{{c1::Fe<sup>2+</sup>}}</div>'
 extra = '<div><i>Fe<sup>2+</sup>&nbsp;binds to O<sub>2</sub></i></div>'
@@ -430,6 +479,7 @@ tags = 'Brosencephalon Pathology::Inflammation::cellular-injury'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'D/0[^Z|NF6'
 note-id = 1404082666766
 text = """
 {{c1::Methemoglobinemia}} is a cause of decreased O2 carrying capacity that involves the oxidation of hemoglobin \
@@ -439,6 +489,7 @@ tags = 'Brosencephalon Pathology::Inflammation::cellular-injury'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'iwo14Y)!2S'
 note-id = 1404082720246
 text = 'How does P<sub>a</sub>O<sub>2</sub>&nbsp;change in methemoglobinemia?<div><br /></div><div>{{c1::Normal}}</div>'
 extra = ""
@@ -446,6 +497,7 @@ tags = 'Brosencephalon Pathology::Inflammation::cellular-injury'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'cP]Y&|uB%/'
 note-id = 1404082735823
 text = 'How does S<sub>a</sub>O<sub>2</sub>&nbsp;change in Methemoglobinemia?<div><br /></div><div>{{c1::Decrease}}</div>'
 extra = ""
@@ -453,6 +505,7 @@ tags = 'Brosencephalon Pathology::Inflammation::cellular-injury'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'QW.(h|b*JV'
 note-id = 1404082757218
 text = """
 {{c1::Methemoglobinemia}} is a cause of decreased O2 carrying capacity that classically presents with \
@@ -462,6 +515,7 @@ tags = 'Brosencephalon Pathology::Inflammation::cellular-injury'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'lE{Pd|B5n6'
 note-id = 1404082793048
 text = """
 What is the treatment for Methemoglobinemia?<div><br /></div><div>{{c1::IV Methylene Blue; helps reduce \
@@ -471,6 +525,7 @@ tags = 'Brosencephalon Pathology::Inflammation::cellular-injury'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'oU7^H#8-L7'
 note-id = 1404087783834
 text = """
 What is the morphological hallmark of <b>reversible</b>&nbsp;cell injury?<div><br /></div><div>{{c1::Cellular \
@@ -482,6 +537,7 @@ tags = 'Brosencephalon Pathology::Inflammation::cellular-injury'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'vr_HrY,/Gh'
 note-id = 1404088729571
 text = """
 What is the morphological hallmark of <b>irreversible</b>&nbsp;cellular injury?<div><br /></div><div>{{c1::Membrane \
@@ -491,6 +547,7 @@ tags = 'Brosencephalon Pathology::Inflammation::cellular-injury'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'q=ByB(@$CN'
 note-id = 1404088752190
 text = """
 {{c1::Cytochrome C}} is an enzyme that activates apoptosis following cellular injury as it leaks out of the \
@@ -500,6 +557,7 @@ tags = 'Brosencephalon Pathology::Inflammation::cellular-injury'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'CjKyN0d16{'
 note-id = 1404088925019
 text = 'How do intracellular Ca levels change in cellular injury?<div><br /></div><div>{{c1::Increase}}</div>'
 extra = """
@@ -511,6 +569,7 @@ tags = 'Brosencephalon Pathology::Inflammation::cellular-injury'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'l|.hi00u3Q'
 note-id = 1404089081807
 text = 'How does cellular pH change in cellular injury?<div><br /></div><div>{{c1::Decreased pH}}</div>'
 extra = """
@@ -520,6 +579,7 @@ tags = 'Brosencephalon Pathology::Inflammation::cellular-injury'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'kUrW5@GO]l'
 note-id = 1404089237272
 text = 'How does intracellular Na change in cellular injury?<div><br /></div><div>{{c1::Increase}}</div>'
 extra = """
@@ -529,6 +589,7 @@ tags = 'Brosencephalon Pathology::Inflammation::cellular-injury'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'oMov@N$HDV'
 note-id = 1404089316688
 text = 'What is the morphological hallmark of cell death?<div><br /></div><div>{{c1::Loss of the nucleus}}</div>'
 extra = ""
@@ -536,6 +597,7 @@ tags = 'Brosencephalon Pathology::Inflammation::cell-death'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'QX<YFEl@-K'
 note-id = 1404089715416
 text = '{{c1::Pyknosis}} is a morphological feature of cell death that is described as <b>nuclear condensation</b>.'
 extra = ""
@@ -543,6 +605,7 @@ tags = 'Brosencephalon Pathology::Inflammation::cell-death'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'Pwq9WX3gv+'
 note-id = 1404089735117
 text = '{{c1::Karyorrhexis}} is a morphological feature of cell death that is described as <b>nuclear fragmentation</b>.'
 extra = ""
@@ -550,6 +613,7 @@ tags = 'Brosencephalon Pathology::Inflammation::cell-death'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'CWa`TI]@pp'
 note-id = 1404089758304
 text = '{{c1::Karyolysis}} is a morphological complication of cell death that is described as <b>nuclear dissolution</b>.'
 extra = ""
@@ -557,6 +621,7 @@ tags = 'Brosencephalon Pathology::Inflammation::cell-death'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'B;=jn*aAI/'
 note-id = 1404089783457
 text = 'What 2 mechanisms can lead to cell death?<div><br /></div><div>{{c1::Necrosis; Apoptosis}}</div>'
 extra = ""
@@ -564,6 +629,7 @@ tags = 'Brosencephalon Pathology::Inflammation::cell-death'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'nd-w)=77Rp'
 note-id = 1404089819089
 text = """
 {{c1::Coagulative Necrosis}} is a pattern of necrosis involving necrotic tissue that is <b>firm</b>&nbsp;and \
@@ -576,6 +642,7 @@ tags = 'Brosencephalon Pathology::Inflammation::cell-death'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'g`(kzA27,*'
 note-id = 1404090096667
 text = """
 Which pattern of necrosis is seen following an ischemic infarct at any organ except the brain?<div><br \
@@ -585,6 +652,7 @@ tags = 'Brosencephalon Pathology::Inflammation::cell-death'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'lXNX.#~ewp'
 note-id = 1404090129321
 text = """
 What is the only organ that does not yield <b>coagulative necrosis</b>&nbsp;following an ischemic infarct?<div><br \
@@ -594,6 +662,7 @@ tags = 'Brosencephalon Pathology::Inflammation::cell-death'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'I(ShtF[O2'
 note-id = 1404090183973
 text = """
 {{c1::Coagulative Necrosis}} is a pattern of necrosis that involves tissue that is often <b>wedge-shaped</b>&nbsp;and \
@@ -603,6 +672,7 @@ tags = 'Brosencephalon Pathology::Inflammation::cell-death'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'm:+#FM<yu('
 note-id = 1404090373154
 text = """
 {{c1::Liquefactive necrosis}} is a pattern of necrosis that involves necrotic tissue that becomes liquefied due to \
@@ -615,6 +685,7 @@ tags = 'Brosencephalon Pathology::Inflammation::cell-death'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'dM.y:6UcEj'
 note-id = 1404090446618
 text = """
 Which pattern of necrosis is characteristic of brain infarctions?<div><br /></div><div>{{c1::Liquefactive; proteolytic \
@@ -624,6 +695,7 @@ tags = 'Brosencephalon Pathology::Inflammation::cell-death'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'p#>Z%i=OZZ'
 note-id = 1404090490339
 text = """
 Which pattern of necrosis is characteristic of an abscess?<div><br /></div><div>{{c1::Liquefactive; proteolytic enzymes \
@@ -633,6 +705,7 @@ tags = 'Brosencephalon Pathology::Inflammation::cell-death'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'O0Yy<3&8f7'
 note-id = 1404090518469
 text = """
 Which pattern of necrosis is characteristic of pancreatitis?<div><br /></div><div>{{c1::Liquefactive; proteolytic \
@@ -642,6 +715,7 @@ tags = 'Brosencephalon Pathology::Inflammation::cell-death'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'iC>MpsA3kw'
 note-id = 1404090550199
 text = """
 Which pattern of necrosis resembles mummified tissue?<div><br /></div><div>{{c1::Gangrenous (dry \
@@ -651,6 +725,7 @@ tags = 'Brosencephalon Pathology::Inflammation::cell-death'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'b5WTC0lqJ*'
 note-id = 1404090598361
 text = """
 Which pattern of necrosis is characteristic of ischemia at the <b>lower limb</b>&nbsp;and <b>GI tract</b>?<div><br \
@@ -660,6 +735,7 @@ tags = 'Brosencephalon Pathology::Inflammation::cell-death'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'x{PM/XgXXZ'
 note-id = 1404090628987
 text = """
 {{c1::Wet Gangrene}} is a type of gangrenous necrosis that involves a superimposed infection on dead tissue and \
@@ -669,6 +745,7 @@ tags = 'Brosencephalon Pathology::Inflammation::cell-death'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'DS(VNR:iIV'
 note-id = 1404090904122
 text = """
 {{c1::Caseous necrosis}} is a pattern of necrosis that involves soft, friable necrotic tissue with a <b>"cottage-\
@@ -678,6 +755,7 @@ tags = 'Brosencephalon Pathology::Inflammation::cell-death'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'A?tHnbO%>|'
 note-id = 1404090969853
 text = '{{c1::Caseous Necrosis}} is a pattern of necrosis that is a combination of coagulative and liquefactive necrosis.'
 extra = ""
@@ -685,6 +763,7 @@ tags = 'Brosencephalon Pathology::Inflammation::cell-death'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'n?O=d./)>d'
 note-id = 1404091001679
 text = """
 What pattern of necrosis is characteristically seen in Tuberculosis?<div><br /></div><div>{{c1::Caseous necrosis; with \
@@ -694,6 +773,7 @@ tags = 'Brosencephalon Pathology::Inflammation::cell-death'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'hY8mem)0a`'
 note-id = 1404091026562
 text = """
 Which pattern of necrosis is described as <b>necrotic adipose tissue</b>&nbsp;with a <b>chalky-white \
@@ -703,6 +783,7 @@ tags = 'Brosencephalon Pathology::Inflammation::cell-death'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'rw~8xpZVfM'
 note-id = 1404091090945
 text = """
 What pattern of necrosis is characteristic of pancreatitis-mediated damage of peripancreatic fat?<div><br \
@@ -712,6 +793,7 @@ tags = 'Brosencephalon Pathology::Inflammation::cell-death'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'w&16/,C>[v'
 note-id = 1404091123014
 text = """
 {{c1::Saponification}} is a phenomenon seen in fat necrosis that involves the release of fatty acids via trauma or \
@@ -721,6 +803,7 @@ tags = 'Brosencephalon Pathology::Inflammation::cell-death'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'F?i<17FXRA'
 note-id = 1404091197064
 text = """
 {{c1::Dystrophic Calcification}} is a type of tissue calcification that involves the deposition of <b>Ca</b>&nbsp;on \
@@ -730,6 +813,7 @@ tags = 'Brosencephalon Pathology::Inflammation::cell-death'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'mXd[s^;2I/'
 note-id = 1404091246889
 text = """
 What type of tissue calcification is associated with <b>normal</b>&nbsp;serum Ca?<div><br /></div><div>{{c1::Dystrophic \
@@ -739,6 +823,7 @@ tags = 'Brosencephalon Pathology::Inflammation::cell-death'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'y{tp*qysW+'
 note-id = 1404091317431
 text = """
 Which type of tissue calcification is associated with <b>high</b>&nbsp;serum Ca and phosphate levels?<div><br \
@@ -748,6 +833,7 @@ tags = 'Brosencephalon Pathology::Inflammation::cell-death'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'qb&vu*q[>|'
 note-id = 1404091381186
 text = """
 {{c1::Metastatic Calcification}} is a type of tissue calcification that involves the deposition of Ca at \
@@ -757,6 +843,7 @@ tags = 'Brosencephalon Pathology::Inflammation::cell-death'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'igBPhTz/~['
 note-id = 1404091392034
 text = """
 {{c1::Metastatic Calcification}} is a type of tissue calcification that occurs at <b>normal tissue</b>&nbsp;in the \
@@ -769,6 +856,7 @@ tags = 'Brosencephalon Pathology::Inflammation::cell-death'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'IWrURt9,te'
 note-id = 1404091424961
 text = """
 {{c1::Dystrophic Calcification}} is a type of tissue calcification that occurs at <b>necrotic tissue</b>&nbsp;in the \
@@ -778,6 +866,7 @@ tags = 'Brosencephalon Pathology::Inflammation::cell-death'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'b.>30`^xhp'
 note-id = 1404091452093
 text = '{{c1::Fibrinoid Necrosis}} is a pattern of necrosis that involves damage to a blood vessel wall.'
 extra = ""
@@ -785,6 +874,7 @@ tags = 'Brosencephalon Pathology::Inflammation::cell-death'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'OfhA51=7y:'
 note-id = 1404091474565
 text = 'Which pattern of necrosis involves damage to blood vessel walls?<div><br /></div><div>{{c1::Fibrinoid}}</div>'
 extra = ""
@@ -792,6 +882,7 @@ tags = 'Brosencephalon Pathology::Inflammation::cell-death'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'oXeb3.{lHw'
 note-id = 1404091524324
 text = """
 {{c1::Fibrinoid Necrosis}} is a pattern of necrosis that involves the <b>leakage of proteins into the vessel \
@@ -802,6 +893,7 @@ tags = 'Brosencephalon Pathology::Inflammation::cell-death'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'NJen|5DmPk'
 note-id = 1404091577585
 text = """
 Which pattern of necrosis is characteristically seen in malignant hypertension?<div><br /></div><div>{{c1::Fibrinoid \
@@ -811,6 +903,7 @@ tags = 'Brosencephalon Pathology::Inflammation::cell-death'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'qiO`O|/-Ma'
 note-id = 1404091804767
 text = """
 Which pattern of necrosis is characteristically seen in Vasculitis?<div><br /></div><div>{{c1::Fibrinoid \
@@ -820,6 +913,7 @@ tags = 'Brosencephalon Pathology::Inflammation::cell-death'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'A^PI%X}zRd'
 note-id = 1404091820384
 text = """
 {{c1::Apoptosis}} is a mechanism of cell death that is described as <b>ATP-dependent, genetically programmed cell \
@@ -831,6 +925,7 @@ tags = 'Brosencephalon Pathology::Inflammation::cell-death'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'OdEPv^cme>'
 note-id = 1404093746657
 text = """
 Which mechanism of cell death is <b>not</b>&nbsp;followed by acute inflammation?<div><br \
@@ -840,6 +935,7 @@ tags = 'Brosencephalon Pathology::Inflammation::cell-death'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'J8P[M%V;6P'
 note-id = 1404093917524
 text = 'Which mechanism of cell death is always followed by acute inflammation?<div><br /></div><div>{{c1::Necrosis}}</div>'
 extra = ""
@@ -847,6 +943,7 @@ tags = 'Brosencephalon Pathology::Inflammation::cell-death'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'x<P)K`i]NX'
 note-id = 1404093935768
 text = """
 Which mechanism of cell death is associated with <b>shrunken</b>&nbsp;cells with more \
@@ -857,6 +954,7 @@ tags = 'Brosencephalon Pathology::Inflammation::cell-death'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'y9!V;M<zDt'
 note-id = 1404093999079
 text = '{{c1::Caspases}} are enzymes that mediate apoptosis by activating proteases and endonucleases.'
 extra = '<div><i>Proteases break down the cytoskeleton.</i></div><div><i>Endonucleases break down nucleic acid.</i></div>'
@@ -864,6 +962,7 @@ tags = 'Brosencephalon Pathology::Inflammation::cell-death'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'K3O%b:XD^|'
 note-id = 1404094092910
 text = """
 {{c1::Bcl2}} is a protein involved with apoptosis that functions to maintain the integrity of the mitochondrial \
@@ -875,6 +974,7 @@ tags = 'Brosencephalon Pathology::Inflammation::cell-death'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'ydAgd01>3x'
 note-id = 1404094197573
 text = '{{c1::Cytochrome C}} is a protein that leaks out of the inner mitochondrial matrix when Bcl2 is inactivated.'
 extra = '<div><i>It then activates caspases and triggers apoptosis.</i></div>'
@@ -882,6 +982,7 @@ tags = 'Brosencephalon Pathology::Inflammation::cell-death'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'sJN]]NO#vt'
 note-id = 1404094226135
 text = """
 Which enzyme in the Intrinsic Mitochondrial Pathway of apoptosis functions to maintain the integrity of the \
@@ -891,6 +992,7 @@ tags = 'Brosencephalon Pathology::Inflammation::cell-death'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'mJuM).VtY~'
 note-id = 1404094269494
 text = """
 Which ligand is involved in the Extrinsic Receptor-Ligand pathway in apoptosis?<div><br /></div><div>{{c1::FAS Ligand or \
@@ -902,6 +1004,7 @@ tags = 'Brosencephalon Pathology::Inflammation::cell-death'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'H5@(#J&nzn'
 note-id = 1404094336018
 text = """
 Which receptor on target cells is involved in the Extrinsic receptor-ligand apoptosis pathway?<div><br \
@@ -911,6 +1014,7 @@ tags = 'Brosencephalon Pathology::Inflammation::cell-death'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'Aq73l=xcEJ'
 note-id = 1404094400602
 text = """
 Which enzyme secreted by CD8+ T cells functions to create pores in the membrane of target cells?<div><br \
@@ -920,6 +1024,7 @@ tags = 'Brosencephalon Pathology::Inflammation::cell-death'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'Pu.%OdcVzq'
 note-id = 1404094425755
 text = """
 Which enzyme secreted by CD8+ T cells functions to enter the pores made by Perforin and activate Caspases?<div><br \
@@ -929,6 +1034,7 @@ tags = 'Brosencephalon Pathology::Inflammation::cell-death'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'w%y8ge.r>`'
 note-id = 1404094524835
 text = """
 Which metabolic process is the source of <b>physiological</b>&nbsp;generation of free radicals?<div><br \
@@ -941,6 +1047,7 @@ tags = 'Brosencephalon Pathology::Inflammation::free-radical-injury'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'l5aA4Ao,Yo'
 note-id = 1404095172577
 text = """
 What type of free radicals are formed via Ionizing Radiation?<div><br /></div><div>{{c1::Hydroxyl (OH) free radicals via \
@@ -950,6 +1057,7 @@ tags = 'Brosencephalon Pathology::Inflammation::free-radical-injury'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'pXJYagg1sp'
 note-id = 1404095319242
 text = 'What is the most dangerous/reactive free radical?<div><br /></div><div>{{c1::Hydroxyl}}</div>'
 extra = ""
@@ -957,6 +1065,7 @@ tags = 'Brosencephalon Pathology::Inflammation::free-radical-injury'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'Lta?W[@b5)'
 note-id = 1404095332724
 text = """
 What type of free radical is made through inflammation?<div><br /></div><div>{{c1::Superoxide Ions via NADPH Oxidase \
@@ -966,6 +1075,7 @@ tags = 'Brosencephalon Pathology::Inflammation::free-radical-injury'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'izVOyh[Up]'
 note-id = 1404095371156
 text = """
 What type of free radicals are made via the Fenton Reaction?<div><br /></div><div>{{c1::Hydroxyl radicals (via \
@@ -975,6 +1085,7 @@ tags = 'Brosencephalon Pathology::Inflammation::free-radical-injury'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'Os,{*z[7_%'
 note-id = 1404095413341
 text = '{{c1::NAPQI}} is a free radical formed by the hepatic P450 system in the metabolization of Acetaminophen.'
 extra = ""
@@ -982,6 +1093,7 @@ tags = 'Brosencephalon Pathology::Inflammation::free-radical-injury'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'CW[rKQy03#'
 note-id = 1404095480069
 text = """
 {{c1::Superoxide Dismutase}} is a mitochondrial enzyme that functions to convert <b>superoxide radicals</b>&nbsp;into \
@@ -991,6 +1103,7 @@ tags = 'Brosencephalon Pathology::Inflammation::free-radical-injury'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'imt)9go9$8'
 note-id = 1404095523128
 text = """
 {{c1::Glutathione Peroxidase}} is a mitochondrial enzyme that functions to convert 2GSH + Hydroxyl radicals (OH) into \
@@ -1000,6 +1113,7 @@ tags = 'Brosencephalon Pathology::Inflammation::free-radical-injury'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'ybt*A*c3o-'
 note-id = 1404095560110
 text = '{{c1::Catalase}} is a peroxisomal enzyme that functions to breakdown H2O2 into O2 and H2O.'
 extra = ""
@@ -1007,6 +1121,7 @@ tags = 'Brosencephalon Pathology::Inflammation::free-radical-injury'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'OK6Z_Xhz[g'
 note-id = 1404095579405
 text = 'Which enzyme functions to eliminate Superoxide Radicals?<div><br /></div><div>{{c1::Superoxide dismutase}}</div>'
 extra = ""
@@ -1014,6 +1129,7 @@ tags = 'Brosencephalon Pathology::Inflammation::free-radical-injury'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'iD9qA}!a*T'
 note-id = 1404095598625
 text = 'Which enzyme functions to eliminate H2O2?<div><br /></div><div>{{c1::Catalase}}</div>'
 extra = ""
@@ -1021,6 +1137,7 @@ tags = 'Brosencephalon Pathology::Inflammation::free-radical-injury'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'x$|re~o^R~'
 note-id = 1404095613630
 text = """
 Which enzyme functions to primarily eliminate Hydroxyl radicals (OH)?<div><br /></div><div>{{c1::Glutathione Peroxidase \
@@ -1030,6 +1147,7 @@ tags = 'Brosencephalon Pathology::Inflammation::free-radical-injury'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'k|T))q$z!K'
 note-id = 1404100030053
 text = """
 {{c1::Carbon Tetrachloride (CCl<sub>4</sub>)}} is an organic solvent used in the dry cleaning industry that is converted \
@@ -1039,6 +1157,7 @@ tags = 'Brosencephalon Pathology::Inflammation::free-radical-injury'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'jXJp(l[j9s'
 note-id = 1404100209113
 text = """
 {{c1::Carbon Tetrachloride (CCl<sub>4</sub>)}} is an organic solvent that causes cell injury with swelling of the RER \
@@ -1048,6 +1167,7 @@ tags = 'Brosencephalon Pathology::Inflammation::free-radical-injury'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'M>msc&]_G|'
 note-id = 1404100270329
 text = """
 {{c1::Reperfusion injury}} is a type of free radical injury that involves the <b>return of oxygenated blood to ischemic \
@@ -1057,6 +1177,7 @@ tags = 'Brosencephalon Pathology::Inflammation::free-radical-injury'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'FIM&@>7[@8'
 note-id = 1404100493941
 text = 'What type of stain is used to visualize Amyloid?<div><br /></div><div>{{c1::Congo Red}}</div>'
 extra = '<div><img src="paste-96142842921292.jpg" /></div>'
@@ -1064,6 +1185,7 @@ tags = 'Brosencephalon Pathology::Inflammation::amyloidosis'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'vwq*3+seds'
 note-id = 1404100610333
 text = """
 What colour is yielded by Amyloid when viewed microscopically under polarized light?<div><br /></div><div>{{c1::Apple-\
@@ -1073,6 +1195,7 @@ tags = 'Brosencephalon Pathology::Inflammation::amyloidosis'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'J2a[,O/Mj$'
 note-id = 1404100649054
 text = '{{c1::Systemic Amyloidosis}} is a type of amyloidosis that involves amyloid deposition in multiple organs.'
 extra = ""
@@ -1080,6 +1203,7 @@ tags = 'Brosencephalon Pathology::Inflammation::amyloidosis'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'sWAz!h!oL2'
 note-id = 1404100702826
 text = """
 {{c1::Primary Amyloidosis}} is a type of Systemic Amyloidosis that involves systemic deposition of <b>AL \
@@ -1089,6 +1213,7 @@ tags = 'Brosencephalon Pathology::Inflammation::amyloidosis'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'n]p4sL8I:+'
 note-id = 1404100759452
 text = """
 {{c1::AL Amyloid}} is a type of amyloid that is involved in Primary Amyloidosis and is derived from immunoglobulin light \
@@ -1098,6 +1223,7 @@ tags = 'Brosencephalon Pathology::Inflammation::amyloidosis'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'eWvyzSk5&w'
 note-id = 1404100792125
 text = """
 Which type of systemic amyloidosis is associated with Plasma Cell Dyscrasias?<div><br /></div><div>{{c1::Primary \
@@ -1107,6 +1233,7 @@ tags = 'Brosencephalon Pathology::Inflammation::amyloidosis'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'LMrqt^^Va0'
 note-id = 1404100842538
 text = """
 {{c1::Familial Mediterranean Fever (FMF)}} is an autosomal recessive immunological disorder that involves dysfunctional \
@@ -1116,6 +1243,7 @@ tags = 'Brosencephalon Pathology::Inflammation::amyloidosis'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'vmzu-u|Q=,'
 note-id = 1404100937942
 text = """
 What is the genetic inheritance of Familial Mediterranean Fever (FMF)?<div><br /></div><div>{{c1::Autosomal \
@@ -1125,6 +1253,7 @@ tags = 'Brosencephalon Pathology::Inflammation::amyloidosis'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'y]}JMD<1rd'
 note-id = 1404101085522
 text = 'Which organ is most commonly involved in Systemic Amyloidosis?<div><br /></div><div>{{c1::Kidney}}</div>'
 extra = ""
@@ -1132,6 +1261,7 @@ tags = 'Brosencephalon Pathology::Inflammation::amyloidosis'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 's?dfGxYFwb'
 note-id = 1404101126328
 text = """
 {{c1::Nephrotic Syndrome}} is a classical renal complication of Systemic Amyloidosis that presents with proteinuria of \
@@ -1141,6 +1271,7 @@ tags = 'Brosencephalon Pathology::Inflammation::amyloidosis'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'y`k`!n-yS5'
 note-id = 1404101178437
 text = """
 {{c1::Restrictive Cardiomyopathy}} and&nbsp;{{c2::arrhythmia}} are classical cardiovascular complications of systemic \
@@ -1150,6 +1281,7 @@ tags = 'Brosencephalon Pathology::Inflammation::amyloidosis'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'dOED<Tye5X'
 note-id = 1404101212658
 text = '{{c1::Tongue enlargement}} and&nbsp;{{c2::malabsorption}} are 2 classical GI complications of systemic amyloidosis.'
 extra = ""
@@ -1157,6 +1289,7 @@ tags = 'Brosencephalon Pathology::Inflammation::amyloidosis'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'PAE0Wn@}RP'
 note-id = 1404101240708
 text = """
 What is the treatment for amyloid damaged organs?<div><br /></div><div>{{c1::Transplantation; Amyloid cannot be \
@@ -1166,6 +1299,7 @@ tags = 'Brosencephalon Pathology::Inflammation::amyloidosis'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'y0OE%t_OD|'
 note-id = 1404101290835
 text = '{{c1::Localized Amyloidosis}} is a type of Amyloidosis that is localized to a single organ.'
 extra = ""
@@ -1173,6 +1307,7 @@ tags = 'Brosencephalon Pathology::Inflammation::amyloidosis'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'D2-Kp,RJi*'
 note-id = 1404101309796
 text = """
 {{c1::Senile Cardiac Amyloidosis}} is a type of Localized Amyloidosis that involves <b><u>non-\
@@ -1182,6 +1317,7 @@ tags = 'Brosencephalon Pathology::Inflammation::amyloidosis'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'HpB{V@yM1G'
 note-id = 1404101364437
 text = 'What is the 2nd most common plasma protein?<div><br /></div><div>{{c1::Serum Transthyretin}}</div>'
 extra = ""
@@ -1189,6 +1325,7 @@ tags = 'Brosencephalon Pathology::Inflammation::amyloidosis'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'e#lP$`-lIC'
 note-id = 1404101380841
 text = """
 Which protein deposits at the heart in Senile Cardiac Amyloidosis?<div><br /></div><div>{{c1::Non-mutated serum \
@@ -1198,6 +1335,7 @@ tags = 'Brosencephalon Pathology::Inflammation::amyloidosis'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'P]mUnW;fhg'
 note-id = 1404101560916
 text = """
 {{c1::Familial Amyloid Cardiomyopathy}} is a type of localized amyloidosis that involves <u style="font-weight: bold; \
@@ -1207,6 +1345,7 @@ tags = 'Brosencephalon Pathology::Inflammation::amyloidosis'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'DV(_-W}<a4'
 note-id = 1404101604504
 text = """
 {{c1::Restrictive Cardiomyopathy}} is a type of cardiomyopathy seen in&nbsp;Familial Amyloid Cardiomyopathy due to <u \
@@ -1216,6 +1355,7 @@ tags = 'Brosencephalon Pathology::Inflammation::amyloidosis'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'QnKa-SIjM`'
 note-id = 1404101656959
 text = """
 {{c1::Non-insulin-dependent T2DM}} is an endocrine disorder that involves <b>Amylin</b>&nbsp;deposition in the islets of \
@@ -1225,6 +1365,7 @@ tags = 'Brosencephalon Pathology::Inflammation::amyloidosis'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'ixvad8B/&{'
 note-id = 1404101698442
 text = """
 {{c1::Amylin}} is an amyloid protein derived from Insulin that deposits in the islets of the pancreas in Non-insulin-\
@@ -1234,6 +1375,7 @@ tags = 'Brosencephalon Pathology::Inflammation::amyloidosis'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'k9l`6CZ?5.'
 note-id = 1404101733178
 text = """
 {{c1::Alzheimer Disease}} is a neurological disorder that involves <b>Aβ-amyloid </b>deposition in the brain forming \
@@ -1243,6 +1385,7 @@ tags = 'Brosencephalon Pathology::Inflammation::amyloidosis'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'iLl&4O3GcP'
 note-id = 1404101818058
 text = """
 {{c1::Aβ-amyloid}} is a type of amyloid protein that is involved in Alzheimer Disease and is derived from β-amyloid \
@@ -1252,6 +1395,7 @@ tags = 'Brosencephalon Pathology::Inflammation::amyloidosis'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'wH7Pm}Bw@>'
 note-id = 1404101856451
 text = 'On which chromosome is the gene for the β-amyloid Precursor Protein found?<div><br /></div><div>{{c1::21}}</div>'
 extra = '<div><i>Hence Down Syndrome patients develop Alzheimer by 40 y/o (early onset).</i></div>'
@@ -1259,6 +1403,7 @@ tags = 'Brosencephalon Pathology::Inflammation::amyloidosis'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'Ez0mVky9Qn'
 note-id = 1404101921005
 text = """
 {{c1::Dialysis-associated Amyloidosis}} is a type of localized amyloidosis that involves β<sub>2</sub>-microglobulin \
@@ -1270,6 +1415,7 @@ tags = 'Brosencephalon Pathology::Inflammation::amyloidosis'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'O6MjHveMGP'
 note-id = 1404102034484
 text = """
 {{c1::Medullary Carcinoma of the Thyroid}} is a thyroid cancer that presents with <b>calcitonin</b>&nbsp;amyloid \
@@ -1279,6 +1425,7 @@ tags = 'Brosencephalon Pathology::Inflammation::amyloidosis'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'M.OWo=zDTL'
 note-id = 1404147037373
 text = """
 {{c1::Apaf-1}} is an enzyme that normally induces the activation of caspases and is inhibited by <b>Bcl2</b>.<div><br \
@@ -1288,6 +1435,7 @@ tags = 'Brosencephalon Pathology::Inflammation::cell-death'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'Ngee1Wl-M8'
 note-id = 1404148655566
 text = 'Which enzyme involved with Caspase activation is inhibited by Bcl2?<div><br /></div><div>{{c1::Apaf-1}}</div>'
 extra = '<div><i>Overexpression of Bcl2 = over-inhibition of Apaf-1 = decreased caspase activation and tumorigenesis.</i></div>'
@@ -1295,6 +1443,7 @@ tags = 'Brosencephalon Pathology::Inflammation::cell-death'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'p_Q8vcAmux'
 note-id = 1404148722529
 text = """
 {{c1::FADD}} is a death domain-containing adapter protein that is formed following multiple FAS molecules coalescing \
@@ -1304,6 +1453,7 @@ tags = 'Brosencephalon Pathology::Inflammation::cell-death'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'z7BC+z9go)'
 note-id = 1404148868389
 text = """
 Which apoptotic pathway is involves in Thymic medullary negative selection of T cells?<div><br \
@@ -1315,6 +1465,7 @@ tags = 'Brosencephalon Pathology::Inflammation::cell-death'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'f)02?4a#xM'
 note-id = 1404150504192
 text = 'Which area of the heart is most susceptible to ischemia?<div><br /></div><div>{{c1::Subendocardium (of the LV)}}</div>'
 extra = ""
@@ -1322,6 +1473,7 @@ tags = 'Brosencephalon Pathology::Inflammation::cellular-injury'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'O6(Ro;y<<,'
 note-id = 1404150785672
 text = """
 Which area of the kidney is most susceptible to ischemia?<div><br /></div><div>{{c1::Straight segment of the PT; Thick \
@@ -1331,6 +1483,7 @@ tags = 'Brosencephalon Pathology::Inflammation::cellular-injury'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'oWyE{5s}m/'
 note-id = 1404150817995
 text = """
 Which area of the liver is most susceptible to ischemia?<div><br /></div><div>{{c1::Zone III (the area around the \
@@ -1340,6 +1493,7 @@ tags = 'Brosencephalon Pathology::Inflammation::cellular-injury'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'j_e$v/N.d5'
 note-id = 1404150839569
 text = 'Which area of the colon is most susceptible to ischemia?<div><br /></div><div>{{c1::Splenic flexure; Rectum}}</div>'
 extra = ""
@@ -1347,6 +1501,7 @@ tags = 'Brosencephalon Pathology::Inflammation::cellular-injury'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'G4`{Zk8R3T'
 note-id = 1404150865122
 text = """
 {{c1::Red infarct}} is a type of infarct that occurs in <b>loose tissues</b> with <b>multiple blood \
@@ -1356,6 +1511,7 @@ tags = 'Brosencephalon Pathology::Inflammation::cellular-injury'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'De5n_zLu:j'
 note-id = 1404151146183
 text = """
 {{c1::Pale infarct}} is a type of infarct that occurs in <b>solid tissue</b>&nbsp;with a <b>single blood \
@@ -1365,6 +1521,7 @@ tags = 'Brosencephalon Pathology::Inflammation::cellular-injury'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'cBdo`yz(:C'
 note-id = 1404151197347
 text = """
 {{c1::Chromatolysis}} is a cellular process that involves <b>rounded cellular swelling</b>&nbsp;of axons following \
@@ -1376,6 +1533,7 @@ tags = 'Brosencephalon Pathology::Inflammation::cellular-injury'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'y[BXDtmrEy'
 note-id = 1404151558422
 text = """
 What type of amyloid proteins are involved in Primary Amyloidosis?<div><br /></div><div>{{c1::AL amyloid from Ig Light \
@@ -1385,6 +1543,7 @@ tags = 'Brosencephalon Pathology::Inflammation::amyloidosis'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'qO7zG69I{E'
 note-id = 1404151695646
 text = 'What type of amyloid protein is seen in Secondary Amyloidosis?<div><br /></div><div>{{c1::Serum Amyloid A (AA)}}</div>'
 extra = ""
@@ -1392,6 +1551,7 @@ tags = 'Brosencephalon Pathology::Inflammation::amyloidosis'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'rte{nBp-!B'
 note-id = 1404151807394
 text = """
 {{c1::Lipofuscin}} is a <b>yellow-brown "wear and tear" pigment</b>&nbsp;that is associated with normal aging.<div><br \
@@ -1401,6 +1561,7 @@ tags = 'Brosencephalon Pathology::Inflammation::cellular-injury'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'LDRl@J,#F~'
 note-id = 1404151867699
 text = """
 {{c1::Lipofuscin}} is a yellow-brown, normally occurring pigment that is formed by oxidation and polymerization of \
@@ -1410,6 +1571,7 @@ tags = 'Brosencephalon Pathology::Inflammation::cellular-injury'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'EG~Z&0FB~]'
 note-id = 1404151930975
 text = """
 {{c1::Inflammation}} is a pathological process that involves the allowance of inflammatory cells, plasma proteins and \
@@ -1419,6 +1581,7 @@ tags = 'Brosencephalon Pathology::Inflammation::acute-inflammation'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'hcD!WQvBlC'
 note-id = 1404152054817
 text = """
 Which type of inflammation is characterized by the presence of <b>edema</b>&nbsp;and <b>neutrophils</b>&nbsp;in \
@@ -1428,6 +1591,7 @@ tags = 'Brosencephalon Pathology::Inflammation::acute-inflammation'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 's8Vz7D5#1&'
 note-id = 1404153262540
 text = 'Which type of inflammation arises in response to tissue necrosis?<div><br /></div><div>{{c1::Acute inflammation}}</div>'
 extra = ""
@@ -1435,6 +1599,7 @@ tags = 'Brosencephalon Pathology::Inflammation::acute-inflammation'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'NZZDIf;nRL'
 note-id = 1404153444296
 text = """
 Which type of inflammation is an immediate response and part of the <b>innate immunity</b>&nbsp;(i.e. limited \
@@ -1444,6 +1609,7 @@ tags = 'Brosencephalon Pathology::Inflammation::acute-inflammation'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'edDg0j(:@u'
 note-id = 1404153488782
 text = """
 Which cell surface protein on macrophages recognizes LPS on the outer membrane of gram-negative bacteria?<div><br \
@@ -1453,6 +1619,7 @@ tags = 'Brosencephalon Pathology::Inflammation::acute-inflammation'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'iuAr9[=[vf'
 note-id = 1404154057160
 text = """
 Which TLR on macrophages recognizes LPS on the outer membrane of gram-negative bacteria?<div><br /></div><div>{{c1::TLR4 \
@@ -1462,6 +1629,7 @@ tags = 'Brosencephalon Pathology::Inflammation::acute-inflammation'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'c.HN;HiAZ}'
 note-id = 1404154086432
 text = """
 {{c1::NF-kB}} is a nuclear transcription factor that is upregulated by TLR activation and subsequently activated immune \
@@ -1471,6 +1639,7 @@ tags = 'Brosencephalon Pathology::Inflammation::acute-inflammation'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'Fx4o:@rk5Q'
 note-id = 1404154145359
 text = """
 Which enzyme releases Arachidonic Acid from the phospholipid cell membrane?<div><br /></div><div>{{c1::Phospholipase \
@@ -1480,6 +1649,7 @@ tags = 'Brosencephalon Pathology::Inflammation::acute-inflammation'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'P+$-rS`L7E'
 note-id = 1404154195657
 text = 'Which enzyme converts Arachidonic Acid into Prostaglandins?<div><br /></div><div>{{c1::Cyclooxygenase (COX)}}</div>'
 extra = ""
@@ -1487,6 +1657,7 @@ tags = 'Brosencephalon Pathology::Inflammation::acute-inflammation'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'xCE^zT!g$;'
 note-id = 1404154215458
 text = 'Which prostaglandin is known to mediate pain and fever?<div><br /></div><div>{{c1::PGE<sub>2</sub>}}</div>'
 extra = ""
@@ -1494,6 +1665,7 @@ tags = 'Brosencephalon Pathology::Inflammation::acute-inflammation'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'rEa@2h5[K~'
 note-id = 1404154243928
 text = """
 {{c1::PGI<sub>2</sub>}},&nbsp;{{c2::PGD<sub>2</sub>}} and&nbsp;{{c3::PGE<sub>2</sub>}} are prostaglandins that mediate \
@@ -1505,6 +1677,7 @@ tags = 'Brosencephalon Pathology::Inflammation::acute-inflammation'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'tKQfA%h.ql'
 note-id = 1404154306282
 text = 'Which enzymes converts Arachidonic Acid into Leukotrienes?<div><br /></div><div>{{c1::5-Lipoxygenase}}</div>'
 extra = ""
@@ -1512,6 +1685,7 @@ tags = 'Brosencephalon Pathology::Inflammation::acute-inflammation'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'm<ElmbN`6`'
 note-id = 1404154335290
 text = 'Which Leukotriene functions to attract and activate neutrophils?<div><br /></div><div>{{c1::LTB<sub>4</sub>}}</div>'
 extra = ""
@@ -1519,6 +1693,7 @@ tags = 'Brosencephalon Pathology::Inflammation::acute-inflammation'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'mZs1r}E)Ex'
 note-id = 1404154370362
 text = """
 {{c1::LTC<sub>4</sub>}},&nbsp;{{c2::LTD<sub>4</sub>}} and&nbsp;{{c3::LTE<sub>4</sub>}} are leukotrienes that mediate \
@@ -1531,6 +1706,7 @@ tags = 'Brosencephalon Pathology::Inflammation::acute-inflammation'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'MSk-^D4y^?'
 note-id = 1404154476820
 text = 'Which complement proteins are known to activate Mast Cells?<div><br /></div><div>{{c1::C3a; C5a}}</div>'
 extra = ""
@@ -1538,6 +1714,7 @@ tags = 'Brosencephalon Pathology::Inflammation::acute-inflammation'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'Fli0N5rSw,'
 note-id = 1404154504498
 text = """
 Which substance released from Mast Cell granules mediates the <b>immediate response</b>&nbsp;of mast cell \
@@ -1547,6 +1724,7 @@ tags = 'Brosencephalon Pathology::Inflammation::acute-inflammation'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'ocbvbG4W2>'
 note-id = 1404154584886
 text = """
 Which arachidonic acid metabolite mediates the <b>delayed response</b>&nbsp;of mast cell degranulation?<div><br \
@@ -1556,6 +1734,7 @@ tags = 'Brosencephalon Pathology::Inflammation::acute-inflammation'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'Bmvw$$*#|F'
 note-id = 1404154621946
 text = """
 Which complement pathway is activated by C1 binding to IgG or IgM bound to antigen?<div><br \
@@ -1565,6 +1744,7 @@ tags = 'Brosencephalon Pathology::Inflammation::acute-inflammation'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'ghE0%9!53f'
 note-id = 1404154992356
 text = 'Which complement pathway is activated by microbial products directly?<div><br /></div><div>{{c1::Alternative}}</div>'
 extra = ""
@@ -1572,6 +1752,7 @@ tags = 'Brosencephalon Pathology::Inflammation::acute-inflammation'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'i]L5jbhCfT'
 note-id = 1404155007879
 text = """
 Which complement pathway is activated by Mannose-binding Lectin (MBL) binding to mannose on microorganisms?<div><br \
@@ -1581,6 +1762,7 @@ tags = 'Brosencephalon Pathology::Inflammation::acute-inflammation'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'Pwff@T{@}O'
 note-id = 1404155061351
 text = 'Which complement proteins are referred to as anaphylatoxins?<div><br /></div><div>{{c1::C3a; C5a}}</div>'
 extra = ""
@@ -1588,6 +1770,7 @@ tags = 'Brosencephalon Pathology::Inflammation::acute-inflammation'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'L[8ej>~b,9'
 note-id = 1404155092547
 text = """
 {{c1::C3a}} and&nbsp;{{c2::C5a}} are complement proteins that act as anaphylatoxins, thereby triggering mast cell \
@@ -1597,6 +1780,7 @@ tags = 'Brosencephalon Pathology::Inflammation::acute-inflammation'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'i&is%ppq.9'
 note-id = 1404155124220
 text = 'Which complement protein is chemotactic for neutrophils?<div><br /></div><div>{{c1::C5a}}</div>'
 extra = ""
@@ -1604,6 +1788,7 @@ tags = 'Brosencephalon Pathology::Inflammation::acute-inflammation'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'fE.!*`}{pc'
 note-id = 1404155134613
 text = 'Which complement protein is an opsonin for neutrophils?<div><br /></div><div>{{c1::C3b}}</div>'
 extra = ""
@@ -1611,6 +1796,7 @@ tags = 'Brosencephalon Pathology::Inflammation::acute-inflammation'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'qu<;6Y&6|c'
 note-id = 1404155145551
 text = """
 Which complement protein complex lyses microbes by creating a hole in the cell membrane?<div><br \
@@ -1620,6 +1806,7 @@ tags = 'Brosencephalon Pathology::Inflammation::acute-inflammation'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'Qq2v=4[B^_'
 note-id = 1404155170156
 text = 'Which coagulation factor is referred to as Hageman Factor?<div><br /></div><div>{{c1::Factor XII}}</div>'
 extra = ""
@@ -1627,6 +1814,7 @@ tags = 'Brosencephalon Pathology::Inflammation::acute-inflammation'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'dBi9#K!mcB'
 note-id = 1404155194912
 text = '{{c1::Kallikrein}} is an enzyme that cleaves high-molecular weight kininogen (HMWK) to Bradykinin.'
 extra = ""
@@ -1634,6 +1822,7 @@ tags = 'Brosencephalon Pathology::Inflammation::acute-inflammation'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'e^w>?)7<zy'
 note-id = 1404155233002
 text = """
 {{c1::Bradykinin}} is a breakdown product of high-molecular weight kininogen that mediates vasodilation and increased \
@@ -1643,6 +1832,7 @@ tags = 'Brosencephalon Pathology::Inflammation::acute-inflammation'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'K,i5KziooP'
 note-id = 1404161286124
 text = """
 {{c1::Redness (rubor)}} and&nbsp;{{c2::warmth (calor)}} are 2 cardinal signs of inflammation that arise due to \
@@ -1654,6 +1844,7 @@ tags = 'Brosencephalon Pathology::Inflammation::acute-inflammation'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'n.~%FS9AkN'
 note-id = 1404161378472
 text = """
 {{c1::Swelling (tumor)}} is a cardinal sign of inflammation that arises due to leakage of fluid from postcapillary \
@@ -1665,6 +1856,7 @@ tags = 'Brosencephalon Pathology::Inflammation::acute-inflammation'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'Q`8v:8f(c~'
 note-id = 1404161579549
 text = """
 {{c1::Pain (dolor)}} is a cardinal sign of inflammation that is mediated by Bradykinin and PGE<sub>2</sub>&nbsp;action \
@@ -1674,6 +1866,7 @@ tags = 'Brosencephalon Pathology::Inflammation::acute-inflammation'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'J3;P8ybsp('
 note-id = 1404161619890
 text = """
 {{c1::Fever}} is a cardinal sign of inflammation that results from <b>IL-1</b>&nbsp;and <b>TNF</b>&nbsp;release from \
@@ -1683,6 +1876,7 @@ tags = 'Brosencephalon Pathology::Inflammation::acute-inflammation'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'O{mfbgj8Xg'
 note-id = 1404162502774
 text = """
 Which cytokines released from macrophages in response to pyrogens increase cyclooxygenase activity?<div><br \
@@ -1692,6 +1886,7 @@ tags = 'Brosencephalon Pathology::Inflammation::acute-inflammation'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'rpmX|w)?u1'
 note-id = 1404162534601
 text = """
 {{c1::IL-1}} and&nbsp;{{c2::TNF}} are 2 cytokines released from macrophages following pyrogen activation that results in \
@@ -1701,6 +1896,7 @@ tags = 'Brosencephalon Pathology::Inflammation::acute-inflammation'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'doHe~Pl{Yh'
 note-id = 1404162731893
 text = """
 {{c1::Selectins}} are cell surface proteins upregulated on endothelium in Neutrophil margination that act as <b>"speed \
@@ -1710,6 +1906,7 @@ tags = 'Brosencephalon Pathology::Inflammation::acute-inflammation'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'CGjH>&8ADf'
 note-id = 1404164280118
 text = """
 Which Selectin protein is released from Weibel-Palade bodies in Endothelium?<div><br \
@@ -1719,6 +1916,7 @@ tags = 'Brosencephalon Pathology::Inflammation::acute-inflammation'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'c7L]!#<Tyv'
 note-id = 1404164408771
 text = """
 Which inflammatory mediator trigger P-selectin upregulation from Weibel-Palade bodies?<div><br \
@@ -1728,6 +1926,7 @@ tags = 'Brosencephalon Pathology::Inflammation::acute-inflammation'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'nVS+[<c;<M'
 note-id = 1404164448782
 text = 'Which Selectin protein in endothelium is induced by TNF and IL-1?<div><br /></div><div>{{c1::E-selectin}}</div>'
 extra = '<div><img src="paste-9547712299709.jpg" /></div>'
@@ -1735,6 +1934,7 @@ tags = 'Brosencephalon Pathology::Inflammation::acute-inflammation'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'kY$CP9X}M['
 note-id = 1404164595983
 text = 'Which inflammatory cytokines induce E-Selectin expression in endothelium?<div><br /></div><div>{{c1::TNF; IL-1}}</div>'
 extra = ""
@@ -1742,6 +1942,7 @@ tags = 'Brosencephalon Pathology::Inflammation::acute-inflammation'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'k89d$:,sAz'
 note-id = 1404164779348
 text = """
 Which cell surface protein on leukocytes binds to selectins on endothelium?<div><br /></div><div>{{c1::Sialyl Lewis \
@@ -1751,6 +1952,7 @@ tags = 'Brosencephalon Pathology::Inflammation::acute-inflammation'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'gtt9&:qHfk'
 note-id = 1404164864652
 text = """
 Which <b>adhesion</b>&nbsp;molecules are upregulated on endothelium in inflammation by IL-1 and TNF?<div><br \
@@ -1760,6 +1962,7 @@ tags = 'Brosencephalon Pathology::Inflammation::acute-inflammation'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'Dz|EuWnMa`'
 note-id = 1404164898523
 text = """
 Which inflammatory cytokines upregulate ICAM and VCAM adhesion molecules on endothelium in inflammation?<div><br \
@@ -1769,6 +1972,7 @@ tags = 'Brosencephalon Pathology::Inflammation::acute-inflammation'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'x[U$2(;nf7'
 note-id = 1404164936689
 text = """
 {{c1::ICAM}} and&nbsp;{{c2::VCAM}} are adhesion molecules that are upregulated on endothelium during neutrophil \
@@ -1778,6 +1982,7 @@ tags = 'Brosencephalon Pathology::Inflammation::acute-inflammation'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'Ln7{+?@*<m'
 note-id = 1404165097789
 text = """
 What surface proteins on leukocytes binds to <b>ICAM/VCAM</b>&nbsp;on endothelium?<div><br /></div><div>{{c1::Integrins \
@@ -1787,6 +1992,7 @@ tags = 'Brosencephalon Pathology::Inflammation::acute-inflammation'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'lJ50z4Xd6I'
 note-id = 1404165260296
 text = """
 Which inflammatory mediators upregulate Integrin (LFA-1) expression on adhering leukocytes?<div><br \
@@ -1796,6 +2002,7 @@ tags = 'Brosencephalon Pathology::Inflammation::acute-inflammation'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'DtqiZDWsce'
 note-id = 1404165431966
 text = """
 {{c1::Leukocyte Adhesion Deficiency}} is an autosomal recessive immunological disorder that involves a defect in the \
@@ -1807,6 +2014,7 @@ tags = 'Brosencephalon Pathology::Inflammation::acute-inflammation'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'M=^opkez7k'
 note-id = 1404166243047
 text = 'What is the genetic inheritance of Leukocyte Adhesion Deficiency?<div><br /></div><div>{{c1::Autosomal recessive}}</div>'
 extra = ""
@@ -1814,6 +2022,7 @@ tags = 'Brosencephalon Pathology::Inflammation::acute-inflammation'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'PK*B|Qjk~&'
 note-id = 1404166793993
 text = """
 What are the 4 major chemoattractants for Neutrophils?<div><br /></div><div>{{c1::C5a; IL-8; LTB<sub>4</sub>; \
@@ -1825,6 +2034,7 @@ tags = 'Brosencephalon Pathology::Inflammation::acute-inflammation'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'pqPgsw-R+t'
 note-id = 1404166892602
 text = 'Which immunoglobulin isotype functions as an opsonin?<div><br /></div><div>{{c1::IgG}}</div>'
 extra = ""
@@ -1832,6 +2042,7 @@ tags = 'Brosencephalon Pathology::Inflammation::acute-inflammation'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'c{OwaGnK?H'
 note-id = 1404166914184
 text = 'Which complement protein functions as an opsonin?<div><br /></div><div>{{c1::C3b}}</div>'
 extra = ""
@@ -1839,6 +2050,7 @@ tags = 'Brosencephalon Pathology::Inflammation::acute-inflammation'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'tH9LqMPQ7o'
 note-id = 1404166922848
 text = """
 {{c1::Chediak-Higashi Syndrome}} is an autsomal recessive protein trafficking defect characterized by an impairment in \
@@ -1848,6 +2060,7 @@ tags = 'Brosencephalon Pathology::Inflammation::acute-inflammation'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'Gm!9V5[hWx'
 note-id = 1404167046624
 text = 'What is the genetic inheritance of Chediak-Higashi Syndrome?<div><br /></div><div>{{c1::Autosomal recessive}}</div>'
 extra = ""
@@ -1855,6 +2068,7 @@ tags = 'Brosencephalon Pathology::Inflammation::acute-inflammation'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'u_XkI<leIj'
 note-id = 1404167068265
 text = '{{c1::Neutropenia}} is a feature of Chediak-Higashi Syndrome that presents due intramedullary death of neutrophils.'
 extra = ""
@@ -1862,6 +2076,7 @@ tags = 'Brosencephalon Pathology::Inflammation::acute-inflammation'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'fYZC;~F6C7'
 note-id = 1404167211427
 text = """
 {{c1::Chediak-Higashi Syndrome}} is a protein trafficking disorder that presents with <b>giant granules in \
@@ -1871,6 +2086,7 @@ tags = 'Brosencephalon Pathology::Inflammation::acute-inflammation'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'B?(W!H(DU{'
 note-id = 1404167273654
 text = """
 {{c1::Albinism}} is a cutaneous complication of Chediak-Higashi Syndrome that results from defective transport of \
@@ -1880,6 +2096,7 @@ tags = 'Brosencephalon Pathology::Inflammation::acute-inflammation'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'vRR+7i@P1w'
 note-id = 1404167507356
 text = """
 {{c1::Peripheral neuropathy}} is a neurological complication of Chediak-Higashi Syndrome due to defective protein \
@@ -1889,6 +2106,7 @@ tags = 'Brosencephalon Pathology::Inflammation::acute-inflammation'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'Izr>ZzXoI;'
 note-id = 1404174237556
 text = 'Which enzyme in phagocytes converts O2 into superoxide?<div><br /></div><div>{{c1::NADPH Oxidase}}</div>'
 extra = ""
@@ -1896,6 +2114,7 @@ tags = 'Brosencephalon Pathology::Inflammation::acute-inflammation'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'HpEAx6H4?7'
 note-id = 1404174930116
 text = """
 Which enzyme in phagocytes converts superoxide radicals into H2O2?<div><br /></div><div>{{c1::Superoxide dismutase \
@@ -1905,6 +2124,7 @@ tags = 'Brosencephalon Pathology::Inflammation::acute-inflammation'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'CN!u~3:sPh'
 note-id = 1404174956236
 text = 'Which enzyme in phagocytes converts H2O2 into HOCl (bleach)?<div><br /></div><div>{{c1::Myeloperoxidase}}</div>'
 extra = ""
@@ -1912,6 +2132,7 @@ tags = 'Brosencephalon Pathology::Inflammation::acute-inflammation'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'Nz(a1;_P%o'
 note-id = 1404174979519
 text = """
 {{c1::Chronic Granulomatous Disease}} is an immunological disorder that is characterized by poor O2-dependent killing \
@@ -1921,6 +2142,7 @@ tags = 'Brosencephalon Pathology::Inflammation::acute-inflammation'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'z`_Hj>eZ6l'
 note-id = 1404175112284
 text = """
 What is a <b>colourless</b>&nbsp;nitroblue tetrazolium (NBT) test indicative of?<div><br /></div><div>{{c1::NADPH \
@@ -1930,6 +2152,7 @@ tags = 'Brosencephalon Pathology::Inflammation::acute-inflammation'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'CRSZhB9W1p'
 note-id = 1404175154560
 text = """
 {{c1::Myeloperoxidase Deficiency}} is a disorder of the oxidative burst pathway that presents with the inability to make \
@@ -1939,6 +2162,7 @@ tags = 'Brosencephalon Pathology::Inflammation::acute-inflammation'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'C;s3r1Bd8*'
 note-id = 1404175216629
 text = """
 Which type of infection has an increased risk of manifesting in patients with Myeloperoxidase Deficiency?<div><br \
@@ -1948,6 +2172,7 @@ tags = 'Brosencephalon Pathology::Inflammation::acute-inflammation'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'K<h&Y^~q?A'
 note-id = 1404175244873
 text = """
 What nitroblue tetrazolium (NBT) test result is seen in Myeloperoxidase Deficiency?<div><br \
@@ -1957,6 +2182,7 @@ tags = 'Brosencephalon Pathology::Inflammation::acute-inflammation'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'E<hG`eK&wb'
 note-id = 1404175718993
 text = 'How long after inflammation do neutrophils undergo apoptosis?<div><br /></div><div>{{c1::Within 24 hrs}}</div>'
 extra = '<div><i>This apoptosis of neutrophils is how pus is made.</i></div>'
@@ -1964,6 +2190,7 @@ tags = 'Brosencephalon Pathology::Inflammation::acute-inflammation'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'b?WT~K$;a2'
 note-id = 1404175836145
 text = """
 {{c1::Lysozyme}} is an antimicrobial enzyme found in the secondary granules of macrophages that function to kill \
@@ -1973,6 +2200,7 @@ tags = 'Brosencephalon Pathology::Inflammation::acute-inflammation'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'bc#:tOAUcw'
 note-id = 1404175878811
 text = """
 {{c1::Major basic protein}} is an antimicrobial enzyme in the secondary granules of Eosinophils that functions to kill \
@@ -1982,6 +2210,7 @@ tags = 'Brosencephalon Pathology::Inflammation::acute-inflammation'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'b<5:wV,bKL'
 note-id = 1404175913804
 text = """
 How long after inflammation begins do <b>macrophages</b>&nbsp;predominate in the tissue?<div><br /></div><div>{{c1::Peak \
@@ -1991,6 +2220,7 @@ tags = 'Brosencephalon Pathology::Inflammation::acute-inflammation'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'ogvl3mMa#%'
 note-id = 1404175956525
 text = """
 Which 2 anti-inflammatory cytokines are released by macrophages in the <b>resolution</b>&nbsp;and \
@@ -2000,6 +2230,7 @@ tags = 'Brosencephalon Pathology::Inflammation::acute-inflammation'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'y4#?eix)&?'
 note-id = 1404176259030
 text = 'Which cytokine released by macrophages recruits additional neutrophils?<div><br /></div><div>{{c1::IL-8}}</div>'
 extra = """
@@ -2009,6 +2240,7 @@ tags = 'Brosencephalon Pathology::Inflammation::acute-inflammation'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'MMuwgAXfmt'
 note-id = 1404176851463
 text = """
 {{c1::Chronic inflammation}} is a type of inflammation that can follow acute inflammation as macrophages present antigen \
@@ -2018,6 +2250,7 @@ tags = 'Brosencephalon Pathology::Inflammation::chronic-inflammation'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'DsCr32Xgtb'
 note-id = 1404176936799
 text = """
 Which type of inflammation is characterized by the presence of <b>lymphocytes</b>&nbsp;and <b>plasma cells</b>&nbsp;in \
@@ -2027,6 +2260,7 @@ tags = 'Brosencephalon Pathology::Inflammation::chronic-inflammation'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'CMw%efX*lY'
 note-id = 1404176977488
 text = """
 Which type of inflammation presents as a delayed response but with more specificity as part of adaptive \
@@ -2036,6 +2270,7 @@ tags = 'Brosencephalon Pathology::Inflammation::chronic-inflammation'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'f+3-H)FA(l'
 note-id = 1404177479458
 text = 'What is the most common stimulus for chronic inflammation?<div><br /></div><div>{{c1::Persistent infection}}</div>'
 extra = ""
@@ -2043,6 +2278,7 @@ tags = 'Brosencephalon Pathology::Inflammation::chronic-inflammation'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'O[&Tf(/3)a'
 note-id = 1404177511029
 text = 'Where do T cells mature?<div><br /></div><div>{{c1::Thymus}}</div>'
 extra = ""
@@ -2050,6 +2286,7 @@ tags = 'Brosencephalon Pathology::Inflammation::chronic-inflammation'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'ce&GvMQ2W3'
 note-id = 1404178004538
 text = """
 What is the second activation signal in the activation of CD4+ helper T cells?<div><br /></div><div>{{c1::B7 on APCs to \
@@ -2059,6 +2296,7 @@ tags = 'Brosencephalon Pathology::Inflammation::chronic-inflammation'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'l$K[U.V&)Y'
 note-id = 1404178096140
 text = """
 {{c1::IFN-γ}} is a cytokine secreted by <b>Th1</b>&nbsp;cells that <b>activates macrophages</b>, <b>promotes B-cell \
@@ -2068,6 +2306,7 @@ tags = 'Brosencephalon Pathology::Inflammation::chronic-inflammation'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'eBI!fj3S1Y'
 note-id = 1404178201643
 text = '{{c1::IL-4}} is a cytokine secreted by <b>Th2</b>&nbsp;cells that facilitates <b>B-cell class switching to IgE</b>.'
 extra = ""
@@ -2075,6 +2314,7 @@ tags = 'Brosencephalon Pathology::Inflammation::chronic-inflammation'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'h4Hsc/XgG6'
 note-id = 1404178230691
 text = '{{c1::IL-5}} is a cytokine secreted by <b>Th2</b>&nbsp;cells that promotes <b>eosinophil chemotaxis and activation</b>.'
 extra = ""
@@ -2082,6 +2322,7 @@ tags = 'Brosencephalon Pathology::Inflammation::chronic-inflammation'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'P=Vo2;foV;'
 note-id = 1404178281213
 text = '{{c1::IL-5}} is a cytokine secreted by <b>Th2</b>&nbsp;cells that promotes <b>B-cell class switching to IgA</b>.'
 extra = ""
@@ -2089,6 +2330,7 @@ tags = 'Brosencephalon Pathology::Inflammation::chronic-inflammation'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'q]>4x.3VF$'
 note-id = 1404178302919
 text = """
 Which cytokine from Th2 cells promotes B-cell class switching to IgE?<div><br /></div><div>{{c1::IL-4 (and \
@@ -2098,6 +2340,7 @@ tags = 'Brosencephalon Pathology::Inflammation::chronic-inflammation'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'vycB[WU.)H'
 note-id = 1404178339684
 text = 'Which cytokine from Th2 cells facilitates B-cell class switching to IgA?<div><br /></div><div>{{c1::IL-5}}</div>'
 extra = ""
@@ -2105,6 +2348,7 @@ tags = 'Brosencephalon Pathology::Inflammation::chronic-inflammation'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'cX5|5fE$0E'
 note-id = 1404178360353
 text = '{{c1::IL-10}} is a cytokine secreted by Th2 cells that inhibits the Th1 phenotype.'
 extra = '<div><i>i.e. it is anti-inflammatory.</i></div>'
@@ -2112,6 +2356,7 @@ tags = 'Brosencephalon Pathology::Inflammation::chronic-inflammation'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'FFU[HAcIhR'
 note-id = 1404178386998
 text = """
 What is the second activation signal in the activation of <b>CD8+ T cells</b>?<div><br /></div><div>{{c1::IL-2 from Th1 \
@@ -2121,6 +2366,7 @@ tags = 'Brosencephalon Pathology::Inflammation::chronic-inflammation'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'o+-DBy)U+V'
 note-id = 1404178539109
 text = '{{c1::Perforin}} is an enzyme expressed by CD8+ T cells that creates pores in target cells.'
 extra = ""
@@ -2128,6 +2374,7 @@ tags = 'Brosencephalon Pathology::Inflammation::chronic-inflammation'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'tb~Q!n^|Ji'
 note-id = 1404178559595
 text = '{{c1::Granzyme}} is an enzyme made by CD8+ T cells that enters target cells and triggers apoptosis.'
 extra = ""
@@ -2135,6 +2382,7 @@ tags = 'Brosencephalon Pathology::Inflammation::chronic-inflammation'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'oR+Q95IY2j'
 note-id = 1404178577655
 text = '{{c1::FasL}} is a cell surface protein expressed by CD8+ T cells that binds to Fas on target cells and causes apoptosis.'
 extra = ""
@@ -2142,6 +2390,7 @@ tags = 'Brosencephalon Pathology::Inflammation::chronic-inflammation'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'rbsmDT[q7f'
 note-id = 1404178601909
 text = 'Which immunoglobulin isotypes are expressed by naive B-cells?<div><br /></div><div>{{c1::IgM; IgD}}</div>'
 extra = ""
@@ -2149,6 +2398,7 @@ tags = 'Brosencephalon Pathology::Inflammation::chronic-inflammation'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'kvrg,;sld{'
 note-id = 1404178954483
 text = """
 What is the second activation signal in the activation of B-cells?<div><br /></div><div>{{c1::CD40L on CD4+ T cell to \
@@ -2161,6 +2411,7 @@ tags = 'Brosencephalon Pathology::Inflammation::chronic-inflammation'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = '@,5}BU7D#'
 note-id = 1404179064494
 text = """
 {{c1::Granulomatous inflammation}} is a subtype of chronic inflammation that is characterized by \
@@ -2172,6 +2423,7 @@ tags = 'Brosencephalon Pathology::Inflammation::chronic-inflammation'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'bf/.0%%9GB'
 note-id = 1404179736031
 text = """
 {{c1::Noncaseating granulomatous inflammation}} is a type of granulomatous inflammation that <b>lacks central \
@@ -2181,6 +2433,7 @@ tags = 'Brosencephalon Pathology::Inflammation::chronic-inflammation'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'vzYT[H1Dy/'
 note-id = 1404179938764
 text = """
 Which type of granulomatous inflammation is associated with <b>Sarcoidosis</b>?<div><br \
@@ -2190,6 +2443,7 @@ tags = 'Brosencephalon Pathology::Inflammation::chronic-inflammation'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'DUq684<)E$'
 note-id = 1404179957791
 text = """
 Which type of granulomatous inflammation is associated with Beryllium exposure?<div><br \
@@ -2199,6 +2453,7 @@ tags = 'Brosencephalon Pathology::Inflammation::chronic-inflammation'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'fF~.U:[bT]'
 note-id = 1404179973728
 text = """
 Which type of granulomatous inflammation is associated with Crohn Disease?<div><br \
@@ -2208,6 +2463,7 @@ tags = 'Brosencephalon Pathology::Inflammation::chronic-inflammation'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'mWO.MpX;P6'
 note-id = 1404179987096
 text = """
 Which type of granulomatous inflammation is associated with <b>cat-scratch disease</b>?<div><br \
@@ -2217,6 +2473,7 @@ tags = 'Brosencephalon Pathology::Inflammation::chronic-inflammation'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'vV1<,BNcBL'
 note-id = 1404180004041
 text = 'Which type of granulomatous inflammation <b>lacks central necrosis</b>?<div><br /></div><div>{{c1::Noncaseating}}</div>'
 extra = '<div><img src="paste-18489834209621.jpg" /></div>'
@@ -2224,6 +2481,7 @@ tags = 'Brosencephalon Pathology::Inflammation::chronic-inflammation'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'n)J^D3/12o'
 note-id = 1404180087111
 text = 'Which type of granulomatous inflammation <b>exhibits central necrosis</b>?<div><br /></div><div>{{c1::Caseating}}</div>'
 extra = '<div><img src="paste-19043884990808.jpg" /></div>'
@@ -2231,6 +2489,7 @@ tags = 'Brosencephalon Pathology::Inflammation::chronic-inflammation'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'FIiTe?JHw('
 note-id = 1404180094930
 text = """
 Which type of granulomatous inflammation is associated with <b>tuberculosis</b>?<div><br \
@@ -2240,6 +2499,7 @@ tags = 'Brosencephalon Pathology::Inflammation::chronic-inflammation'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'ii+v~G+]Uz'
 note-id = 1404180112183
 text = """
 Which type of granulomatous inflammation is associated with <b>fungal infections</b>?<div><br \
@@ -2249,6 +2509,7 @@ tags = 'Brosencephalon Pathology::Inflammation::chronic-inflammation'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'k6.h4w_dnO'
 note-id = 1404180126450
 text = """
 {{c1::Cat-scratch disease}} is a bacterial infection that is characterized by <b>stellate-shaped, noncaseating \
@@ -2258,6 +2519,7 @@ tags = 'Brosencephalon Pathology::Inflammation::chronic-inflammation'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'mLlN~n^5h&'
 note-id = 1404180325793
 text = """
 Which cytokine from macrophages induces helper CD4+ T cells to differentiate into Th1 cells?<div><br \
@@ -2271,6 +2533,7 @@ tags = 'Brosencephalon Pathology::Inflammation::chronic-inflammation'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'PP/=F=4iL-'
 note-id = 1404180488842
 text = """
 Which cytokine from Th1 cells converts macrophages into epithelioid histiocytes and giant cells (i.e. forms \
@@ -2284,6 +2547,7 @@ tags = 'Brosencephalon Pathology::Inflammation::chronic-inflammation'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'wf9s&h_fI*'
 note-id = 1404183254737
 text = """
 {{c1::Autoimmune Polyendocrine Syndrome}} is an autoimmune disorder caused by a mutation in <i>AIRE</i>, a transcription \
@@ -2293,6 +2557,7 @@ tags = 'Brosencephalon Pathology::Autoimmune::autoimmune-disorders'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'J3W~UiG/R}'
 note-id = 1404183638161
 text = 'What is the etiology of Autoimmune Polyendocrine Syndrome?<div><br /></div><div>{{c1::<i>AIRE</i>&nbsp;mutation}}</div>'
 extra = ""
@@ -2300,6 +2565,7 @@ tags = 'Brosencephalon Pathology::Autoimmune::autoimmune-disorders'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'u!vQfoisjF'
 note-id = 1404183655133
 text = """
 {{c1::Autoimmune Polyendocrine Syndrome}} is an autoimmune disorder due to a mutation in <i>AIRE</i>&nbsp;that presents \
@@ -2310,6 +2576,7 @@ tags = 'Brosencephalon Pathology::Autoimmune::autoimmune-disorders'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'Dc&q}-MVNU'
 note-id = 1404183728145
 text = """
 Which lymphocytes are primarily affected in Autoimmune Polyendocrine Syndrome?<div><br /></div><div>{{c1::T \
@@ -2319,6 +2586,7 @@ tags = 'Brosencephalon Pathology::Autoimmune::autoimmune-disorders'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'di98+U]Lmj'
 note-id = 1404183756706
 text = """
 {{c1::Autoimmune Lymphoproliferative Syndrome (ALPS)}} is an autoimmune disorder that results from a mutation in the FAS \
@@ -2328,6 +2596,7 @@ tags = 'Brosencephalon Pathology::Autoimmune::autoimmune-disorders'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 't8w_XSU5dI'
 note-id = 1404184076562
 text = """
 {{c1::Autoimmune Lymphoproliferative Syndrome (ALPS)}} is an autoimmune disorder that results from a mutation in the Fas \
@@ -2337,6 +2606,7 @@ tags = 'Brosencephalon Pathology::Autoimmune::autoimmune-disorders'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'BgXyjopJ%R'
 note-id = 1404184176174
 text = """
 Which type of lymphocyte is affected in&nbsp;Autoimmune Lymphoproliferative Syndrome (ALPS)?<div><br \
@@ -2346,6 +2616,7 @@ tags = 'Brosencephalon Pathology::Autoimmune::autoimmune-disorders'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'g=mR;gm8|?'
 note-id = 1404184191826
 text = """
 {{c1::Autoimmune Lymphoproliferative Syndrome (ALPS)}} is an autoimmune disorder that results in \
@@ -2356,6 +2627,7 @@ tags = 'Brosencephalon Pathology::Autoimmune::autoimmune-disorders'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'qkyN/yJEk{'
 note-id = 1404184590720
 text = """
 Polymorphisms in which cell surface protein on regulatory T cells are associated with autoimmunity (e.g. MS and \
@@ -2365,6 +2637,7 @@ tags = 'Brosencephalon Pathology::Autoimmune::autoimmune-disorders'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'u,[s7vN4x+'
 note-id = 1404184638672
 text = '{{c1::IPEX Syndrome}} is an autoimmune disorder that results from a mutation in <i>FOXP3</i>.'
 extra = '<div><i>IPEX = <b>I</b>mmune dysregulation, <b>P</b>olyendocrinopathy, <b>E</b>nteropathy, <b>X</b>-linked</i></div>'
@@ -2372,6 +2645,7 @@ tags = 'Brosencephalon Pathology::Autoimmune::autoimmune-disorders'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'wcq;N:V#]&'
 note-id = 1404184694079
 text = 'What is the genetic inheritance of IPEX Syndrome?<div><br /></div><div>{{c1::XLR}}</div>'
 extra = """
@@ -2381,6 +2655,7 @@ tags = 'Brosencephalon Pathology::Autoimmune::autoimmune-disorders'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'uk#!feubjz'
 note-id = 1404184702856
 text = """
 {{c1::IPEX syndrome}} is an autoimmune disorder due to a <i>FOXP3</i>&nbsp;mutation that presents with <b>immune \
@@ -2392,6 +2667,7 @@ tags = 'Brosencephalon Pathology::Autoimmune::autoimmune-disorders'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'zWI(SqwSFr'
 note-id = 1404184746898
 text = 'Which sex is more commonly affected by autoimmune disorders?<div><br /></div><div>{{c1::Women}}</div>'
 extra = """
@@ -2401,6 +2677,7 @@ tags = 'Brosencephalon Pathology::Autoimmune::autoimmune-disorders'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'vE09y0zcUp'
 note-id = 1404184807940
 text = 'Which sex is more commonly affected by SLE?<div><br /></div><div>{{c1::Women; especially african americans}}</div>'
 extra = ""
@@ -2408,6 +2685,7 @@ tags = 'Brosencephalon Pathology::Autoimmune::autoimmune-disorders'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'E)5,Vl?REw'
 note-id = 1404185166699
 text = 'Which HLA subtype has the strongest association to autoimmune disorders?<div><br /></div><div>{{c1::HLA-B27}}</div>'
 extra = ""
@@ -2415,6 +2693,7 @@ tags = 'Brosencephalon Pathology::Autoimmune::autoimmune-disorders'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'N+j:dT!LZ3'
 note-id = 1404185274495
 text = """
 {{c1::PTPN22}} is a tyrosine phosphatase whose polymorphisms can yield a <b>gain of function mutation</b>&nbsp;that \
@@ -2424,6 +2703,7 @@ tags = 'Brosencephalon Pathology::Autoimmune::autoimmune-disorders'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'o1JnvQUSfJ'
 note-id = 1404185311436
 text = """
 What type of hypersensitivity is primarily involved in SLE?<div><br /></div><div>{{c1::Type III (antigen-antibody \
@@ -2439,6 +2719,7 @@ tags = 'Brosencephalon Pathology::Autoimmune::autoimmune-disorders'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'm9Fc(-D1b'
 note-id = 1404185559377
 text = 'Deficiency of which early complement proteins is associated with SLE?<div><br /></div><div>{{c1::C1q; C2; C4}}</div>'
 extra = """
@@ -2448,6 +2729,7 @@ tags = 'Brosencephalon Pathology::Autoimmune::autoimmune-disorders'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'PN/@$H2u+|'
 note-id = 1404185591189
 text = 'Which complement deficiency is most commonly associated with SLE?<div><br /></div><div>{{c1::C2}}</div>'
 extra = ""
@@ -2455,6 +2737,7 @@ tags = 'Brosencephalon Pathology::Autoimmune::autoimmune-disorders'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'Mp_!c0w42'
 note-id = 1404185685056
 text = """
 {{c1::Malar rash}} is a cutaneous feature of SLE that is described as a <b>butterfly-shaped</b>&nbsp;rash.<div><br \
@@ -2464,6 +2747,7 @@ tags = 'Brosencephalon Pathology::Autoimmune::autoimmune-disorders'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'Q5>NCK,RA/'
 note-id = 1404186040625
 text = """
 {{c1::Discoid Rash}} is a cutaneous feature of SLE that is described as an erythematous, scaly rash typically seen on \
@@ -2473,6 +2757,7 @@ tags = 'Brosencephalon Pathology::Autoimmune::autoimmune-disorders'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'kUr>]kLzlp'
 note-id = 1404186084665
 text = '{{c1::Arthritis}} is a musculoskeletal feature of SLE that typically involves ≥ joints.'
 extra = ""
@@ -2480,6 +2765,7 @@ tags = 'Brosencephalon Pathology::Autoimmune::autoimmune-disorders'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'O%mpdd^isK'
 note-id = 1404186141705
 text = '{{c1::Pleuritis}} and&nbsp;{{c2::pericarditis}} are 2 types of serositis that are seen in SLE.'
 extra = ""
@@ -2487,6 +2773,7 @@ tags = 'Brosencephalon Pathology::Autoimmune::autoimmune-disorders'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'lg/~C`L{_]'
 note-id = 1404186156059
 text = '{{c1::Psychosis}} or&nbsp;{{c2::seizures}} are 2 CNS complications seen in SLE.'
 extra = ""
@@ -2494,6 +2781,7 @@ tags = 'Brosencephalon Pathology::Autoimmune::autoimmune-disorders'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'qL&(6pZ7p#'
 note-id = 1404186173547
 text = """
 {{c1::Diffuse Proliferative Glomerulonephritis}} is a renal complication seen in SLE that is the <b>most \
@@ -2503,6 +2791,7 @@ tags = 'Brosencephalon Pathology::Autoimmune::autoimmune-disorders'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'vrvX+oH!Cl'
 note-id = 1404186222095
 text = """
 {{c1::Anemia}},&nbsp;{{c2::Thrombocytopaenia}} or&nbsp;{{c3::leukopaenia}} are 3 hematological complications of SLE that \
@@ -2512,6 +2801,7 @@ tags = 'Brosencephalon Pathology::Autoimmune::autoimmune-disorders'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'pf(wDJBBV?'
 note-id = 1404186260530
 text = """
 {{c1::Libman-Sacks Endocarditis}} is a type of endocarditis seen in SLE that is characterized by <b>small, sterile \
@@ -2521,6 +2811,7 @@ tags = 'Brosencephalon Pathology::Autoimmune::autoimmune-disorders'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'f16N+*piXb'
 note-id = 1404186329215
 text = '{{c1::Anti-dsDNA antibodies}} and&nbsp;{{c2::Anti-Sm antibodies}} are 2 autoantibodies that are highly specific for SLE.'
 extra = ""
@@ -2528,6 +2819,7 @@ tags = 'Brosencephalon Pathology::Autoimmune::autoimmune-disorders'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'd&Js4q0`O3'
 note-id = 1404186395025
 text = """
 {{c1::Antiphospholipid Antibody Syndrome}} is an autoimmune disorder that involves autoantibodies directed against \
@@ -2537,6 +2829,7 @@ tags = 'Brosencephalon Pathology::Autoimmune::autoimmune-disorders'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'CK70Kg?-o,'
 note-id = 1404186944049
 text = """
 {{c1::Anticardiolipin}} is an autoantibody seen in&nbsp;Antiphospholipid Antibody Syndrome that yields <b>false-positive \
@@ -2548,6 +2841,7 @@ tags = 'Brosencephalon Pathology::Autoimmune::autoimmune-disorders'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'fs=mWzAEMa'
 note-id = 1404187012370
 text = """
 {{c1::Lupus anticoagulant}} is an autoantibody seen in&nbsp;Antiphospholipid Antibody Syndrome that yields a <b>falsely-\
@@ -2557,6 +2851,7 @@ tags = 'Brosencephalon Pathology::Autoimmune::autoimmune-disorders'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'sN9:Zu{PQ9'
 note-id = 1404187051800
 text = """
 {{c1::Anticardiolipin}},&nbsp;{{c2::anti-β<sub>2</sub> glycoprotein I}} and&nbsp;{{c3::lupus anticoagulant}} are the 3 \
@@ -2566,6 +2861,7 @@ tags = 'Brosencephalon Pathology::Autoimmune::autoimmune-disorders'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'dYwn`b;j].'
 note-id = 1404187090214
 text = """
 {{c1::Antiphospholipid Antibody Syndrome}} is an autoimmune disorder that is characterized by a <b>hypercoagulable \
@@ -2577,6 +2873,7 @@ tags = 'Brosencephalon Pathology::Autoimmune::autoimmune-disorders'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'Q+}mLe)ldn'
 note-id = 1404187251555
 text = """
 What type of autoantibodies are associated with drug-induced SLE?<div><br /></div><div>{{c1::Antihistone \
@@ -2586,6 +2883,7 @@ tags = 'Brosencephalon Pathology::Autoimmune::autoimmune-disorders'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'iWx+OA~=0G'
 note-id = 1404187274483
 text = """
 {{c1::Procainamide}},&nbsp;{{c2::Hydralazine}} and&nbsp;{{c3::Isoniazid}} are 3 drugs that commonly cause drug-induced \
@@ -2597,6 +2895,7 @@ tags = 'Brosencephalon Pathology::Autoimmune::autoimmune-disorders'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'OSVsxuZxE6'
 note-id = 1404187360380
 text = '{{c1::Sjogren Syndrome}} is an autoimmune disorder that involves destruction of the lacrimal and salivary glands.'
 extra = ""
@@ -2604,6 +2903,7 @@ tags = 'Brosencephalon Pathology::Autoimmune::autoimmune-disorders'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'JAm]s^m<Q2'
 note-id = 1404187501275
 text = 'What type of hypersensitivity is seen in Sjogren Syndrome?<div><br /></div><div>{{c1::Type IV}}</div>'
 extra = ""
@@ -2611,6 +2911,7 @@ tags = 'Brosencephalon Pathology::Autoimmune::autoimmune-disorders'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'mhDcH([;}b'
 note-id = 1404187516258
 text = '{{c1::Keratoconjunctivitis sicca}} is an ocular complication of Sjogren Syndrome that is described as dry eyes.'
 extra = ""
@@ -2618,6 +2919,7 @@ tags = 'Brosencephalon Pathology::Autoimmune::autoimmune-disorders'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'MrZL5ED=Ua'
 note-id = 1404187554788
 text = '{{c1::Xerostomia}} is an oral complication of Sjogren Syndrome that is described as dry mouth.'
 extra = ""
@@ -2625,6 +2927,7 @@ tags = 'Brosencephalon Pathology::Autoimmune::autoimmune-disorders'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'Ie!-:~3YF|'
 note-id = 1404187590636
 text = '{{c1::Recurrent dental caries}} is a dental complication of Sjogren Syndrome due to a lack of salivation.'
 extra = ""
@@ -2632,6 +2935,7 @@ tags = 'Brosencephalon Pathology::Autoimmune::autoimmune-disorders'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'FM2$@MJ[Oy'
 note-id = 1404187609774
 text = 'Which sex is more commonly affected by Sjogren Syndrome?<div><br /></div><div>{{c1::Women}}</div>'
 extra = ""
@@ -2639,6 +2943,7 @@ tags = 'Brosencephalon Pathology::Autoimmune::autoimmune-disorders'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'l4;,F]6kfK'
 note-id = 1404187617668
 text = 'What is a possible <b>primary</b>&nbsp;cause of Sjogren Syndrome?<div><br /></div><div>{{c1::Sicca syndrome}}</div>'
 extra = ""
@@ -2646,6 +2951,7 @@ tags = 'Brosencephalon Pathology::Autoimmune::autoimmune-disorders'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'Fcw+XW,Kd6'
 note-id = 1404187650866
 text = """
 {{c1::Rheumatoid factor}} is an autoantibody that is often present in Sjogren Syndrome patients even when rheumatoid \
@@ -2655,6 +2961,7 @@ tags = 'Brosencephalon Pathology::Autoimmune::autoimmune-disorders'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'n=O(e7(4;h'
 note-id = 1404187673064
 text = """
 Which autoantibodies are associated with Sjögren Syndrome<div><br></div><div>{{c1::Anti-SS-A (Ro) and Anti-SS-B \
@@ -2664,6 +2971,7 @@ tags = 'Brosencephalon Pathology::Autoimmune::autoimmune-disorders'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'OQtoV;>2wz'
 note-id = 1404187728812
 text = """
 {{c1::Neonatal lupus}} and&nbsp;{{c2::congenital heart block}} are 2 possible complications for babies delivered by \
@@ -2673,6 +2981,7 @@ tags = 'Brosencephalon Pathology::Autoimmune::autoimmune-disorders'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'o^[,AJ6%5d'
 note-id = 1404187764124
 text = """
 {{c1::Lymphocytic Sialadentitis}} is a common diagnostic feature of Sjogren Syndrome that involves lymphocytic \
@@ -2682,6 +2991,7 @@ tags = 'Brosencephalon Pathology::Autoimmune::autoimmune-disorders'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'pq=XRRmeRa'
 note-id = 1404187824642
 text = """
 How does the risk for B-cell (marginal zone) lymphoma change in Sjogren Syndrome?<div><br \
@@ -2691,6 +3001,7 @@ tags = 'Brosencephalon Pathology::Autoimmune::autoimmune-disorders'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'i|;EEX$yhq'
 note-id = 1404187874799
 text = '{{c1::Scleroderma}} is an autoimmune disorder characterized by sclerosis of the skin and visceral organs.'
 extra = ""
@@ -2698,6 +3009,7 @@ tags = 'Brosencephalon Pathology::Autoimmune::autoimmune-disorders'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'u[wm!8GmJn'
 note-id = 1404187949947
 text = 'Which sex is more commonly affected by Scleroderma?<div><br /></div><div>{{c1::Women; esp of 30-50 years}}</div>'
 extra = ""
@@ -2705,6 +3017,7 @@ tags = 'Brosencephalon Pathology::Autoimmune::autoimmune-disorders'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'lDNBk-upi#'
 note-id = 1404187968884
 text = """
 What is the etiology of Scleroderma?<div><br /></div><div>{{c1::Fibroblast activation leading to collagen \
@@ -2718,6 +3031,7 @@ tags = 'Brosencephalon Pathology::Autoimmune::autoimmune-disorders'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'sLB3L44K+_'
 note-id = 1404188205154
 text = """
 {{c1::Limited Scleroderma}} is a type of Scleroderma that has involved limited skin involvement with late visceral \
@@ -2727,6 +3041,7 @@ tags = 'Brosencephalon Pathology::Autoimmune::autoimmune-disorders'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 's*`my)BtE_'
 note-id = 1404188530598
 text = '{{c1::CREST Syndrome}} is a type of Limited Scleroderma that involves <b>anti-centromere antibodies</b>.'
 extra = """
@@ -2737,6 +3052,7 @@ tags = 'Brosencephalon Pathology::Autoimmune::autoimmune-disorders'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'cTuyVl8{C_'
 note-id = 1404188645678
 text = """
 What does the C in CREST Syndrome stand for?<div><br /></div><div>{{c1::Calcinosis &amp; anti-centromere \
@@ -2750,6 +3066,7 @@ tags = 'Brosencephalon Pathology::Autoimmune::autoimmune-disorders'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'L4lIqs<a-<'
 note-id = 1404188664246
 text = 'What does the R in CREST Syndrome stand for?<div><br /></div><div>{{c1::Raynaud phenomenon}}</div>'
 extra = """
@@ -2761,6 +3078,7 @@ tags = 'Brosencephalon Pathology::Autoimmune::autoimmune-disorders'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'wl>|Y}c|Az'
 note-id = 1404188674301
 text = 'What does the E in CREST Syndrome stand for?<div><br /></div><div>{{c1::Esophageal dysmotility}}</div>'
 extra = """
@@ -2772,6 +3090,7 @@ tags = 'Brosencephalon Pathology::Autoimmune::autoimmune-disorders'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'GWEdk^B~Z'
 note-id = 1404188688167
 text = 'What does the S in CREST Syndrome stand for?<div><br /></div><div>{{c1::Sclerodactyly}}</div>'
 extra = """
@@ -2783,6 +3102,7 @@ tags = 'Brosencephalon Pathology::Autoimmune::autoimmune-disorders'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'o@fdr}U:I%'
 note-id = 1404188701013
 text = 'What does the T in CREST Syndrome stand for?<div><br /></div><div>{{c1::Telangiectasia of the skin}}</div>'
 extra = """
@@ -2794,6 +3114,7 @@ tags = 'Brosencephalon Pathology::Autoimmune::autoimmune-disorders'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'o|=[!cl^~T'
 note-id = 1404188712831
 text = """
 {{c1::Diffuse Scleroderma}} is a type of Scleroderma that has <b>diffuse</b>&nbsp;skin involvement with \
@@ -2803,6 +3124,7 @@ tags = 'Brosencephalon Pathology::Autoimmune::autoimmune-disorders'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'jO>UI=FS-B'
 note-id = 1404188765184
 text = 'Which autoantibodies are associated with CREST Syndrome?<div><br /></div><div>{{c1::Anti-centromere antibodies}}</div>'
 extra = ""
@@ -2810,6 +3132,7 @@ tags = 'Brosencephalon Pathology::Autoimmune::autoimmune-disorders'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'umHE7)32;G'
 note-id = 1404188776127
 text = """
 Which autoantibodies are associated with Diffuse Scleroderma?<div><br /></div><div>{{c1::Anti-Scl-70 (Anti-DNA \
@@ -2819,6 +3142,7 @@ tags = 'Brosencephalon Pathology::Autoimmune::autoimmune-disorders'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'hJnpuyoAk-'
 note-id = 1404188805319
 text = """
 {{c1::Mixed Connective Tissue Disease}} is an autoimmune disorder that involves mixed features of SLE, Scleroderma and \
@@ -2830,6 +3154,7 @@ tags = 'Brosencephalon Pathology::Autoimmune::autoimmune-disorders'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'Bd}qY8@~fK'
 note-id = 1404188974274
 text = """
 Which autoantibodies are seen in Mixed Connective Tissue Disease?<div><br /></div><div>{{c1::Anti-U1 RNP \
@@ -2839,6 +3164,7 @@ tags = 'Brosencephalon Pathology::Autoimmune::autoimmune-disorders'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'q,#tbVWcZ.'
 note-id = 1404188994289
 text = """
 {{c1::Regeneration}} is a mechanism of wound healing that involves the replacement of damaged tissue with <b>native \
@@ -2848,6 +3174,7 @@ tags = 'Brosencephalon Pathology::Wound-Healing::wound-healing'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'bfUI>dq-Zv'
 note-id = 1404189092700
 text = '{{c1::Labile tissue}} is a type of tissue that possesses stem cells that continuously cycle to regenerate the tissue.'
 extra = ""
@@ -2855,6 +3182,7 @@ tags = 'Brosencephalon Pathology::Wound-Healing::wound-healing'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'kUeai61kcz'
 note-id = 1404189134776
 text = 'Where are the stem cells of the small and large bowels found?<div><br /></div><div>{{c1::Mucosal crypts}}</div>'
 extra = '<div><img src="paste-27943057228122.jpg" /></div>'
@@ -2862,6 +3190,7 @@ tags = 'Brosencephalon Pathology::Wound-Healing::wound-healing'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'q[XVZ}qR#]'
 note-id = 1404189264534
 text = 'Where are the stem cells of the skin found?<div><br /></div><div>{{c1::Basal layer of the skin}}</div>'
 extra = '<div><img src="paste-27977416966486.jpg" /></div>'
@@ -2869,6 +3198,7 @@ tags = 'Brosencephalon Pathology::Wound-Healing::wound-healing'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'L2FFO_GQxG'
 note-id = 1404189284641
 text = 'Where are the stem cells of the bone marrow found?<div><br /></div><div>{{c1::Hematopoietic stem cells (CD34+)}}</div>'
 extra = ""
@@ -2876,6 +3206,7 @@ tags = 'Brosencephalon Pathology::Wound-Healing::wound-healing'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'r2@sZDJ1-R'
 note-id = 1404189307439
 text = """
 {{c1::Stable tissue}} is a type of tissue that is comprised of cells that are quiescent in G<sub>0</sub>&nbsp;but can \
@@ -2887,6 +3218,7 @@ tags = 'Brosencephalon Pathology::Wound-Healing::wound-healing'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'AINr!PB^(*'
 note-id = 1404189392174
 text = '{{c1::Permanent tissue}} is a type of tissue that lacks any significant regenerative potential.'
 extra = '<div><i>e.g. myocardium, skeletal muscle and neurons</i></div>'
@@ -2894,6 +3226,7 @@ tags = 'Brosencephalon Pathology::Wound-Healing::wound-healing'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'PAOH1`3.Sc'
 note-id = 1404189426470
 text = """
 {{c1::Repair}} is a mechanism of wound healing that involves the replacement of damaged tissue with a <b>fibrous \
@@ -2903,6 +3236,7 @@ tags = 'Brosencephalon Pathology::Wound-Healing::wound-healing'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'IOL?S2m[f2'
 note-id = 1404189593619
 text = """
 {{c1::Granulation tissue}} is a type of tissue that forms in the initial phase of repair and consists of <b>fibroblasts, \
@@ -2915,6 +3249,7 @@ tags = 'Brosencephalon Pathology::Wound-Healing::wound-healing'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'g#b`S/ZdNB'
 note-id = 1404189653749
 text = 'What type of collagen is seen in granulation tissue?<div><br /></div><div>{{c1::Type III}}</div>'
 extra = ""
@@ -2922,6 +3257,7 @@ tags = 'Brosencephalon Pathology::Wound-Healing::wound-healing'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'lkZD!eP::('
 note-id = 1404189684455
 text = 'What type of collagen is found in scars?<div><br /></div><div>{{c1::Type I}}</div>'
 extra = '<div><i>Type I collagen replaces type III collagen in scar formation.</i></div>'
@@ -2929,6 +3265,7 @@ tags = 'Brosencephalon Pathology::Wound-Healing::wound-healing'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'Ds_&c%L3xh'
 note-id = 1404189710626
 text = 'Which enzyme involved in scar formation removed type III collagen?<div><br /></div><div>{{c1::Collagenase}}</div>'
 extra = '<div><i>Requires zinc as a cofactor.</i></div>'
@@ -2936,6 +3273,7 @@ tags = 'Brosencephalon Pathology::Wound-Healing::wound-healing'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'D`G0M0p9+a'
 note-id = 1404189826439
 text = '{{c1::Primary intention}} is a process seen in cutaneous wound healing that involves wound edges being brought together.'
 extra = '<div><i>This yields minimal scar formation.</i></div><div><i>e.g. suturing</i></div>'
@@ -2943,6 +3281,7 @@ tags = 'Brosencephalon Pathology::Wound-Healing::wound-healing'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'On4>*Ik|)&'
 note-id = 1404189874065
 text = """
 {{c1::Secondary Intention}} is a process of cutaneous wound healing that involves a lack of approximation of wound \
@@ -2954,6 +3293,7 @@ tags = 'Brosencephalon Pathology::Wound-Healing::wound-healing'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'br|U>zfH%u'
 note-id = 1404189952105
 text = """
 Which bacteria is the most common cause of delayed would healing?<div><br /></div><div>{{c1::<i>Staphylococcus \
@@ -2963,6 +3303,7 @@ tags = 'Brosencephalon Pathology::Wound-Healing::wound-healing'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'E[p8+{NA;p'
 note-id = 1404189997718
 text = 'Which water soluble vitamin deficiency can delay wound healing?<div><br /></div><div>{{c1::Vitamin C}}</div>'
 extra = """
@@ -2972,6 +3313,7 @@ tags = 'Brosencephalon Pathology::Wound-Healing::wound-healing'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'B/n(|MLoB%'
 note-id = 1404190104215
 text = '{{c1::Copper}} is a trace element that acts as a cofactor for Lysyl Oxidase, an enzyme which cross links collagen.'
 extra = '<div><i>Deficiency will slow wound healing.</i></div>'
@@ -2979,6 +3321,7 @@ tags = 'Brosencephalon Pathology::Wound-Healing::wound-healing'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'k+dU)hJ-+]'
 note-id = 1404190163074
 text = """
 {{c1::Zinc}} is a trace element that acts as a cofactor for Collagenase, an enzyme required in wound healing as it \
@@ -2988,6 +3331,7 @@ tags = 'Brosencephalon Pathology::Wound-Healing::wound-healing'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'kxAbarJjHM'
 note-id = 1404190213176
 text = '{{c1::Dehiscence}} is defined as the rupture of a wound.'
 extra = '<div><i>Most commonly seen after abdominal surgery.</i></div>'
@@ -2995,6 +3339,7 @@ tags = 'Brosencephalon Pathology::Wound-Healing::wound-healing'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'n@7jr<46Ji'
 note-id = 1404190236647
 text = """
 {{c1::Hypertrophic scar}} is a type of aberrant wound repair that involves <b>excess scar production</b>&nbsp;that is \
@@ -3005,6 +3350,7 @@ tags = 'Brosencephalon Pathology::Wound-Healing::wound-healing'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'l_*Q5HO.Z)'
 note-id = 1404190291608
 text = """
 {{c1::Keloid}} is a type of aberrant wound repair that involves excess production of scar tissue that is <b>out of \
@@ -3015,6 +3361,7 @@ tags = 'Brosencephalon Pathology::Wound-Healing::wound-healing'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'ms>?7`c)qQ'
 note-id = 1404190405410
 text = 'Which type of collagen is made in excess in a <b>Keloid</b>?<div><br /></div><div>{{c1::Type III}}</div>'
 extra = '<div><img src="paste-30425548325221.jpg" /><img src="paste-3027951944097.jpg" /></div>'
@@ -3022,6 +3369,7 @@ tags = 'Brosencephalon Pathology::Wound-Healing::wound-healing'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'mGeYV<43P!'
 note-id = 1404190422594
 text = 'Which type of collagen is made in excess in a <b>hypertrophic scar</b>?<div><br /></div><div>{{c1::Type I}}</div>'
 extra = '<div><img src="paste-30489972834662.jpg" /><img src="paste-2976412336545.jpg" /></div>'
@@ -3029,6 +3377,7 @@ tags = 'Brosencephalon Pathology::Wound-Healing::wound-healing'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'H1%42~eUPy'
 note-id = 1404190440455
 text = 'Which race is more commonly affected by Keloid?<div><br /></div><div>{{c1::African-americans}}</div>'
 extra = ""
@@ -3036,6 +3385,7 @@ tags = 'Brosencephalon Pathology::Wound-Healing::wound-healing'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'EbKtq{>!=e'
 note-id = 1404238866108
 text = """
 In leukocyte margination and rolling,&nbsp;{{c1::E-selectin}} and&nbsp;{{c2::P-selectin}} on endothelium binds \
@@ -3045,6 +3395,7 @@ tags = 'Brosencephalon Pathology::Inflammation::acute-inflammation'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'x0@yR}s@<C'
 note-id = 1404239019475
 text = """
 In leukocyte margination and rolling,&nbsp;{{c1::GlyCAM-1}} and&nbsp;{{c2::CD34}} on endothelium binds \
@@ -3054,6 +3405,7 @@ tags = 'Brosencephalon Pathology::Inflammation::acute-inflammation'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'bI-!HQrGB&'
 note-id = 1404239055174
 text = """
 In leukocyte tight-binding during inflammation,&nbsp;{{c1::ICAM (CD54)}} on endothelium binds to&nbsp;{{c2::CD11/18 \
@@ -3063,6 +3415,7 @@ tags = 'Brosencephalon Pathology::Inflammation::acute-inflammation'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'Ssv&7Hzet'
 note-id = 1404239102720
 text = """
 In leukocyte tight-binding during inflammation,&nbsp;{{c1::VCAM (CD106)}} on endothelium binds to&nbsp;{{c2::VLA-4 \
@@ -3072,6 +3425,7 @@ tags = 'Brosencephalon Pathology::Inflammation::acute-inflammation'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'iV?SR6i#l{'
 note-id = 1404239163182
 text = """
 In leukocyte diapedesis during inflammation,&nbsp;{{c1::PECAM-1 (<b>CD31</b>)}} on endothelium binds \
@@ -3081,6 +3435,7 @@ tags = 'Brosencephalon Pathology::Inflammation::acute-inflammation'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'mV^~=J.|PW'
 note-id = 1404239364558
 text = """
 {{c1::Platelet-derived Growth factor (PDGF)}} is a mediator of wound repair secreted by <b>platelets</b>&nbsp;and \
@@ -3090,6 +3445,7 @@ tags = 'Brosencephalon Pathology::Wound-Healing::wound-healing'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'LKNhG=19Df'
 note-id = 1404239580287
 text = """
 {{c1::Fibroblast growth factor (FGF)}} is a mediator\b of wound healing that stimulates <b>all aspects of \
@@ -3099,6 +3455,7 @@ tags = 'Brosencephalon Pathology::Wound-Healing::wound-healing'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 't1^LRB$J|r'
 note-id = 1404239831562
 text = """
 {{c1::Epithelial Growth Factor (EGF)}} is a mediator of wound healing that stimulates cell growth <b>via Tyrosine \
@@ -3108,6 +3465,7 @@ tags = 'Brosencephalon Pathology::Wound-Healing::wound-healing'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'w^V*4-.8GE'
 note-id = 1404239857011
 text = '{{c1::TGF-beta}} is a mediator of wound healing that stimulated fibroblasts but is also <b>anti-inflammatory</b>.'
 extra = ""
@@ -3115,6 +3473,7 @@ tags = 'Brosencephalon Pathology::Wound-Healing::wound-healing'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'i5m,$~_6rm'
 note-id = 1404239886981
 text = """
 {{c1::Exudate}} is a type of inflammatory fluid that is <b>protein rich</b>&nbsp;with a <b>specific gravity &gt; \
@@ -3124,6 +3483,7 @@ tags = 'Brosencephalon Pathology::Inflammation::exudate-vs-transudate'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'd%q&m{!?g{'
 note-id = 1404241051724
 text = """
 {{c1::Transudate}} is a type of inflammatory fluid that is <b>protein poor</b>&nbsp;and has a <b>specific gravity &lt; \
@@ -3133,6 +3493,7 @@ tags = 'Brosencephalon Pathology::Inflammation::exudate-vs-transudate'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'Ccqc`[O:(?'
 note-id = 1404241077320
 text = 'How does ESR change in inflammation?<div><br /></div><div>{{c1::Increase}}</div>'
 extra = """

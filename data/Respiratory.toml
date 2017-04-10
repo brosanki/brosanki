@@ -1,5 +1,6 @@
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'v$$?<F`Vc@'
 note-id = 1384918495367
 text = '{{c1::Phlebothrombosis}} is thrombosis of a vein without inflammation.'
 extra = '<div><i>Most common example is DVT</i></div>'
@@ -7,6 +8,7 @@ tags = 'Brosencephalon Respiratory::Pathology::deep-venous-thrombosis'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'e8n)Yr^vZC'
 note-id = 1385243342281
 text = """
 {{c1::Lobar}} pneumonia is characterized by the consolidation of an entire lobe of the lung on a chest x-ray.<div><br \
@@ -16,6 +18,7 @@ tags = 'Brosencephalon Respiratory::Pathology::pneumonia'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'OKyF5`=ek='
 note-id = 1385243500362
 text = """
 {{c1::Bronchopneumonia}} is a type of pneumonia that is characterized by scattered patchy consolidations centered around \
@@ -25,6 +28,7 @@ tags = 'Brosencephalon Respiratory::Pathology::pneumonia'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'BU0$sT4vDU'
 note-id = 1385243543250
 text = '{{c1::Interstitial}} pneumonia is characterized by diffuse interstital infiltrates on a chest x-ray.'
 extra = '<img src="paste-979252543597.jpg" />'
@@ -32,6 +36,7 @@ tags = 'Brosencephalon Respiratory::Pathology::pneumonia'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'LG>>Gw:5w:'
 note-id = 1385264557328
 text = 'How do breath and lung percussion sounds change in Pneumonia?<div><br /></div><div>{{c1::Decreased; dull}}</div>'
 extra = ""
@@ -39,6 +44,7 @@ tags = 'Brosencephalon Respiratory::Pathology::lung-physical-findings'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'i10;uM_JP+'
 note-id = 1385264582270
 text = 'What is the most common cause of pneumonia?<div><br /></div><div>{{c1::<i>Streptococcus pneumoniae</i>}}</div>'
 extra = ""
@@ -46,6 +52,7 @@ tags = 'Brosencephalon Respiratory::Pathology::pneumonia'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'p|y#69?pT6'
 note-id = 1385583530843
 text = '{{c1::Extrinsic}} asthma is typically caused by allergens or environmental antigens.'
 extra = ""
@@ -53,6 +60,7 @@ tags = 'Brosencephalon Respiratory::Pathology::obstructive-lung-diseases'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'Chy2EM*6c:'
 note-id = 1385583594083
 text = '{{c1::Intrinsic}} asthma is typically caused by drugs or respiratory tract infections.'
 extra = ""
@@ -60,6 +68,7 @@ tags = 'Brosencephalon Respiratory::Pathology::obstructive-lung-diseases'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'po0VBCfF?H'
 note-id = 1385583617629
 text = '''Which particles causes Coal Workers' Pneumoconiosis?<div><br /></div><div>{{c1::Carbon Dust}}</div>'''
 extra = ""
@@ -67,6 +76,7 @@ tags = 'Brosencephalon Respiratory::Pathology::pneumoconioses'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'fpEj[%iSqB'
 note-id = 1385588912724
 text = 'Which particle causes Silicosis?<div><br /></div><div>{{c1::Silica}}</div>'
 extra = ""
@@ -74,6 +84,7 @@ tags = 'Brosencephalon Respiratory::Pathology::pneumoconioses'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'E9mvy:vU_U'
 note-id = 1385588921449
 text = 'Which particle causes Berylliosis?<div><br /></div><div>{{c1::Beryllium}}</div>'
 extra = ""
@@ -81,6 +92,7 @@ tags = 'Brosencephalon Respiratory::Pathology::pneumoconioses'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'u;~*a_J/=T'
 note-id = 1385588932413
 text = 'Which particle causes Asbestosis?<div><br /></div><div>{{c1::Asbestos}}</div>'
 extra = ""
@@ -88,6 +100,7 @@ tags = 'Brosencephalon Respiratory::Pathology::pneumoconioses'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'Ar$A5^jyY%'
 note-id = 1385588941885
 text = '''Which population is commonly affected by Coal Workers' Pneumoconiosis?<div><br /></div><div>{{c1::Coal miners}}</div>'''
 extra = ""
@@ -95,6 +108,7 @@ tags = 'Brosencephalon Respiratory::Pathology::pneumoconioses'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'iDUE{&r]X}'
 note-id = 1385588967210
 text = """
 Which 2 populations are commonly affected by Silicosis?<div><br /></div><div>{{c1::Sandblasters and silica \
@@ -104,6 +118,7 @@ tags = 'Brosencephalon Respiratory::Pathology::pneumoconioses'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'PNSb5*N,E]'
 note-id = 1385588982413
 text = """
 Which 2 populations are commonly affected by Berylliosis?<div><br /></div><div>{{c1::Beryllium miners and Aerospace \
@@ -113,6 +128,7 @@ tags = 'Brosencephalon Respiratory::Pathology::pneumoconioses'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'CHva2<Xh_/'
 note-id = 1385589015351
 text = """
 Which 3 populations are commonly affected by Asbestosis?<div><br /></div><div>{{c1::Construction workers, plumbers and \
@@ -122,6 +138,7 @@ tags = 'Brosencephalon Respiratory::Pathology::pneumoconioses'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'iWnb]o-;q7'
 note-id = 1385589264219
 text = """
 {{c1::Coal Workers' Pneumoconiosis}} is a pneumoconiosis that may lead to diffuse fibrosis (<b>black lung</b>) if there \
@@ -131,6 +148,7 @@ tags = 'Brosencephalon Respiratory::Pathology::pneumoconioses'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'm+hL*t#wSJ'
 note-id = 1385589320640
 text = '''{{c1::Coal Workers' Pneumoconiosis}} is a pneumoconiosis associated with rheumatoid arthritis (Caplan Syndrome).'''
 extra = ""
@@ -138,6 +156,7 @@ tags = 'Brosencephalon Respiratory::Pathology::pneumoconioses'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'u1q->:JEx'
 note-id = 1385589357861
 text = """
 {{c1::Anthracosis}} is a benign respiratory pathology that occurs following <b>mild</b>&nbsp;exposure to carbon. It \
@@ -147,6 +166,7 @@ tags = 'Brosencephalon Respiratory::Pathology::pneumoconioses'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'i$CC6OqT3T'
 note-id = 1385589514069
 text = '{{c1::Silicosis}} is a pneumoconiosis involving fibrotic nodules at the <b>upper lobes</b>&nbsp;of the lung.'
 extra = ""
@@ -154,6 +174,7 @@ tags = 'Brosencephalon Respiratory::Pathology::pneumoconioses'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'ss2+@qaEc:'
 note-id = 1385589554364
 text = """
 {{c1::Silicosis}} is a pneumoconiosis that presents with an increased risk of TB as&nbsp;{{c1::silica}} impairs \
@@ -163,6 +184,7 @@ tags = 'Brosencephalon Respiratory::Pathology::pneumoconioses'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'l&JaGU{`cL'
 note-id = 1385589596633
 text = """
 {{c1::Berylliosis}} is a <b>pneumoconiosis</b> that presents with <b>non-caseating granulomas</b> in the lung, hilar \
@@ -172,6 +194,7 @@ tags = 'Brosencephalon Respiratory::Pathology::pneumoconioses'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'H^uplXw)Uk'
 note-id = 1385589651619
 text = """
 {{c1::Asbestosis}} is a pneumoconiosis that presents with pulmonary and pleural fibrosis and an increased risk for \
@@ -181,6 +204,7 @@ tags = 'Brosencephalon Respiratory::Pathology::pneumoconioses'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'F[H[Yq,*^F'
 note-id = 1385589700365
 text = """
 {{c1::Mesothelioma}} is a cancer of the pleura that results in <b>hemorrhagic pleural effusions</b>&nbsp;and <b>pleural \
@@ -190,6 +214,7 @@ tags = 'Brosencephalon Respiratory::Pathology::pneumoconioses'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'M{CyynyCCy'
 note-id = 1385589775046
 text = """
 {{c1::Asbestosis}} is a pneumoconiosis that involves <b>long, golden brown</b>&nbsp;lesions with associated <b>asbestos \
@@ -199,6 +224,7 @@ tags = 'Brosencephalon Respiratory::Pathology::pneumoconioses'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'E-rlt|8o(W'
 note-id = 1385592087568
 text = """
 A honeycomb lung is seen in the late stages of&nbsp;{{c1::idiopathic pulmonary fibrosis}}.<div><br /></div><div><img \
@@ -208,6 +234,7 @@ tags = 'Brosencephalon Respiratory::Pathology::restrictive-lung-disease'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'Hw3!3l*H!)'
 note-id = 1385592123917
 text = """
 {{c1::Sarcoidosis}} is a restrictive pulmonary disease that involves <b>non-caseating</b>&nbsp;granulomas.<div><br \
@@ -217,6 +244,7 @@ tags = 'Brosencephalon Respiratory::Pathology::restrictive-lung-disease'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'g,~eM+[tGE'
 note-id = 1385601222052
 text = """
 {{c1::Hyaline membranes}} at the alveoli are a common finding in&nbsp;{{c2::Acute Respiratory Distress Syndrome \
@@ -228,6 +256,7 @@ tags = 'Brosencephalon Respiratory::Pathology::acute-respiratory-distress-syndro
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'ip|w8xRly'
 note-id = 1385601380145
 text = """
 {{c1::Obstructive}} pulmonary disorders involve airway obstructions that make it difficult to expire and deflate the \
@@ -237,6 +266,7 @@ tags = 'Brosencephalon Respiratory::Pathology::obstructive-lung-diseases'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'CKwf%9;l0f'
 note-id = 1385603089700
 text = 'How does TLC change in COPD?<div><br /></div><div>{{c1::Increase}}</div>'
 extra = ""
@@ -244,6 +274,7 @@ tags = 'Brosencephalon Respiratory::Pathology::obstructive-lung-diseases'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'm/$x3kM|yJ'
 note-id = 1385603100822
 text = """
 {{c1::Chronic bronchitis}} is defined as a condition that yields chronic productive cough lasting at least 3 months over \
@@ -253,6 +284,7 @@ tags = 'Brosencephalon Respiratory::Pathology::obstructive-lung-diseases'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'qXYTKK.@$G'
 note-id = 1385603155794
 text = """
 {{c1::Chronic bronchitis}} is a COPD that involves an increase in the thickness of <b>mucous glands</b>&nbsp;relative to \
@@ -262,6 +294,7 @@ tags = 'Brosencephalon Respiratory::Pathology::obstructive-lung-diseases'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'd;h0;2hj$t'
 note-id = 1385603231272
 text = """
 {{c1::Emphysema}} is a COPD that involves destruction of alveolar air sacs due to an imbalance between protease and \
@@ -271,6 +304,7 @@ tags = 'Brosencephalon Respiratory::Pathology::obstructive-lung-diseases'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'Q0QG`BnM<)'
 note-id = 1385603270178
 text = 'What type of emphysema is seen in smokers?<div><br /></div><div>{{c1::Centriacinar emphysema}}</div>'
 extra = ""
@@ -278,6 +312,7 @@ tags = 'Brosencephalon Respiratory::Pathology::obstructive-lung-diseases'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'Jgk]4RR`V`'
 note-id = 1385603312108
 text = 'The centriacinar emphysema seen in smokers is most severe in the&nbsp;{{c1::upper}} lobes of the lung.'
 extra = '<div><i>Remember, smoke rises.</i></div>'
@@ -285,6 +320,7 @@ tags = 'Brosencephalon Respiratory::Pathology::obstructive-lung-diseases'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'y;>~Zm_I{F'
 note-id = 1385603345513
 text = """
 Which genotype is at significant risk for developing panacinar emphysema?<div><br /></div><div>{{c1::PiZZ \
@@ -294,6 +330,7 @@ tags = 'Brosencephalon Respiratory::Pathology::obstructive-lung-diseases'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'ghwTfw5Z>b'
 note-id = 1385603383001
 text = 'What kind of emphysema is seen in A1AT deficient patients?<div><br /></div><div>{{c1::Panacinar emphysema}}</div>'
 extra = ""
@@ -301,6 +338,7 @@ tags = 'Brosencephalon Respiratory::Pathology::obstructive-lung-diseases'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'n4&kh0{U=t'
 note-id = 1385603410943
 text = 'The panacinar emphysema seen in A1AT deficiency is most severe in the&nbsp;{{c1::lower}} lobes of the lungs.'
 extra = ""
@@ -308,6 +346,7 @@ tags = 'Brosencephalon Respiratory::Pathology::obstructive-lung-diseases'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'i?!=G>Y!OL'
 note-id = 1385603448485
 text = """
 {{c1::Liver cirrhosis}} is commonly seen alongside emphysema in A1AT deficient patients due to the accumulation of \
@@ -317,6 +356,7 @@ tags = 'Brosencephalon Respiratory::Pathology::obstructive-lung-diseases'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'sF?C[N|ge*'
 note-id = 1385603486533
 text = '{{c1::Aspirin Intolerant Asthma}} is a form of non-atopic asthma caused by Aspirin.'
 extra = ""
@@ -324,6 +364,7 @@ tags = 'Brosencephalon Respiratory::Pathology::obstructive-lung-diseases'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'CA<KrDy1B/'
 note-id = 1385603647545
 text = '{{c1::Curschmann spirals}} are spiral-shaped mucous plugs seen in Asthma.'
 extra = ""
@@ -331,6 +372,7 @@ tags = 'Brosencephalon Respiratory::Pathology::obstructive-lung-diseases'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'mhamd)2n2>'
 note-id = 1385603788958
 text = '{{c1::Charcot-Leyden Crystals}} are crystallizations of major basic protein derived from eosinophils seen in Asthma.'
 extra = ""
@@ -338,6 +380,7 @@ tags = 'Brosencephalon Respiratory::Pathology::obstructive-lung-diseases'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'jKQC}jXs+K'
 note-id = 1385603818435
 text = '{{c1::Status Asthmaticus}} is a severe, unrelenting state of asthma where medication and therapies are ineffective.'
 extra = ""
@@ -345,6 +388,7 @@ tags = 'Brosencephalon Respiratory::Pathology::obstructive-lung-diseases'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'fiN@{da]R3'
 note-id = 1385603840822
 text = """
 {{c1::Bronchiectasis}} is a COPD defined as the permanent dilation of bronchioles and bronchi. It causes loss of airway \
@@ -354,6 +398,7 @@ tags = 'Brosencephalon Respiratory::Pathology::obstructive-lung-diseases'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'hVu5+[!`!&'
 note-id = 1385603882221
 text = '{{c1::Restrictive}} pulmonary disorders involve a difficulty in the inspiratory expansion of the lungs.'
 extra = ""
@@ -361,6 +406,7 @@ tags = 'Brosencephalon Respiratory::Pathology::restrictive-lung-disease'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'EyrnZ{%h]8'
 note-id = 1385604016027
 text = """
 Which cytokine from injured pneumocytes is involved in Idiopathic Pulmonary Fibrosis and induces the fibrosis?<div><br \
@@ -370,6 +416,7 @@ tags = 'Brosencephalon Respiratory::Pathology::restrictive-lung-disease'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'qQ.J|NW->m'
 note-id = 1385604064666
 text = """
 {{c1::Sarcoidosis}} is a systemic disease involve non-caseating granulomas in multiple organs. It causes restrictive \
@@ -379,6 +426,7 @@ tags = 'Brosencephalon Respiratory::Pathology::restrictive-lung-disease'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'C(]9#)a?v&'
 note-id = 1385604131251
 text = '{{c1::Schaumann bodies}} are calcified concretions seen in the granulomas found in Sarcoidosis.'
 extra = ""
@@ -386,6 +434,7 @@ tags = 'Brosencephalon Respiratory::Pathology::restrictive-lung-disease'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'g9Bt-7mzEl'
 note-id = 1385604174791
 text = '{{c1::Asteroid bodies}} are the stellate inclusions within giant cells of the granulomas in Sarcoidosis.'
 extra = ""
@@ -393,6 +442,7 @@ tags = 'Brosencephalon Respiratory::Pathology::restrictive-lung-disease'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'E:E8rYdZ|_'
 note-id = 1385604302626
 text = """
 {{c1::Acute Respiratory Distress Syndrome (ARDS)}} is a pulmonary pathology due to diffuse damage to the alveolar-\
@@ -402,6 +452,7 @@ tags = 'Brosencephalon Respiratory::Pathology::acute-respiratory-distress-syndro
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'd*>a4|BpMz'
 note-id = 1385604360145
 text = '{{c1::Neonatal Respiratory Distress Syndrome}} is a form of respiratory distress due to inadequate surfactant levels.'
 extra = ""
@@ -409,6 +460,7 @@ tags = 'Brosencephalon Respiratory::Embryology::neonatal-respiratory-distress-sy
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'Eqc?!1f-b}'
 note-id = 1385604429476
 text = 'What is the major phospholipid found in surfactant?<div><br /></div><div>{{c1::Phosphatidylcholine (Lecithin)}}</div>'
 extra = ""
@@ -416,6 +468,7 @@ tags = 'Brosencephalon Respiratory::Embryology::neonatal-respiratory-distress-sy
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'BLV_+!0;f%'
 note-id = 1385604446685
 text = 'Adequate levels of surfactant are reached during the&nbsp;{{c1::34th}} week of gestation.'
 extra = ""
@@ -423,6 +476,7 @@ tags = 'Brosencephalon Respiratory::Embryology::neonatal-respiratory-distress-sy
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'A0,.D3y60:'
 note-id = 1385604473359
 text = 'What Lechitin:Sphingomyelin (L:S) ratio is indicative of mature lungs?<div><br /></div><div>{{c1::&gt; 2}}</div>'
 extra = ""
@@ -430,6 +484,7 @@ tags = 'Brosencephalon Respiratory::Embryology::neonatal-respiratory-distress-sy
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'ChFFjZq]%}'
 note-id = 1385604490599
 text = 'How does insulin affect the production of Surfactant?<div><br /></div><div>{{c1::Decreases}}</div>'
 extra = ""
@@ -437,6 +492,7 @@ tags = 'Brosencephalon Respiratory::Embryology::neonatal-respiratory-distress-sy
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'k34j:*4Mu.'
 note-id = 1385665375628
 text = '''{{c1::Small Cell Carcinoma of the lung}} is a lung cancer that is aka 'Oat Cell' Carcinoma.'''
 extra = ""
@@ -444,6 +500,7 @@ tags = 'Brosencephalon Respiratory::Pathology::lung-cancer'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'F{^:(p2(XU'
 note-id = 1385665480989
 text = """
 {{c1::Small Cell Carcinoma}} is a lung cancer with <b>poorly differentiated</b>&nbsp;small cells that arise from \
@@ -455,6 +512,7 @@ tags = 'Brosencephalon Respiratory::Pathology::lung-cancer'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'oCxVr5OD=,'
 note-id = 1385665922853
 text = """
 {{c1::Lambert-Eaton Syndrome}} is a paraneoplastic syndrome commonly associated with Small Cell Carcinoma that is \
@@ -464,6 +522,7 @@ tags = 'Brosencephalon Respiratory::Pathology::lung-cancer'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'Nnsur,qi3}'
 note-id = 1385665999338
 text = """
 {{c1::Squamous cell carcinoma}} is a non-small cell lung carcinoma that is characterized by <b>keratin \
@@ -473,6 +532,7 @@ tags = 'Brosencephalon Respiratory::Pathology::lung-cancer'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'tJfyBg_[nQ'
 note-id = 1385666092731
 text = 'What is the most common lung tumor in male smokers?<div><br /></div><div>{{c1::Squamous cell carcinoma}}</div>'
 extra = ""
@@ -480,6 +540,7 @@ tags = 'Brosencephalon Respiratory::Pathology::lung-cancer'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'r@U)G+B3T1'
 note-id = 1385666112471
 text = """
 {{c1::Squamous Cell Carcinoma}} of the lung is often associated with hypercalcemia due to its ability to \
@@ -489,6 +550,7 @@ tags = 'Brosencephalon Respiratory::Pathology::lung-cancer'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'ope3y!z^7e'
 note-id = 1385666197765
 text = """
 {{c1::Adenocarcinoma}} of the lung is a non-small cell carcinoma of the lung involving <b>glands</b>&nbsp;or \
@@ -498,6 +560,7 @@ tags = 'Brosencephalon Respiratory::Pathology::lung-cancer'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'ObXl;1=Qr<'
 note-id = 1385666315151
 text = """
 {{c1::Large Cell Carcinoma}} is a non-small cell carcinoma of the lung that involves <b>poorly-differentiated, \
@@ -507,6 +570,7 @@ tags = 'Brosencephalon Respiratory::Pathology::lung-cancer'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'KxK;aDahNW'
 note-id = 1385666429870
 text = """
 {{c1::Bronchioloalveolar carcinoma}} is a non-small cell carcinoma of the lung that involves <b>columnar \
@@ -516,6 +580,7 @@ tags = 'Brosencephalon Respiratory::Pathology::lung-cancer'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'f@[.FnL{gM'
 note-id = 1385666502601
 text = 'Bronchioloalveolar carcinoma of the lung arises from&nbsp;{{c1::Clara}} cells.'
 extra = ""
@@ -523,6 +588,7 @@ tags = 'Brosencephalon Respiratory::Pathology::lung-cancer'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'KQ#0fM~X>{'
 note-id = 1385666545207
 text = """
 {{c1::Bronchioloalveolar carcinoma}} is a non-small cell carcinoma of the lung that may present with pneumonia-like \
@@ -532,6 +598,7 @@ tags = 'Brosencephalon Respiratory::Pathology::pneumonia'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'osFW?~#OlW'
 note-id = 1385666578788
 text = """
 A {{c1::Carcinoid tumor}} is a non-small cell carcinoma of the lung that involved <b>well differentiated neuroendocrine \
@@ -541,6 +608,7 @@ tags = 'Brosencephalon Respiratory::Pathology::lung-cancer'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'gUdsCI2D`t'
 note-id = 1385666640213
 text = """
 Which immunohistochemical marker is expressed in Carcinoid tumors?<div><br /></div><div><img \
@@ -550,6 +618,7 @@ tags = 'Brosencephalon Respiratory::Pathology::lung-cancer'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'Ei+x;$%>Z='
 note-id = 1385666694866
 text = """
 Carcinoid tumors can be both peripheral or central. If they are {{c1::central}}, they classically form a polyp-like mass \
@@ -559,6 +628,7 @@ tags = 'Brosencephalon Respiratory::Pathology::lung-cancer'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'w0#@78bq3n'
 note-id = 1385666747806
 text = """
 What are the 2 most common sources of metastatic cancer to the lung?<div><br /></div><div>{{c1::Breast and colon \
@@ -568,6 +638,7 @@ tags = 'Brosencephalon Respiratory::Pathology::lung-cancer'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'da]n8kH~#2'
 note-id = 1385666798403
 text = """
 A&nbsp;{{c1::mesothelioma}} is a cancer of the mesothelium that often encases the lung and often compresses or invades \
@@ -577,6 +648,7 @@ tags = 'Brosencephalon Respiratory::Pathology::mesothelioma'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'bouMU,R$U]'
 note-id = 1385667128750
 text = 'What is the most common etiology of mesothelioma?<div><br /></div><div>{{c1::Asbestos}}</div>'
 extra = ""
@@ -584,6 +656,7 @@ tags = 'Brosencephalon Respiratory::Pathology::mesothelioma'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'OVQ:WZlLyn'
 note-id = 1385667141949
 text = """
 {{c1::Acanthosis Nigricans}} is a paraneoplastic syndrome characterized by dermopathy and black, dark discoloration of \
@@ -593,6 +666,7 @@ tags = 'Brosencephalon Respiratory::Pathology::lung-cancer'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'AkMti9;y-+'
 note-id = 1385667183021
 text = """
 Which type of lung cancer is most commonly associated with <b>hypercalcemia</b>?<div><br /></div><div>{{c1::Squamous \
@@ -602,6 +676,7 @@ tags = 'Brosencephalon Respiratory::Pathology::lung-cancer'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'yIt&)psRE&'
 note-id = 1385667207406
 text = '{{c1::Carcinoid tumor}} is a lung cancers that are not associated with smoking.'
 extra = ""
@@ -609,6 +684,7 @@ tags = 'Brosencephalon Respiratory::Pathology::lung-cancer'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'qW!@s-BO/A'
 note-id = 1385667367556
 text = """
 How does metastatic cancer to the lung commonly present upon imaging?<div><br></div><div>{{c1::Multiple 'cannon-ball' \
@@ -618,6 +694,7 @@ tags = 'Brosencephalon Respiratory::Pathology::lung-cancer'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'GZNF@Mh@1w'
 note-id = 1385667534805
 text = """
 Which lung cancer is associated with Neuron-Specific Enolase (NSE)?<div><br /></div><div>{{c1::Small Cell Carcinoma of \
@@ -627,6 +704,7 @@ tags = 'Brosencephalon Respiratory::Pathology::lung-cancer'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'Q-VUp{ISH:'
 note-id = 1385667565683
 text = 'What is the most common cause of lung cancer?<div><br /></div><div>{{c1::Cigarette smoke}}</div>'
 extra = ""
@@ -634,6 +712,7 @@ tags = 'Brosencephalon Respiratory::Pathology::lung-cancer'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'CV4*eX?-.e'
 note-id = 1385667604808
 text = '{{c1::Radon}} is a risk factor for lung cancer that is formed by the radioactive decay of uranium.'
 extra = ""
@@ -641,6 +720,7 @@ tags = 'Brosencephalon Respiratory::Pathology::lung-cancer'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'o?S[t#gsfn'
 note-id = 1385667624524
 text = """
 {{c1::Superior Vena Cava Syndrome}} is a mass effect complication associated with lung cancer. It is characterized by \
@@ -650,6 +730,7 @@ tags = 'Brosencephalon Respiratory::Pathology::superior-vena-cava-syndrome'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'pxrGwNJkvc'
 note-id = 1385667705190
 text = """
 What tumor is associated with Horner's Syndrome?<div><br /></div><div>{{c1::Pancoast tumor; at the apex of the \
@@ -659,6 +740,7 @@ tags = 'Brosencephalon Respiratory::Pathology::pancoast-tumor'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'etin?A?1tj'
 note-id = 1385695900579
 text = """
 {{c1::Acetylisoniazid}} is a <b>hepatotoxic</b>&nbsp;metabolite of Isoniazid that can cause hepatitis in patients being \
@@ -668,6 +750,7 @@ tags = 'Brosencephalon::tuberculosis Respiratory::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'OR/+WA>l0p'
 note-id = 1385775528730
 text = 'What is the MOA of Albuterol?<div><br /></div><div>{{c1::B2 agonism}}</div>'
 extra = ""
@@ -675,6 +758,7 @@ tags = 'Brosencephalon Respiratory::Pharmacology::asthma-drugs'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'sB)PJ`{<^}'
 note-id = 1385776076120
 text = 'What is the prototype <b>short-acting</b>&nbsp;beta2 agonist?<div><br /></div><div>{{c1::Albuterol}}</div>'
 extra = ""
@@ -682,6 +766,7 @@ tags = 'Brosencephalon Respiratory::Pharmacology::asthma-drugs'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'pU:o?j&O4?'
 note-id = 1385776105952
 text = 'What is the prototype <b>long-acting</b>&nbsp;beta2 agonist?<div><br /></div><div>{{c1::Salmeterol}}</div>'
 extra = ""
@@ -689,6 +774,7 @@ tags = 'Brosencephalon Respiratory::Pharmacology::asthma-drugs'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'jhG-:%n9jU'
 note-id = 1385776122460
 text = """
 What is the main MOA of Beta-2 agonists in the treatment of COPD?<div><br />{{c1::b2 pre-synaptic receptor agonism, \
@@ -698,6 +784,7 @@ tags = 'Brosencephalon Respiratory::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'IkIm0RFV%o'
 note-id = 1385776181501
 text = 'What is the DOC to treat acute asthma?<div><br /></div><div>{{c1::Albuterol}}</div>'
 extra = ""
@@ -705,6 +792,7 @@ tags = 'Brosencephalon Respiratory::Pharmacology::asthma-drugs'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'PDwtDjd8uA'
 note-id = 1385776194322
 text = 'What is the pregnancy category of beta2-agonists?<div><br /></div><div>{{c1::C}}</div>'
 extra = ""
@@ -712,6 +800,7 @@ tags = 'Brosencephalon Respiratory::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = '5dw`weFz+'
 note-id = 1385776213353
 text = 'What is the ROA of Salmeterol?<div><br /></div><div>{{c1::Inhalation via powder only}}</div>'
 extra = ""
@@ -719,6 +808,7 @@ tags = 'Brosencephalon Respiratory::Pharmacology::asthma-drugs'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'l@/W&z?5TN'
 note-id = 1385776233925
 text = 'Which beta2 agonist is involved in the long term maintenance of Asthma?<div><br /></div><div>{{c1::Salmeterol}}</div>'
 extra = ""
@@ -726,6 +816,7 @@ tags = 'Brosencephalon Respiratory::Pharmacology::asthma-drugs'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'GuWn2mA;`C'
 note-id = 1385776277082
 text = '{{c1::Salmeterol}} is a beta2-agonist that is contraindicated in acute asthma.'
 extra = ""
@@ -733,6 +824,7 @@ tags = 'Brosencephalon Respiratory::Pharmacology::asthma-drugs'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'FI;8XA!+B`'
 note-id = 1385776304212
 text = '{{c1::Theophylline}} is a Methylxanthine that causes bronchodilation through unknown mechanisms.'
 extra = ""
@@ -740,6 +832,7 @@ tags = 'Brosencephalon Respiratory::Pharmacology::asthma-drugs'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'H3Yc:u:Sg_'
 note-id = 1385776612407
 text = 'Removal of the bronchodilator&nbsp;{{c1::Theophylline}} can result in worsening of the disease.'
 extra = ""
@@ -747,6 +840,7 @@ tags = 'Brosencephalon Respiratory::Pharmacology::asthma-drugs'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'C1%_>_2pco'
 note-id = 1385776636803
 text = 'What is the MOA of Ipratropium?<div><br /></div><div>{{c1::Competitive inhibition of ACh Muscarinic receptors}}</div>'
 extra = ""
@@ -754,6 +848,7 @@ tags = 'Brosencephalon Respiratory::Pharmacology::asthma-drugs'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'Lr|.p)rN*.'
 note-id = 1385776678585
 text = 'What is the MOA of Tiotropium?<div><br /></div><div>{{c1::Selective inhibition of M1 and M3 receptors}}</div>'
 extra = '<div><i>Does not antagonize M2 receptors&nbsp;</i></div>'
@@ -761,6 +856,7 @@ tags = 'Brosencephalon Respiratory::Pharmacology::asthma-drugs'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'eLbnwQEr/H'
 note-id = 1385776725153
 text = 'What is the DOC for Bronchodilation in COPD?<div><br /></div><div>{{c1::Tiotropium}}</div>'
 extra = ""
@@ -768,6 +864,7 @@ tags = 'Brosencephalon Respiratory::Pharmacology::asthma-drugs'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'jyTl+}QL[q'
 note-id = 1385776737663
 text = """
 {{c3::Inhaled Corticosteroids}} are used in the prophylaxis and therapy of chronic asthma in patients who need more \
@@ -777,6 +874,7 @@ tags = 'Brosencephalon Respiratory::Pharmacology::asthma-drugs'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'iCLV4)R!ZC'
 note-id = 1385777370570
 text = '{{c1::Fluticasone}} is an inhaled corticosteroid that is also used to treat Eosinophilic Esophagitis.'
 extra = ""
@@ -784,6 +882,7 @@ tags = 'Brosencephalon Respiratory::Pharmacology::asthma-drugs'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'v?V)`;*X=='
 note-id = 1385777425018
 text = 'What is the Corticosteroid of choice for parenteral administration?<div><br /></div><div>{{c1::Hydrocortisone}}</div>'
 extra = ""
@@ -791,6 +890,7 @@ tags = 'Brosencephalon Respiratory::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'Ipcpgh:!,k'
 note-id = 1385778048287
 text = """
 What are the 2 Corticosteroids of choice for Oral administration?<div><br /></div><div>{{c1::Prednisone and \
@@ -800,6 +900,7 @@ tags = 'Brosencephalon Respiratory::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'N?:)?9ZXxb'
 note-id = 1385778074935
 text = """
 What is the MOA of Montelukast?<div><br /></div><div>{{c1::Antagonism of Cysteinyl Leukotriene Receptor 1 (CysLT1), \
@@ -809,6 +910,7 @@ tags = 'Brosencephalon Respiratory::Pharmacology::asthma-drugs'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'lNQ/oU2DAU'
 note-id = 1385778281063
 text = """
 {{c1::Montelukast}} and&nbsp;{{c2::Zafirlukast}} are leukotriene pathway inhibitors that antagonise Cysteinyl Lukotriene \
@@ -818,6 +920,7 @@ tags = 'Brosencephalon Respiratory::Pharmacology::asthma-drugs'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'q)?r=E~;]w'
 note-id = 1385778337092
 text = """
 What is the MOA of Zafirlukast?<div><br /></div><div>{{c1::Antagonism of Cysteinyl Leukotriene Receptor 1 (CysLT1), \
@@ -827,6 +930,7 @@ tags = 'Brosencephalon Respiratory::Pharmacology::asthma-drugs'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'N@ob]xvo@W'
 note-id = 1385778375470
 text = """
 What are the ligands that bind to Cysteinyl Leukotriene Receptor 1?<div><br /></div><div>{{c1::LTC4, LTD4 and \
@@ -836,6 +940,7 @@ tags = 'Brosencephalon Respiratory::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'HodVBA6(8;'
 note-id = 1385778463657
 text = """
 What is the MOA of Zileuton?<div><br /></div><div>{{c1::Inhibition of 5-Lipoxygenase, thereby inhibiting leukotriene \
@@ -845,6 +950,7 @@ tags = 'Brosencephalon Respiratory::Pharmacology::asthma-drugs'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'MemT(J?s[8'
 note-id = 1385778524455
 text = '{{c1::Zileuton}} is a leukotriene-pathway inhibitor that inhibits 5-Lipoxygenase.'
 extra = ""
@@ -852,6 +958,7 @@ tags = 'Brosencephalon Respiratory::Pharmacology::asthma-drugs'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'N#:`F+y(Al'
 note-id = 1385778545905
 text = """
 {{c1::Omalizumab}} is a monoclonal antibody that binds to {{c2::IgE}} antibodies, inhibiting their ability to bind to \
@@ -861,6 +968,7 @@ tags = 'Brosencephalon Respiratory::Pharmacology::asthma-drugs'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'oTFu:cu.$5'
 note-id = 1385778639434
 text = """
 What is the MOA of Omalizumab?<div><br /></div><div>{{c1::Binds to IgE antibodies, thereby inhibiting their ability to \
@@ -870,6 +978,7 @@ tags = 'Brosencephalon Respiratory::Pharmacology::asthma-drugs'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'c{3Kf~Qp:I'
 note-id = 1385778667894
 text = """
 {{c1::Ambrisentan}} is an anti-pulmonary hypertensive that competitively inhibits Endothelin-1 at \
@@ -879,6 +988,7 @@ tags = 'Brosencephalon Respiratory::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'PYBsM:meKP'
 note-id = 1385779244052
 text = """
 What is the MOA of Ambrisentan?<div><br /></div><div>{{c1::Competitive inhibition of Endothelin-1 at \
@@ -888,6 +998,7 @@ tags = 'Brosencephalon Respiratory::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'eN&>K9/Mm5'
 note-id = 1385779260722
 text = """
 {{c1::Endothelin-1}} is a potent pulmonary vasocontrictor produced in increased amounts in pulmonary hypertension. It \
@@ -897,6 +1008,7 @@ tags = 'Brosencephalon Respiratory::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 's#vb[*BR$v'
 note-id = 1385779321631
 text = """
 {{c1::Bosentan}} is an anti-pulmonary hypertensive that competitively antagonizes Endothelin-1 at \
@@ -906,6 +1018,7 @@ tags = 'Brosencephalon Respiratory::Pharmacology::pulmonary-hypertension-drugs'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'g9Qil)+^<Z'
 note-id = 1385779398751
 text = """
 What is the MOA of Bosentan?<div><br /></div><div>{{c1::Competitive antagonism Endothelin-1 at ET<sub>A</sub>&nbsp;and \
@@ -915,6 +1028,7 @@ tags = 'Brosencephalon Respiratory::Pharmacology::pulmonary-hypertension-drugs'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'vuA4vJ{[dy'
 note-id = 1385779418751
 text = '{{c1::Ambrisentan}} is an Endothelin-1 antagonist used to treat pHTN with WHO Class II or III symptoms.'
 extra = ""
@@ -922,6 +1036,7 @@ tags = 'Brosencephalon Respiratory::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'G`aR,1j:_A'
 note-id = 1385779470001
 text = '{{c1::Bosentan}} is an Endothelin-1 antagonist used to treat pHTN with WHO class II, III and IV symptoms.'
 extra = ""
@@ -929,6 +1044,7 @@ tags = 'Brosencephalon Respiratory::Pharmacology::pulmonary-hypertension-drugs'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'GlHW%p/{l6'
 note-id = 1385779493892
 text = 'What is the pregnancy rating of Endothelin-1 antagonists?<div><br /></div><div>{{c1::X}}</div>'
 extra = ""
@@ -936,6 +1052,7 @@ tags = 'Brosencephalon Respiratory::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'x:X(X{ti6v'
 note-id = 1385779522411
 text = """
 {{c1::Epoprostenol}} is an anti-pulmonary hypertensive that acts as an agonist at IP1 receptors \
@@ -945,6 +1062,7 @@ tags = 'Brosencephalon Respiratory::Pharmacology::pulmonary-hypertension-drugs'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'zxMX`sqgl5'
 note-id = 1385779646836
 text = """
 What is the MOA of Epoprostenol?<div><br /></div><div>{{c1::Agonist at IP1 receptors (PGI<sub>2</sub>&nbsp;Receptors), \
@@ -954,6 +1072,7 @@ tags = 'Brosencephalon Respiratory::Pharmacology::pulmonary-hypertension-drugs'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'e9TH-R_st9'
 note-id = 1385779660233
 text = """
 {{c1::Sildenafil}} is an anti-pulmonary hypertensive that inhibits Phosphodiesterase-5, thereby inhibiting the \
@@ -963,6 +1082,7 @@ tags = 'Brosencephalon Respiratory::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'w[:`g`}k*c'
 note-id = 1385779730872
 text = """
 What is the MOA of Sildenafil?<div><br /></div><div>{{c1::Inhibits Phosphodiesterase-5, thereby inhibiting the \
@@ -972,6 +1092,7 @@ tags = 'Brosencephalon Respiratory::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'ljaqCr=d?A'
 note-id = 1385779790854
 text = """
 {{c1::Sildenafil}} and&nbsp;{{c2::Tadalafil}} are PDE5 inhibitors that are not only used for pulmonary HTN but also for \
@@ -981,6 +1102,7 @@ tags = 'Brosencephalon Respiratory::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'y^Q#%uB;;+'
 note-id = 1385779836156
 text = """
 What is the MOA of Tadalafil?<div><br /></div><div>{{c1::Inhibits Phosphodiesterase-5, thereby inhibiting the \
@@ -990,6 +1112,7 @@ tags = 'Brosencephalon Respiratory::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'EWrul<r5Zp'
 note-id = 1385779854476
 text = '{{c1::Tadalafil}} is a PDE5 inhibitor that can be used to treat Benign Prostatic Hypertrophy (BPH).'
 extra = ""
@@ -997,6 +1120,7 @@ tags = 'Brosencephalon Respiratory::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'xL*ne,bqIe'
 note-id = 1385779908806
 text = '{{c1::Sildenafil}} and&nbsp;{{c2::Tadalafil}} are anti-pulmonary hypertensives that can cause colour vision impairments.'
 extra = ""
@@ -1004,6 +1128,7 @@ tags = 'Brosencephalon Respiratory::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'e6)#g0LKBv'
 note-id = 1397436223616
 text = """
 What <b>type</b>&nbsp;of lung disease is associated with Sarcoidosis?<div><br /></div><div>{{c1::Restrictive lung \
@@ -1013,6 +1138,7 @@ tags = 'Brosencephalon Respiratory::Pathology::restrictive-lung-disease'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'va@G=O.Y9k'
 note-id = 1397777994357
 text = """
 Which type of Pneumocyte is most abundant at alveolar surfaces?<div><br /></div><div>{{c1::Type I pneumocytes \
@@ -1022,6 +1148,7 @@ tags = 'Brosencephalon Respiratory::Embryology::pneumocytes'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'Ki/q7O{cm:'
 note-id = 1397778928590
 text = """
 {{c1::Type I pneumocytes}} are a type of pneumocyte that are <b>squamous</b>&nbsp;and thin, hence they are optimal for \
@@ -1033,6 +1160,7 @@ tags = 'Brosencephalon Respiratory::Embryology::pneumocytes'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'Q7OYI#@{P+'
 note-id = 1397779013570
 text = """
 Which type of pneumocytes are the <b>stem cells</b>&nbsp;of the lungs?<div><br /></div><div>{{c1::Type II \
@@ -1044,6 +1172,7 @@ tags = 'Brosencephalon Respiratory::Embryology::pneumocytes'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'pz8)vLyDH:'
 note-id = 1397779040710
 text = 'Which type of pneumocytes <b>secrete pulmonary surfactant</b>?<div><br /></div><div>{{c1::Type II pneumocytes}}</div>'
 extra = """
@@ -1053,6 +1182,7 @@ tags = 'Brosencephalon Respiratory::Embryology::pneumocytes'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'B!g4jw.>=n'
 note-id = 1397779108014
 text = '{{c1::Type II pneumocytes}} are a type of pneumocyte that is <b>cuboidal</b>&nbsp;and <b>clustered</b>.'
 extra = '<i><img src="8454.png" /></i>'
@@ -1060,6 +1190,7 @@ tags = 'Brosencephalon Respiratory::Embryology::pneumocytes'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'oWke?3g/MB'
 note-id = 1397779134203
 text = """
 {{c1::Type II pneumocytes}} are a type of pneumocyte that function as the stem cells of the lungs, proliferating into \
@@ -1069,6 +1200,7 @@ tags = 'Brosencephalon Respiratory::Embryology::pneumocytes'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 't~]BTuW`=W'
 note-id = 1397779163603
 text = """
 {{c1::Club cells}} are a type of pneumocyte that are <b>nonciliated</b>, <b>columnar cells</b>&nbsp;with secretory \
@@ -1078,6 +1210,7 @@ tags = 'Brosencephalon Respiratory::Embryology::pneumocytes'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'C3>Eow2r%W'
 note-id = 1397779193280
 text = '{{c1::Club cells}} are a type of pneumocyte that degrades toxins and acts as reserve cells.'
 extra = '<i><img src="8454.png" /></i>'
@@ -1085,6 +1218,7 @@ tags = 'Brosencephalon Respiratory::Embryology::pneumocytes'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'K.]bc7jDlY'
 note-id = 1397779214201
 text = 'Which type of pneumocyte degrades toxins and acts as reserve cells?<div><br /></div><div>{{c1::Club cells}}</div>'
 extra = '<i><img src="8454.png" /></i>'
@@ -1092,6 +1226,7 @@ tags = 'Brosencephalon Respiratory::Embryology::pneumocytes'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'bjJ_e%,5$R'
 note-id = 1397779260542
 text = """
 What is the equation for the <b>collapsing pressure</b>&nbsp;of an alveolus?<div><br /></div><div>{{c1::Collapsing \
@@ -1103,6 +1238,7 @@ tags = 'Brosencephalon Respiratory::Embryology::pneumocytes'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'v3UDiA6vBy'
 note-id = 1397779604235
 text = """
 What is the most important lechitin found in surfactant?<div><br \
@@ -1112,6 +1248,7 @@ tags = 'Brosencephalon Respiratory::Embryology::neonatal-respiratory-distress-sy
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'CY<XSoT)FN'
 note-id = 1397779663483
 text = 'During which week of gestation does lung surfactant production begin?<div><br /></div><div>{{c1::Week 26}}</div>'
 extra = '<img src="8455.png" />'
@@ -1119,6 +1256,7 @@ tags = 'Brosencephalon Respiratory::Embryology::neonatal-respiratory-distress-sy
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'gTG:UX=C(+'
 note-id = 1397779690179
 text = """
 During which week of gestation are <b>mature levels of surfactant</b>&nbsp;achieved?<div><br></div><div>{{c1::Week \
@@ -1128,6 +1266,7 @@ tags = 'Brosencephalon Respiratory::Embryology::neonatal-respiratory-distress-sy
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'z<HRAy9k!_'
 note-id = 1397779717267
 text = 'Which Lecithin:Sphingomyelin ratio is indicative of fetal lung maturity?<div><br /></div><div>{{c1::L:S &gt; 2.0}}</div>'
 extra = '<img src="8455.png" />'
@@ -1135,6 +1274,7 @@ tags = 'Brosencephalon Respiratory::Embryology::neonatal-respiratory-distress-sy
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'BP1|y`Or!g'
 note-id = 1397779796585
 text = 'Which lung has 3 lobes?<div><br /></div><div>{{c1::Right}}</div>'
 extra = '<div><i><img src="8457.png" /></i></div>'
@@ -1142,6 +1282,7 @@ tags = 'Brosencephalon Respiratory::Anatomy::lung-relations'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'l4/)i`3PrY'
 note-id = 1397779819124
 text = 'Which lung has 2 lobes?<div><br /></div><div>{{c1::Left}}</div>'
 extra = '<div><i><img src="8457.png" /></i></div>'
@@ -1149,6 +1290,7 @@ tags = 'Brosencephalon Respiratory::Anatomy::lung-relations'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'jn`*nRHd#<'
 note-id = 1397779826982
 text = 'Which lung has the Lingula?<div><br /></div><div>{{c1::Left}}</div>'
 extra = '<div><i><b>L</b>eft = <b>L</b>ingula</i></div><div><i><br /></i></div><div><i></i><i><img src="8457.png" /></i></div>'
@@ -1156,6 +1298,7 @@ tags = 'Brosencephalon Respiratory::Anatomy::lung-relations'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'b=o8P+:MxK'
 note-id = 1397779840806
 text = '{{c1::Lingula}} is a region of the left lung that is a homologue of the right middle lobe (of the right lung).'
 extra = '<i><img src="8457.png" /></i>'
@@ -1163,6 +1306,7 @@ tags = 'Brosencephalon Respiratory::Anatomy::lung-relations'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'v>*^fg*%ZU'
 note-id = 1397779877330
 text = 'Which lung is the more common site for inhaled foreign bodies?<div><br /></div><div>{{c1::Right lung}}</div>'
 extra = '<i><img src="8457.png" /></i><div></div>'
@@ -1170,6 +1314,7 @@ tags = 'Brosencephalon Respiratory::Anatomy::lung-relations'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'KECFJ&>U&)'
 note-id = 1397779951676
 text = """
 {{c1::Right Lung}} is the lung that is the most common site for inhaled foreign bodies because its main stem bronchus is \
@@ -1179,6 +1324,7 @@ tags = 'Brosencephalon Respiratory::Anatomy::lung-relations'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 's9L6|B}QmH'
 note-id = 1397780094689
 text = """
 Which lung &amp; lobe will an aspirated foreign body get stuck in while the patient is <b>upright</b>?<div><br \
@@ -1188,6 +1334,7 @@ tags = 'Brosencephalon Respiratory::Anatomy::lung-relations'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'tOwV|aw`?$'
 note-id = 1397780154188
 text = """
 Which lung &amp; lobe will an aspirated foreign body get stuck in if the patient is <b>supine</b>?<div><br \
@@ -1197,6 +1344,7 @@ tags = 'Brosencephalon Respiratory::Anatomy::lung-relations'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'G=d_{h9P:_'
 note-id = 1397780323867
 text = """
 What is the relation of the <b>pulmonary artery to the bronchus</b>&nbsp;at the <b>right lung</b>?<div><br \
@@ -1208,6 +1356,7 @@ tags = 'Brosencephalon Respiratory::Anatomy::lung-relations'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'cy+)W$C|ph'
 note-id = 1397780414904
 text = """
 What is the relation of the <b>pulmonary artery to the bronchus</b>&nbsp;at the <b>left \
@@ -1219,6 +1368,7 @@ tags = 'Brosencephalon Respiratory::Anatomy::lung-relations'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'd0rqww1;(#'
 note-id = 1397780434886
 text = 'At which vertebral level does the IVC perforate the diaphragm?<div><br /></div><div>{{c1::T8}}</div>'
 extra = '<div></div><i>"I 8 10 eggs at 12"</i><div><br /></div><div><img src="8458.png" /></div>'
@@ -1226,6 +1376,7 @@ tags = 'Brosencephalon Respiratory::Anatomy::diaphragm-structures'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'c?7X4BGr|o'
 note-id = 1397780538042
 text = 'At which vertebral level does the esophagus perforate the diaphragm?<div><br /></div><div>{{c1::T10}}</div>'
 extra = '<div></div><div><i>"I 8 10 eggs at 12"</i><div><br /></div></div><div><img src="8458.png" /></div>'
@@ -1233,6 +1384,7 @@ tags = 'Brosencephalon Respiratory::Anatomy::diaphragm-structures'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 't@]_)a:[x0'
 note-id = 1397780558260
 text = """
 At which vertebral level does the Vagus Nerve (CN X) perforate the diaphragm?<div><br /></div><div>{{c1::T10 (both \
@@ -1242,6 +1394,7 @@ tags = 'Brosencephalon Respiratory::Anatomy::diaphragm-structures'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'B1i;D(^%^Q'
 note-id = 1397780610916
 text = 'At which vertebral level does the aorta perforate the diaphragm?<div><br />{{c1::T12}}</div>'
 extra = """
@@ -1251,6 +1404,7 @@ tags = 'Brosencephalon Respiratory::Anatomy::diaphragm-structures'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'F)#$s$kiPo'
 note-id = 1397780629981
 text = 'At which vertebral level does the Thoracic Duct perforate the diaphragm?<div><br /></div><div>{{c1::T12}}</div>'
 extra = """
@@ -1260,6 +1414,7 @@ tags = 'Brosencephalon Respiratory::Anatomy::diaphragm-structures'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'pi]7;1tWkI'
 note-id = 1397780702805
 text = 'At which vertebral level does the Azygos Vein perforate the diaphragm?<div><br />{{c1::T12}}</div>'
 extra = """
@@ -1269,6 +1424,7 @@ tags = 'Brosencephalon Respiratory::Anatomy::diaphragm-structures'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'I7-Yfs:?]q'
 note-id = 1397780721375
 text = 'Which nerve innervates the diaphragm?<div><br /></div><div>{{c1::Phrenic nerve}}</div>'
 extra = '<img src="8458.png" />'
@@ -1276,6 +1432,7 @@ tags = 'Brosencephalon Respiratory::Anatomy::diaphragm-structures'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'Ezre4U?.lN'
 note-id = 1397781386335
 text = """
 Which <b>nerve roots</b>&nbsp;innervate the diaphragm via the phrenic nerve?<div><br /></div><div>{{c1::C3, C4, \
@@ -1287,6 +1444,7 @@ tags = 'Brosencephalon Respiratory::Anatomy::diaphragm-structures'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'PQ=&-0l0Wq'
 note-id = 1397829115104
 text = """
 Which lung volume equates the volume of air that can still be breathed in after normal inspiration?<div><br \
@@ -1296,6 +1454,7 @@ tags = 'Brosencephalon Respiratory::Physiology::lung-volumes'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'iRh{p.~`{n'
 note-id = 1397830119483
 text = """
 Which lung volume equates the volume of air that moves into the lungs with each quiet inspiration?<div><br \
@@ -1305,6 +1464,7 @@ tags = 'Brosencephalon Respiratory::Physiology::lung-volumes'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'NLs0][~Z@3'
 note-id = 1397830145620
 text = 'What is the typical lung Tidal Volume (TV)?<div><br /></div><div>{{c1::500 mL}}</div>'
 extra = '<div><img src="8459.png" /></div>'
@@ -1312,6 +1472,7 @@ tags = 'Brosencephalon Respiratory::Physiology::lung-volumes'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'HZB$*+3e;q'
 note-id = 1397830179778
 text = """
 Which lung volume equates to the volume of air that can still be breathed out after normal expiration?<div><br \
@@ -1321,6 +1482,7 @@ tags = 'Brosencephalon Respiratory::Physiology::lung-volumes'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'yqr8a%`:`H'
 note-id = 1397830209139
 text = """
 Which lung volume equates to the volume of air that remains in the lung after a maximal expiration?<div><br \
@@ -1330,6 +1492,7 @@ tags = 'Brosencephalon Respiratory::Physiology::lung-volumes'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'y5x4-4!15!'
 note-id = 1397830247804
 text = 'Which lung volume cannot be measured on spirometry?<div><br /></div><div>{{c1::Residual Volume (RV)}}</div>'
 extra = '<div><img src="8459.png" /></div>'
@@ -1337,6 +1500,7 @@ tags = 'Brosencephalon Respiratory::Physiology::lung-volumes'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'm~UIO{C.7j'
 note-id = 1397830267863
 text = 'Which lung volumes make up lung Inspiratory Capacity (IC)?<div><br />{{c1::IRV + TV}}</div>'
 extra = '<div><img src="8459.png" /></div>'
@@ -1344,6 +1508,7 @@ tags = 'Brosencephalon Respiratory::Physiology::lung-volumes'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'ob:g&O{lJB'
 note-id = 1397830442190
 text = 'Which lung volumes make up lung Functional Residual Capacity (FRC)?<div><br /></div><div>{{c1::RV + ERV}}</div>'
 extra = '<div><img src="8459.png" /></div>'
@@ -1351,6 +1516,7 @@ tags = 'Brosencephalon Respiratory::Physiology::lung-volumes'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'B*j,D[^^ED'
 note-id = 1397830487091
 text = 'Which lung volumes make up lung (Functional) Vital Capacity (VC)?<div><br /></div><div>{{c1::TV + IRV + ERV}}</div>'
 extra = '<div><img src="8459.png" /></div>'
@@ -1358,6 +1524,7 @@ tags = 'Brosencephalon Respiratory::Physiology::lung-volumes'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'FnL[Y>utib'
 note-id = 1397830673103
 text = """
 {{c1::(Functional) Vital Capacity (VC)}} is a lung capacity that equates to the maximum volume of air that can be \
@@ -1369,6 +1536,7 @@ tags = 'Brosencephalon Respiratory::Physiology::lung-volumes'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'qo(501NdR$'
 note-id = 1397830828080
 text = 'Which lung volumes make up Total Lung Capacity (TLC)?<div><br /></div><div>{{c1::IRV + TV + ERV + RV}}</div>'
 extra = '<div></div><div><img src="8459.png" /></div>'
@@ -1376,6 +1544,7 @@ tags = 'Brosencephalon Respiratory::Physiology::lung-volumes'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'voC>NGWN1b'
 note-id = 1397830859114
 text = """
 {{c1::Total Lung Capacity (TLC)}} is a lung capacity that equates to the volume of air present in the lungs after a \
@@ -1385,6 +1554,7 @@ tags = 'Brosencephalon Respiratory::Physiology::lung-volumes'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'N>e!;B+p6!'
 note-id = 1397830882061
 text = """
 Which lung capacity is equal to the volume of gas present in the lungs after a maximal inspiration?<div><br \
@@ -1394,6 +1564,7 @@ tags = 'Brosencephalon Respiratory::Physiology::lung-volumes'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'mY,~%6Er&%'
 note-id = 1397830912571
 text = """
 What is the equation for <b>Minute Ventilation (V<sub>E</sub>)</b>?<div><br /></div><div>{{c1::V<sub>E</sub>&nbsp;= \
@@ -1406,6 +1577,7 @@ tags = 'Brosencephalon Respiratory::Physiology::ventilation'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'wmN&|aPCAx'
 note-id = 1397831272415
 text = """
 What is the equation for&nbsp;<b>Alveolar Ventilation (V<sub>A</sub>)</b>?<div><br \
@@ -1419,6 +1591,7 @@ tags = 'Brosencephalon Respiratory::Physiology::ventilation'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'w:KK0o,jCq'
 note-id = 1397831355730
 text = 'Which globin chains are found in adult Hemoglobin (HbA)?<div><br /></div><div>{{c1::α<sub>2</sub>β<sub>2</sub>}}</div>'
 extra = '<div><img src="8463.png" /></div>'
@@ -1426,6 +1599,7 @@ tags = 'Brosencephalon Respiratory::Physiology::hemoglobin'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'j#$>G7}9>.'
 note-id = 1397832346312
 text = """
 Which <b>morphological form</b>&nbsp;of Hemoglobin has <b>lower</b>&nbsp;O<sub>2</sub>&nbsp;affinity?<div><br \
@@ -1435,6 +1609,7 @@ tags = 'Brosencephalon Respiratory::Physiology::hemoglobin'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'Kuvim@O~/X'
 note-id = 1397832384428
 text = """
 Which <b>morphological form</b>&nbsp;of Hemoglobin has <b>high</b>&nbsp;O<sub>2</sub>&nbsp;affinity?<div><br \
@@ -1444,6 +1619,7 @@ tags = 'Brosencephalon Respiratory::Physiology::hemoglobin'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'kreH0vpt;z'
 note-id = 1397832421132
 text = """
 How does Hemoglobin's affinity for O<sub>2</sub>&nbsp;change following an <b>increase</b>&nbsp;in [H<sup>+</sup>] (i.e. \
@@ -1454,6 +1630,7 @@ tags = 'Brosencephalon Respiratory::Physiology::oxygen-hemoglobin-dissociation-c
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'l(cFxO=Y3&'
 note-id = 1397832602352
 text = """
 How does Hemoglobin's affinity for O<sub>2</sub>&nbsp;change following an&nbsp;<b>increase</b>&nbsp;in \
@@ -1464,6 +1641,7 @@ tags = 'Brosencephalon Respiratory::Physiology::oxygen-hemoglobin-dissociation-c
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 's@DYhG0<^d'
 note-id = 1397832632832
 text = """
 How does Hemoglobin's affinity for O<sub>2</sub>&nbsp;change following an&nbsp;<b>increase</b>&nbsp;in 2,3-BPG?<div><br \
@@ -1474,6 +1652,7 @@ tags = 'Brosencephalon Respiratory::Physiology::oxygen-hemoglobin-dissociation-c
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'N>eh)gM=6D'
 note-id = 1397832651068
 text = """
 How does Hemoglobin's affinity for O<sub>2</sub>&nbsp;change following an&nbsp;<b>increase</b>&nbsp;in \
@@ -1484,6 +1663,7 @@ tags = 'Brosencephalon Respiratory::Physiology::oxygen-hemoglobin-dissociation-c
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'y`W(,M}yS|'
 note-id = 1397832659431
 text = """
 How does Hemoglobin's affinity for O<sub>2</sub>&nbsp;change following an&nbsp;<b>increase</b>&nbsp;in \
@@ -1494,6 +1674,7 @@ tags = 'Brosencephalon Respiratory::Physiology::oxygen-hemoglobin-dissociation-c
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'pGmHZb|@Cg'
 note-id = 1397832672968
 text = """
 Where in the body is the <b>Taut (T)</b>&nbsp;form of Hemoglobin typically found?<div><br /></div><div>{{c1::At tissue \
@@ -1505,6 +1686,7 @@ tags = 'Brosencephalon Respiratory::Physiology::hemoglobin'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'iL*Zu$7IFC'
 note-id = 1397832738046
 text = """
 Where in the body is the <b>Relaxed (R)</b>&nbsp;form of Hemoglobin typically found?<div><br /></div><div>{{c1::Lungs; \
@@ -1516,6 +1698,7 @@ tags = 'Brosencephalon Respiratory::Physiology::hemoglobin'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'sK$EE__o@<'
 note-id = 1397832776938
 text = """
 What globin chains are found in <b>fetal</b>&nbsp;Hemoglobin (HbF)?<div><br \
@@ -1525,6 +1708,7 @@ tags = 'Brosencephalon Respiratory::Physiology::hemoglobin'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'NYVJKpI2la'
 note-id = 1397832817748
 text = """
 Why does fetal hemoglobin (HbF) have a higher affinity for O<sub>2</sub>?<div><br /></div><div>{{c1::It has lower \
@@ -1537,6 +1721,7 @@ tags = 'Brosencephalon Respiratory::Physiology::hemoglobin'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'GhLlvbPc$s'
 note-id = 1397832864087
 text = """
 {{c1::Methemoglobin}} is a modified form of Hemoglobin that is oxidized and thereby has a <b>ferric \
@@ -1546,6 +1731,7 @@ tags = 'Brosencephalon Respiratory::Physiology::hemoglobin-modifications'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'Q4VqS$Dz]7'
 note-id = 1397832958447
 text = """
 {{c1::Methemoglobin}} is a modified form of hemoglobin that is oxidized, and hence does not bind to \
@@ -1555,6 +1741,7 @@ tags = 'Brosencephalon Respiratory::Physiology::hemoglobin-modifications'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'm:}&iAO]o4'
 note-id = 1397832983310
 text = """
 Which modified form of hemoglobin has an <b>increased affinity for cyanide</b>?<div><br \
@@ -1564,6 +1751,7 @@ tags = 'Brosencephalon Respiratory::Physiology::hemoglobin-modifications'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'P7;<*),:<V'
 note-id = 1397833023131
 text = """
 In which state is iron normally found in Hemoglobin?<div><br /></div><div>{{c1::Ferr<b>ous</b>&nbsp;(Fe<sup style="font-\
@@ -1575,6 +1763,7 @@ tags = 'Brosencephalon Respiratory::Physiology::hemoglobin-modifications'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'FhTdAko*uc'
 note-id = 1397833230303
 text = """
 Which modified form of hemoglobin is associated with cyanosis and&nbsp;<b>chocolate-coloured blood</b>?<div><br \
@@ -1584,6 +1773,7 @@ tags = 'Brosencephalon Respiratory::Physiology::hemoglobin-modifications'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'b@_c_Sw?z*'
 note-id = 1397833270572
 text = 'Which modified form of hemoglobin is used to treat cyanide poisoning?<div><br /></div><div>{{c1::Methemoglobin}}</div>'
 extra = """
@@ -1594,6 +1784,7 @@ tags = 'Brosencephalon Respiratory::Physiology::hemoglobin-modifications'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'ud%4Oi=pbu'
 note-id = 1397833362782
 text = '{{c1::Methemoglobin}} is a modified form of hemoglobin that can be used to treat cyanide poisoning.'
 extra = '<img src="8464.png" />'
@@ -1601,6 +1792,7 @@ tags = 'Brosencephalon Respiratory::Physiology::hemoglobin-modifications'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'up7}jy&5~k'
 note-id = 1397833381907
 text = """
 What <b>type</b>&nbsp;of drugs do we use to oxidize Hemoglobin into Methemoglobin such that we can treat cyanide \
@@ -1613,6 +1805,7 @@ tags = 'Brosencephalon Respiratory::Physiology::hemoglobin-modifications'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'k5u4<FE}y~'
 note-id = 1397833414786
 text = 'What is the treatment for Methemoglobinemia?<div><br /></div><div>{{c1::Methylene Blue}}</div>'
 extra = """
@@ -1622,6 +1815,7 @@ tags = 'Brosencephalon Respiratory::Physiology::hemoglobin-modifications'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'HeugaWM:hr'
 note-id = 1397833462085
 text = '{{c1::Carboxyhemoglobin}} is a modified form of hemoglobin that is bound to CO in place of O<sub>2</sub>.'
 extra = '<img src="8464.png" />'
@@ -1629,6 +1823,7 @@ tags = 'Brosencephalon Respiratory::Physiology::hemoglobin-modifications'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'I)*=2VB.KC'
 note-id = 1397833527560
 text = """
 How does the O2-hemoglobin dissociated curve shift in <b>Carboxyhemoglobinemia</b>?<div><br /></div><div>{{c1::Left \
@@ -1638,6 +1833,7 @@ tags = 'Brosencephalon Respiratory::Physiology::hemoglobin-modifications'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'b!K**fQ[.X'
 note-id = 1397833584227
 text = '''How many times greater is CO's affinity for Hb than O2's affinity for Hb?<div><br /></div><div>{{c1::200x}}</div>'''
 extra = '<img src="8464.png" />'
@@ -1645,6 +1841,7 @@ tags = 'Brosencephalon Respiratory::Physiology::hemoglobin-modifications'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'EN/yLAH.Fu'
 note-id = 1397833619153
 text = """
 How does Hemoglobin's affinity for O2 change if there is a <b>right-shift</b>&nbsp;in the Hb saturation curve?<div><br \
@@ -1657,6 +1854,7 @@ tags = 'Brosencephalon Respiratory::Physiology::oxygen-hemoglobin-dissociation-c
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'w$Wh&3u2`}'
 note-id = 1397835659436
 text = 'What volume of Oxygen can be bound by 1 g of Hb?<div><br />{{c1::1.34 mL}}</div>'
 extra = '<div><i>Normal [Hb] is 15 g/dL</i></div><div><i><br /></i></div><div><i><img src="8466.png" /></i></div>'
@@ -1664,6 +1862,7 @@ tags = 'Brosencephalon Respiratory::Physiology::oxygen-content-of-blood'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'N$-0O)0<ag'
 note-id = 1397843144868
 text = """
 Which area of the lung has the&nbsp;<b>highest V/Q ratio</b>?<div><br /></div><div>{{c1::Apex of the lung (V/Q = \
@@ -1673,6 +1872,7 @@ tags = 'Brosencephalon Respiratory::Physiology::v/q-mismatch'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 's$-k@qI;P*'
 note-id = 1397843864972
 text = 'Which area of the lung has the <b>lowest V/Q ratio</b>?<div><br /></div><div>{{c1::Base of lung (V/Q = 0.6)}}</div>'
 extra = """
@@ -1682,6 +1882,7 @@ tags = 'Brosencephalon Respiratory::Physiology::v/q-mismatch'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'oZ.kx}^o.3'
 note-id = 1397843924817
 text = 'What does a V/Q ratio <b>close to zero</b>&nbsp;indicate?<div><br /></div><div>{{c1::Airway obstruction}}</div>'
 extra = '<div><i>i.e. ventilation = 0.</i></div><div><i><br /></i></div><div><i></i><i><img src="8471.png" /></i></div>'
@@ -1689,6 +1890,7 @@ tags = 'Brosencephalon Respiratory::Physiology::v/q-mismatch'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'HRi$f(Vi*s'
 note-id = 1397844065841
 text = 'What does a V/Q ratio close to <b>infinity</b>&nbsp;indicate?<div><br /></div><div>{{c1::Blood flow obstruction}}</div>'
 extra = '<i><img src="8471.png" /></i>'
@@ -1696,6 +1898,7 @@ tags = 'Brosencephalon Respiratory::Physiology::v/q-mismatch'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'ijt>=gIO>z'
 note-id = 1397844087625
 text = 'Which area of the lung has the greatest perfusion?<div><br /></div><div>{{c1::Base}}</div>'
 extra = '<i><img src="8471.png" /></i>'
@@ -1703,6 +1906,7 @@ tags = 'Brosencephalon Respiratory::Physiology::v/q-mismatch'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'wlfX657xew'
 note-id = 1397844128273
 text = 'Which area of the lung has the greatest ventilation?<div><br /></div><div>{{c1::Base}}</div>'
 extra = '<i><img src="8471.png" /></i>'
@@ -1710,6 +1914,7 @@ tags = 'Brosencephalon Respiratory::Physiology::v/q-mismatch'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'OI}pQBcFQ#'
 note-id = 1397844610500
 text = """
 {{c1::Rhinosinusitis}} is an upper respiratory infection that is characterized by the obstruction of sinus drainage into \
@@ -1719,6 +1924,7 @@ tags = 'Brosencephalon Respiratory::Pathology::rhinosinusitis'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'b`:.FcNgrq'
 note-id = 1397845075053
 text = 'Which sinus is typically affected in Rhinosinusitis in <b>adults</b>?<div><br /></div><div>{{c1::Maxillary Sinus}}</div>'
 extra = '<div><img src="paste-10810432684338.jpg" /></div><div><i>Deviated nasal septum (red arrow) is unrelated.</i></div>'
@@ -1726,6 +1932,7 @@ tags = 'Brosencephalon Respiratory::Pathology::rhinosinusitis'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'g8+>DIcd|$'
 note-id = 1397845125166
 text = 'What is the most common cause of Acute Rhinosinusitis?<div><br /></div><div>{{c1::Viral URT infection}}</div>'
 extra = ""
@@ -1733,6 +1940,7 @@ tags = 'Brosencephalon Respiratory::Pathology::rhinosinusitis'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'e2>v`[vMdC'
 note-id = 1397845170045
 text = """
 What is the most common <b>gram-positive</b>&nbsp;bacteria that is superimposed onto acute Viral Rhinosinusitis?<div><br \
@@ -1742,6 +1950,7 @@ tags = 'Brosencephalon Respiratory::Pathology::pneumonia'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'y?vp.XL99-'
 note-id = 1397845249749
 text = """
 What is the most common&nbsp;<b>gram-negative</b>&nbsp;bacteria that is superimposed onto acute Viral \
@@ -1751,6 +1960,7 @@ tags = 'Brosencephalon Respiratory::Pathology::rhinosinusitis'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'yqDZEV@w$['
 note-id = 1397845284336
 text = """
 {{c1::<i>Haemophilus influenzae</i>}} and&nbsp;{{c1::<i>Moraxella catarrhalis</i>}} are the 2 most common&nbsp;<b>gram-\
@@ -1760,6 +1970,7 @@ tags = 'Brosencephalon Respiratory::Pathology::rhinosinusitis'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'qI1ET+{.]3'
 note-id = 1397852009917
 text = """
 Where do most pulmonary emboli arise from?<div><div><br /></div><div>{{c1::Deep veins of the leg (i.e. \
@@ -1769,6 +1980,7 @@ tags = 'Brosencephalon Respiratory::Pathology::deep-venous-thrombosis'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'rfV:Ngl:Sz'
 note-id = 1397852046865
 text = '{{c1::Homan Sign}} is a clinical feature of deep venous thrombosis that involves dorsiflexion of the foot and calf pain.'
 extra = ""
@@ -1776,6 +1988,7 @@ tags = 'Brosencephalon Respiratory::Pathology::deep-venous-thrombosis'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'slO_vn[SKA'
 note-id = 1397852087060
 text = 'What hematological disorder is Homan Sign associated with?<div><br /></div><div>{{c1::DVT}}</div>'
 extra = ""
@@ -1783,6 +1996,7 @@ tags = 'Brosencephalon Respiratory::Pathology::deep-venous-thrombosis'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'xvYK<Uv%bT'
 note-id = 1397852113263
 text = """
 Which anticoagulant is preferentially used to <b>prevent</b>&nbsp;and <b>acutely manage</b>&nbsp;deep venous \
@@ -1792,6 +2006,7 @@ tags = 'Brosencephalon Respiratory::Pathology::deep-venous-thrombosis'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'm`be(^D3@}'
 note-id = 1397852150660
 text = """
 Which anticoagulant is preferentially used for <b>long term prevention</b>&nbsp;of DVT recurrence?<div><br \
@@ -1801,6 +2016,7 @@ tags = 'Brosencephalon Respiratory::Pathology::deep-venous-thrombosis'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'PqxV<K9G-|'
 note-id = 1397852580171
 text = """
 What type of embolus is associated with <b>long bone fracture</b>&nbsp;and <b>liposuction</b>?<div><br \
@@ -1810,6 +2026,7 @@ tags = 'Brosencephalon Respiratory::Pathology::pulmonary-emboli'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'buZNgAa-(>'
 note-id = 1397852620750
 text = '{{c1::Fat Embolus}} is a type of embolus that is associated with long bone fractures and liposuction.'
 extra = ""
@@ -1817,6 +2034,7 @@ tags = 'Brosencephalon Respiratory::Pathology::pulmonary-emboli'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'C@]y*fie4N'
 note-id = 1397852669145
 text = """
 Which type of emboli is associated with a classic triad of <b>hypoxemia</b>, <b>neurological abnormalities</b>&nbsp;and \
@@ -1826,6 +2044,7 @@ tags = 'Brosencephalon Respiratory::Pathology::pulmonary-emboli'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'cZu`4OMSTv'
 note-id = 1397852723101
 text = '{{c1::Amniotic Fluid Emboli}} are a type of embolus that can lead to DIC, especially post-partum.'
 extra = ""
@@ -1833,6 +2052,7 @@ tags = 'Brosencephalon Respiratory::Pathology::pulmonary-emboli'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'ZXc0eVcz*'
 note-id = 1397852751769
 text = """
 Which type of embolus can lead to DIC, especially <b>post-partum</b>?<div><br /></div><div>{{c1::Amniotic Fluid \
@@ -1842,6 +2062,7 @@ tags = 'Brosencephalon Respiratory::Pathology::pulmonary-emboli'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'qyb&-mL&=='
 note-id = 1397852791573
 text = '{{c1::Air Emboli}} are a type of embolus that involve <b>nitrogen bubbles that precipitate in ascending divers</b>.'
 extra = ""
@@ -1849,6 +2070,7 @@ tags = 'Brosencephalon Respiratory::Pathology::pulmonary-emboli'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'I2n.^N7$ob'
 note-id = 1397852811589
 text = 'What is the treatment for Air Emboli?<div><br /></div><div>{{c1::Hyperbaric oxygen}}</div>'
 extra = ""
@@ -1856,6 +2078,7 @@ tags = 'Brosencephalon Respiratory::Pathology::pulmonary-emboli'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'v6wkNL1Bc?'
 note-id = 1397852823312
 text = """
 What is the <b>imaging test</b>&nbsp;of choice for a PE?<div><br />{{c1::CT pulmonary angiography (look for filling \
@@ -1865,6 +2088,7 @@ tags = 'Brosencephalon Respiratory::Pathology::pulmonary-emboli'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'Mo@{ORk/P^'
 note-id = 1397852945258
 text = """
 {{c1::Lines of Zahn}} are a microscopic feature of thrombi described as <u>interdigitating areas of pink (platelets; \
@@ -1875,6 +2099,7 @@ tags = 'Brosencephalon Respiratory::Pathology::pulmonary-emboli'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'oQ|J%c38fa'
 note-id = 1397853027108
 text = """
 What microscopic feature of thrombi can be used to distinguish a pre- and postmortem thrombus?<div><br \
@@ -1884,6 +2109,7 @@ tags = 'Brosencephalon Respiratory::Pathology::pulmonary-emboli'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 's<I_CpwU*%'
 note-id = 1397853647654
 text = """
 {{c1::Forced Expiratory Volume (FEV<sub>1</sub>)}} is a pulmonary function test volume that describes the <b>volume of \
@@ -1893,6 +2119,7 @@ tags = 'Brosencephalon Respiratory::Pathology::obstructive-lung-diseases'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'D$P[uUQ1?B'
 note-id = 1397862635276
 text = 'How does Residual Volume (RV) change in COPD?<div><br /></div><div>{{c1::Increase}}</div>'
 extra = ""
@@ -1900,6 +2127,7 @@ tags = 'Brosencephalon Respiratory::Pathology::obstructive-lung-diseases'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'L`IX4oQ!SK'
 note-id = 1397862715443
 text = 'How does Functional Vital Capacity (FVC) change in COPD?<div><br /></div><div>{{c1::Decrease}}</div>'
 extra = ""
@@ -1907,6 +2135,7 @@ tags = 'Brosencephalon Respiratory::Pathology::obstructive-lung-diseases'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'AF-R.@H!ph'
 note-id = 1397862729410
 text = 'How does FEV<sub>1</sub>&nbsp;change in COPD?<div><br /></div><div>{{c1::<b>Marked</b>&nbsp;decrease}}</div>'
 extra = ""
@@ -1914,6 +2143,7 @@ tags = 'Brosencephalon Respiratory::Pathology::obstructive-lung-diseases'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'c;?Rqd0|ot'
 note-id = 1397862886024
 text = """
 Which group of pulmonary disorders involves a <b>decrease in FEV<sub>1</sub>/FVC ratio</b>?<div><br \
@@ -1923,6 +2153,7 @@ tags = 'Brosencephalon Respiratory::Pathology::obstructive-lung-diseases'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'xirw@0NN~f'
 note-id = 1397862920591
 text = """
 {{c1::<i>Cor Pulmonale</i>}} is a cardiac disorder that can manifest in COPD due to chronic, hypoxic pulmonary \
@@ -1932,6 +2163,7 @@ tags = 'Brosencephalon Respiratory::Pathology::obstructive-lung-diseases'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'JNFNJnzWO1'
 note-id = 1397863025795
 text = """
 {{c1::Chronic Bronchitis}} is a type of COPD that is characterized by <b>hyperplasia of mucous-secreting \
@@ -1941,6 +2173,7 @@ tags = 'Brosencephalon Respiratory::Pathology::obstructive-lung-diseases'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'nnj}[^xh7@'
 note-id = 1397863583021
 text = """
 Which type of COPD is associated with <b>hyperplasia of mucous-secreting glands in the bronchi</b>?<div><br \
@@ -1950,6 +2183,7 @@ tags = 'Brosencephalon Respiratory::Pathology::obstructive-lung-diseases'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'he9[.3eu&|'
 note-id = 1397863605153
 text = 'What Reid index is diagnostic of Bronchitis?<div><br /></div><div>{{c1::&gt; 50%}}</div>'
 extra = ""
@@ -1957,6 +2191,7 @@ tags = 'Brosencephalon Respiratory::Pathology::obstructive-lung-diseases'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'eBkj#UGQo.'
 note-id = 1397863619145
 text = """
 {{c1::Reid Index}} is a histological measure of the thickness of the mucous-secreting gland layer of a bronchi in \
@@ -1966,6 +2201,7 @@ tags = 'Brosencephalon Respiratory::Pathology::obstructive-lung-diseases'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'KcBBI%WyA/'
 note-id = 1397863691025
 text = """
 What type of COPD is also referred to as <b>"Blue Bloater"</b>&nbsp;disease?<div><br /></div><div>{{c1::Chronic \
@@ -1975,6 +2211,7 @@ tags = 'Brosencephalon Respiratory::Pathology::obstructive-lung-diseases'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'P#GOk<Z/ih'
 note-id = 1397863883293
 text = """
 {{c1::Chronic Bronchitis}} is a COPD that is associated with cyanosis due to early-onset hypoxemia that results from \
@@ -1984,6 +2221,7 @@ tags = 'Brosencephalon Respiratory::Pathology::obstructive-lung-diseases'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'GnM1<6nh4m'
 note-id = 1397864290614
 text = """
 {{c1::Emphysema}} is a COPD that involves the enlargement of air spaces, <b>decreased lung recoil</b>, <b>increased lung \
@@ -1994,6 +2232,7 @@ tags = 'Brosencephalon Respiratory::Pathology::obstructive-lung-diseases'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 't~V{pQvKUi'
 note-id = 1397864396079
 text = 'Which type of COPD results from a <b>destruction of alveolar walls</b>?<div><br /></div><div>{{c1::Emphysema}}</div>'
 extra = '<img src="paste-27973121999155.jpg" />'
@@ -2001,6 +2240,7 @@ tags = 'Brosencephalon Respiratory::Pathology::obstructive-lung-diseases'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'MVrVD60[(4'
 note-id = 1397864413231
 text = 'How does lung recoil change in Emphysema?<div><br /></div><div>{{c1::Decrease}}</div>'
 extra = ""
@@ -2008,6 +2248,7 @@ tags = 'Brosencephalon Respiratory::Pathology::obstructive-lung-diseases'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'FYduTUc7B7'
 note-id = 1397864427438
 text = 'How does lung compliance change in Emphysema?<div><br /></div><div>{{c1::Increases}}</div>'
 extra = """
@@ -2017,6 +2258,7 @@ tags = 'Brosencephalon Respiratory::Physiology::lung-and-chest-wall'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'LVz|,L?3hs'
 note-id = 1397864436943
 text = 'How does lung diffusion capacity (DLCO) change in emphysema?<div><br /></div><div>{{c1::Decrease}}</div>'
 extra = '<div>Emphysema causes&nbsp;↓ diffusion area&nbsp;→&nbsp;↓ diffusion</div><div><br /></div><img src="8467.png" />'
@@ -2024,6 +2266,7 @@ tags = 'Brosencephalon Respiratory::Physiology::pulmonary-circulation'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'Qc&[<E`kcw'
 note-id = 1397864454539
 text = 'Which COPD is also referred to as <b>"Pink Puffer"</b>&nbsp;Disease?<div><br /></div><div>{{c1::Emphysema}}</div>'
 extra = ""
@@ -2031,6 +2274,7 @@ tags = 'Brosencephalon Respiratory::Pathology::obstructive-lung-diseases'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'PNl[U0z{D>'
 note-id = 1397864481126
 text = 'Which type of Emphysema is associated with smoking?<div><br /></div><div><div>{{c1::Centriacinar}}</div></div>'
 extra = '<img src="paste-28479928140083.jpg" /><div><i></i></div>'
@@ -2038,6 +2282,7 @@ tags = 'Brosencephalon Respiratory::Pathology::obstructive-lung-diseases'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'j+w@+Rh;K8'
 note-id = 1397864497059
 text = """
 Which type of Emphysema is associated with&nbsp;α1-antitrypsin (A1AT)&nbsp;deficiency?<div><br \
@@ -2047,6 +2292,7 @@ tags = 'Brosencephalon Respiratory::Pathology::obstructive-lung-diseases'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'c=;Hed*j!G'
 note-id = 1397864548121
 text = 'What is the cause of <b>Centriacinar</b>&nbsp;Emphysema?<div><br /></div><div>{{c1::Smoking}}</div>'
 extra = '<img src="paste-28479928140083.jpg" />'
@@ -2054,6 +2300,7 @@ tags = 'Brosencephalon Respiratory::Pathology::obstructive-lung-diseases'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'tHq.(^8yI/'
 note-id = 1397864561025
 text = """
 What is the cause of <b>Panacinar</b>&nbsp;Emphysema?<div><br /></div><div>{{c1::α1-antitrypsin \
@@ -2063,6 +2310,7 @@ tags = 'Brosencephalon Respiratory::Pathology::obstructive-lung-diseases'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'enCIsD(@!S'
 note-id = 1397864574126
 text = """
 Which COPD involves enlarged alveoli that are separated by thin septa (on microscopy)?<div><br /></div><div><img \
@@ -2072,6 +2320,7 @@ tags = 'Brosencephalon Respiratory::Pathology::obstructive-lung-diseases'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'kHfB*houzU'
 note-id = 1397864614117
 text = """
 Which type of Emphysema is associated with <b>multiple air-space cavities lined by heavy black carbon \
@@ -2081,6 +2330,7 @@ tags = 'Brosencephalon Respiratory::Pathology::obstructive-lung-diseases'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'src]P,^,?Q'
 note-id = 1397864748040
 text = 'Which COPD involves an <b>increase in Elastase activity</b>?<div><br /></div><div>{{c1::Emphysema}}</div>'
 extra = ""
@@ -2088,6 +2338,7 @@ tags = 'Brosencephalon Respiratory::Pathology::obstructive-lung-diseases'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'oCZICOcRmN'
 note-id = 1397864793912
 text = 'Which COPD is associated with a <b>barrel-shaped chest</b>?<div><br /></div><div>{{c1::Emphysema}}</div>'
 extra = ""
@@ -2095,6 +2346,7 @@ tags = 'Brosencephalon Respiratory::Pathology::obstructive-lung-diseases'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'J5|AS~T/eP'
 note-id = 1397864804079
 text = """
 {{c1::Emphysema}} is a COPD that involves <b>increased elastase activity</b>, thereby involving a <b>loss of elastic \
@@ -2104,6 +2356,7 @@ tags = 'Brosencephalon Respiratory::Pathology::obstructive-lung-diseases'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'myR11,I;H|'
 note-id = 1397864853652
 text = """
 An increase in the activity of which enzyme is associated with Emphysema?<div><br /></div><div>{{c1::Elastase \
@@ -2113,6 +2366,7 @@ tags = 'Brosencephalon Respiratory::Pathology::obstructive-lung-diseases'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'h5P2^!<vE,'
 note-id = 1397864873631
 text = '{{c1::Emphysema}} is a COPD that involves exhalation through pursed lips.'
 extra = """
@@ -2122,6 +2376,7 @@ tags = 'Brosencephalon Respiratory::Pathology::obstructive-lung-diseases'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'g7$iex2n<='
 note-id = 1397864958803
 text = """
 {{c2::Asthma}} is an obstructive lung disease characterized by hyperreactivity of the airways that causes REVERSIBLE \
@@ -2131,6 +2386,7 @@ tags = 'Brosencephalon Respiratory::Pathology::obstructive-lung-diseases'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'uci#vN$>Xq'
 note-id = 1397865085313
 text = '{{c1::Curschmann Spirals}} are a feature of Asthma that are described as <b>shed epithelium that forms mucous plugs</b>.'
 extra = ""
@@ -2138,6 +2394,7 @@ tags = 'Brosencephalon Respiratory::Pathology::obstructive-lung-diseases'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'cPHd/^*B{A'
 note-id = 1397865133534
 text = 'What COPD is associated with Curschmann Spirals?<div><br /></div><div>{{c1::Asthma}}</div>'
 extra = ""
@@ -2145,6 +2402,7 @@ tags = 'Brosencephalon Respiratory::Pathology::obstructive-lung-diseases'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'PlcXG[vYD-'
 note-id = 1397865144483
 text = """
 {{c1::Charcot-Leyden Crystals}} are a feature of Asthma that are formed from the <b>breakdown of eosinophils in sputum \
@@ -2154,6 +2412,7 @@ tags = 'Brosencephalon Respiratory::Pathology::obstructive-lung-diseases'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'G|)!$A*#XC'
 note-id = 1397865173437
 text = 'Which COPD is associated with Charcot-Leyden Crystals?<div><br /></div><div>{{c1::Asthma}}</div>'
 extra = ""
@@ -2161,6 +2420,7 @@ tags = 'Brosencephalon Respiratory::Pathology::obstructive-lung-diseases'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'GAOMyuvocy'
 note-id = 1397865185087
 text = 'What test is used to diagnose Asthma?<div><br /></div><div>{{c1::Methacholine Challenge}}</div>'
 extra = ""
@@ -2168,6 +2428,7 @@ tags = 'Brosencephalon Respiratory::Pathology::obstructive-lung-diseases'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'fgzs|4~{X3'
 note-id = 1397865207735
 text = 'Which COPD can be tested for via the Methacholine Challenge?<div><br /></div><div>{{c1::Asthma}}</div>'
 extra = ""
@@ -2175,6 +2436,7 @@ tags = 'Brosencephalon Respiratory::Pathology::obstructive-lung-diseases'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'b}eG_zkL`H'
 note-id = 1397865219216
 text = 'Which COPD can be triggered by viral URT infections, allergens and/or stress?<div><br /></div><div>{{c1::Asthma}}</div>'
 extra = ""
@@ -2182,6 +2444,7 @@ tags = 'Brosencephalon Respiratory::Pathology::obstructive-lung-diseases'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'C8c(R$DpJc'
 note-id = 1397865240812
 text = 'Which COPD is associated with Pulsus Paradoxus?<div><br /></div><div>{{c1::Asthma}}</div>'
 extra = '<i>Pulsus paradoxus is defined as a drop in blood pressure &gt;10 mmHg during inspiration.&nbsp;</i>'
@@ -2189,6 +2452,7 @@ tags = 'Brosencephalon Respiratory::Pathology::obstructive-lung-diseases'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'fKO_3^?Jzg'
 note-id = 1397865265944
 text = """
 Which COPD is associated with a <b>decreased Inspiratory:Expiratory (I/E) ratio</b>?<div><br \
@@ -2198,6 +2462,7 @@ tags = 'Brosencephalon Respiratory::Pathology::obstructive-lung-diseases'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'P8z7nUuZ^l'
 note-id = 1397865519965
 text = 'At which area of the lung is Centriacinar Emphysema most severe?<div><br /></div><div>{{c1::Apex}}</div>'
 extra = """
@@ -2207,6 +2472,7 @@ tags = 'Brosencephalon Respiratory::Pathology::obstructive-lung-diseases'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'M,3{5M+/`>'
 note-id = 1397865565503
 text = 'At which area of the lung is Panacinar Emphysema most severe?<div><br /></div><div>{{c1::Lower lobes}}</div>'
 extra = """
@@ -2216,6 +2482,7 @@ tags = 'Brosencephalon Respiratory::Pathology::obstructive-lung-diseases'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'F?#.n7^[Ib'
 note-id = 1397872745055
 text = """
 {{c1::Bronchiectasis}} is a COPD that involves chronic necrotizing inflammation/infection that <b>permanently dilates \
@@ -2225,6 +2492,7 @@ tags = 'Brosencephalon Respiratory::Pathology::obstructive-lung-diseases'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'G=a[c<?x0Q'
 note-id = 1397873434612
 text = 'Which COPD is associated with poor ciliary motility?<div><br /></div><div>{{c1::Bronchiectasis}}</div>'
 extra = ""
@@ -2232,6 +2500,7 @@ tags = 'Brosencephalon Respiratory::Pathology::obstructive-lung-diseases'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'J:*gKU=XhQ'
 note-id = 1397873456187
 text = """
 Which COPD is associated with <b>Kartagener Syndrome (Primary Ciliary Dyskinesia)</b>?<div><br \
@@ -2241,6 +2510,7 @@ tags = 'Brosencephalon Respiratory::Pathology::obstructive-lung-diseases'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'p37R+PVs@^'
 note-id = 1397873690460
 text = """
 Which COPD is associated with <b>allergic bronchopulmonary aspergillosis</b>?<div><br \
@@ -2250,6 +2520,7 @@ tags = 'Brosencephalon Respiratory::Pathology::obstructive-lung-diseases'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'mZnWqFTH7J'
 note-id = 1397873713767
 text = """
 How does Forced Vital Capacity (FVC) change in Restrictive Lung Disease?<div><br \
@@ -2259,6 +2530,7 @@ tags = 'Brosencephalon Respiratory::Pathology::restrictive-lung-disease'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'f=,tpX1k36'
 note-id = 1397874585794
 text = 'How does Total Lung Capacity (TLC) change in Restrictive Lung Disease?<div><br /></div><div>{{c1::Decrease}}</div>'
 extra = '<div><i>Lung expansion is decreased, hence lung capacity decreases.</i></div>'
@@ -2266,6 +2538,7 @@ tags = 'Brosencephalon Respiratory::Pathology::restrictive-lung-disease'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'I&CNi9#t(f'
 note-id = 1397874627435
 text = 'How does FEV<sub>1</sub>&nbsp;change in Restrictive Lung Disease?<div><br /></div><div>{{c1::Decrease}}</div>'
 extra = ""
@@ -2273,6 +2546,7 @@ tags = 'Brosencephalon Respiratory::Pathology::restrictive-lung-disease'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'DrsdmjE:mA'
 note-id = 1397874704493
 text = """
 Which group of pulmonary disorders is associated with an <b>increased FEV<sub>1</sub>/FVC ratio (&gt; 80%)</b>?<div><br \
@@ -2282,6 +2556,7 @@ tags = 'Brosencephalon Respiratory::Pathology::restrictive-lung-disease'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'xWSV$oZ,nG'
 note-id = 1397874858623
 text = """
 How does the A-a gradient change in <b>Mechanical</b>&nbsp;Restrictive Lung Disease?<div><br /></div><div>{{c1::Normal \
@@ -2291,6 +2566,7 @@ tags = 'Brosencephalon Respiratory::Pathology::restrictive-lung-disease'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'f7qPu1M-Y+'
 note-id = 1397874921658
 text = """
 What type of restrictive lung disease is associated with <b>Polio</b>?<div><br /></div><div>{{c1::Mechanical (due to \
@@ -2300,6 +2576,7 @@ tags = 'Brosencephalon Respiratory::Pathology::restrictive-lung-disease'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'ET)M=.xg|i'
 note-id = 1397875432209
 text = """
 {{c1::Mechanical RLD}} is a type of Restrictive Lung Disease that occurs <b>extrapulmonary</b>&nbsp;and involves a \
@@ -2309,6 +2586,7 @@ tags = 'Brosencephalon Respiratory::Pathology::restrictive-lung-disease'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'og?A?9l=0O'
 note-id = 1397875473680
 text = """
 {{c1::Interstitial restrictive lung disease}} is a type of Restrictive Lung Disease that involves <b>decreased diffusing \
@@ -2318,6 +2596,7 @@ tags = 'Brosencephalon Respiratory::Pathology::restrictive-lung-disease'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'Fg:|JugyD*'
 note-id = 1397875607664
 text = """
 What type of restrictive lung disease is associated with <b>Myasthenia Gravis</b>?<div><br /></div><div>{{c1::Mechanical \
@@ -2327,6 +2606,7 @@ tags = 'Brosencephalon Respiratory::Pathology::restrictive-lung-disease'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'v[cqAzJ2uv'
 note-id = 1397875638332
 text = """
 What type of restrictive lung disease is associated with <b>Scoliosis</b>?<div><br /></div><div>{{c1::Mechanical (due to \
@@ -2336,6 +2616,7 @@ tags = 'Brosencephalon Respiratory::Pathology::restrictive-lung-disease'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'JEOViZ71rk'
 note-id = 1397875663981
 text = """
 What type of restrictive lung disease is associated with <b>Morbid Obesity</b>?<div><br /></div><div>{{c1::Mechanical \
@@ -2345,6 +2626,7 @@ tags = 'Brosencephalon Respiratory::Pathology::restrictive-lung-disease'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'D6&d!nY!]5'
 note-id = 1397875682871
 text = """
 How does <b>pulmonary diffusing capacity</b>&nbsp;change in <b>Interstitial</b> Restrictive Lung Disease?<div><br \
@@ -2354,6 +2636,7 @@ tags = 'Brosencephalon Respiratory::Pathology::restrictive-lung-disease'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'Mm>{vr-npb'
 note-id = 1397875795355
 text = """
 How does the A-a gradient change in <b>Interstitial</b>&nbsp;Restrictive Lung Disease?<div><br \
@@ -2363,6 +2646,7 @@ tags = 'Brosencephalon Respiratory::Pathology::restrictive-lung-disease'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'B~PuF&SD9E'
 note-id = 1397875837344
 text = """
 What type of restrictive lung disease is associated with <b>Acute Respiratoy Distress Syndrome (ARDS)</b>?<div><br \
@@ -2372,6 +2656,7 @@ tags = 'Brosencephalon Respiratory::Pathology::restrictive-lung-disease'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'y[)m{3P0%2'
 note-id = 1397875860042
 text = """
 What type of restrictive lung disease is associated with <b>Neonatal Respiratory Distress Syndrome</b>&nbsp;(Hyaline \
@@ -2381,6 +2666,7 @@ tags = 'Brosencephalon Respiratory::Pathology::restrictive-lung-disease'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'rC%a%8NKlP'
 note-id = 1397875883053
 text = """
 What type of restrictive lung disease is associated with <b>Pneumoconioses</b>&nbsp;(Anthracosis, Silicosis, \
@@ -2390,6 +2676,7 @@ tags = 'Brosencephalon Respiratory::Pathology::restrictive-lung-disease'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'fON;_f>C]0'
 note-id = 1397875914390
 text = 'What type of restrictive lung disease is associated with <b>Sarcoidosis</b>?<div><br />{{c1::Interstitial}}</div>'
 extra = ""
@@ -2397,6 +2684,7 @@ tags = 'Brosencephalon Respiratory::Pathology::restrictive-lung-disease'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 't!h0sAdtwI'
 note-id = 1397875927764
 text = """
 Which cause of <b>Interstitial</b>&nbsp;Restrictive Lung Disease involves <b>noncaseating granulomas</b>?<div><br \
@@ -2406,6 +2694,7 @@ tags = 'Brosencephalon Respiratory::Pathology::restrictive-lung-disease'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'm}|bsR?dwD'
 note-id = 1397876275852
 text = """
 How does the level of Angiotensin Converting Enzyme (ACE) change in Sarcoidosis?<div><br \
@@ -2415,6 +2704,7 @@ tags = 'Brosencephalon Respiratory::Pathology::restrictive-lung-disease'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'J2(-eC(!X6'
 note-id = 1397876300942
 text = 'How do Ca levels change in Sarcoidosis?<div><br /></div><div>{{c1::Hypercalcemia}}</div>'
 extra = ""
@@ -2422,6 +2712,7 @@ tags = 'Brosencephalon Respiratory::Pathology::restrictive-lung-disease'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'mkqP(H,[8L'
 note-id = 1397876430462
 text = """
 {{c1::Sarcoidosis}} is a cause of <b>Interstitial </b>Restrictive Lung Disease that involves <b>bilateral hilar \
@@ -2431,6 +2722,7 @@ tags = 'Brosencephalon Respiratory::Pathology::restrictive-lung-disease'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'B9pXaBCH2~'
 note-id = 1397876511234
 text = """
 What type of restrictive lung disease is associated with&nbsp;Idiopathic Pulmonary Fibrosis?<div><br \
@@ -2440,6 +2732,7 @@ tags = 'Brosencephalon Respiratory::Pathology::restrictive-lung-disease'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'Q<~8=m-NPE'
 note-id = 1397876524826
 text = """
 {{c1::Idiopathic Pulmonary Fibrosis}} is a cause of <b>Interstitial</b>&nbsp;Restrictive Lung Disease that arises due to \
@@ -2449,6 +2742,7 @@ tags = 'Brosencephalon Respiratory::Pathology::restrictive-lung-disease'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'f)G-,H:60R'
 note-id = 1397876568676
 text = """
 What type of restrictive lung disease is associated with&nbsp;Goodpasture Syndrome?<div><br \
@@ -2458,6 +2752,7 @@ tags = 'Brosencephalon Respiratory::Pathology::restrictive-lung-disease'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'isO.rZCZ~!'
 note-id = 1397876982880
 text = """
 What type of restrictive lung disease is associated with Granulomatosis with Polyangiitis (Wegener)?<div><br \
@@ -2467,6 +2762,7 @@ tags = 'Brosencephalon Respiratory::Pathology::restrictive-lung-disease'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'P+O^iq!y79'
 note-id = 1397877011039
 text = """
 What type of restrictive lung disease is associated with&nbsp;Langerhans Cell Histiocytosis?<div><br \
@@ -2476,6 +2772,7 @@ tags = 'Brosencephalon Respiratory::Pathology::restrictive-lung-disease'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'vQl7hQ_L%Z'
 note-id = 1397877023833
 text = """
 What type of restrictive lung disease is associated with&nbsp;Hypersensitivity Pneumonitis?<div><br \
@@ -2485,6 +2782,7 @@ tags = 'Brosencephalon Respiratory::Pathology::hypersensitivity-pneumonitis'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'p%=PH4^b5H'
 note-id = 1397877035230
 text = """
 What type of restrictive lung disease is associated with&nbsp;<b>drug toxicity</b>&nbsp;(Bleomycin, Busulfan, \
@@ -2494,6 +2792,7 @@ tags = 'Brosencephalon Respiratory::Pathology::restrictive-lung-disease'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'O1]=5l@Qad'
 note-id = 1397877060194
 text = """
 {{c1::Hypersensitivity Pneumonitis}} is a cause of <b>Interstitial</b>&nbsp;Restrictive Lung Disease that involves a \
@@ -2503,6 +2802,7 @@ tags = 'Brosencephalon Respiratory::Pathology::hypersensitivity-pneumonitis'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'I=T!7#JK@x'
 note-id = 1397877117650
 text = """
 Which cause of <b>Interstitial</b>&nbsp;Restrictive Lung Disease is often seen in farmers?<div><br \
@@ -2512,6 +2812,7 @@ tags = 'Brosencephalon Respiratory::Pathology::hypersensitivity-pneumonitis'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'Hi8)rJ:@VX'
 note-id = 1397877157552
 text = """
 Which cause of&nbsp;<b>Interstitial</b>&nbsp;Restrictive Lung Disease is often seen in bird handlers?<div><br \
@@ -2521,6 +2822,7 @@ tags = 'Brosencephalon Respiratory::Pathology::hypersensitivity-pneumonitis'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'J-R3BatH$m'
 note-id = 1397877166031
 text = '{{c1::<i>Cor pulmonale</i>}} is a cardiac disorder that has an increased risk of occuring in Pneumoconioses.'
 extra = ""
@@ -2528,6 +2830,7 @@ tags = 'Brosencephalon Respiratory::Pathology::pneumoconioses'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'zX^.Tpn6{%'
 note-id = 1397878276614
 text = """
 {{c1::Caplan Syndrome}} is a possible complication of Pneumoconioses and involves <b>rheumatoid arthritis </b>and<b> \
@@ -2537,6 +2840,7 @@ tags = 'Brosencephalon Respiratory::Pathology::pneumoconioses'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'gsZc}k!rRn'
 note-id = 1397878328089
 text = """
 Which Pneumoconiosis is associated with <b>shipbuilding, roofing and plumbing</b>?<div><br \
@@ -2546,6 +2850,7 @@ tags = 'Brosencephalon Respiratory::Pathology::pneumoconioses'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'JInlls*?:T'
 note-id = 1397878436141
 text = '{{c1::Asbestosis}} is a Pneumoconiosis that is associated with <b>"ivory white", calcified pleural plaques</b>.'
 extra = '<img src="paste-6674379178284.jpg" />'
@@ -2553,6 +2858,7 @@ tags = 'Brosencephalon Respiratory::Pathology::pneumoconioses'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'BTXFc[2gr9'
 note-id = 1397878494573
 text = """
 {{c1::Asbestosis}} is a Pneumoconiosis that is associated with increased incidence of <b>bronchogenic \
@@ -2562,6 +2868,7 @@ tags = 'Brosencephalon Respiratory::Pathology::pneumoconioses'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'vUqi&5^g^7'
 note-id = 1397878517657
 text = 'Which lobes of the lung are affected by Asbestosis?<div><br /></div><div>{{c1::Lower}}</div>'
 extra = """
@@ -2571,6 +2878,7 @@ tags = 'Brosencephalon Respiratory::Pathology::pneumoconioses'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'u}T6d-Img6'
 note-id = 1397878533026
 text = """
 {{c1::Asbestosis}} is a Pneumoconiosis that involves <b>ferruginous bodies</b>&nbsp;that are <b>golden-brown fusiform \
@@ -2584,6 +2892,7 @@ tags = 'Brosencephalon Respiratory::Pathology::pneumoconioses'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'Peg,o~iaQ]'
 note-id = 1397878627324
 text = '''Which lobes of the lung are affected by Coal Workers' Pneumoconiosis?<div><br /></div><div>{{c1::Upper}}</div>'''
 extra = ""
@@ -2591,6 +2900,7 @@ tags = 'Brosencephalon Respiratory::Pathology::pneumoconioses'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'AsGn0~D6jI'
 note-id = 1397878681741
 text = 'Which lobes of the lung are affected by Silicosis?<div><br /></div><div>{{c1::Upper}}</div>'
 extra = ""
@@ -2598,6 +2908,7 @@ tags = 'Brosencephalon Respiratory::Pathology::pneumoconioses'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'L/ZAm{K9YW'
 note-id = 1397878692966
 text = '''Which Pneumoconiosis is also referred to as "Black Lung Disease"?<div><br />{{c1::Coal Worker's Pneumoconiosis}}</div>'''
 extra = ""
@@ -2605,6 +2916,7 @@ tags = 'Brosencephalon Respiratory::Pathology::pneumoconioses'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'j~oW*bG<nZ'
 note-id = 1397878731652
 text = """
 Which Pneumoconiosis is associated with prolonged coal dust exposure?<div><br />{{c1::Coal Workers \
@@ -2614,6 +2926,7 @@ tags = 'Brosencephalon Respiratory::Pathology::pneumoconioses'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'iiNG{Y4+yG'
 note-id = 1397878764424
 text = """
 {{c1::Coal Workers' Pneumoconiosis}} is a Pneumoconiosis that involves <b>carbon-laden macrophages</b>&nbsp;that then \
@@ -2625,6 +2938,7 @@ tags = 'Brosencephalon Respiratory::Pathology::pneumoconioses'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'J>JJn?cbx;'
 note-id = 1397879258994
 text = """
 {{c1::Anthracosis}} is a type of Pneumoconiosis that is described as an asymptomatic condition found in many urban \
@@ -2634,6 +2948,7 @@ tags = 'Brosencephalon Respiratory::Pathology::pneumoconioses'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'g(r,L>/2Ab'
 note-id = 1397879301092
 text = """
 Which type of Pneumoconiosis is associated with <b>foundries, sandblasting, and mines</b>?<div><br \
@@ -2643,6 +2958,7 @@ tags = 'Brosencephalon Respiratory::Pathology::pneumoconioses'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'vh(ZO>MvgR'
 note-id = 1397879321601
 text = """
 {{c1::Silicosis}} is a type of Pneumoconiosis that involves macrophages that respond to Silica and release fibrogenic \
@@ -2652,6 +2968,7 @@ tags = 'Brosencephalon Respiratory::Pathology::pneumoconioses'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'e~UU<+rv-W'
 note-id = 1397879355070
 text = 'Which Pneumoconiosis is associated with an <b>increased risk for Tuberculosis</b>?<div><br />{{c1::Silicosis}}</div>'
 extra = """
@@ -2661,6 +2978,7 @@ tags = 'Brosencephalon Respiratory::Pathology::pneumoconioses'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'sT>K~hnpq2'
 note-id = 1397879402059
 text = """
 Which pneumoconiosis is associated with an increased risk fo Bronchogenic Carcinoma only?<div><br \
@@ -2670,6 +2988,7 @@ tags = 'Brosencephalon Respiratory::Pathology::pneumoconioses'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'Hlxi:JK_8i'
 note-id = 1397879432227
 text = """
 Which pneumoconiosis is associated with <b>"eggshell"</b>&nbsp;calcifications of the hilar lymph nodes?<div><br \
@@ -2681,6 +3000,7 @@ tags = 'Brosencephalon Respiratory::Pathology::pneumoconioses'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'g{oV.6C!/v'
 note-id = 1397922678499
 text = """
 {{c1::Neonatal Respiratory Distress Syndrome}} is a cause of restrictive lung disease in neonates that arises from a \
@@ -2690,6 +3010,7 @@ tags = 'Brosencephalon Respiratory::Embryology::neonatal-respiratory-distress-sy
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'r#3{#oVq+h'
 note-id = 1397923107407
 text = """
 Which cause of restrictive lung disease <b>in neonates</b>&nbsp;is associated with <b>surfactant deficiency</b>?<div><br \
@@ -2699,6 +3020,7 @@ tags = 'Brosencephalon Respiratory::Embryology::neonatal-respiratory-distress-sy
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'rsldLHqv2='
 note-id = 1397923144254
 text = """
 Which Lecithin:Sphingomyelin ratio is predictive of Neonatal Respiratory Distress Syndrome?<div><br \
@@ -2708,6 +3030,7 @@ tags = 'Brosencephalon Respiratory::Embryology::neonatal-respiratory-distress-sy
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'bY;^:r)0=T'
 note-id = 1397923184790
 text = """
 Which congenital heart defect is associated with Neonatal Respiratory Distress Syndrome?<div><br \
@@ -2717,6 +3040,7 @@ tags = 'Brosencephalon Respiratory::Embryology::neonatal-respiratory-distress-sy
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'xh]o98PXJ+'
 note-id = 1397923905209
 text = """
 {{c1::Retinopathy of Prematurity}} is a neurological complication of O2 therapy in neonatal respiratory distress \
@@ -2726,6 +3050,7 @@ tags = 'Brosencephalon Respiratory::Embryology::neonatal-respiratory-distress-sy
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'n4el-!|A,S'
 note-id = 1397923948514
 text = '{{c1::Bronchopulmonary Dysplasia}} is a pulmonary complication of O2 therapy in Neonatal Respiratory Distress Syndrome.'
 extra = ""
@@ -2733,6 +3058,7 @@ tags = 'Brosencephalon Respiratory::Embryology::neonatal-respiratory-distress-sy
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'FP`-[}ztP$'
 note-id = 1397923972509
 text = """
 {{c1::Maternal Diabetes}} is a risk factor for Neonatal Respiratory Distress Syndrome due to <b>insulin inhibiting \
@@ -2742,6 +3068,7 @@ tags = 'Brosencephalon Respiratory::Embryology::neonatal-respiratory-distress-sy
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'x@4yoLRDM'
 note-id = 1397924019012
 text = """
 {{c1::C-section Delivery}} is a risk factor for Neonatal Respiratory Distress Syndrome that involves a <b>decreased \
@@ -2751,6 +3078,7 @@ tags = 'Brosencephalon Respiratory::Embryology::neonatal-respiratory-distress-sy
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'w$~!v:iBv&'
 note-id = 1397924114563
 text = """
 What drug can be administered <b>to the mother</b>&nbsp;to treat/prevent Neonatal Respiratory Distress Syndrome?<div><br \
@@ -2760,6 +3088,7 @@ tags = 'Brosencephalon Respiratory::Embryology::neonatal-respiratory-distress-sy
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'H:@47oTu<E'
 note-id = 1397924159174
 text = """
 {{c1::Acute Respiratory Distress Syndrome (ARDS)}} is a cause of restrictive lung disease that involves <b>diffuse \
@@ -2772,6 +3101,7 @@ tags = 'Brosencephalon Respiratory::Pathology::acute-respiratory-distress-syndro
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'P.9`M:N<BC'
 note-id = 1397924692651
 text = """
 Which cause of restrictive lung disease is most commonly associated with the formation of <b>intra-alveolar hyaline \
@@ -2785,6 +3115,7 @@ tags = 'Brosencephalon Respiratory::Pathology::acute-respiratory-distress-syndro
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'k@Li7uUQ?T'
 note-id = 1397924789533
 text = """
 How does Pulmonary Wedge Pressure change in Acute Respiratory Distress Syndrome (ARDS)?<div><br \
@@ -2794,6 +3125,7 @@ tags = 'Brosencephalon Respiratory::Pathology::acute-respiratory-distress-syndro
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 're7G[G-~:P'
 note-id = 1397924807766
 text = """
 Which cause of restrictive lung disease yields <b>near-complete opacification of the lungs</b>&nbsp;with \
@@ -2804,6 +3136,7 @@ tags = 'Brosencephalon Respiratory::Pathology::acute-respiratory-distress-syndro
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'JZIHThSWHW'
 note-id = 1397924946793
 text = 'How do lung volumes change in COPD?<div><br /></div><div>{{c1::Increase}}</div>'
 extra = ""
@@ -2811,6 +3144,7 @@ tags = 'Brosencephalon Respiratory::Pathology::obstructive-lung-diseases'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'b$2?>b<t+2'
 note-id = 1397925340031
 text = 'How do lung volumes change in <b>Restrictive</b>&nbsp;Lung Disease?<div><br /></div><div>{{c1::Decrease}}</div>'
 extra = ""
@@ -2818,6 +3152,7 @@ tags = 'Brosencephalon Respiratory::Pathology::restrictive-lung-disease'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'BTyE`?g57K'
 note-id = 1397925354405
 text = 'How does the FEV<sub>1</sub>/FVC ratio change in COPD?<div><br /></div><div>{{c1::Decreases to &lt;80%}}</div>'
 extra = """
@@ -2828,6 +3163,7 @@ tags = 'Brosencephalon Respiratory::Pathology::obstructive-lung-diseases'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'p,op%AsinC'
 note-id = 1397925401475
 text = """
 How does the FEV<sub>1</sub>/FVC ratio change in <b>Restrictive</b>&nbsp;Lung Disease?<div><br \
@@ -2839,6 +3175,7 @@ tags = 'Brosencephalon Respiratory::Pathology::restrictive-lung-disease'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'D^u/hiQvB8'
 note-id = 1397925430853
 text = 'What is the normal FEV<sub>1</sub>/FVC ratio?<div><br /></div><div>{{c1::80%}}</div>'
 extra = '<div><img src="paste-12511239733802.jpg" /></div>'
@@ -2846,6 +3183,7 @@ tags = 'Brosencephalon Respiratory::Pathology::obstructive-lung-diseases'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'v8?.hXm%dJ'
 note-id = 1397925464547
 text = 'What is the normal pulmonary artery pressure?<div><br /></div><div>{{c1::10-14 mmHg}}</div>'
 extra = ""
@@ -2853,6 +3191,7 @@ tags = 'Brosencephalon Respiratory::Pathology::pulmonary-hypertension'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'ory$-8ud1e'
 note-id = 1397926304331
 text = """
 What blood pressure is diagnostic of <b>Pulmonary</b>&nbsp;Hypertension?<div><br /></div><div>{{c1::≥ 25 mmHg at \
@@ -2862,6 +3201,7 @@ tags = 'Brosencephalon Respiratory::Pathology::pulmonary-hypertension'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'D2uJ8.?fUJ'
 note-id = 1397926391506
 text = """
 What gene mutation is associated with <b>Primary</b>&nbsp;Pulmonary HTN?<div><br /></div><div>{{c1::Inactivating \
@@ -2871,6 +3211,7 @@ tags = 'Brosencephalon Respiratory::Pathology::pulmonary-hypertension'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'He&d+A(4AQ'
 note-id = 1397926421249
 text = """
 What is the normal function of the <i>BMPR2</i>&nbsp;gene?<div><br /></div><div>{{c1::Inhibition of vascular smooth \
@@ -2880,6 +3221,7 @@ tags = 'Brosencephalon Respiratory::Pathology::pulmonary-hypertension'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'n!N!SJVJbn'
 note-id = 1397926444113
 text = 'What is the prognosis of <b>Primary</b>&nbsp;Pulmonary Hypertension?<div><br /></div><div>{{c1::Poor}}</div>'
 extra = ""
@@ -2887,6 +3229,7 @@ tags = 'Brosencephalon Respiratory::Pathology::pulmonary-hypertension'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'OhJizjrXJ7'
 note-id = 1397926454178
 text = """
 {{c1::Primary Pulmonary HTN}} is a type of pulmonary HTN that results from <b>inactivating mutations in the \
@@ -2896,6 +3239,7 @@ tags = 'Brosencephalon Respiratory::Pathology::pulmonary-hypertension'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'uN%)`(!>zx'
 note-id = 1397926787467
 text = 'Which type of Pulmonary HTN is associated with COPD?<div><br /></div><div>{{c1::Secondary}}</div>'
 extra = ""
@@ -2903,6 +3247,7 @@ tags = 'Brosencephalon Respiratory::Pathology::pulmonary-hypertension'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'M+VS2p,]}K'
 note-id = 1397926818146
 text = 'Which type of Pulmonary HTN is associated with Mitral Stenosis?<div><br /></div><div>{{c1::Secondary}}</div>'
 extra = '<i>Increased volume in the pulmonary circuit</i>'
@@ -2910,6 +3255,7 @@ tags = 'Brosencephalon Respiratory::Pathology::pulmonary-hypertension'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'vI_+Wd0yl]'
 note-id = 1397926823362
 text = 'Which type of Pulmonary HTN is associated with Recurrent Thromboemboli?<div><br /></div><div>{{c1::Secondary}}</div>'
 extra = ""
@@ -2917,6 +3263,7 @@ tags = 'Brosencephalon Respiratory::Pathology::pulmonary-hypertension'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'QQgYQO8He!'
 note-id = 1397926863912
 text = 'Which type of Pulmonary HTN is associated with Sleep Apnea or high altitude?<div><br />{{c1::Secondary}}</div>'
 extra = '<div><i>Due to <b>hypoxic vasoconstriction</b></i></div>'
@@ -2924,6 +3271,7 @@ tags = 'Brosencephalon Respiratory::Pathology::pulmonary-hypertension'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'e4gJa@PCEu'
 note-id = 1397926882140
 text = '{{c1::COPD}} is a cause of <b>Secondary</b>&nbsp;Pulmonary HTN that involves the <b>destruction of lung parenchyma</b>.'
 extra = ""
@@ -2931,6 +3279,7 @@ tags = 'Brosencephalon Respiratory::Pathology::pulmonary-hypertension'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'Ii;H]O-F^]'
 note-id = 1397927057683
 text = """
 {{c1::Mitral Stenosis}}&nbsp;is a valvular pathology that causes&nbsp;<b>Secondary</b>&nbsp;Pulmonary HTN through an \
@@ -2940,6 +3289,7 @@ tags = 'Brosencephalon Respiratory::Pathology::pulmonary-hypertension'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'o7.L0b1;`F'
 note-id = 1397927122139
 text = """
 {{c1::Recurrent Thromboemboli}} are a hemotological cause of&nbsp;<b>Secondary</b>&nbsp;Pulmonary HTN that yields a \
@@ -2949,6 +3299,7 @@ tags = 'Brosencephalon Respiratory::Pathology::pulmonary-hypertension'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'Jp;hBL|Phm'
 note-id = 1397927404208
 text = """
 What is the most common cause of death from Pulmonary HTN?<div><br /></div><div>{{c1::Decompensated <i>cor \
@@ -2958,6 +3309,7 @@ tags = 'Brosencephalon Respiratory::Pathology::pulmonary-hypertension'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'FQH7C1@1K~'
 note-id = 1397928129185
 text = """
 {{c1::Sleep Apnea}} is a respiratory disorder that involves <b>repeated cessation of breathing &gt; 10 sec during \
@@ -2967,6 +3319,7 @@ tags = 'Brosencephalon Respiratory::Pathology::sleep-apnea'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'hK?s^x|Le='
 note-id = 1397928667529
 text = """
 {{c1::Nocturnal Hypoxia}} is a feature of Sleep Apnea that may cause systemic/pulmonary HTN, arrhythmias and sudden \
@@ -2976,6 +3329,7 @@ tags = 'Brosencephalon Respiratory::Pathology::sleep-apnea'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'M|vBN@{n@z'
 note-id = 1397928939367
 text = '{{c1::Central Sleep Apnea}} is a type of sleep apnea that involves <b>no respiratory effort</b>.'
 extra = """
@@ -2985,6 +3339,7 @@ tags = 'Brosencephalon Respiratory::Pathology::sleep-apnea'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'DjzM*-)V_d'
 note-id = 1397929007595
 text = """
 {{c1::Obstructive Sleep Apnea}} is a type of sleep apnea that involves <b>respiratory effort against airway \
@@ -2996,6 +3351,7 @@ tags = 'Brosencephalon Respiratory::Pathology::sleep-apnea'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'mi;#E#h|Nd'
 note-id = 1397929035132
 text = 'How do EPO levels change in Sleep Apnea?<div><br /></div><div>{{c1::Increase}}</div>'
 extra = '<div><i>The hypoxia causes EPO release and subsequent erythropoiesis.</i></div>'
@@ -3003,6 +3359,7 @@ tags = 'Brosencephalon Respiratory::Pathology::sleep-apnea'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'FrYEl-a=d<'
 note-id = 1397929062252
 text = '{{c1::Obesity Hypoventilation Syndrome}} is a type of apnea associated with obesity (BMI ≥ 30).'
 extra = """
@@ -3013,6 +3370,7 @@ tags = 'Brosencephalon Respiratory::Pathology::sleep-apnea'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'qPF@!PC4pA'
 note-id = 1397929445641
 text = 'How do breath sounds change in Pleural Effusion?<div><br /></div><div>{{c1::Decrease}}</div>'
 extra = '<div><img src="paste-16969415786892.jpg" /></div>'
@@ -3020,6 +3378,7 @@ tags = 'Brosencephalon Respiratory::Pathology::lung-physical-findings'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'q0.;It.Vh;'
 note-id = 1397929489420
 text = 'How do breath sounds change in Atelectasis (Bronchial Obstruction)?<div><br /></div><div>{{c1::Decrease}}</div>'
 extra = '<div><img src="paste-16965120819596.jpg" /></div>'
@@ -3027,6 +3386,7 @@ tags = 'Brosencephalon Respiratory::Pathology::lung-physical-findings'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'LG_0YsssPd'
 note-id = 1397929514941
 text = 'How do breath sounds change in Spontaneous Pneumothorax?<div><br /></div><div>{{c1::Decrease}}</div>'
 extra = '<div><img src="paste-16965120819596.jpg" /></div>'
@@ -3034,6 +3394,7 @@ tags = 'Brosencephalon Respiratory::Pathology::lung-physical-findings'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'zj_mx@7MFX'
 note-id = 1397929529567
 text = 'How do breath sounds change in Tension Pneumothorax?<div><br /></div><div>{{c1::Decrease}}</div>'
 extra = '<div><img src="paste-16965120819596.jpg" /></div>'
@@ -3041,6 +3402,7 @@ tags = 'Brosencephalon Respiratory::Pathology::pneumothorax'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'n,RULpTLt~'
 note-id = 1397929540480
 text = """
 What type of breath sounds are seen with <b>lung consolidation</b>&nbsp;(lobar pneumonia, pulmonary edema)?<div><br \
@@ -3050,6 +3412,7 @@ tags = 'Brosencephalon Respiratory::Pathology::lung-physical-findings'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'n-;|d$sClT'
 note-id = 1397929591368
 text = 'What lung percussion sounds are heard in Pleural Effusion?<div><br /></div><div>{{c1::Dull}}</div>'
 extra = '<div><img src="paste-16965120819596.jpg" /></div>'
@@ -3057,6 +3420,7 @@ tags = 'Brosencephalon Respiratory::Pathology::lung-physical-findings'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'xZp[>K;uJB'
 note-id = 1397929629083
 text = 'What lung percussion sounds are heard in Atelectasis (Bronchial Obstruction)?<div><br /></div><div>{{c1::Dull}}</div>'
 extra = ""
@@ -3064,6 +3428,7 @@ tags = 'Brosencephalon Respiratory::Pathology::lung-physical-findings'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 's,_u5lCd%q'
 note-id = 1397929641976
 text = 'What lung percussion sounds are heard in Spontaneous Pneumothorax?<div><br /></div><div>{{c1::Hyperresonant}}</div>'
 extra = '<div><img src="paste-16965120819596.jpg" /></div>'
@@ -3071,6 +3436,7 @@ tags = 'Brosencephalon Respiratory::Pathology::lung-physical-findings'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 't{1Cto|Fg1'
 note-id = 1397929656309
 text = 'What lung percussion sounds are heard in Tension Pneumothorax?<div><br /></div><div>{{c1::Hyperresonant}}</div>'
 extra = '<div><img src="paste-16965120819596.jpg" /></div>'
@@ -3078,6 +3444,7 @@ tags = 'Brosencephalon Respiratory::Pathology::pneumothorax'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'AVO>yWiDX{'
 note-id = 1397929675290
 text = """
 What lung percussion sounds are heard in consolidation (lobar pneumonia, pulmonary edema)?<div><br \
@@ -3087,6 +3454,7 @@ tags = 'Brosencephalon Respiratory::Pathology::lung-physical-findings'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'QApJ/VZEg3'
 note-id = 1397929704102
 text = 'How does vocal fremitus change in Pleural Effusion?<div><br /></div><div>{{c1::Decrease}}</div>'
 extra = ""
@@ -3094,6 +3462,7 @@ tags = 'Brosencephalon Respiratory::Pathology::lung-physical-findings'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'rGkY;/e+al'
 note-id = 1397929719992
 text = 'How does vocal fremitus change in Atelectasis (Bronchial Obstruction)?<div><br /></div><div>{{c1::Decrease}}</div>'
 extra = ""
@@ -3101,6 +3470,7 @@ tags = 'Brosencephalon Respiratory::Pathology::lung-physical-findings'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'x`o>$An.$0'
 note-id = 1397929736353
 text = 'How does vocal fremitus change in Spontaneous Pneumothorax?<div><br /></div><div>{{c1::Decrease}}</div>'
 extra = ""
@@ -3108,6 +3478,7 @@ tags = 'Brosencephalon Respiratory::Pathology::lung-physical-findings'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'qf$nqveuo8'
 note-id = 1397929746891
 text = 'How does vocal fremitus change in Tension Pneumothorax?<div><br /></div><div>{{c1::Decrease}}</div>'
 extra = ""
@@ -3115,6 +3486,7 @@ tags = 'Brosencephalon Respiratory::Pathology::lung-physical-findings'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'Ln.g-=|9&`'
 note-id = 1397929757920
 text = """
 How does vocal fremitus change with lung consolidation (lobar pneumonia, pulmonary edema)?<div><br \
@@ -3124,6 +3496,7 @@ tags = 'Brosencephalon Respiratory::Pathology::lung-physical-findings'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'oY)`FBef/T'
 note-id = 1397929780419
 text = """
 Which way does the trachea deviate in Atelectasis (Bronchial Obstruction)?<div><br \
@@ -3133,6 +3506,7 @@ tags = 'Brosencephalon Respiratory::Pathology::lung-physical-findings'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'dI1;G{t$Jy'
 note-id = 1397929812361
 text = """
 Which way does the trachea deviate in <b>Tension </b>Pneumothorax?<div><br /></div><div>{{c1::<b>Away</b>&nbsp;from the \
@@ -3142,6 +3516,7 @@ tags = 'Brosencephalon Respiratory::Pathology::pneumothorax'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'nGu$:=1_$k'
 note-id = 1397929839419
 text = """
 Which type of pneumothorax is associated with tracheal deviation <b>away from the side of the lesion</b>?<div><br \
@@ -3151,6 +3526,7 @@ tags = 'Brosencephalon Respiratory::Pathology::pneumothorax'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'D.OtWYBg6/'
 note-id = 1397929992061
 text = 'What type of cancer is the leading cause of cancer death?<div><br /></div><div>{{c1::Lung cancer}}</div>'
 extra = ""
@@ -3158,6 +3534,7 @@ tags = 'Brosencephalon Respiratory::Pathology::lung-cancer'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'Q,-mb/t0[3'
 note-id = 1397930269947
 text = """
 What is the most common source of metastatic lung cancer?<div><br /></div><div>{{c1::Breast, Colon, Prostate, \
@@ -3167,6 +3544,7 @@ tags = 'Brosencephalon Respiratory::Pathology::lung-cancer'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'J881Yd!%sm'
 note-id = 1397930340851
 text = 'What is the MOA of Diphenhydramine?<div><br /></div><div>{{c1::Reversible inhibition of H1 histamine receptors}}</div>'
 extra = ""
@@ -3174,6 +3552,7 @@ tags = 'Brosencephalon Respiratory::Pharmacology::antihistamines'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'v7+ZQjlv[P'
 note-id = 1397930781235
 text = 'What is the MOA of Dimenhydrinate?<div><br /></div><div>{{c1::Reversible inhibition of H1 histamine receptors}}</div>'
 extra = ""
@@ -3181,6 +3560,7 @@ tags = 'Brosencephalon Respiratory::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'A/}nU~V7K['
 note-id = 1397930798668
 text = 'What is the MOA of Chlorpheniramine?<div><br /></div><div>{{c1::Reversible inhibition of H1 histamine receptors}}</div>'
 extra = ""
@@ -3188,6 +3568,7 @@ tags = 'Brosencephalon Respiratory::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'uZQC;0ZQ:K'
 note-id = 1397930810749
 text = 'What generation H1 blocker is Diphenhydramine?<div><br /></div><div>{{c1::1st}}</div>'
 extra = '<br /><div><i>1st gen has "-en/-ine" or "-en/-ate"</i></div>'
@@ -3195,6 +3576,7 @@ tags = 'Brosencephalon Respiratory::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'Cbdk2cc}s7'
 note-id = 1397930858929
 text = 'What generation H1 blocker is Dimenhydrinate?<div><br /></div><div>{{c1::1st}}</div>'
 extra = '<br /><div><span style="font-style: italic">1st gen has "-en/-ine" or "-en/-ate"</span></div>'
@@ -3202,6 +3584,7 @@ tags = 'Brosencephalon Respiratory::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'z[!4qV/L*D'
 note-id = 1397930879277
 text = 'What generation H1 blocker is Chlorpheniramine?<div><br /></div><div>{{c1::1st}}</div>'
 extra = '<br /><div><span style="font-style: italic">1st gen has "-en/-ine" or "-en/-ate"</span></div>'
@@ -3209,6 +3592,7 @@ tags = 'Brosencephalon Respiratory::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'A/$*WD3SbS'
 note-id = 1397931000207
 text = 'Which generation of H1 blockers is associated with <b>sedation</b>?<div><br /></div><div>{{c1::1st generation}}</div>'
 extra = ""
@@ -3216,6 +3600,7 @@ tags = 'Brosencephalon Respiratory::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'yuUM{%P%7&'
 note-id = 1397931031437
 text = """
 Which generation of H1 blockers is assocaited with <b>antimuscarinic</b>&nbsp;activity?<div><br /></div><div>{{c1::1st \
@@ -3225,6 +3610,7 @@ tags = 'Brosencephalon Respiratory::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'l|-}|7}mP2'
 note-id = 1397931201921
 text = """
 Which generation of H1 blockers is associated with <b>anti-alpha-adrenergic</b>&nbsp;activity?<div><br \
@@ -3234,6 +3620,7 @@ tags = 'Brosencephalon Respiratory::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'HDN$3|OE]-'
 note-id = 1397931277178
 text = """
 Which generation of H1 blockers is used to treat&nbsp;<b>allergy, motion sickness </b>or as a<b> sleep aid</b>?<div><br \
@@ -3243,6 +3630,7 @@ tags = 'Brosencephalon Respiratory::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'tm<Tl|sGa#'
 note-id = 1397931322136
 text = 'What generation of H1 blocker is Loratadine?<div><br /></div><div>{{c1::2nd gen}}</div>'
 extra = '<br /><div><i>2nd gen ends in -adine</i></div>'
@@ -3250,6 +3638,7 @@ tags = 'Brosencephalon Respiratory::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'M&ZL.bZC$:'
 note-id = 1397931438770
 text = 'What generation of H1 blocker is Fexofenadine?<div><br /></div><div>{{c1::2nd gen}}</div>'
 extra = '<br /><div><i>2nd gen ends in -adine</i></div>'
@@ -3257,6 +3646,7 @@ tags = 'Brosencephalon Respiratory::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'D?m/`&5C2>'
 note-id = 1397931463250
 text = 'What generation of H1 blocker is Desloratadine?<div><br /></div><div>{{c1::2nd gen}}</div>'
 extra = '<br /><div><i>2nd gen is -adine</i></div>'
@@ -3264,6 +3654,7 @@ tags = 'Brosencephalon Respiratory::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'riQt-P4iTC'
 note-id = 1397931480280
 text = 'What generation of H1 blocker is Cetirizine<div><br /></div><div>{{c1::2nd gen}}</div>'
 extra = ""
@@ -3271,6 +3662,7 @@ tags = 'Brosencephalon Respiratory::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'IfUFa%i;OU'
 note-id = 1397931494515
 text = 'Which generation of H1 blockers is used to treat <b>allergy only</b>?<div><br /></div><div>{{c1::2nd generation}}</div>'
 extra = ""
@@ -3278,6 +3670,7 @@ tags = 'Brosencephalon Respiratory::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'C<42[SZYt.'
 note-id = 1397931512920
 text = """
 Which generation of H1 blockers involves <b>far less sedation</b>&nbsp;due to <b>decreased entry into the \
@@ -3287,6 +3680,7 @@ tags = 'Brosencephalon Respiratory::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'E)AN$JtJ}y'
 note-id = 1397931536885
 text = '{{c1::Guaifenesin}} is an expectorant that functions by <b>thinning respiratory secretions</b>.'
 extra = '<br /><div><i>It does not suppress the cough reflex.</i></div>'
@@ -3294,6 +3688,7 @@ tags = 'Brosencephalon Respiratory::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'd=:ppQPWPR'
 note-id = 1397944060396
 text = 'What is the MOA of Guaifenesin?<div><br /></div><div>{{c1::Thins respiratory secretions}}</div>'
 extra = '<br /><div><i>Does <b>not</b>&nbsp;supress the cough reflex.</i></div>'
@@ -3301,6 +3696,7 @@ tags = 'Brosencephalon Respiratory::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'np]ec_u:@s'
 note-id = 1397944123853
 text = """
 {{c1::Expectorants}} are a <b>type</b>&nbsp;of respiratory drugs that that aid in the clearance of mucous from the \
@@ -3310,6 +3706,7 @@ tags = 'Brosencephalon Respiratory::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'oya-8FX]{C'
 note-id = 1397944214189
 text = 'What type of respiratory drug is Guaifenesin?<div><br /></div><div>{{c1::Expectorant}}</div>'
 extra = ""
@@ -3317,6 +3714,7 @@ tags = 'Brosencephalon Respiratory::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'ckG{k#Xn(['
 note-id = 1397944231519
 text = 'What type of respiratory drug is N-Acetylcysteine?<div><br /></div><div>{{c1::Expectorant; Mucolytic}}</div>'
 extra = ""
@@ -3324,6 +3722,7 @@ tags = 'Brosencephalon Respiratory::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'QP23~5QbIL'
 note-id = 1397944251158
 text = '{{c1::N-Acetylcysteine}} is an expectorant and mucolytic that can loosen mucous plugs in Cystic Fibrosis patients.'
 extra = ""
@@ -3331,6 +3730,7 @@ tags = 'Brosencephalon Respiratory::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'w]70l0FZvx'
 note-id = 1397944286968
 text = """
 What is the <b>pulmonary</b> clinical use of N-Acetylcysteine?<div><br /></div><div>{{c1::Loosens mucous plugs in Cystic \
@@ -3340,6 +3740,7 @@ tags = 'Brosencephalon Respiratory::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'Aieh0*NW4S'
 note-id = 1397944331443
 text = """
 Which expectorant is used to loosen mucous plugs in Cystic Fibrosis patients?<div><br \
@@ -3349,6 +3750,7 @@ tags = 'Brosencephalon Respiratory::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'd%a([xzFy~'
 note-id = 1397944375408
 text = """
 Which expectorant is also used as an antidote for acetaminophen overdose?<div><br \
@@ -3358,6 +3760,7 @@ tags = 'Brosencephalon Respiratory::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'b.<)=23[Qz'
 note-id = 1397944390900
 text = '{{c1::N-acetylcysteine}} is an expectorant and mucolytic that is used as an antidote for acetaminophen overdose.'
 extra = ""
@@ -3365,6 +3768,7 @@ tags = 'Brosencephalon Respiratory::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'rMRLkQ?6+^'
 note-id = 1397944427059
 text = '{{c1::Dextromethorphan}} is an antitussive agent that acts by <b>NMDA receptor antagonism</b>.'
 extra = '<br /><div><i>It also has mild opioid effect in high doses.</i></div>'
@@ -3372,6 +3776,7 @@ tags = 'Brosencephalon Respiratory::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'OKZt&!2^[L'
 note-id = 1397945493799
 text = 'What type of respiratory drug is Dextromethorphan?<div><br /></div><div>{{c1::Antitussive}}</div>'
 extra = ""
@@ -3379,6 +3784,7 @@ tags = 'Brosencephalon Respiratory::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'eb1sA0bX%Y'
 note-id = 1397945508096
 text = 'What is the MOA of Dextromethorphan as an antitussive agent?<div><br />{{c1::NMDA receptor antagonism}}</div>'
 extra = '<br /><div><i>Opioid agonist activity at high doses</i></div>'
@@ -3386,6 +3792,7 @@ tags = 'Brosencephalon Respiratory::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'tJ({|`%I{$'
 note-id = 1397945546933
 text = """
 Which antitussive agent is a synthetic codeine analog and has mild abuse potential?<div><br \
@@ -3395,6 +3802,7 @@ tags = 'Brosencephalon Respiratory::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'z2;|?TY(3['
 note-id = 1397945616281
 text = 'What is the treatment for Dextromethorphan overdose?<div><br /></div><div>{{c1::Naloxone}}</div>'
 extra = ""
@@ -3402,6 +3810,7 @@ tags = 'Brosencephalon Respiratory::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'N*B2tW&Hw.'
 note-id = 1397945633826
 text = '{{c1::Naloxone}} is an opioid antagonist that is used to treat Dextromethorphan overdose.'
 extra = ""
@@ -3409,6 +3818,7 @@ tags = 'Brosencephalon Respiratory::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'D1}O_wsmAi'
 note-id = 1397945770457
 text = 'What is the MOA of Pseudoephedrine?<div><br /></div><div>{{c1::Sympathomimetic <b>alpha-agonism</b>}}</div>'
 extra = ""
@@ -3416,6 +3826,7 @@ tags = 'Brosencephalon Respiratory::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'gjTQZ.Me<d'
 note-id = 1397946122811
 text = 'What is the MOA of Phenylephrine?<div><br /></div><div>{{c1::Sympathomimetic&nbsp;<b>alpha-agonism</b>}}</div>'
 extra = ""
@@ -3423,6 +3834,7 @@ tags = 'Brosencephalon Respiratory::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'vcBM@AJ@qR'
 note-id = 1397946129016
 text = """
 {{c1::Pseudoephedrine}} and&nbsp;{{c2::Phenylephrine}} are alpha-agonists used to reduce hyperemia, edema and nasal \
@@ -3432,6 +3844,7 @@ tags = 'Brosencephalon Respiratory::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'Q^b-^,;&sy'
 note-id = 1397946175310
 text = """
 Which alpha-agonists are used to reduce hyperemia, edema and nasal congestion?<div><br \
@@ -3441,6 +3854,7 @@ tags = 'Brosencephalon Respiratory::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'q~WN$%YVl%'
 note-id = 1397946260592
 text = """
 Which alpha-agonists are used to <b>open obstructed eustachian tubes</b>?<div><br /></div><div>{{c1::Pseudoephedrine; \
@@ -3450,6 +3864,7 @@ tags = 'Brosencephalon Respiratory::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'IWf{<eOu&)'
 note-id = 1397946286620
 text = """
 Which respiratory alpha-agonist can be used illicit to make Methamphetamine?<div><br \
@@ -3459,6 +3874,7 @@ tags = 'Brosencephalon Respiratory::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'A`*>56>eP~'
 note-id = 1397946313918
 text = """
 What is the toxicity of the respiratory alpha-agonists Pseudoephedrine and Phenylephrine?<div><br \
@@ -3468,6 +3884,7 @@ tags = 'Brosencephalon Respiratory::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'r!#WpA{&N('
 note-id = 1397946378234
 text = """
 Which respiratory alpha-agonist is associated with CNS stimulation and anxiety as an adverse effect?<div><br \
@@ -3477,6 +3894,7 @@ tags = 'Brosencephalon Respiratory::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'NQ8Fbm#XR2'
 note-id = 1397946440314
 text = """
 {{c1::Albuterol}} is an asthma drug that causes bronchodilation through beta2-agonism and is preferred in <b>acute \
@@ -3486,6 +3904,7 @@ tags = 'Brosencephalon Respiratory::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'p#aLA*jFm['
 note-id = 1397947861662
 text = """
 {{c1::Salmeterol}} and&nbsp;{{c2::Formoterol}} are beta-2 agonists used as <b>long acting agents</b>&nbsp;in the \
@@ -3495,6 +3914,7 @@ tags = 'Brosencephalon Respiratory::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'yELSdT!{Cc'
 note-id = 1397947894575
 text = """
 What is the MOA of Albuterol?<div><br /></div><div>{{c1::Beta-2 agonism, thereby causing bronchial smooth muscle \
@@ -3504,6 +3924,7 @@ tags = 'Brosencephalon Respiratory::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 't#c|>fT}4.'
 note-id = 1397947922723
 text = """
 What is the MOA of Salmeterol?<div><br /></div><div>{{c1::Beta-2 agonism, thereby causing bronchial smooth muscle \
@@ -3513,6 +3934,7 @@ tags = 'Brosencephalon Respiratory::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'CxH[/R|A}O'
 note-id = 1397947942211
 text = """
 What is the MOA of Formoterol?<div><br /></div><div>{{c1::Beta-2 agonism, thereby causing bronchial smooth muscle \
@@ -3522,6 +3944,7 @@ tags = 'Brosencephalon Respiratory::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'h%Jsn+iA?0'
 note-id = 1397947963908
 text = 'What is the DOC <b>acute asthma attack/exacerbation</b>?<div><br /></div><div>{{c1::Albuterol}}</div>'
 extra = ""
@@ -3529,6 +3952,7 @@ tags = 'Brosencephalon Respiratory::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'EqD`ItQ&g~'
 note-id = 1397947995234
 text = 'Which beta-2 agonists are used for <b>acute asthma exacerbation/attack</b>?<div><br /></div><div>{{c1::Albuterol}}</div>'
 extra = '<br /><div><img src="paste-29961691857255.jpg" /></div>'
@@ -3536,6 +3960,7 @@ tags = 'Brosencephalon Respiratory::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'z~nMw,4$A0'
 note-id = 1397948024702
 text = """
 Which beta-2 agonists are used for <b>long acting prophylaxis</b>&nbsp;of asthma?<div><br /></div><div>{{c1::Salmeterol; \
@@ -3545,6 +3970,7 @@ tags = 'Brosencephalon Respiratory::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'F{6HP!bL33'
 note-id = 1397948050210
 text = """
 Which beta-2 agonists are used in the treatment of asthma are associated with <b>tremor</b>&nbsp;and \
@@ -3554,6 +3980,7 @@ tags = 'Brosencephalon Respiratory::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'O6.kT!e=@-'
 note-id = 1397948416845
 text = 'What type of asthma drug is Theophylline?<div><br /></div><div>{{c1::Methylxanthine}}</div>'
 extra = ""
@@ -3561,6 +3988,7 @@ tags = 'Brosencephalon Respiratory::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'Q)/+g]9NSC'
 note-id = 1397948490710
 text = """
 {{c1::Theophylline}} is a Methylxanthine used to treat asthma by <b>inhibiting phosphodiesterase</b>, thereby causing \
@@ -3570,6 +3998,7 @@ tags = 'Brosencephalon Respiratory::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'g*AAOj3-FY'
 note-id = 1397948532918
 text = """
 What is the MOA of Theophylline?<div><br /></div><div>{{c1::Inhibition of phosphodiesterase, thereby increasing cAMP \
@@ -3579,6 +4008,7 @@ tags = 'Brosencephalon Respiratory::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'z&qBO=-y^['
 note-id = 1397948583297
 text = """
 {{c1::Theophylline}} is a methylxanthine drug used to treat asthma that has a narrow therapeutic index and causes \
@@ -3588,6 +4018,7 @@ tags = 'Brosencephalon Respiratory::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'nN9^keHgw@'
 note-id = 1397948813922
 text = '{{c1::Theophylline}} is a methylxanthine drug used to treat asthma that is metabolized by cytochrome p450.'
 extra = ""
@@ -3595,6 +4026,7 @@ tags = 'Brosencephalon Respiratory::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'z`KwY!S[2O'
 note-id = 1397948831691
 text = '{{c1::Theophylline}} is a methylxanthine drug used to treat asthma that can block the action of <b>adenosine</b>.'
 extra = '<br /><div><img src="paste-29957396889959.jpg" /></div>'
@@ -3602,6 +4034,7 @@ tags = 'Brosencephalon Respiratory::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'b$IYws2%f9'
 note-id = 1397948843420
 text = """
 Which methylxanthine used to treat asthma can block the action of Adenosine?<div><br \
@@ -3611,6 +4044,7 @@ tags = 'Brosencephalon Respiratory::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'FcDJC#{uKm'
 note-id = 1397948875170
 text = """
 {{c1::Ipratropium}} is a muscarinic antagonist that is used to treat asthma by blocking muscarinic receptors, thereby \
@@ -3620,6 +4054,7 @@ tags = 'Brosencephalon Respiratory::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'sc`SD7e8p*'
 note-id = 1397948907833
 text = 'What is the MOA of Ipratropium?<div><br /></div><div>{{c1::Antagonism at muscarinic receptors (M1, M2, M3)}}</div>'
 extra = '<br /><div><img src="paste-24567212933894.jpg" /></div>'
@@ -3627,6 +4062,7 @@ tags = 'Brosencephalon Respiratory::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = '^>$k+8lBu'
 note-id = 1397948941963
 text = '{{c1::Ipratropium}} and&nbsp;{{c2::Tiotropium}} are anti-muscarinic agents used for Asthma and COPD.'
 extra = '<br /><div><img src="paste-29957396889959.jpg" /></div>'
@@ -3634,6 +4070,7 @@ tags = 'Brosencephalon Respiratory::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'K/<_`NgdH?'
 note-id = 1397948971876
 text = 'Which anti-muscarinic used to treat COPD is <b>long-acting</b>?<div><br /></div><div>{{c1::Tiotropium}}</div>'
 extra = '<br /><div><img src="paste-29957396889959.jpg" /></div>'
@@ -3641,6 +4078,7 @@ tags = 'Brosencephalon Respiratory::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'fe-PG%SxDB'
 note-id = 1397948995159
 text = 'What is the duration of action of Tiotropium?<div><br /></div><div>{{c1::Long-acting}}</div>'
 extra = ""
@@ -3648,6 +4086,7 @@ tags = 'Brosencephalon Respiratory::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'd8jS/<.,4l'
 note-id = 1397949005021
 text = """
 {{c1::Beclomethasone}} and&nbsp;{{c2::Fluticasone}} are corticosteoids used to treat asthma by <b>inhibiting cytokine \
@@ -3659,6 +4098,7 @@ tags = 'Brosencephalon Respiratory::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'vF;zh)sKMC'
 note-id = 1397949325476
 text = 'How does TNF-α expression change in response to corticosteroids?<div><br /></div><div>{{c1::Decreased expression}}</div>'
 extra = ""
@@ -3666,6 +4106,7 @@ tags = 'Brosencephalon Respiratory::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'C[?3zd/Bz*'
 note-id = 1397949350789
 text = """
 {{c1::NF-kB}} is a transcription factor that induces the production of TNF-α. It is inactivated following corticosteroid \
@@ -3675,6 +4116,7 @@ tags = 'Brosencephalon Respiratory::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 't+,O}RZ:AG'
 note-id = 1397949386733
 text = """
 What is the 1st-line therapy for <b>Chronic</b>&nbsp;Asthma?<div><br />{{c1::Corticosteroids (Beclomethasone; \
@@ -3684,6 +4126,7 @@ tags = 'Brosencephalon Respiratory::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'kv^2+sh1kV'
 note-id = 1397949440759
 text = """
 {{c1::Montelukast}} and&nbsp;{{c2::Zafirlukast}} are antileukotrienes used to treat asthma by <b>blocking leukotriene \
@@ -3693,6 +4136,7 @@ tags = 'Brosencephalon Respiratory::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'h}e)5&bp/j'
 note-id = 1397949791937
 text = 'What type of respiratory drug is Ipratropdium and Tiotriopium?<div><br /></div><div>{{c1::Muscarinic antagonist}}</div>'
 extra = ""
@@ -3700,6 +4144,7 @@ tags = 'Brosencephalon Respiratory::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'J.w0(:KZI+'
 note-id = 1397949810898
 text = 'What type of respiratory drug is Montelukast and Zafirlukast?<div><br /></div><div>{{c1::Antileukotrienes}}</div>'
 extra = ""
@@ -3707,6 +4152,7 @@ tags = 'Brosencephalon Respiratory::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'B4Z&SWKa4E'
 note-id = 1397949830394
 text = 'What type of respiratory drug is Zileuton?<div><br /></div><div>{{c1::Antileukotriene}}</div>'
 extra = ""
@@ -3714,6 +4160,7 @@ tags = 'Brosencephalon Respiratory::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'tOytuL*=h}'
 note-id = 1397949846351
 text = """
 What is the MOA of Montelukast?<div><br /></div><div>{{c1::Blocks leukotriene receptors (CysLTR1; specifically LTC4, \
@@ -3723,6 +4170,7 @@ tags = 'Brosencephalon Respiratory::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'IVYG(vMr4?'
 note-id = 1397949899204
 text = """
 What is the MOA of Zafirlukast?<div><br /></div><div>{{c1::Blocks leukotriene receptors (CysLTR1; especially LTC4, LTD4 \
@@ -3732,6 +4180,7 @@ tags = 'Brosencephalon Respiratory::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'JhtYhgrDD~'
 note-id = 1397949928903
 text = """
 Which antileukotrienes are especially useful in treating <b>Aspirin-induced asthma</b>?<div><br \
@@ -3741,6 +4190,7 @@ tags = 'Brosencephalon Respiratory::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'r3vM<^6y{r'
 note-id = 1397949955720
 text = """
 {{c1::Zileuton}} is an antileukotriene used to treat asthma by <b>inhibiting 5-Lipoxygenase</b>&nbsp;(5-LOX), thereby \
@@ -3750,6 +4200,7 @@ tags = 'Brosencephalon Respiratory::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'Cc`@1ybPU9'
 note-id = 1397950006116
 text = """
 What is the MOA of Zileuton?<div><br /></div><div>{{c1::Inhibition of 5-Lipoxygenase (5LOX), thereby blocking the \
@@ -3759,6 +4210,7 @@ tags = 'Brosencephalon Respiratory::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'H<Hf:Cuzi3'
 note-id = 1397950145130
 text = """
 {{c1::Omalizumab}} is a monoclonal antibody used to treat asthma by <b>binding to unbound serum IgE</b>, thereby \
@@ -3768,6 +4220,7 @@ tags = 'Brosencephalon Respiratory::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'w_Xw]W?~%2'
 note-id = 1397950159111
 text = """
 What is the MOA of Omalizumab?<div><br /></div><div>{{c1::Binds to unbound IgE, thereby blocking the binding \
@@ -3777,6 +4230,7 @@ tags = 'Brosencephalon Respiratory::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'GHU!a?YkUn'
 note-id = 1397950182877
 text = """
 What is the clinical use of Omalizumab?<div><br /></div><div>{{c1::Allergic asthma that is resistant to inhaled steroids \
@@ -3786,6 +4240,7 @@ tags = 'Brosencephalon Respiratory::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'x%kvei`!Ua'
 note-id = 1397950209256
 text = """
 {{c1::Omalizumab}} is a monoclonal antibody used to treat <b>allergic asthma</b>&nbsp;that is <u>resistant to inhaled \
@@ -3795,6 +4250,7 @@ tags = 'Brosencephalon Respiratory::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'HH7]gZB`MX'
 note-id = 1397950247369
 text = 'Which monoclonal antibody is used to treat asthma?<div><br /></div><div>{{c1::Omalizumab}}</div>'
 extra = """
@@ -3805,6 +4261,7 @@ tags = 'Brosencephalon Respiratory::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'm-^|Z{/Rh<'
 note-id = 1397950490124
 text = 'What is the MOA of Tiotropium?<div><br /></div><div>{{c1::Antagonism at muscarinic receptors (M1, M3)}}</div>'
 extra = '<br /><div><img src="paste-29957396889959.jpg" /></div>'
@@ -3812,6 +4269,7 @@ tags = 'Brosencephalon Respiratory::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'oR+<lRf@o5'
 note-id = 1397950519034
 text = '{{c1::Methacholine}} is a muscarinic agonist that is used in bronchial provocation challenges to diagnose asthma.'
 extra = ""
@@ -3819,6 +4277,7 @@ tags = 'Brosencephalon Respiratory::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = '3zF4o<O_H'
 note-id = 1397950561994
 text = 'What is the MOA of Methacholine?<div><br /></div><div>{{c1::Agonism at muscarinic receptors}}</div>'
 extra = ""
@@ -3826,6 +4285,7 @@ tags = 'Brosencephalon Respiratory::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'DOVa_U,doh'
 note-id = 1397950576339
 text = """
 Which muscarinic agonist is used in bronchial provocation challenges to <b>diagnose asthma</b>?<div><br \
@@ -3835,6 +4295,7 @@ tags = 'Brosencephalon Respiratory::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'vOlweKB`W5'
 note-id = 1397950594921
 text = """
 {{c1::Bosentan}} is a respiratory drug used to treat <b>pulmonary hypertension</b>&nbsp;by <b>competitively antagonising \
@@ -3847,6 +4308,7 @@ tags = 'Brosencephalon Respiratory::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'zIFlR|>el8'
 note-id = 1397950697328
 text = """
 What is the MOA of Bosentan?<div><br /></div><div>{{c1::Competitive antagonism of Endothelin-1 at \
@@ -3856,6 +4318,7 @@ tags = 'Brosencephalon Respiratory::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'h^hY2Zc+Ld'
 note-id = 1397950724798
 text = 'What is the clinical use of Bosentan?<div><br /></div><div>{{c1::Pulmonary HTN}}</div>'
 extra = ""
@@ -3863,6 +4326,7 @@ tags = 'Brosencephalon Respiratory::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'ML4)*P%ja@'
 note-id = 1397950734628
 text = """
 {{c1::Ambrisentan}} is a respiratory drug that treats pulmonary arterial hypetension by <b>competitively antagonizing \
@@ -3874,6 +4338,7 @@ tags = 'Brosencephalon Respiratory::Pharmacology::pulmonary-hypertension-drugs'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'jw[HK+X+tB'
 note-id = 1397950836557
 text = """
 What is the MOA of Ambrisentan?<div><br />{{c1::Competitive antagonism of Endothelin-1 at ET<sub>A</sub>&nbsp;receptors \
@@ -3883,6 +4348,7 @@ tags = 'Brosencephalon Respiratory::Pharmacology::pulmonary-hypertension-drugs'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'w1B{;uIuq}'
 note-id = 1397950890526
 text = 'What is the clinical use of Ambrisentan?<div><br /></div><div>{{c1::Pulmonary HTN}}</div>'
 extra = ""
@@ -3890,6 +4356,7 @@ tags = 'Brosencephalon Respiratory::Pharmacology::pulmonary-hypertension-drugs'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'C(!dbh7nj)'
 note-id = 1404750780726
 text = """
 {{c1::Conducting Zone}} is a section of the respiratory tree that functions to <b>warm, humidify</b>&nbsp;and \
@@ -3899,6 +4366,7 @@ tags = 'Brosencephalon Respiratory::Anatomy::respiratory-tree'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'gD?@,~,Ejm'
 note-id = 1404752342227
 text = """
 Which type of epithelium is found in most of the counducting zone of the lungs?<div><br /></div><div>{{c1::Pseudo-\
@@ -3912,6 +4380,7 @@ tags = 'Brosencephalon Respiratory::Anatomy::respiratory-tree'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'b-{e(4@4+Z'
 note-id = 1404752491676
 text = '{{c1::Respiratory Zone}} is a segment of the respiratory tree that <b>participates in gas exchange</b>.'
 extra = """
@@ -3921,6 +4390,7 @@ tags = 'Brosencephalon Respiratory::Anatomy::respiratory-tree'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'mi?/2{;xB*'
 note-id = 1404753310737
 text = """
 Which type of epithelium is found in the respiratory zone of the respiratory tree?<div><br /></div><div>{{c1::Cuboidal \
@@ -3933,6 +4403,7 @@ tags = 'Brosencephalon Respiratory::Anatomy::respiratory-tree'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'm,ac;rRe0y'
 note-id = 1404765729222
 text = """
 {{c1::Physiological dead space}} is a respiratory physiological parameter defined as the <b>volume of anatomical dead \
@@ -3944,6 +4415,7 @@ tags = 'Brosencephalon Respiratory::Physiology::determination-of-physiologic-dea
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'Kvs.TRr*l9'
 note-id = 1404765844156
 text = """
 {{c1::Physiological dead space}} is a respiratory physiological parameter that is defined as the <b>volume of inspired \
@@ -3953,6 +4425,7 @@ tags = 'Brosencephalon Respiratory::Physiology::determination-of-physiologic-dea
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'ph!hW@%P?m'
 note-id = 1404765892175
 text = """
 Which area of the lung is the largest contributor of <b>functional</b>&nbsp;dead space?<div><br /></div><div>{{c1::Apex \
@@ -3964,6 +4437,7 @@ tags = 'Brosencephalon Respiratory::Physiology::determination-of-physiologic-dea
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'HP7oUjA*:0'
 note-id = 1404765938789
 text = """
 What is the equation for determining Physiological Dead Space (of the lung)?<div><br /></div><div>{{c1::<img \
@@ -3976,6 +4450,7 @@ tags = 'Brosencephalon Respiratory::Physiology::determination-of-physiologic-dea
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'M?`YH3L278'
 note-id = 1404766068400
 text = """
 {{c1::Minute ventilation (V<sub>E</sub>)}} is a respiratory physiological parameter that is defined as the <b>total \
@@ -3987,6 +4462,7 @@ tags = 'Brosencephalon Respiratory::Physiology::ventilation'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'f=wIt,^@~1'
 note-id = 1404769649028
 text = """
 What is the equation for Minute Ventilation (V<sub>E</sub>)?<div><br /></div><div>{{c1::V<sub>E</sub>&nbsp;= \
@@ -3996,6 +4472,7 @@ tags = 'Brosencephalon Respiratory::Physiology::ventilation'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'soG]#hy3)&'
 note-id = 1404769678182
 text = """
 {{c1::Alveolar Ventilation (V<sub>A</sub>)}} is a respiratory physiological parameter defined as the <b>volume of gas \
@@ -4007,6 +4484,7 @@ tags = 'Brosencephalon Respiratory::Physiology::ventilation'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'A%hQ*V*I&7'
 note-id = 1404769834488
 text = """
 What is the equation for Alveolar Ventilation (V<sub>A</sub>)?<div><br /></div><div>{{c1::V<sub>A</sub>&nbsp;= \
@@ -4018,6 +4496,7 @@ tags = 'Brosencephalon Respiratory::Physiology::ventilation'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'esUihNvAz^'
 note-id = 1404769886426
 text = """
 {{c1::Compliance}} is a physiological parameter of the lungs that describes the organ's ability to <b>change in volume \
@@ -4033,6 +4512,7 @@ tags = 'Brosencephalon Respiratory::Physiology::lung-and-chest-wall'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'NlcAuyu!/r'
 note-id = 1404770264260
 text = 'How does lung compliance change in Pulmonary Fibrosis?<div><br /></div><div>{{c1::Decrease}}</div>'
 extra = """
@@ -4042,6 +4522,7 @@ tags = 'Brosencephalon Respiratory::Physiology::lung-and-chest-wall'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'uG$:jFJz6G'
 note-id = 1404770276592
 text = 'How does lung compliance change in Pneumonia?<div><br /></div><div>{{c1::Decrease}}</div>'
 extra = """
@@ -4051,6 +4532,7 @@ tags = 'Brosencephalon Respiratory::Physiology::lung-and-chest-wall'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'nO:psujZZq'
 note-id = 1404770284408
 text = 'How does lung compliance change in Pulmonary Edema?<div><br /></div><div>{{c1::Decrease}}</div>'
 extra = """
@@ -4060,6 +4542,7 @@ tags = 'Brosencephalon Respiratory::Physiology::lung-and-chest-wall'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'O14Kg1O8od'
 note-id = 1404770305266
 text = 'How does lung compliance change with normal aging?<div><br /></div><div>{{c1::Increase}}</div>'
 extra = """
@@ -4069,6 +4552,7 @@ tags = 'Brosencephalon Respiratory::Physiology::lung-and-chest-wall'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'yC,=X8#t:t'
 note-id = 1404770313052
 text = 'What is the alveolar air pressure at functional residual capacity (FRC)?<div><br /></div><div>{{c1::0}}</div>'
 extra = '<div><img src="8462.png" /></div>'
@@ -4076,6 +4560,7 @@ tags = 'Brosencephalon Respiratory::Physiology::lung-and-chest-wall'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'vj5X3:dLvT'
 note-id = 1404770384035
 text = """
 {{c1::Positive cooperativity}} is a kinetic feature of oxygen-hemoglobin binding that gives the dissociation curve its \
@@ -4088,6 +4573,7 @@ tags = 'Brosencephalon Respiratory::Physiology::oxygen-hemoglobin-dissociation-c
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'z+EMqXC~<H'
 note-id = 1404781030201
 text = """
 In which direction does the oxygen-hemoglobin dissociation curve shift if there is a <b>decrease</b>&nbsp;in the \
@@ -4101,6 +4587,7 @@ tags = 'Brosencephalon Respiratory::Physiology::oxygen-hemoglobin-dissociation-c
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'Psn2xSS3G9'
 note-id = 1404781484491
 text = """
 Which way does <b>2,3-BPG</b>&nbsp;shift the oxygen-hemoglobin dissociation curve?<div><br /></div><div>{{c1::Right \
@@ -4110,6 +4597,7 @@ tags = 'Brosencephalon Respiratory::Physiology::oxygen-hemoglobin-dissociation-c
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'r`fEH%Pi6]'
 note-id = 1404782729280
 text = """
 Which way does CO<sub>2</sub>&nbsp;shift the oxygen-hemoglobin dissociation curve?<div><br /></div><div>{{c1::Right \
@@ -4119,6 +4607,7 @@ tags = 'Brosencephalon Respiratory::Physiology::oxygen-hemoglobin-dissociation-c
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = ']cl9rC^xK'
 note-id = 1404782769339
 text = """
 Which way does acid shift the oxygen-dissociation curve?<div><br /></div><div>{{c1::Right (i.e. decreased \
@@ -4128,6 +4617,7 @@ tags = 'Brosencephalon Respiratory::Physiology::oxygen-hemoglobin-dissociation-c
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'eS2HD$bVug'
 note-id = 1404782791164
 text = """
 Which way does increased altitude shift the oxygen-dissociation curve?<div><br /></div><div>{{c1::Right (i.e. decreased \
@@ -4137,6 +4627,7 @@ tags = 'Brosencephalon Respiratory::Physiology::oxygen-hemoglobin-dissociation-c
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'ctD5[d}3xZ'
 note-id = 1404782848212
 text = """
 Which way does increased temperature shift the oxygen-dissociation curve?<div><br /></div><div>{{c1::Right (i.e. \
@@ -4146,6 +4637,7 @@ tags = 'Brosencephalon Respiratory::Physiology::oxygen-hemoglobin-dissociation-c
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'sg8|u}3XC5'
 note-id = 1404832416327
 text = """
 What is the equation for the O<sub>2</sub>&nbsp;content of blood?<div><br /></div><div>{{c1::O<sub>2</sub>&nbsp;content \
@@ -4157,6 +4649,7 @@ tags = 'Brosencephalon Respiratory::Physiology::oxygen-content-of-blood'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'tkH$y6kP[('
 note-id = 1404832529966
 text = 'What is the normal concentration of hemoglobin in the blood?<div><br /></div><div>{{c1::15 g/dL}}</div>'
 extra = '<img src="8466.png" />'
@@ -4164,6 +4657,7 @@ tags = 'Brosencephalon Respiratory::Physiology::oxygen-content-of-blood'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'HxLL;h`~cd'
 note-id = 1404833656335
 text = """
 What is the equation for the amount of O<sub>2</sub>&nbsp;delivered to tissue?<div><br \
@@ -4175,6 +4669,7 @@ tags = 'Brosencephalon Respiratory::Physiology::oxygen-content-of-blood'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'L7XnQN=RTL'
 note-id = 1404833701334
 text = """
 How does % O<sub>2</sub>&nbsp;saturation of hemoglobin change with CO poisoning?<div><br /></div><div>{{c1::Decrease; CO \
@@ -4186,6 +4681,7 @@ tags = 'Brosencephalon Respiratory::Physiology::oxygen-content-of-blood'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'xY=v-<0!A]'
 note-id = 1404834255352
 text = 'How does % O<sub>2</sub>&nbsp;saturation of Hb change in anemia?<div><br /></div><div>{{c1::No change; Normal}}</div>'
 extra = '<div></div><i>Remember, saturation is a <b>percentage</b>.</i><div><br /></div><div><img src="8466.png" /></div>'
@@ -4193,6 +4689,7 @@ tags = 'Brosencephalon Respiratory::Physiology::oxygen-content-of-blood'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'brXp,z)Ul9'
 note-id = 1404834290657
 text = """
 How does a <b>decrease</b>&nbsp;in <b>P<sub>AO2</sub>&nbsp;</b>influence pulmonary circulation/vasculature?<div><br \
@@ -4206,6 +4703,7 @@ tags = 'Brosencephalon Respiratory::Physiology::pulmonary-circulation'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'f$4{de@H5#'
 note-id = 1404835583966
 text = """
 {{c1::O<sub>2 </sub>(when healthy)}},&nbsp;{{c1::CO<sub>2</sub>}} and&nbsp;{{c1::N<sub>2</sub>O}} are 3 <u style="font-\
@@ -4218,6 +4716,7 @@ tags = 'Brosencephalon Respiratory::Physiology::pulmonary-circulation'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'l^Ov@I[JVM'
 note-id = 1404835893294
 text = """
 {{c1::O<sub>2</sub>&nbsp;(in emphysema or pulmonary fibrosis)}} and&nbsp;{{c1::CO}} are 2 <u style="font-weight: bold; \
@@ -4229,6 +4728,7 @@ tags = 'Brosencephalon Respiratory::Physiology::pulmonary-circulation'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 's{m6=vz;U>'
 note-id = 1404835987190
 text = """
 {{c1::<i>Cor pulmonale</i>}} is a cardiac complication of pulmonary hypertension that involves <b>right ventricular \
@@ -4238,6 +4738,7 @@ tags = 'Brosencephalon Respiratory::Physiology::pulmonary-circulation'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'Og&D@RH,5v'
 note-id = 1404836050035
 text = """
 What is the equation for diffusion of a gas across the pulmonary surface?<div><br \
@@ -4250,6 +4751,7 @@ tags = 'Brosencephalon Respiratory::Physiology::pulmonary-circulation'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'N)WXuB|^wo'
 note-id = 1404837087279
 text = """
 How does the diffusion of O<sub>2</sub>&nbsp;at the lungs change in pulmonary fibrosis?<div><br \
@@ -4259,6 +4761,7 @@ tags = 'Brosencephalon Respiratory::Physiology::pulmonary-circulation'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'cYwg$+qU%%'
 note-id = 1404837126283
 text = """
 What is the equation for pulmonary vascular resistance?<div><br /></div><div>{{c1::<img src="paste-3006477107328.jpg" \
@@ -4270,6 +4773,7 @@ tags = 'Brosencephalon Respiratory::Physiology::pulmonary-vascular-resistance'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'v9e?hVC&lP'
 note-id = 1404837218619
 text = 'What is the equation for PA<sub>O2</sub>?<div><br /></div><div>{{c1::<img src="paste-3062311682263.jpg" />}}</div>'
 extra = """
@@ -4281,6 +4785,7 @@ tags = 'Brosencephalon Respiratory::Physiology::alveolar-gas-equation'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'L<l|1>btO['
 note-id = 1404837261529
 text = """
 What is the equation for the A-a gradient?<div><br /></div><div>{{c1::A-a gradient = P<sub>AO2</sub>&nbsp;- \
@@ -4295,6 +4800,7 @@ tags = 'Brosencephalon Respiratory::Physiology::alveolar-gas-equation'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'nKzEJ6Ic&O'
 note-id = 1404837410294
 text = 'How does the A-a gradient change with high altitude?<div><br /></div><div>{{c1::Normal; no change}}</div>'
 extra = '<div><img src="8470.png" /></div>'
@@ -4302,6 +4808,7 @@ tags = 'Brosencephalon Respiratory::Physiology::oxygen-deprivation'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'q;!9wn(B{&'
 note-id = 1404837742607
 text = 'How does the A-a gradient change with hypoventilation?<div><br /></div><div>{{c1::Normal; no change}}</div>'
 extra = '<div><img src="8470.png" /></div>'
@@ -4309,6 +4816,7 @@ tags = 'Brosencephalon Respiratory::Physiology::oxygen-deprivation'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'P:cNnLg`>D'
 note-id = 1404837755431
 text = 'How does the A-a gradient change with V/Q mismatch?<div><br /></div><div>{{c1::Increase}}</div>'
 extra = '<div><img src="8470.png" /></div>'
@@ -4316,6 +4824,7 @@ tags = 'Brosencephalon Respiratory::Physiology::oxygen-deprivation'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'zs]23[7&Y;'
 note-id = 1404837769846
 text = 'How does the A-a gradient change with a Right-to-left cardiovascular shunt?<div><br /></div><div>{{c1::Increase}}</div>'
 extra = '<div><img src="8470.png" /></div>'
@@ -4323,6 +4832,7 @@ tags = 'Brosencephalon Respiratory::Physiology::oxygen-deprivation'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'i~L@Wm+zry'
 note-id = 1404837791346
 text = """
 How does the A-a gradient change when there is a pulmonary diffusion limitation?<div><br \
@@ -4332,6 +4842,7 @@ tags = 'Brosencephalon Respiratory::Physiology::oxygen-deprivation'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'MFQ9*GGC6^'
 note-id = 1404837821138
 text = 'Which zone of the lung has the highest V/Q ratio?<div><br /></div><div>{{c1::Zone 1 (V/Q at apex = 3)}}</div>'
 extra = """
@@ -4342,6 +4853,7 @@ tags = 'Brosencephalon Respiratory::Physiology::v/q-mismatch'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'u:]Z$|i2=F'
 note-id = 1404838093864
 text = 'Which zone of the lung has the lowest V/Q ratio?<div><br /></div><div>{{c1::Zone 3 (V/Q at base = 0.6)}}</div>'
 extra = """
@@ -4351,6 +4863,7 @@ tags = 'Brosencephalon Respiratory::Physiology::v/q-mismatch'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'DVSFW$&8yz'
 note-id = 1404838108407
 text = """
 Which zone of the lung has <b>greater</b>&nbsp;ventilation <u style="font-weight: bold; \
@@ -4360,6 +4873,7 @@ tags = 'Brosencephalon Respiratory::Physiology::v/q-mismatch'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'fj}dXwV6@Q'
 note-id = 1404838147427
 text = 'What is the ideal V/Q pulmonary ratio?<div><br /></div><div>{{c1::1}}</div>'
 extra = """
@@ -4370,6 +4884,7 @@ tags = 'Brosencephalon Respiratory::Physiology::v/q-mismatch'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'sgQj`GGXEb'
 note-id = 1404839386030
 text = 'What does a V/Q ratio of <b>zero</b>&nbsp;indicate?<div><br /></div><div>{{c1::Airway obstruction (shunt)}}</div>'
 extra = """
@@ -4379,6 +4894,7 @@ tags = 'Brosencephalon Respiratory::Physiology::v/q-mismatch'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'Ql136<k@OR'
 note-id = 1404839431224
 text = """
 What does a V/Q ratio of <b>infinity</b>&nbsp;indicate?<div><br /></div><div>{{c1::Obstructed blood flow (i.e. there is \
@@ -4390,6 +4906,7 @@ tags = 'Brosencephalon Respiratory::Physiology::v/q-mismatch'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'E9!J+(}/(m'
 note-id = 1404839509445
 text = """
 In which form is CO<sub>2</sub>&nbsp;most commonly transported from tissues to the lungs?<div><br \
@@ -4399,6 +4916,7 @@ tags = 'Brosencephalon Respiratory::Physiology::co2-transport'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'Mdw1))OG=W'
 note-id = 1404841287711
 text = """
 {{c1::Carbaminohemoglobin (HbCO<sub>2</sub>)}} is a molecule used as a form of CO<sub>2</sub>&nbsp;transport that is \
@@ -4408,6 +4926,7 @@ tags = 'Brosencephalon Respiratory::Physiology::co2-transport'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'x)]E6cddji'
 note-id = 1404841564207
 text = """
 {{c1::Haldane Effect}} is a respiratory physiological phenomenon that involves the <b>release of \
@@ -4421,6 +4940,7 @@ tags = 'Brosencephalon Respiratory::Physiology::co2-transport'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'qsCPXcp[+_'
 note-id = 1404842174022
 text = """
 {{c1::Bohr Effect}} is a respiratory physiological phenomenon that involves the <b>unloading of O<sub>2</sub>&nbsp;at \
@@ -4430,6 +4950,7 @@ tags = 'Brosencephalon Respiratory::Physiology::co2-transport'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'NVJzEDaZT]'
 note-id = 1404842224730
 text = 'How does ventilation change in response to high altitude?<div><br /></div><div>{{c1::Increased}}</div>'
 extra = '<div><img src="8473.png" /></div>'
@@ -4437,6 +4958,7 @@ tags = 'Brosencephalon Respiratory::Physiology::response-to-high-altitude'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'Pv4d|ofh-C'
 note-id = 1404843519089
 text = 'How does EPO levels change in response to high altitude?<div><br /></div><div>{{c1::Increase}}</div>'
 extra = '<div><img src="8473.png" /></div>'
@@ -4444,6 +4966,7 @@ tags = 'Brosencephalon Respiratory::Physiology::response-to-high-altitude'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'n=Tqb#8f=5'
 note-id = 1404843565757
 text = 'How do 2,3-BPG levels change in response to high altitude?<div><br /></div><div>{{c1::Increase}}</div>'
 extra = """
@@ -4453,6 +4976,7 @@ tags = 'Brosencephalon Respiratory::Physiology::response-to-high-altitude'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'eEjpqDPRQ~'
 note-id = 1404843621188
 text = """
 How does the amount of mitochondria in a cell change in response to high altitude?<div><br \
@@ -4462,6 +4986,7 @@ tags = 'Brosencephalon Respiratory::Physiology::response-to-high-altitude'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'JaBs9ny?G6'
 note-id = 1404843648596
 text = """
 How does renal excretion of HCO<sub>3</sub>&nbsp;change in response to high altitude?<div><br \
@@ -4473,6 +4998,7 @@ tags = 'Brosencephalon Respiratory::Physiology::response-to-high-altitude'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'dRG!;BlIPl'
 note-id = 1404843702295
 text = 'How does ventilation rate change in response to exercise?<div><br /></div><div>{{c1::Increase}}</div>'
 extra = """
@@ -4482,6 +5008,7 @@ tags = 'Brosencephalon Respiratory::Physiology::response-to-exercise'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'A|;(=Ao&LY'
 note-id = 1404843748277
 text = 'How does blood pH change in response to exercise?<div><br /></div><div>{{c1::Decreased}}</div>'
 extra = '<div><i>Secondary to lactic acidosis</i>.</div><div><br /></div><div><img src="8474.png" /></div>'
@@ -4489,6 +5016,7 @@ tags = 'Brosencephalon Respiratory::Physiology::response-to-exercise'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'z2iO~sQ`J>'
 note-id = 1404865383813
 text = """
 {{c1::Rhinosinusitis}} is a disorder of the upper respiratory tract that occurs due to <b>obstruction of sinus drainage \
@@ -4498,6 +5026,7 @@ tags = 'Brosencephalon Respiratory::Pathology::rhinosinusitis'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'MQWu;8$suD'
 note-id = 1404866383956
 text = 'Which sinus is most affected in Rhinosinusitis in adults?<div><br /></div><div>{{c1::Maxillary}}</div>'
 extra = '<div><img src="paste-7503307866532.jpg" /></div>'
@@ -4505,6 +5034,7 @@ tags = 'Brosencephalon Respiratory::Pathology::rhinosinusitis'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'ph@Orp?+@k'
 note-id = 1404866419732
 text = 'What is the most common cause of acute Rhinosinusitis?<div><br /></div><div>{{c1::Viral URI}}</div>'
 extra = ""
@@ -4512,6 +5042,7 @@ tags = 'Brosencephalon Respiratory::Pathology::rhinosinusitis'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'D9,Kt*&%Dl'
 note-id = 1404866435418
 text = """
 {{c1::<i>Streptococcus pneumoniae</i>}},&nbsp;{{c1::<i>Haemophilus influenzae</i>}} and&nbsp;{{c1::<i>Moraxella \
@@ -4521,6 +5052,7 @@ tags = 'Brosencephalon Respiratory::Pathology::pneumonia'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'Qm/}c.^lNC'
 note-id = 1404866504133
 text = """
 {{c1::Homan sign}} is a clinical feature of pulmonary embolism that involves extreme <b>calf pain</b>&nbsp;upon \
@@ -4530,6 +5062,7 @@ tags = 'Brosencephalon Respiratory::Pathology::deep-venous-thrombosis'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'Pjkp_x03*i'
 note-id = 1404867090221
 text = """
 What is the drug of choice for the <b>prevention</b>&nbsp;and <b>acute management</b>&nbsp;of DVT?<div><br \
@@ -4539,6 +5072,7 @@ tags = 'Brosencephalon Respiratory::Pathology::deep-venous-thrombosis'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'jq2O?on@MR'
 note-id = 1404867108820
 text = """
 What is the drug of choice for the <b>long-term prevention</b>&nbsp;of DVT recurrence?<div><br \
@@ -4548,6 +5082,7 @@ tags = 'Brosencephalon Respiratory::Pathology::deep-venous-thrombosis'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'y}){x^!l$i'
 note-id = 1404867124504
 text = """
 {{c1::Hypersensitivity Pneumonitis}} is a pulmonary disorder due to a mixed type III/IV hypersensitivity reaction to \
@@ -4557,6 +5092,7 @@ tags = 'Brosencephalon Respiratory::Pathology::hypersensitivity-pneumonitis'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'LR~&J77CT%'
 note-id = 1404868772509
 text = """
 Which demographic is often affected by Hypersensitivity pneumonitis?<div><br /></div><div>{{c1::Farmers; people exposed \
@@ -4566,6 +5102,7 @@ tags = 'Brosencephalon Respiratory::Pathology::hypersensitivity-pneumonitis'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'mzPY]jPk5~'
 note-id = 1404868791661
 text = 'What is the leading cause of cancer death?<div><br /></div><div>{{c1::Lung cancer}}</div>'
 extra = '<div><img src="paste-8873402433822.jpg" /></div><div><img src="paste-8899172237394.jpg" /></div>'
@@ -4573,6 +5110,7 @@ tags = 'Brosencephalon Respiratory::Pathology::lung-cancer'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'fYusQw5IK3'
 note-id = 1404868913009
 text = """
 What are the most common sites of cancer metastasis <b>from</b>&nbsp;the lungs?<div><br /></div><div>{{c1::Adrenals; \
@@ -4582,6 +5120,7 @@ tags = 'Brosencephalon Respiratory::Pathology::lung-cancer'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'y!J5-k4O^M'
 note-id = 1404868998402
 text = 'In which general location in the lung is Adenocarcinoma of the Lung found?<div><br /></div><div>{{c1::Periphery}}</div>'
 extra = ""
@@ -4589,6 +5128,7 @@ tags = 'Brosencephalon Respiratory::Pathology::lung-cancer'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'p#6=5j{7-5'
 note-id = 1404869666047
 text = """
 In which general location in the lung is Squamous Cell Carcinoma of the Lung found?<div><br \
@@ -4598,6 +5138,7 @@ tags = 'Brosencephalon Respiratory::Pathology::lung-cancer'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'eNgvl>K@hG'
 note-id = 1404869676579
 text = """
 In which general location in the lung is Small Cell (Oat Cell) Carcinoma of the Lung found?<div><br \
@@ -4607,6 +5148,7 @@ tags = 'Brosencephalon Respiratory::Pathology::lung-cancer'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 't5AX$k&!aP'
 note-id = 1404869689262
 text = """
 In which general location in the lung is Large Cell Carcinoma of the Lung found?<div><br \
@@ -4616,6 +5158,7 @@ tags = 'Brosencephalon Respiratory::Pathology::lung-cancer'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'P)lV~>S:N9'
 note-id = 1404869700381
 text = 'What is the most common primary lung cancer?<div><br /></div><div>{{c1::Adenocarcinoma of the lung}}</div>'
 extra = ""
@@ -4623,6 +5166,7 @@ tags = 'Brosencephalon Respiratory::Pathology::lung-cancer'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'H3i}>l!$b='
 note-id = 1404869864093
 text = """
 What is the most common primary lung cancer in non-smokers?<div><br /></div><div>{{c1::Adenocarcinoma of the \
@@ -4632,6 +5176,7 @@ tags = 'Brosencephalon Respiratory::Pathology::lung-cancer'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'cRP!%HVuuA'
 note-id = 1404869876091
 text = """
 {{c1::<i>k-ras</i>}},&nbsp;{{c1::<i>EGFR</i>}} and&nbsp;{{c1::<i>ALK</i>}} are 3 genes that commonly receive activating \
@@ -4641,6 +5186,7 @@ tags = 'Brosencephalon Respiratory::Pathology::lung-cancer'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'h5W$em|mel'
 note-id = 1404869944942
 text = """
 Which lung cancer is associated with hypertrophic osteoarthropathy (clubbing)?<div><br /></div><div>{{c1::Adenocarcinoma \
@@ -4650,6 +5196,7 @@ tags = 'Brosencephalon Respiratory::Pathology::lung-cancer'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'z:Y+5X+iQT'
 note-id = 1404869987943
 text = """
 {{c1::Bronchioloalveolar adenocarcinoma}} is a subtype of adenocarcinoma of the lung that often shows <b>hazy \
@@ -4659,6 +5206,7 @@ tags = 'Brosencephalon Respiratory::Pathology::pneumonia'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'BjQ@#R!DX?'
 note-id = 1404870057163
 text = """
 {{c1::Bronchioloalveolar adenocarcinoma}} is a subtype of adenocarcinoma of the lung that <b>grows along alveolar \
@@ -4668,6 +5216,7 @@ tags = 'Brosencephalon Respiratory::Pathology::lung-cancer'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'b~GV-Jkx6s'
 note-id = 1404870229895
 text = """
 Which hormone produced by Squamous Cell Carcinoma of the lung causes <b>hypercalcemia</b>?<div><br \
@@ -4677,6 +5226,7 @@ tags = 'Brosencephalon Respiratory::Pathology::lung-cancer'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'yhv64#,b_o'
 note-id = 1404870343957
 text = """
 {{c1::Squamous Cell Carcinoma of the Lung}} is a lung cancer that presents as a <b>hilar mass arising from the \
@@ -4686,6 +5236,7 @@ tags = 'Brosencephalon Respiratory::Pathology::lung-cancer'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'A3J-,>nzf;'
 note-id = 1404870374282
 text = 'Which gene amplification is common in Small Cell Carcinoma of the Lung?<div><br /></div><div>{{c1::<i>myc</i>}}</div>'
 extra = ""
@@ -4693,6 +5244,7 @@ tags = 'Brosencephalon Respiratory::Pathology::lung-cancer'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'yvIo0GS,dv'
 note-id = 1404870600746
 text = """
 {{c1::Lambert-Eaton Syndrome}} is a paraneoplastic syndrome that presents due to <b>auto-antibodies against presynaptic \
@@ -4702,6 +5254,7 @@ tags = 'Brosencephalon Respiratory::Pathology::lung-cancer'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'mg{a>6X0yq'
 note-id = 1404870683592
 text = 'Which lung cancer is associated with ADH secretion?<div><br /></div><div>{{c1::Small Cell Carcinoma of the lung}}</div>'
 extra = ""
@@ -4709,6 +5262,7 @@ tags = 'Brosencephalon Respiratory::Pathology::lung-cancer'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'wz93lP@[Xs'
 note-id = 1404870713304
 text = 'Which lung cancer is associated with ACTH secretion?<div><br /></div><div>{{c1::Small Cell Carcinoma of the lung}}</div>'
 extra = ""
@@ -4716,6 +5270,7 @@ tags = 'Brosencephalon Respiratory::Pathology::lung-cancer'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'F[TsS~-kRt'
 note-id = 1404870725864
 text = """
 Which lung cancer is associated with releasing&nbsp;<b>auto-antibodies against presynaptic \
@@ -4725,6 +5280,7 @@ tags = 'Brosencephalon Respiratory::Pathology::lung-cancer'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 't)X1Q]li-{'
 note-id = 1404870753592
 text = """
 {{c1::Kulchitsky cells}} are a pathological <b>neuroendocrine&nbsp;</b>cell featured in Small Cell Carcinoma of the lung \
@@ -4734,6 +5290,7 @@ tags = 'Brosencephalon Respiratory::Pathology::lung-cancer'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'G#dcaB*@Rm'
 note-id = 1404870828558
 text = 'What is the prognosis of Large Cell Carcinoma of the Lung?<div><br /></div><div>{{c1::Poor}}</div>'
 extra = """
@@ -4743,6 +5300,7 @@ tags = 'Brosencephalon Respiratory::Pathology::lung-cancer'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'M(5Pqz#hCH'
 note-id = 1404870869383
 text = 'What is the prognosis of Bronchial Carcinoid Tumor?<div><br /></div><div>{{c1::Excellent}}</div>'
 extra = '<div><i>Metastasis is rare.</i></div>'
@@ -4750,6 +5308,7 @@ tags = 'Brosencephalon Respiratory::Pathology::lung-cancer'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'l!gz9z;e5.'
 note-id = 1404870964586
 text = """
 {{c1::Carcinoid syndrome}} is a possible paraneoplastic syndrome associated with Bronchial Carcinoid Tumors that \
@@ -4759,6 +5318,7 @@ tags = 'Brosencephalon Respiratory::Pathology::lung-cancer'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'D=5raq>4W9'
 note-id = 1404871322628
 text = '{{c1::Mesothelioma}} is a cancer of the pleura that often presents with <b>psammoma bodies</b>&nbsp;on histology.'
 extra = ""
@@ -4766,6 +5326,7 @@ tags = 'Brosencephalon Respiratory::Pathology::mesothelioma'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'Fq(u&NA85]'
 note-id = 1404871414325
 text = """
 {{c1::Pancoast Tumor}} is a carcinoma that occurs in the apex of the lung and can cause <b>Horner Syndrome</b>&nbsp;by \
@@ -4775,6 +5336,7 @@ tags = 'Brosencephalon Respiratory::Pathology::lung-cancer'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'H;h7ldu;|?'
 note-id = 1404871665466
 text = """
 {{c1::Horner Syndrome}} is a paraneoplastic syndrome associated with pancoast tumor that presents with <b>ipsilateral \
@@ -4784,6 +5346,7 @@ tags = 'Brosencephalon Respiratory::Pathology::lung-cancer'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'JHNfFvLH^]'
 note-id = 1404871717597
 text = """
 {{c1::Superior Vena Cava (SVC) Syndrome}} is a possible mass effect complication of lung cancers that involves \
@@ -4796,6 +5359,7 @@ tags = 'Brosencephalon Respiratory::Pathology::superior-vena-cava-syndrome'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 't!6uAHP`!9'
 note-id = 1404871833168
 text = """
 {{c1::SVC Syndrome}} is a complication caused by obstruction of the SVC that can raise intracranial pressure if severe \
@@ -4806,6 +5370,7 @@ tags = 'Brosencephalon Respiratory::Pathology::superior-vena-cava-syndrome'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'krl#McX1./'
 note-id = 1404871951498
 text = """
 What is the most common <b>cardiac</b>&nbsp;cause of death in Sleep Apnea?<div><br /></div><div>{{c1::Nocturnal \
@@ -4815,6 +5380,7 @@ tags = 'Brosencephalon Respiratory::Pathology::sleep-apnea'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'Pg8+wxtD)Y'
 note-id = 1404872267922
 text = 'Which sex is more commonly affected by sleep apnea?<div><br /></div><div>{{c1::Males}}</div>'
 extra = '<div><i>&gt;2:1 (M:F)</i></div>'
@@ -4822,6 +5388,7 @@ tags = 'Brosencephalon Respiratory::Pathology::sleep-apnea'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'ydM?TS_}eY'
 note-id = 1404872383801
 text = """
 {{c1::Lobar Pneumonia}} is a type of pneumonia that presents with <b>intra-alveolar exudate</b>&nbsp;and hence \
@@ -4831,6 +5398,7 @@ tags = 'Brosencephalon Respiratory::Pathology::pneumonia'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'vfed@9X;g^'
 note-id = 1404872761823
 text = """
 {{c1::Bronchopneumonia}} is a type of pneumonia that presents with <b>acute inflammatory infiltrates from bronchioles \
@@ -4842,6 +5410,7 @@ tags = 'Brosencephalon Respiratory::Pathology::pneumonia'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'r6;meo}xUm'
 note-id = 1404872907247
 text = '{{c1::Bronchopneumonia}} is a type of pneumonia that yields a patchy distribution involving<sub>&nbsp;</sub>≥ 1 lobe.'
 extra = ""
@@ -4849,6 +5418,7 @@ tags = 'Brosencephalon Respiratory::Pathology::pneumonia'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'LShE6a^/*p'
 note-id = 1404872943826
 text = """
 {{c1::Interstitial (Atypical) Pneumonia}} is a type of pneumonia that presents with <b>diffuse patchy inflammation \
@@ -4858,6 +5428,7 @@ tags = 'Brosencephalon Respiratory::Pathology::pneumonia'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'o?wVVf^ADO'
 note-id = 1404873300682
 text = """
 {{c1::Lung abscess}} is a lung pathology described as a localized collection of pus within the lung parenchyma typically \
@@ -4869,6 +5440,7 @@ tags = 'Brosencephalon Respiratory::Pathology::lung-abscess'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'zbDRu|leSm'
 note-id = 1404873608965
 text = """
 {{c1::Lung abscess}} is a lung pathology that involves a localized collection of pus within the lung parenchyma and \
@@ -4878,6 +5450,7 @@ tags = 'Brosencephalon Respiratory::Pathology::lung-abscess'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'G~Y&mMthu$'
 note-id = 1404873639753
 text = """
 {{c1::Pleural effusion}} is a respiratory pathology that is described as excess accumulation of fluid between the two \
@@ -4888,6 +5461,7 @@ tags = 'Brosencephalon Respiratory::Pathology::pleural-effusions'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'F:WDu(azvo'
 note-id = 1404873961345
 text = """
 {{c1::Transudative Pleural Effusion}} is a type of pleural effusion that has <b>decreased protein content</b>&nbsp;and \
@@ -4897,6 +5471,7 @@ tags = 'Brosencephalon Respiratory::Pathology::pleural-effusions'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'hSRpB@F5@r'
 note-id = 1404874005125
 text = """
 {{c1::Exudative Pleural Effusion}} is a type of pleural effusion that holds <b>increased protein content</b>&nbsp;and is \
@@ -4906,6 +5481,7 @@ tags = 'Brosencephalon Respiratory::Pathology::pleural-effusions'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'j<sYUM.LQt'
 note-id = 1404874079561
 text = """
 {{c1::Chylothorax}} is a type of pleural effusion that involves lymph accumuation and is due to thoracic duct injury \
@@ -4915,6 +5491,7 @@ tags = 'Brosencephalon Respiratory::Pathology::pleural-effusions'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = '3@lZ&?Y!5'
 note-id = 1404874244950
 text = """
 {{c1::Pneumothorax}} is a respiratory pathology described as accumulation of air in the pleural space.<div><br \
@@ -4927,6 +5504,7 @@ tags = 'Brosencephalon Respiratory::Pathology::pneumothorax'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'D6SR4AP+dD'
 note-id = 1404874343429
 text = """
 {{c1::Spontaneous Pneumothorax}} is a type of pneumothorax that presents with air accumulation in the pleural space and \
@@ -4937,6 +5515,7 @@ tags = 'Brosencephalon Respiratory::Pathology::pneumothorax'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'M<^O~4HKd|'
 note-id = 1404874388700
 text = '{{c1::Tension Pneumothorax}} is a type of pneumothorax that usually occurs in the setting of trauma or lung infection.'
 extra = """
@@ -4946,6 +5525,7 @@ tags = 'Brosencephalon Respiratory::Pathology::pneumothorax'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'Npd1cgVr.u'
 note-id = 1404874620305
 text = """
 {{c1::Tension Pneumothorax}} is a type of pneumothorax that presents with <b>trachial deviation <u>away</u>&nbsp;from \
@@ -4955,6 +5535,7 @@ tags = 'Brosencephalon Respiratory::Pathology::pneumothorax'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'oRjcBWB;Rb'
 note-id = 1478191288241
 text = 'Where in the respiratory tract are goblet cells found?<div><br /></div><div>{{c1::Extend to end of bronchi}}</div>'
 extra = '<img src="paste-121959891337763.jpg" />'
@@ -4962,6 +5543,7 @@ tags = 'Brosencephalon Respiratory::Anatomy::respiratory-tree'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'g6H~svyN>K'
 note-id = 1478192100353
 text = 'Where in the respiratory tract are glands found?<div><br /></div><div>{{c1::Extend to end of bronchi}}</div>'
 extra = '<img src="paste-121959891337763.jpg" />'
@@ -4969,6 +5551,7 @@ tags = 'Brosencephalon Respiratory::Anatomy::respiratory-tree'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 't#oK9C.nUl'
 note-id = 1478192126563
 text = 'Where in the respiratory tract is cartilage found?<div><br /></div><div>{{c1::Extend to end of bronchi}}</div>'
 extra = '<img src="paste-121959891337763.jpg" />'
@@ -4976,6 +5559,7 @@ tags = 'Brosencephalon Respiratory::Anatomy::respiratory-tree'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'N_SYOR:OTx'
 note-id = 1478192169954
 text = """
 Where in the respiratory tract is smooth muscle found?<div><br /></div><div>{{c1::Extend to end of terminal bronchioles \
@@ -4985,6 +5569,7 @@ tags = 'Brosencephalon Respiratory::Anatomy::respiratory-tree'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'v}ZA<C#hp$'
 note-id = 1478192276939
 text = """
 {{c1::Alveolar macrophages}} keep the alveoli free of dust and debris because the alveoli have no cilia to perform this \
@@ -4994,6 +5579,7 @@ tags = 'Brosencephalon Respiratory::Anatomy::respiratory-tree'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'QiJXMT|Bed'
 note-id = 1478410913174
 text = """
 At {{c1::functional residual capacity}}, inward pull of lungs is balanced by outward pull of chest wall, and system \
@@ -5003,6 +5589,7 @@ tags = 'Brosencephalon Respiratory::Physiology::lung-and-chest-wall'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'tUNtyz8[|v'
 note-id = 1478443448020
 text = """
 {{c1::Hysteresis}} describes the phenomenon that the lung inflation curve follows a different curve than the lung \
@@ -5015,6 +5602,7 @@ tags = 'Brosencephalon Respiratory::Physiology::lung-and-chest-wall'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'LA-Z+{]t#V'
 note-id = 1478445406288
 text = 'The flow-volume loop for restrictive disease shows {{c1::loop shifts to the right}}.'
 extra = '<img src="paste-30747670872450.jpg" />'
@@ -5022,6 +5610,7 @@ tags = 'Brosencephalon Respiratory::Pathology::flow-volume-loops'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 't)cd%0MYRh'
 note-id = 1478445516153
 text = 'The flow-volume loop for obstructive disease shows {{c1::loop shifts to the left}}.'
 extra = '<img src="paste-30747670872450.jpg" />'
@@ -5029,6 +5618,7 @@ tags = 'Brosencephalon Respiratory::Pathology::flow-volume-loops'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'L,=tu@w`U8'
 note-id = 1478477476039
 text = '{{c1::DL<sub>CO</sub>}}&nbsp;is the extent to which oxygen passes from air sacs of lungs into blood.'
 extra = 'DL<sub>CO&nbsp;</sub>= Lung diffusing capacity for CO'
@@ -5036,6 +5626,7 @@ tags = 'Brosencephalon Respiratory::Physiology::pulmonary-circulation'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'EEX`]@6RiL'
 note-id = 1478483042945
 text = """
 What physical factors can affect airway resistance and dynamic compliance?<div><br /></div><div>{{c1::<b>Radius</b>, \
@@ -5047,6 +5638,7 @@ tags = 'Brosencephalon Respiratory::Physiology::pulmonary-vascular-resistance'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'IKdUVa@DkY'
 note-id = 1478487546608
 text = 'What is the normal A-a value?<div><br /></div><div>{{c1::10-15 mmHg}}</div>'
 extra = """
@@ -5056,6 +5648,7 @@ tags = 'Brosencephalon Respiratory::Physiology::alveolar-gas-equation'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'Ps78qL3EOK'
 note-id = 1478578280470
 text = """
 What conditions are associated with acute respiratory distress syndrome?<div><br /></div><div>{{c1::Sepsis, \
@@ -5065,6 +5658,7 @@ tags = 'Brosencephalon Respiratory::Pathology::acute-respiratory-distress-syndro
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'l%&O<:YcO!'
 note-id = 1478628037096
 text = """
 What are the top three causes of transudative pleural effusions?<div><br /></div><div>{{c1::Congestive heart failure, \
@@ -5074,6 +5668,7 @@ tags = 'Brosencephalon Respiratory::Pathology::pleural-effusions'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'zH=@PQdeLW'
 note-id = 1478628125103
 text = """
 What are the top three causes of exudative pleural effusions?<div><br /></div><div>{{c1::Trauma, infection (e.g. \
@@ -5083,6 +5678,7 @@ tags = 'Brosencephalon Respiratory::Pathology::pleural-effusions'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'GQ3H5A;r.P'
 note-id = 1478628245486
 text = """
 What is Light's criteria?<div><br /></div><div>{{c1::If any one is present patient has exudative effusion (protein \
@@ -5093,6 +5689,7 @@ tags = 'Brosencephalon Respiratory::Pathology::pleural-effusions'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'QbL7>wfQ!1'
 note-id = 1478750446608
 text = """
 What are the diagnostic criteria for acute respiratory distress syndrome?<div><br /></div><div>{{c1::Acute onset (&lt;1 \
@@ -5103,6 +5700,7 @@ tags = 'Brosencephalon Respiratory::Pathology::acute-respiratory-distress-syndro
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'toY$Wcw@(#'
 note-id = 1478752044079
 text = """
 <div>What is the treatment of ARDS?</div><div><br /></div><div>{{c1::Mechanical ventilation with low tidal volumes (low \
@@ -5114,6 +5712,7 @@ tags = 'Brosencephalon Respiratory::Pathology::acute-respiratory-distress-syndro
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = ')FqwtPP[f'
 note-id = 1479183508067
 text = """
 How does the affinity of fetal Hb for oxygen compare to affinity of Hb for oxygen?<div><br /></div><div>{{c1::Higher \
@@ -5123,6 +5722,7 @@ tags = 'Brosencephalon Respiratory::Physiology::oxygen-hemoglobin-dissociation-c
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'p6;nwp%Mrs'
 note-id = 1479184070215
 text = """
 Which way does fetal Hb&nbsp;shift the oxygen-hemoglobin dissociation curve?<div><br /></div><div>{{c1::Left (i.e. \
@@ -5132,6 +5732,7 @@ tags = 'Brosencephalon Respiratory::Physiology::oxygen-hemoglobin-dissociation-c
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'xX(]|LpL@+'
 note-id = 1479184157060
 text = '<div>If more than {{c1::5}} g/dL of the hemoglobin in the blood is deoxygenated, cyanosis results.</div>'
 extra = ""
@@ -5139,6 +5740,7 @@ tags = 'Brosencephalon Respiratory::Physiology::hemoglobin-modifications'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'Aj6]DG0G,!'
 note-id = 1479187066245
 text = '{{c1::Elastic recoil}} is the tendancy for lungs to collapse inward and the chest wall to spring outward.'
 extra = """
@@ -5148,6 +5750,7 @@ tags = 'Brosencephalon Respiratory::Physiology::lung-and-chest-wall'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'yBzf1r6uaE'
 note-id = 1479348861006
 text = 'How does oxygen comsumption change in response to exercise?<div><br /></div><div>{{c1::Increased}}</div>'
 extra = '<div><i><div style="display: inline !important; "><img src="8474.png" /></div></i></div>'
@@ -5155,6 +5758,7 @@ tags = 'Brosencephalon Respiratory::Physiology::response-to-exercise'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'm;pNSiW-+W'
 note-id = 1479408816796
 text = """
 What is the relationship of the arteries to the airway in a bronchopulmonary segment?<div><br \
@@ -5168,6 +5772,7 @@ tags = 'Brosencephalon Respiratory::Anatomy::respiratory-tree'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 't/L[&*Rrfs'
 note-id = 1481049865689
 text = 'The {{c1::medullary respiratory center}} is the part of the brain that sets the basic rhythm for breathing.'
 extra = ""
@@ -5175,6 +5780,7 @@ tags = 'Brosencephalon Respiratory::Physiology::breathing-basics'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'i(mw[AZ{4i'
 note-id = 1481049901662
 text = """
 The {{c1::apneustic center}} prolongs inspiration by stimulating inspiratory centers in the medullary respiratory \
@@ -5184,6 +5790,7 @@ tags = 'Brosencephalon Respiratory::Physiology::breathing-basics'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'A8_*BtCXf5'
 note-id = 1481049911858
 text = """
 The {{c1::pneumotaxic center}} is the part of the brain that turns off inspiration to limit tidal volume and regulate \
@@ -5193,6 +5800,7 @@ tags = 'Brosencephalon Respiratory::Physiology::breathing-basics'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
+guid = 'qSMtYK?VK0'
 note-id = 1481049920321
 text = '{{c1::Medulla}} and {{c1::pons}} are the parts of the brainstem that act to control breathing.'
 extra = ""
