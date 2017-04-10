@@ -2099,7 +2099,7 @@ tags = 'Brosencephalon Hematology-Oncology::Pathology::unsorted-wbc-disorders'
 model = 'Cloze-Brosencephalon'
 note-id = 1382144235377
 text = """
-What chromosomal translocation is involved with Acute Promyelocytic Leukemia (AML)?<div><br /></div><div>{{c1::t(15;17) \
+What chromosomal translocation is involved with Acute Promyelocytic Leukemia (APL)?<div><br /></div><div>{{c1::t(15;17) \
 involving RAR}}</div>"""
 extra = ""
 tags = 'Brosencephalon Hematology-Oncology::Pathology::unsorted-wbc-disorders'
@@ -2391,7 +2391,9 @@ tags = 'Brosencephalon Hematology-Oncology::Pharmacology::unsorted-anticoagulant
 [[notes]]
 model = 'Cloze-Brosencephalon'
 note-id = 1382223023874
-text = 'Which coagulation factors do Vitamin K antagonists affect?<div><br /></div><div>{{c1::Factors II, VII, IX and X}}</div>'
+text = """
+Which coagulation factors do Vitamin K antagonists affect?<div><br /></div><div>{{c1::Factors II, VII, IX and X, protein \
+C, protein S.}}</div>"""
 extra = ""
 tags = 'Brosencephalon Hematology-Oncology::Pharmacology::unsorted-anticoagulants'
 
@@ -2405,16 +2407,9 @@ tags = 'Brosencephalon Hematology-Oncology::Pharmacology::unsorted-anticoagulant
 [[notes]]
 model = 'Cloze-Brosencephalon'
 note-id = 1382230366821
-text = '{{c1::Lepirudin}} is an anticoagulant that binds to the active site of thrombin, thereby inhibiting it.'
+text = '{{c1::Bivalirudin}} is an anticoagulant that binds to the active site of thrombin, thereby inhibiting it.'
 extra = ""
-tags = 'Brosencephalon Hematology-Oncology::Pharmacology::unsorted-anticoagulants'
-
-[[notes]]
-model = 'Cloze-Brosencephalon'
-note-id = 1382230393448
-text = '{{c1::Lepirudin}} is the anticoagulant of choice to treat patients with Heparin Induced Thrombocytopenia (HIT).'
-extra = ""
-tags = 'Brosencephalon Hematology-Oncology::Pharmacology::unsorted-anticoagulants'
+tags = 'Brosencephalon Hematology-Oncology::Pharmacology::direct-thrombin-inhibitors'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
@@ -2422,13 +2417,6 @@ note-id = 1382230427299
 text = """
 What is the mechanism of action of Warfarin?<div><br /></div><div>{{c1::Inhibition of Vitamin K Epoxide \
 Reductase}}</div>"""
-extra = ""
-tags = 'Brosencephalon Hematology-Oncology::Pharmacology::unsorted-anticoagulants'
-
-[[notes]]
-model = 'Cloze-Brosencephalon'
-note-id = 1382230458372
-text = '{{c1::Drotegocin alpha}} is an anticoagulant that is recombinant Protein C.'
 extra = ""
 tags = 'Brosencephalon Hematology-Oncology::Pharmacology::unsorted-anticoagulants'
 
@@ -2445,10 +2433,10 @@ tags = 'Brosencephalon Hematology-Oncology::Pharmacology::unsorted-anticoagulant
 model = 'Cloze-Brosencephalon'
 note-id = 1382230576960
 text = """
-{{c1::Dabigatran etexilate}} is an antocoagulant that is a prodrug. Once activated it directly inhibits &nbsp;both free \
-and clot-bound thrombin."""
+{{c1::Dabigatran etexliate}} is an antocoagulant that is a prodrug. Once activated it directly inhibits both free and \
+clot-bound thrombin."""
 extra = ""
-tags = 'Brosencephalon Hematology-Oncology::Pharmacology::unsorted-anticoagulants'
+tags = 'Brosencephalon Hematology-Oncology::Pharmacology::direct-thrombin-inhibitors'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
@@ -2857,7 +2845,7 @@ tags = 'Brosencephalon Hematology-Oncology::Pathology::unsorted-wbc-disorders'
 [[notes]]
 model = 'Cloze-Brosencephalon'
 note-id = 1382500469911
-text = '{{c1::Waldenstrom Macroglobulinema}} is a Plasma Cell Dyscrasia characterized by monoclonal IgM production.'
+text = '{{c1::Waldenstrom Macroglobulinemia}} is a Plasma Cell Dyscrasia characterized by monoclonal IgM production.'
 extra = ""
 tags = 'Brosencephalon Hematology-Oncology::Pathology::unsorted-wbc-disorders'
 
@@ -3010,7 +2998,7 @@ model = 'Cloze-Brosencephalon'
 note-id = 1382575481024
 text = """
 What pathologies are associated with Howell-Jolly Bodies?<div><br /></div><div><img src="paste-2366526980211.jpg" \
-/></div><div><br /></div><div>{{c1::Functional Hyposplenia; Asplenia; Naphthalene ingestion}}</div>"""
+/></div><div><br /></div><div>{{c1::Functional Hyposplenia; Asplenia; autosplenectomy (eg, sickle-cell anemia)}}</div>"""
 extra = ""
 tags = 'Brosencephalon Hematology-Oncology::Pathology::unsorted-rbc-disorders'
 
@@ -8999,9 +8987,7 @@ tags = 'Brosencephalon Hematology-Oncology::Pharmacology::unsorted'
 [[notes]]
 model = 'Cloze-Brosencephalon'
 note-id = 1397227329989
-text = """
-{{c1::Argatroban}} and&nbsp;{{c2::Bivalirudin}} are hirudin anticoagulants that are derived from the anticoagulant used \
-by leeches."""
+text = '{{c1::Bivalirudin}} is a direct thrombin inhibitor that is derived from hirudin, the anticoagulant used by leeches.'
 extra = ""
 tags = 'Brosencephalon Hematology-Oncology::Pharmacology::direct-thrombin-inhibitors'
 
@@ -9009,8 +8995,8 @@ tags = 'Brosencephalon Hematology-Oncology::Pharmacology::direct-thrombin-inhibi
 model = 'Cloze-Brosencephalon'
 note-id = 1397227371033
 text = """
-What is the MOA of Argatroban and Bivalirudin (hirudin anticoagulants)?<div><br /></div><div>{{c1::Direct inhibition of \
-Thrombin (Factor IIa)}}</div>"""
+What is the MOA of Argatroban and Bivalirudin?<div><br /></div><div>{{c1::Direct inhibition of Thrombin (Factor \
+IIa)}}</div>"""
 extra = ""
 tags = 'Brosencephalon Hematology-Oncology::Pharmacology::direct-thrombin-inhibitors'
 
@@ -9018,9 +9004,9 @@ tags = 'Brosencephalon Hematology-Oncology::Pharmacology::direct-thrombin-inhibi
 model = 'Cloze-Brosencephalon'
 note-id = 1397227408980
 text = """
-{{c1::Argatroban}} and&nbsp;{{c2::Bivalirudin}} are hirudin anticoagulants used instead of Heparin in patients that have \
-Heparin-induced Thrombocytopenia that function by directly inhibiting Thrombin."""
-extra = '<br /><div><i>Lepirudin is also another example not in FA2014.</i></div>'
+{{c1::Argatroban}} and&nbsp;{{c2::Bivalirudin}} are parenterally administered direct thrombin inhibitors used instead of \
+Heparin in patients that have Heparin-induced Thrombocytopenia."""
+extra = ""
 tags = 'Brosencephalon Hematology-Oncology::Pharmacology::direct-thrombin-inhibitors'
 
 [[notes]]
@@ -12719,4 +12705,11 @@ extra = """
 <div><i>Prostate, breast &gt; lung &gt; thyroid.</i></div><div><i>Prostate = blastic</i></div><div><i>Breast = lytic and \
 blastic</i></div><div><i></i></div>"""
 tags = 'Brosencephalon Hematology-Oncology::Pathology::unsorted-neoplasia'
+
+[[notes]]
+model = 'Cloze-Brosencephalon'
+note-id = 1490180087009
+text = '{{c1::Dabigatran}} is the only direct thrombin inhibitor that can be administered orally.'
+extra = ""
+tags = 'Brosencephalon Hematology-Oncology::Pharmacology::direct-thrombin-inhibitors'
 
