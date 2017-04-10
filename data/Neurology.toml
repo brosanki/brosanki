@@ -1644,8 +1644,7 @@ model = 'Cloze-Brosencephalon'
 note-id = 1389912299725
 text = """
 What kind of rosettes are seen in all 3 of Retinoblastoma, Neuroblastoma and Medulloblastoma?<div><br /></div><div><img \
-src="paste-9655086481716.jpg" /><img src="paste-10243497001200.jpg" /><br /><div><br /></div><div>{{c1::Homer-Wright \
-rosettes (pseudorosettes)}}</div></div>"""
+src="paste-10243497001200.jpg" /><br /><div><br /></div><div>{{c1::Homer-Wright rosettes (pseudorosettes)}}</div></div>"""
 extra = ""
 tags = 'Brosencephalon Neurology::Pathology::unsorted-cns-tumours'
 
