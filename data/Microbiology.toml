@@ -4410,7 +4410,7 @@ note-id = 1402333396116
 text = """
 Where in the lungs does <i>Mycobacterium tuberculosis </i>reactivate?<div><br /></div><div>{{c1::The lung apices due to \
 high P<sub>O2</sub>&nbsp;levels}}</div>"""
-extra = '<div><i>Reactivation typically occurs after immune compromise or TNF-alpha inhibitor use.</i></div>'
+extra = '<div><i>Reactivation typically occurs after immune compromise or TNF-α inhibitor use.</i></div>'
 tags = 'Brosencephalon Microbiology::Basic-Bacteriology::aerobes'
 
 [[notes]]
@@ -4469,7 +4469,9 @@ tags = 'Brosencephalon Microbiology::Basic-Bacteriology::anaerobes'
 [[notes]]
 model = 'Cloze-Brosencephalon'
 note-id = 1402343617358
-text = 'Which 2 gases are often produced in tissue by obligate anaerobic bacteria?<div><br /></div><div>{{c1::CO2; H2}}</div>'
+text = """
+Which 2 gases are often produced in tissue by obligate anaerobic bacteria?<div><br /></div><div>{{c1::CO<sub>2</sub>; \
+H<sub>2</sub>}}</div>"""
 extra = '<div><img src="paste-1971389988896.jpg" /><div><img src="paste-1984274890974.jpg" /></div></div>'
 tags = 'Brosencephalon Microbiology::Basic-Bacteriology::anaerobes'
 
@@ -4945,7 +4947,8 @@ model = 'Cloze-Brosencephalon'
 note-id = 1402416127072
 text = """
 {{c1::Heat-labile toxin (LT)}} is an exotoxin from Enterotoxigenic <i>Escherichia coli</i>&nbsp;(ETEC) that \
-overactivates adenylate cyclase, thereby causing increased Cl secretion and H2O efflux at the gut."""
+overactivates adenylate cyclase, thereby causing increased Cl<sup>-</sup> secretion and H<sub>2</sub>O efflux at the \
+gut."""
 extra = """
 <div></div><i>Increased cAMP = increased Cl secretion and H2O efflux = watery diarrhea</i><div><img \
 src="paste-8662949036137.jpg" /></div>"""
@@ -4978,7 +4981,7 @@ note-id = 1402417045996
 text = """
 What is the MOA of Heat-<b>stable</b>&nbsp;Toxin from Enterotoxigenic <i>Escherichia coli</i>&nbsp;(ETEC)?<div><br \
 /></div><div>{{c1::Overactivation of Guanylate cyclase, thereby causing increased cGMP levels and a \
-<b>decrease</b>&nbsp;in NaCl and H2O resorption at the gut}}</div>"""
+<b>decrease</b>&nbsp;in NaCl and H<sub>2</sub>O resorption at the gut}}</div>"""
 extra = '<div><img src="paste-8658654068841.jpg" /></div>'
 tags = 'Brosencephalon Microbiology::Basic-Bacteriology::bugs-with-exotoxins'
 
@@ -5257,8 +5260,8 @@ model = 'Cloze-Brosencephalon'
 note-id = 1402432627607
 text = """
 {{c1::Toxic Shock Syndrome Toxin (TSST-1)}} is a superantigen exotoxin from <i>Staphylococcus aureus</i>&nbsp;that \
-brings MHC II and T-cell receptors in close proximity to the antigen binding site, thereby causing overwhelming IFN-\
-gamma and IL-2 release."""
+brings MHC II and T-cell receptors in close proximity to the antigen binding site, thereby causing overwhelming IFN-γ \
+and IL-2 release."""
 extra = '<div><i>Thereby causing shock.</i></div>'
 tags = 'Brosencephalon Microbiology::Basic-Bacteriology::bugs-with-exotoxins'
 
@@ -5268,7 +5271,7 @@ note-id = 1402432761359
 text = """
 What is the MOA of Toxic Shock Syndrome Toxin (TSST-1) from <i>Staphylococcus \
 aureus</i>?<div><br></div><div>{{c1::Bringing of MHC II and T-cell receptors in proximity to outside of the antigen \
-binding site, thereby causing overwhelming release of IFN-gamma and IL-2}}</div>"""
+binding site, thereby causing overwhelming release of IFN-γ and IL-2}}</div>"""
 extra = '<br><div><i>And subsequent shock.</i></div>'
 tags = 'Brosencephalon Microbiology::Basic-Bacteriology::bugs-with-exotoxins'
 
@@ -5277,7 +5280,7 @@ model = 'Cloze-Brosencephalon'
 note-id = 1402432829156
 text = """
 Which cytokines are involved in the induction of Toxic Shock Syndrome by superantigen exotoxins?<div><br \
-/></div><div>{{c1::IFN-gamma; IL-2}}</div>"""
+/></div><div>{{c1::IFN-γ; IL-2}}</div>"""
 extra = '<div><i>Thereby inducing fever, rash and shock.</i></div>'
 tags = 'Brosencephalon Microbiology::Basic-Bacteriology::bugs-with-exotoxins'
 
@@ -5304,7 +5307,7 @@ model = 'Cloze-Brosencephalon'
 note-id = 1402433021202
 text = """
 What is the MOA of Exotoxin A from <i>Streptococcus pyogenes</i>?<div><br /></div><div>{{c1::Superantigen; MHC II and \
-TCR activation, thereby causing massive release of IFN-gamma and IL-2}}</div>"""
+TCR activation, thereby causing massive release of IFN-γ and IL-2}}</div>"""
 extra = """
 <div><i>Not to be confused with Exotoxin A from Pseudomonas aeruginosa which functions to inactivate EF2 and protein \
 synthesis.</i></div>"""
@@ -6433,7 +6436,7 @@ model = 'Cloze-Brosencephalon'
 note-id = 1402597655383
 text = """
 {{c1::Cord Factor}} is a virulence factor in virulent <i>Mycobacterium sp.</i>&nbsp;that <b>inhibits macrophage \
-maturation</b>&nbsp;and <b>induces the release of TNF-alpha</b>."""
+maturation</b>&nbsp;and <b>induces the release of TNF-α</b>."""
 extra = ""
 tags = 'Brosencephalon Microbiology::Clinical-Bacteriology::mycobacteria'
 
@@ -16348,7 +16351,7 @@ tags = 'Brosencephalon Microbiology::Antimicrobials::unsorted'
 [[notes]]
 model = 'Cloze-Brosencephalon'
 note-id = 1403662599988
-text = 'What is the clinical use of IFN-gamma?<div><br /></div><div>{{c1::Chronic Granulomatous Disease (CGD)}}</div>'
+text = 'What is the clinical use of IFN-γ?<div><br /></div><div>{{c1::Chronic Granulomatous Disease (CGD)}}</div>'
 extra = ""
 tags = 'Brosencephalon Microbiology::Antimicrobials::unsorted'
 
@@ -16404,7 +16407,7 @@ tags = 'Brosencephalon Microbiology::Antimicrobials::unsorted'
 [[notes]]
 model = 'Cloze-Brosencephalon'
 note-id = 1403662843976
-text = '{{c1::IFN-gamma}} is an interferon used to treat Chronic Granulomatous Disease.'
+text = '{{c1::IFN-γ}} is an interferon used to treat Chronic Granulomatous Disease.'
 extra = ""
 tags = 'Brosencephalon Microbiology::Antimicrobials::unsorted'
 

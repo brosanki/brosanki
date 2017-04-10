@@ -1056,7 +1056,7 @@ tags = 'Biochemistry::Molecular::rna-polymerases Brosencephalon'
 model = 'Cloze-Brosencephalon'
 note-id = 1401058914807
 text = """
-What is the MOA of alpha-amanitin, the active toxin in <i>Amanita phalloides</i>&nbsp;(death cap mushrooms)?<div><br \
+What is the MOA of α-amanitin, the active toxin in <i>Amanita phalloides</i>&nbsp;(death cap mushrooms)?<div><br \
 /></div><div>{{c1::Inhibition of RNA Polymerase II}}</div>"""
 extra = '<div><i>Also causes severe hepatotoxicity.</i></div>'
 tags = 'Biochemistry::Molecular::rna-polymerases Brosencephalon'

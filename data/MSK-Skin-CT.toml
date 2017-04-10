@@ -7908,14 +7908,14 @@ tags = 'Brosencephalon MSK-Skin-CT::Pharmacology::unsorted'
 [[notes]]
 model = 'Cloze-Brosencephalon'
 note-id = 1397491909556
-text = 'What is the MOA of Infliximab?<div><br /></div><div>{{c1::Monoclonal Ab; Binds to and inhibits TNF-alpha}}</div>'
+text = 'What is the MOA of Infliximab?<div><br /></div><div>{{c1::Monoclonal Ab; Binds to and inhibits TNF-α}}</div>'
 extra = ""
 tags = 'Brosencephalon MSK-Skin-CT::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
 note-id = 1397491943001
-text = 'What is the MOA of Adalimumab?<div><br /></div><div>{{c1::Monoclonal Ab; Binds to an inhibits TNF-alpha}}</div>'
+text = 'What is the MOA of Adalimumab?<div><br /></div><div>{{c1::Monoclonal Ab; Binds to an inhibits TNF-α}}</div>'
 extra = ""
 tags = 'Brosencephalon MSK-Skin-CT::Pharmacology::unsorted'
 
@@ -7923,8 +7923,8 @@ tags = 'Brosencephalon MSK-Skin-CT::Pharmacology::unsorted'
 model = 'Cloze-Brosencephalon'
 note-id = 1397491957831
 text = """
-How do TNF-alpha inhibitors influence infection risk?<div><br /></div><div>{{c1::Increased risk, especially with TB as \
-TNF is needed to activate macrophages and induce phagocytic destruction of microbes}}</div>"""
+How do TNF-α inhibitors influence infection risk?<div><br /></div><div>{{c1::Increased risk, especially with TB as TNF \
+is needed to activate macrophages and induce phagocytic destruction of microbes}}</div>"""
 extra = ""
 tags = 'Brosencephalon MSK-Skin-CT::Pharmacology::unsorted'
 
@@ -7932,7 +7932,7 @@ tags = 'Brosencephalon MSK-Skin-CT::Pharmacology::unsorted'
 model = 'Cloze-Brosencephalon'
 note-id = 1397492004534
 text = """
-Which joint disorder is treated with TNF-alpha inhibitors (Etanercept; Infliximab, Adalimumab)?<div><br \
+Which joint disorder is treated with TNF-α inhibitors (Etanercept; Infliximab, Adalimumab)?<div><br \
 /></div><div>{{c1::Rheumatoid Arthritis}}</div>"""
 extra = ""
 tags = 'Brosencephalon MSK-Skin-CT::Pharmacology::unsorted'
@@ -7941,7 +7941,7 @@ tags = 'Brosencephalon MSK-Skin-CT::Pharmacology::unsorted'
 model = 'Cloze-Brosencephalon'
 note-id = 1397492065621
 text = """
-Which Seronegative Spondyloarthropathy can be treated with&nbsp;TNF-alpha inhibitors (Etanercept; Infliximab, \
+Which Seronegative Spondyloarthropathy can be treated with&nbsp;TNF-α inhibitors (Etanercept; Infliximab, \
 Adalimumab)?<div><br /></div><div>{{c1::Ankylosing Spondylitis}}</div>"""
 extra = ""
 tags = 'Brosencephalon MSK-Skin-CT::Pharmacology::unsorted'
@@ -7950,7 +7950,7 @@ tags = 'Brosencephalon MSK-Skin-CT::Pharmacology::unsorted'
 model = 'Cloze-Brosencephalon'
 note-id = 1397492099656
 text = """
-Which skin disorder can be treated with&nbsp;TNF-alpha inhibitors (Etanercept; Infliximab, Adalimumab)?<div><br \
+Which skin disorder can be treated with&nbsp;TNF-α inhibitors (Etanercept; Infliximab, Adalimumab)?<div><br \
 /></div><div>{{c1::Psoriasis}}</div>"""
 extra = ""
 tags = 'Brosencephalon MSK-Skin-CT::Pharmacology::unsorted'

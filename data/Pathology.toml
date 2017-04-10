@@ -1933,7 +1933,7 @@ model = 'Cloze-Brosencephalon'
 note-id = 1404175154560
 text = """
 {{c1::Myeloperoxidase Deficiency}} is a disorder of the oxidative burst pathway that presents with the inability to make \
-HOCl from H2O2."""
+HOCl from H<sub>2</sub>O<sub>2</sub>."""
 extra = '<div><i>Mostly asymptomatic, but more Candida infections can occur.</i></div>'
 tags = 'Brosencephalon Pathology::Inflammation::acute-inflammation'
 
@@ -2061,8 +2061,8 @@ tags = 'Brosencephalon Pathology::Inflammation::chronic-inflammation'
 model = 'Cloze-Brosencephalon'
 note-id = 1404178096140
 text = """
-{{c1::IFN-gamma}} is a cytokine secreted by <b>Th1</b>&nbsp;cells that <b>activates macrophages</b>, <b>promotes B-cell \
-class switching</b>&nbsp;from IgM to IgG and inhibis th2 cells."""
+{{c1::IFN-γ}} is a cytokine secreted by <b>Th1</b>&nbsp;cells that <b>activates macrophages</b>, <b>promotes B-cell \
+class switching</b>&nbsp;from IgM to IgG and inhibis Th2 cells."""
 extra = ""
 tags = 'Brosencephalon Pathology::Inflammation::chronic-inflammation'
 
@@ -2155,8 +2155,8 @@ What is the second activation signal in the activation of B-cells?<div><br /></d
 CD40R on B cells}}</div>"""
 extra = """
 <div><i>The helper T cell then secretes cytokines that mediate B-cell isotype switching, hypermutation and \
-maturation.</i></div><div><i>- IL-4 = switch to IgE</i></div><div><i>- IL-5 = switch to IgA</i></div><div><i>- IFN-gamma \
-= switch to IgG</i></div>"""
+maturation.</i></div><div><i>- IL-4 = switch to IgE</i></div><div><i>- IL-5 = switch to IgA</i></div><div><i>- IFN-γ = \
+switch to IgG</i></div>"""
 tags = 'Brosencephalon Pathology::Inflammation::chronic-inflammation'
 
 [[notes]]
@@ -2266,8 +2266,7 @@ extra = """
 <div><div><i>Steps in the formation of granulomas:</i></div><div><i>1. Macrophage finds, processes and presents antigen \
 to CD4+ T-cells via MHC II</i></div><div><i>2. Binding triggers&nbsp;<b>IL-12</b>&nbsp;release from the \
 macrophage.</i></div><div><i>3. CD4+ T cells become the&nbsp;<b>Th1&nbsp;</b>subtype.</i></div><div><i>4. Th1 cells \
-secrete&nbsp;<b>IFN-gamma</b>&nbsp;which converts macrophages into epithelioid histiocytes and giant \
-cells.</i></div></div>"""
+secrete&nbsp;<b>IFN-γ</b>&nbsp;which converts macrophages into epithelioid histiocytes and giant cells.</i></div></div>"""
 tags = 'Brosencephalon Pathology::Inflammation::chronic-inflammation'
 
 [[notes]]
@@ -2275,12 +2274,12 @@ model = 'Cloze-Brosencephalon'
 note-id = 1404180488842
 text = """
 Which cytokine from Th1 cells converts macrophages into epithelioid histiocytes and giant cells (i.e. forms \
-granulomas)?<div><br /></div><div>{{c1::IFN-gamma}}</div>"""
+granulomas)?<div><br /></div><div>{{c1::IFN-γ}}</div>"""
 extra = """
 <div><i>Steps in the formation of granulomas:</i></div><div><i>1. Macrophage finds, processes and presents antigen to \
 CD4+ T-cells via MHC II</i></div><div><i>2. Binding triggers <b>IL-12</b>&nbsp;release from the \
-macrophage.</i></div><div><i>3. CD4+ T cells become the <b>Th1 </b>subtype.</i></div><div><i>4. Th1 cells secrete <b\
->IFN-gamma</b>&nbsp;which converts macrophages into epithelioid histiocytes and giant cells.</i></div>"""
+macrophage.</i></div><div><i>3. CD4+ T cells become the <b>Th1 </b>subtype.</i></div><div><i>4. Th1 cells secrete \
+<b>IFN-γ</b>&nbsp;which converts macrophages into epithelioid histiocytes and giant cells.</i></div>"""
 tags = 'Brosencephalon Pathology::Inflammation::chronic-inflammation'
 
 [[notes]]
@@ -2560,7 +2559,7 @@ tags = 'Brosencephalon Pathology::Autoimmune::autoimmune-disorders'
 model = 'Cloze-Brosencephalon'
 note-id = 1404187051800
 text = """
-{{c1::Anticardiolipin}},&nbsp;{{c2::anti-beta2-glycoprotein I}} and&nbsp;{{c3::lupus anticoagulant}} are the 3 \
+{{c1::Anticardiolipin}},&nbsp;{{c2::anti-β<sub>2</sub> glycoprotein I}} and&nbsp;{{c3::lupus anticoagulant}} are the 3 \
 autoantibodies seen in&nbsp;Antiphospholipid Antibody Syndrome."""
 extra = ""
 tags = 'Brosencephalon Pathology::Autoimmune::autoimmune-disorders'
@@ -2658,7 +2657,7 @@ tags = 'Brosencephalon Pathology::Autoimmune::autoimmune-disorders'
 model = 'Cloze-Brosencephalon'
 note-id = 1404187673064
 text = """
-Whic autoantibodies are associated with Sjogren Syndrome<div><br /></div><div>{{c1::Anti-SS-A (Ro) and Anti-SS-B \
+Which autoantibodies are associated with Sjögren Syndrome<div><br></div><div>{{c1::Anti-SS-A (Ro) and Anti-SS-B \
 (La)}}</div>"""
 extra = '<div><i>These 2 are especially associated with extraglandular menifestations (e.g. neuropathy).</i></div>'
 tags = 'Brosencephalon Pathology::Autoimmune::autoimmune-disorders'

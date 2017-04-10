@@ -625,7 +625,7 @@ tags = 'Brosencephalon::diabetes_mellitus Endocrine::Pharmacology::unsorted'
 model = 'Cloze-Brosencephalon'
 note-id = 1391312933648
 text = """
-Insulin is contraindicated with&nbsp;{{c1::Nonselective Beta-Blockers}} due to counter-regulatory activation of \
+Insulin is contraindicated with&nbsp;{{c1::Nonselective β-blockers}} due to counter-regulatory activation of \
 Beta2-adrenoceptors in the liver which leads to inhibition of glycogenolysis, thereby adding to hypoglycemia."""
 extra = '<br /><div><i>Beta1 selective agents are preferred (Atenolol).</i></div>'
 tags = 'Brosencephalon::diabetes_mellitus Endocrine::Pharmacology::unsorted'
@@ -2722,7 +2722,7 @@ tags = 'Brosencephalon Endocrine::Pharmacology::unsorted'
 [[notes]]
 model = 'Cloze-Brosencephalon'
 note-id = 1391742289412
-text = 'What is the preferred beta-blocker in the management of Thyroid Storm?<div><br /></div><div>{{c1::Propranolol}}</div>'
+text = 'What is the preferred β-blocker in the management of Thyroid Storm?<div><br /></div><div>{{c1::Propranolol}}</div>'
 extra = ""
 tags = 'Brosencephalon::thyroid Endocrine::Pharmacology::unsorted'
 
@@ -2730,7 +2730,7 @@ tags = 'Brosencephalon::thyroid Endocrine::Pharmacology::unsorted'
 model = 'Cloze-Brosencephalon'
 note-id = 1391742321994
 text = """
-{{c1::Diltiazem}} and&nbsp;{{c2::Verapamil}} are vasodilators used to manage Thyroid Storm when beta-blockers are \
+{{c1::Diltiazem}} and&nbsp;{{c2::Verapamil}} are vasodilators used to manage Thyroid Storm when β-blockers are \
 contraindicated through Ca channel blockade."""
 extra = ""
 tags = 'Brosencephalon Endocrine::Pharmacology::unsorted'
@@ -3158,8 +3158,7 @@ text = """
 to a patient with Pheochromocytoma."""
 extra = """
 <div><i>This is to prevent a hypertensive crisis as the surgeon manipulates the tumor during the \
-procedure.</i></div><div><i><b>Irreversible alpha-blockade must be achieved before beta-blockers are \
-given.</b></i></div>"""
+procedure.</i></div><div><i><b>Irreversible α-blockade must be achieved before β-blockers are given.</b></i></div>"""
 tags = 'Brosencephalon Endocrine::Pathology::unsorted-adrenal'
 
 [[notes]]
@@ -3857,7 +3856,7 @@ tags = 'Brosencephalon Endocrine::Anatomy::endocrine-pancreas-cell-types'
 [[notes]]
 model = 'Cloze-Brosencephalon'
 note-id = 1405049012375
-text = 'Which cells of the pancreas secrete somatostatin?<div><br /></div><div>{{c1::delta cells}}</div>'
+text = 'Which cells of the pancreas secrete somatostatin?<div><br /></div><div>{{c1::δ cells}}</div>'
 extra = """
 <div><i>Found interspersed throughout the Islets of Langerhans.</i></div><div><i><img src="paste-36099200123121.jpg" \
 /></i></div>"""

@@ -3653,16 +3653,14 @@ text = """
 {{c1::Beclomethasone}} and&nbsp;{{c2::Fluticasone}} are corticosteoids used to treat asthma by <b>inhibiting cytokine \
 synthesis</b>&nbsp;and <b>inactiating NF-kB</b>, resulting in anti-inflammatory action."""
 extra = """
-<br /><div><i>Inactivation of NF-kB results in decreased production of TNF-alpha and other pro-inflammatory \
+<br /><div><i>Inactivation of NF-kB results in decreased production of TNF-α and other pro-inflammatory \
 agents</i></div><div><i><img src="paste-24567212933894.jpg" /></i></div>"""
 tags = 'Brosencephalon Respiratory::Pharmacology::unsorted'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
 note-id = 1397949325476
-text = """
-How does TNF-alpha expression change in response to corticosteroids?<div><br /></div><div>{{c1::Decreased \
-expression}}</div>"""
+text = 'How does TNF-α expression change in response to corticosteroids?<div><br /></div><div>{{c1::Decreased expression}}</div>'
 extra = ""
 tags = 'Brosencephalon Respiratory::Pharmacology::unsorted'
 
@@ -3670,8 +3668,8 @@ tags = 'Brosencephalon Respiratory::Pharmacology::unsorted'
 model = 'Cloze-Brosencephalon'
 note-id = 1397949350789
 text = """
-{{c1::NF-kB}} is a transcription factor that induces the production of TNF-alpha. It is inactivated following \
-corticosteroid administration."""
+{{c1::NF-kB}} is a transcription factor that induces the production of TNF-α. It is inactivated following corticosteroid \
+administration."""
 extra = ""
 tags = 'Brosencephalon Respiratory::Pharmacology::unsorted'
 

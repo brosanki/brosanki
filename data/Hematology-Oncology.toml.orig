@@ -292,7 +292,7 @@ tags = 'Brosencephalon Hematology-Oncology::Pathology::unsorted-environmental'
 model = 'Cloze-Brosencephalon'
 note-id = 1380338932173
 text = """
-{{c1::Beorhave's syndrome}} is seen in acute alcohol abuse and is characterized by <b>rupture</b>&nbsp;of the distal \
+{{c1::Boerhaave syndrome}} is seen in acute alcohol abuse and is characterized by <b>rupture</b>&nbsp;of the distal \
 esophagus due to retching."""
 extra = ""
 tags = 'Brosencephalon Hematology-Oncology::Pathology::unsorted-environmental'
@@ -1129,7 +1129,7 @@ tags = 'Brosencephalon Hematology-Oncology::Pathology::unsorted-neoplasia'
 [[notes]]
 model = 'Cloze-Brosencephalon'
 note-id = 1381539096272
-text = 'Which cytokine typically promotes cancer cachexia?<div><br /></div><div>{{c1::TNF-a}}</div>'
+text = 'Which cytokine typically promotes cancer cachexia?<div><br /></div><div>{{c1::TNF-α}}</div>'
 extra = ""
 tags = 'Brosencephalon Hematology-Oncology::Pathology::unsorted-neoplasia'
 
@@ -3190,7 +3190,7 @@ tags = 'Brosencephalon Hematology-Oncology::Pharmacology::unsorted-chemotherapy'
 [[notes]]
 model = 'Cloze-Brosencephalon'
 note-id = 1382816972227
-text = '''What is the combination cancer chemotherapy "ABVD" used to treat?<div><br /></div><div>{{c1::Hodgkin's Lymphoma}}</div>'''
+text = '''What is the combination cancer chemotherapy 'ABVD' used to treat?<div><br /></div><div>{{c1::Hodgkin's Lymphoma}}</div>'''
 extra = ""
 tags = 'Brosencephalon Hematology-Oncology::Pharmacology::unsorted-chemotherapy'
 
@@ -12137,7 +12137,7 @@ note-id = 1404319375312
 text = """
 {{c1::Cachexia}} is a complication of chronic disease that is described as generalized <b>weight loss, muscle \
 atrophy</b>&nbsp;and <b>fatigue.</b>"""
-extra = '<div><i>Mediated by TNF-alpha (aka Cachectin), IFN-gamma and IL-6.</i></div>'
+extra = '<div><i>Mediated by TNF-α (aka Cachectin), IFN-γ and IL-6.</i></div>'
 tags = 'Brosencephalon Hematology-Oncology::Pathology::unsorted-neoplasia'
 
 [[notes]]

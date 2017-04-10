@@ -90,7 +90,7 @@ tags = 'Brosencephalon Gastrointestinal::Pathology::unsorted-esophagus'
 model = 'Cloze-Brosencephalon'
 note-id = 1392500295246
 text = """
-{{c1::Boerhaave's Syndrome}} is an esophageal disorder involving <b>transmural \
+{{c1::Boerhaave Syndrome}} is an esophageal disorder involving <b>transmural \
 tear</b>&nbsp;and&nbsp;<b>rupture</b>&nbsp;of the esophagus due to <b>violent retching</b>, leading to air entering the \
 mediastinum and subcutaneous emphysema."""
 extra = '<div><i>Is a surgical emergency.</i></div>'
@@ -159,8 +159,8 @@ tags = 'Brosencephalon Gastrointestinal::Pathology::unsorted-esophagus'
 model = 'Cloze-Brosencephalon'
 note-id = 1392501950818
 text = """
-{{c1::Mediastinitis}} is a serious complication of Mallory-Weiss/Boerhaave's Syndrome that occurs when the stomach wall \
-is penetrated."""
+{{c1::Mediastinitis}} is a serious complication of Mallory-Weiss/Boerhaave Syndrome that occurs when the stomach wall is \
+penetrated."""
 extra = ""
 tags = 'Brosencephalon Gastrointestinal::Pathology::unsorted-esophagus'
 
@@ -3023,7 +3023,7 @@ model = 'Cloze-Brosencephalon'
 note-id = 1392947238986
 text = """
 {{c1::Depression}} is a serious CNS adverse effect of Alpha-Interferon due to its pro-inflammatory action and increase \
-in IL2 and TNF-alpha."""
+in IL2 and TNF-α."""
 extra = ""
 tags = 'Brosencephalon Gastrointestinal::Pharmacology::unsorted-hepatitis'
 
@@ -3591,8 +3591,8 @@ tags = 'Brosencephalon Gastrointestinal::Pharmacology::unsorted'
 model = 'Cloze-Brosencephalon'
 note-id = 1392951609491
 text = """
-What is the MOA of Infliximab?<div><br /></div><div>{{c1::Binds to and neutralizes both soluble and membrane-bound TNF-\
-alpha}}</div>"""
+What is the MOA of Infliximab?<div><br /></div><div>{{c1::Binds to and neutralizes both soluble and membrane-bound \
+TNF-α}}</div>"""
 extra = '<div><i>Used to treat IBD, rheumatoid arthritis, ankylosing spondylitis and psoriasis.</i></div>'
 tags = 'Brosencephalon Gastrointestinal::Pharmacology::unsorted'
 

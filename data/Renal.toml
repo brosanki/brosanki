@@ -4897,7 +4897,7 @@ tags = 'Brosencephalon Renal::Physiology::potassium-shifts'
 [[notes]]
 model = 'Cloze-Brosencephalon'
 note-id = 1405480211508
-text = 'How do beta-adrenergic <b>antagonists</b>&nbsp;change K levels?<div><br /></div><div>{{c1::Hyperkalemia}}</div>'
+text = 'How do β-adrenergic <b>antagonists</b>&nbsp;change K levels?<div><br /></div><div>{{c1::Hyperkalemia}}</div>'
 extra = '<div><i>It brings K out of cells.</i></div>'
 tags = 'Brosencephalon Renal::Physiology::potassium-shifts'
 
@@ -4925,7 +4925,7 @@ tags = 'Brosencephalon Renal::Physiology::potassium-shifts'
 [[notes]]
 model = 'Cloze-Brosencephalon'
 note-id = 1405480308898
-text = 'How do beta-adrenergic agonists change K levels?<div><br /></div><div>{{c1::Hypokalemia}}</div>'
+text = 'How do β-adrenergic agonists change K levels?<div><br /></div><div>{{c1::Hypokalemia}}</div>'
 extra = '<div><i>They trigger K movement into cells.</i></div>'
 tags = 'Brosencephalon Renal::Physiology::potassium-shifts'
 

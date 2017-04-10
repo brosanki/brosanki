@@ -324,7 +324,7 @@ tags = 'Brosencephalon Pharmacology::Autonomic-Drugs::alpha-blockers'
 [[notes]]
 model = 'Cloze-Brosencephalon'
 note-id = 1379559903975
-text = 'Timolol is a non-selective beta-blocker primarily used to treat&nbsp;{{c1::open angle glaucoma}}.'
+text = 'Timolol is a non-selective β-blocker primarily used to treat&nbsp;{{c1::open angle glaucoma}}.'
 extra = ""
 tags = 'Brosencephalon Pharmacology::Autonomic-Drugs::beta-blockers'
 

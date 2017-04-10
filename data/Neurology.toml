@@ -6618,9 +6618,7 @@ tags = 'Brosencephalon Neurology::Anatomy-Physiology::unsorted-movement-disorder
 [[notes]]
 model = 'Cloze-Brosencephalon'
 note-id = 1395780284575
-text = """
-{{c1::Beta-blockers}} are a <b>type</b>&nbsp;of drug (other than Primidone) that can be given to treat Essential \
-Tremors."""
+text = '{{c1::β-blockers}} are a <b>type</b>&nbsp;of drug (other than Primidone) that can be given to treat Essential Tremors.'
 extra = ""
 tags = 'Brosencephalon Neurology::Anatomy-Physiology::unsorted-movement-disorders'
 

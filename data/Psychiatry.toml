@@ -1075,7 +1075,7 @@ tags = 'Brosencephalon Psychiatry::Pathology::unsorted-depression'
 model = 'Cloze-Brosencephalon'
 note-id = 1390666532831
 text = """
-Inflammation has a major role in depression. Elevated levels of IL1, TNF-alpha and IL-6 interfere with hippocampal \
+Inflammation has a major role in depression. Elevated levels of IL1, TNF-α and IL-6 interfere with hippocampal \
 plasticity and reduce levels of the growth factor&nbsp;{{c1::BDNF}}"""
 extra = ""
 tags = 'Brosencephalon Psychiatry::Pathology::unsorted-depression'
@@ -1084,8 +1084,8 @@ tags = 'Brosencephalon Psychiatry::Pathology::unsorted-depression'
 model = 'Cloze-Brosencephalon'
 note-id = 1390666598813
 text = """
-{{c1::Interferon-alpha}} is an anti-viral drug often given for Hepatitis which greatly increases the levels of TNF-alpha \
-and IL-6, making depression a common side effect."""
+{{c1::Interferon-alpha}} is an anti-viral drug often given for Hepatitis which greatly increases the levels of TNF-α and \
+IL-6, making depression a common side effect."""
 extra = ""
 tags = 'Brosencephalon Psychiatry::Pathology::unsorted-depression'
 
@@ -2844,8 +2844,8 @@ tags = 'Brosencephalon Psychiatry::Pathology::unsorted'
 model = 'Cloze-Brosencephalon'
 note-id = 1405881039136
 text = """
-During which phase of sleep does Sleep Terror Disorder manifest?<div><br /></div><div>{{c1::Slow wave (delta) \
-sleep}}</div>"""
+During which phase of sleep does Sleep Terror Disorder manifest?<div><br /></div><div>{{c1::Slow wave (stage N3/Delta \
+wave) sleep}}</div>"""
 extra = """
 <div><i>Hence, earlier in the night, as REM sleep is more predominant later in the night.</i></div><div><i>This is also \
 why there is <b>no memory of arousal or the dream itself</b>&nbsp;(vs. dreams that occur in REM which we \
@@ -2856,7 +2856,7 @@ tags = 'Brosencephalon Psychiatry::Pathology::unsorted'
 model = 'Cloze-Brosencephalon'
 note-id = 1405881075328
 text = 'Which stage of sleep is associated with nightmares?<div><br /></div><div>{{c1::REM sleep}}</div>'
-extra = '<div><i>Typically normal.</i></div><div><i>Night terrors = delta (NREM) sleep</i></div>'
+extra = '<div><i>Typically normal.</i></div><div><i>Night terrors = Delta wave (NREM) sleep</i></div>'
 tags = 'Brosencephalon Psychiatry::Pathology::unsorted'
 
 [[notes]]
@@ -3040,7 +3040,7 @@ tags = 'Brosencephalon::psych Psychiatry::Pharmacology::unsorted'
 [[notes]]
 model = 'Cloze-Brosencephalon'
 note-id = 1405885629817
-text = 'What is the preferred drug treatment for social phobias?<div><br /></div><div>{{c1::SSRIs; beta-blockers}}</div>'
+text = 'What is the preferred drug treatment for social phobias?<div><br /></div><div>{{c1::SSRIs; β-blockers}}</div>'
 extra = ""
 tags = 'Brosencephalon::psych Psychiatry::Pharmacology::unsorted'
 

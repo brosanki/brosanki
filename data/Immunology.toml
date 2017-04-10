@@ -213,7 +213,7 @@ tags = 'Brosencephalon Immunology::Immunosuppressants::unsorted'
 [[notes]]
 model = 'Cloze-Brosencephalon'
 note-id = 1382307218851
-text = '{{c1::Infliximab}} is a monoclonal antibody that targets TNF-alpha, thereby preventing the inflammatory response.'
+text = '{{c1::Infliximab}} is a monoclonal antibody that targets TNF-α, thereby preventing the inflammatory response.'
 extra = ""
 tags = 'Brosencephalon Immunology::Immunosuppressants::unsorted'
 
@@ -904,7 +904,7 @@ tags = 'Brosencephalon Immunology::Lymphocytes::mhc-i-and-ii'
 [[notes]]
 model = 'Cloze-Brosencephalon'
 note-id = 1403731093160
-text = '{{c1::beta2-microglobulin}} is a protein that transports MHC I molecules to the cell surface.'
+text = '{{c1::β<sub>2</sub>-microglobulin}} is a protein that transports MHC I molecules to the cell surface.'
 extra = '<div><img src="paste-7756710936791.jpg" /></div>'
 tags = 'Brosencephalon Immunology::Lymphocytes::mhc-i-and-ii'
 
@@ -1179,7 +1179,7 @@ tags = 'Brosencephalon Immunology::Lymphocytes::helper-t-cells'
 model = 'Cloze-Brosencephalon'
 note-id = 1403740268332
 text = """
-Which cytokine induces the differentiation of Helper T cells into Th17 cells?<div><br /></div><div>{{c1::TGF-beta + \
+Which cytokine induces the differentiation of Helper T cells into Th17 cells?<div><br /></div><div>{{c1::TGF-β + \
 IL-6}}</div>"""
 extra = '<div><img src="paste-10767483011767.jpg" /></div>'
 tags = 'Brosencephalon Immunology::Lymphocytes::helper-t-cells'
@@ -1219,7 +1219,7 @@ model = 'Cloze-Brosencephalon'
 note-id = 1403742217564
 text = """
 In B cell activation, what is the <b>primary </b>signal between the CD4+ T cell and B cell?<div><br \
-/></div><div>{{c1::Antigen via TCR on CD4+ T cell to MHC II on B cell}}</div>"""
+/></div><div>{{c1::Antigen via MHC II on B cell to TCR on CD4+ T cell}}</div>"""
 extra = '<div><img src="paste-13224204304801.jpg" /></div><div><img src="paste-13653701034168.jpg" /></div>'
 tags = 'Brosencephalon Immunology::Lymphocytes::t-and-b-cell-activation'
 
@@ -1235,7 +1235,7 @@ tags = 'Brosencephalon Immunology::Lymphocytes::t-and-b-cell-activation'
 [[notes]]
 model = 'Cloze-Brosencephalon'
 note-id = 1403803116185
-text = 'Which type of helper T cell secretes I<b>FN-gamma</b>?<div><br /></div><div>{{c1::Th1}}</div>'
+text = 'Which type of helper T cell secretes <b>IFN-γ</b>?<div><br /></div><div>{{c1::Th1}}</div>'
 extra = ""
 tags = 'Brosencephalon Immunology::Lymphocytes::helper-t-cells'
 
@@ -1287,7 +1287,7 @@ tags = 'Brosencephalon Immunology::Lymphocytes::helper-t-cells'
 [[notes]]
 model = 'Cloze-Brosencephalon'
 note-id = 1403804505594
-text = '{{c1::IFN-gamma}} is a cytokine <b>secreted by Th1</b>&nbsp;cell that <b>inhibits Th2 cell action</b>.'
+text = '{{c1::IFN-γ}} is a cytokine <b>secreted by Th1</b>&nbsp;cell that <b>inhibits Th2 cell action</b>.'
 extra = ""
 tags = 'Brosencephalon Immunology::Lymphocytes::helper-t-cells'
 
@@ -1299,16 +1299,16 @@ Which cytokine from macrophages functions to stimulate T cell differentiation in
 /></div><div>{{c1::IL-12}}</div>"""
 extra = """
 <div><i>- Macrophages release IL-12 --&gt; T cells differentiate into Th1 cells.</i></div><div><i>- Th1 cells secrete \
-IFN-gamma --&gt; Activation of macrophages</i></div>"""
+IFN-γ --&gt; Activation of macrophages</i></div>"""
 tags = 'Brosencephalon Immunology::Lymphocytes::helper-t-cells'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
 note-id = 1403804814688
-text = 'Which cytokine from Th1 cells functions to activate macrophages?<div><br /></div><div>{{c1::IFN-gamma}}</div>'
+text = 'Which cytokine from Th1 cells functions to activate macrophages?<div><br /></div><div>{{c1::IFN-γ}}</div>'
 extra = """
 <div><div><i>- Macrophages release IL-12 --&gt; T cells differentiate into Th1 cells.</i></div><div><i>- Th1 cells \
-secrete IFN-gamma --&gt; Activation of macrophages</i></div></div>"""
+secrete IFN-γ --&gt; Activation of macrophages</i></div></div>"""
 tags = 'Brosencephalon Immunology::Lymphocytes::helper-t-cells'
 
 [[notes]]
@@ -1930,7 +1930,7 @@ tags = 'Brosencephalon Immunology::Immune-Responses::important-cytokines'
 [[notes]]
 model = 'Cloze-Brosencephalon'
 note-id = 1403909456381
-text = 'Which cytokine released by macrophages mediates septic shock?<div><br /></div><div>{{c1::TNF-alpha}}</div>'
+text = 'Which cytokine released by macrophages mediates septic shock?<div><br /></div><div>{{c1::TNF-α}}</div>'
 extra = '<div><i>It also activates endothelium, causes leukocyte recruitment and vascular leakage.</i></div>'
 tags = 'Brosencephalon Immunology::Immune-Responses::important-cytokines'
 
@@ -1953,9 +1953,7 @@ tags = 'Brosencephalon Immunology::Immune-Responses::important-cytokines'
 [[notes]]
 model = 'Cloze-Brosencephalon'
 note-id = 1403909721098
-text = """
-Which cytokine released from Th1 cells has antiviral and antitumor properties?<div><br /></div><div>{{c1::IFN-\
-gamma}}</div>"""
+text = 'Which cytokine released from Th1 cells has antiviral and antitumor properties?<div><br /></div><div>{{c1::IFN-γ}}</div>'
 extra = ""
 tags = 'Brosencephalon Immunology::Immune-Responses::important-cytokines'
 
@@ -1964,7 +1962,7 @@ model = 'Cloze-Brosencephalon'
 note-id = 1403909780321
 text = """
 Which cytokine released from Th1 cells functions to increase MHC expression and antigen presentation in all \
-cells?<div><br /></div><div>{{c1::IFN-gamma}}</div>"""
+cells?<div><br></div><div>{{c1::IFN-γ}}</div>"""
 extra = ""
 tags = 'Brosencephalon Immunology::Immune-Responses::important-cytokines'
 
@@ -2137,8 +2135,8 @@ tags = 'Brosencephalon Immunology::Immune-Responses::anergy'
 model = 'Cloze-Brosencephalon'
 note-id = 1403921380619
 text = """
-{{c1::Superantigens}} are bacterial toxins that function to cross-link the <b>beta-region of TCRs on all T cells to MHC \
-II on APCs</b>, thereby causing massive release of cytokines."""
+{{c1::Superantigens}} are bacterial toxins that function to cross-link the <b>β region of TCRs on all T cells to MHC II \
+on APCs</b>, thereby causing massive release of cytokines."""
 extra = '<div><i>Especially released from Streptococcus pyogenes and Staphylococcus aureus.</i></div>'
 tags = 'Brosencephalon Immunology::Immune-Responses::effects-of-bacterial-toxins'
 
@@ -2672,7 +2670,9 @@ tags = 'Brosencephalon Immunology::Immune-Responses::autoantibodies'
 [[notes]]
 model = 'Cloze-Brosencephalon'
 note-id = 1403995075505
-text = 'Which autoantibody is associated with Antiphospholipid Syndrome?<div><br /></div><div>{{c1::Anti-cardiolipin}}</div>'
+text = """
+Which autoantibody is associated with Antiphospholipid Syndrome?<div><br /></div><div>{{c1::Anti-cardiolipin, \
+Anti-β<sub>2</sub>&nbsp;glycoprotein}}</div>"""
 extra = ""
 tags = 'Brosencephalon Immunology::Immune-Responses::autoantibodies'
 
@@ -3024,16 +3024,16 @@ note-id = 1404008313963
 text = """
 {{c1::IL-12 Receptor Deficiency}} is a primary immunodeficiency that involves a decreased Th1 response due to a lack of \
 IL-12 action."""
-extra = '<div><i>Remember, IL-12 from macrophages activates Th1 cells (which then activate macrophages via IFN-gamma).</i></div>'
+extra = '<div><i>Remember, IL-12 from macrophages activates Th1 cells (which then activate macrophages via IFN-γ).</i></div>'
 tags = 'Brosencephalon Immunology::Immune-Responses::immunodeficiencies'
 
 [[notes]]
 model = 'Cloze-Brosencephalon'
 note-id = 1404008382813
-text = 'How do IFN-gamma levels change in IL-12 Receptor Deficiency?<div><br /></div><div>{{c1::Decrease}}</div>'
+text = 'How do IFN-γ levels change in IL-12 Receptor Deficiency?<div><br /></div><div>{{c1::Decrease}}</div>'
 extra = """
-<div><i>IL-12 from macrophages causes Th1 cell activation.</i></div><div><i>Activated Th1 cells release IFN-gamma which \
-activations macrophages.</i></div><div><i><b>No IL-12 action = no IFN-gamma release from Th1 cells</b></i></div>"""
+<div><i>IL-12 from macrophages causes Th1 cell activation.</i></div><div><i>Activated Th1 cells release IFN-γ which \
+activations macrophages.</i></div><div><i><b>No IL-12 action = no IFN-γ release from Th1 cells</b></i></div>"""
 tags = 'Brosencephalon Immunology::Immune-Responses::immunodeficiencies'
 
 [[notes]]
@@ -3077,7 +3077,7 @@ tags = 'Brosencephalon Immunology::Immune-Responses::immunodeficiencies'
 model = 'Cloze-Brosencephalon'
 note-id = 1404008632293
 text = """
-How do IFN-gamma levels change in Job Syndrome (Autosomal Dominant hyper-IgE Syndrome)?<div><br \
+How do IFN-γ levels change in Job Syndrome (Autosomal Dominant hyper-IgE Syndrome)?<div><br \
 /></div><div>{{c1::Decreased}}</div>"""
 extra = ""
 tags = 'Brosencephalon Immunology::Immune-Responses::immunodeficiencies'
@@ -4010,7 +4010,7 @@ tags = 'Brosencephalon Immunology::Immunosuppressants::unsorted'
 [[notes]]
 model = 'Cloze-Brosencephalon'
 note-id = 1404069788097
-text = 'Which interferon is used to treat Chronic Granulomatous Disease?<div><br /></div><div>{{c1::IFN-gamma}}</div>'
+text = 'Which interferon is used to treat Chronic Granulomatous Disease?<div><br /></div><div>{{c1::IFN-γ}}</div>'
 extra = ""
 tags = 'Brosencephalon Immunology::Immunosuppressants::unsorted'
 
@@ -4063,8 +4063,8 @@ tags = 'Brosencephalon Immunology::Immunosuppressants::unsorted'
 model = 'Cloze-Brosencephalon'
 note-id = 1404070524214
 text = """
-What is the target of the monoclonal antibody Infliximab?<div><br /></div><div>{{c1::TNF-alpha in IBD, Rheumatoid \
-Arthritis, Ankylosing Spondylitis, Psoriasis}}</div>"""
+What is the target of the monoclonal antibody Infliximab?<div><br /></div><div>{{c1::TNF-α in IBD, Rheumatoid Arthritis, \
+Ankylosing Spondylitis, Psoriasis}}</div>"""
 extra = ""
 tags = 'Brosencephalon Immunology::Immunosuppressants::unsorted'
 
@@ -4072,8 +4072,8 @@ tags = 'Brosencephalon Immunology::Immunosuppressants::unsorted'
 model = 'Cloze-Brosencephalon'
 note-id = 1404070711881
 text = """
-What is the target of the monoclonal antibody Adalimumab?<div><br /></div><div>{{c1::TNF-alpha in IBD, Rheumatoid \
-Arthritis, Ankylosing Spondylitis, Psoriasis}}</div>"""
+What is the target of the monoclonal antibody Adalimumab?<div><br /></div><div>{{c1::TNF-α in IBD, Rheumatoid Arthritis, \
+Ankylosing Spondylitis, Psoriasis}}</div>"""
 extra = ""
 tags = 'Brosencephalon Immunology::Immunosuppressants::unsorted'
 
@@ -4190,7 +4190,7 @@ model = 'Cloze-Brosencephalon'
 note-id = 1404071740352
 text = """
 What is the clinical use of the monoclonal antibody Infliximab?<div><br /></div><div>{{c1::IBD; Rheumatoid Arthritis; \
-Ankylosing Spondylitis; Psoriasis; via TNF-alpha}}</div>"""
+Ankylosing Spondylitis; Psoriasis; via TNF-α}}</div>"""
 extra = ""
 tags = 'Brosencephalon Immunology::Immunosuppressants::unsorted'
 
@@ -4199,7 +4199,7 @@ model = 'Cloze-Brosencephalon'
 note-id = 1404071944718
 text = """
 What is the clinical use of the monoclonal antibody Adalimumab?<div><br /></div><div>{{c1::IBD; Rheumatoid Arthritis; \
-Ankylosing Spondylitis; Psoriasis; via TNF-alpha}}</div>"""
+Ankylosing Spondylitis; Psoriasis; via TNF-α}}</div>"""
 extra = ""
 tags = 'Brosencephalon Immunology::Immunosuppressants::unsorted'
 
@@ -4303,7 +4303,7 @@ model = 'Cloze-Brosencephalon'
 note-id = 1404073432419
 text = """
 Which monoclonal antibody can be used to treat Ankylosing Spondylitis?<div><br /></div><div>{{c1::Infliximab; \
-Adalimumab; both via TNF-alpha}}</div>"""
+Adalimumab; both via TNF-α}}</div>"""
 extra = ""
 tags = 'Brosencephalon Immunology::Immunosuppressants::unsorted'
 
