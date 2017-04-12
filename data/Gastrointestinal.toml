@@ -1999,7 +1999,7 @@ tags = 'Brosencephalon Gastrointestinal::Pathology::unsorted-liver'
 model = 'Cloze-Brosencephalon'
 guid = 'rZggVRSyvs'
 note-id = 1392841476157
-text = '''{{c1::Hepatitis}} is defined as inflammation of the liver parenchyma.'''
+text = "{{c1::Hepatitis}} is defined as inflammation of the liver parenchyma.\r"
 extra = ""
 tags = 'Brosencephalon Gastrointestinal::Pathology::unsorted-liver'
 
